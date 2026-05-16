@@ -1,19 +1,21 @@
 'use strict';
 
+const BASE = window.DATA_BASE || 'data';
+
 // ── Data cache ──────────────────────────────────────────────────────────────
 
 const cache = {};
 
 async function fetchUniverse() {
   if (cache.universe) return cache.universe;
-  const res = await fetch('data/universe.json');
+  const res = await fetch(`${BASE}/universe.json`);
   cache.universe = await res.json();
   return cache.universe;
 }
 
 async function fetchIndex() {
   if (cache.index) return cache.index;
-  const res = await fetch('data/shareholders_index.json');
+  const res = await fetch(`${BASE}/shareholders_index.json`);
   cache.index = await res.json();
   return cache.index;
 }
@@ -21,13 +23,50 @@ async function fetchIndex() {
 async function fetchDI(code) {
   if (cache[code]) return cache[code];
   try {
-    const res = await fetch(`data/di/${code}.json`);
+    const res = await fetch(`${BASE}/di/${code}.json`);
     if (!res.ok) return null;
     cache[code] = await res.json();
     return cache[code];
   } catch {
     return null;
   }
+}
+
+async function fetchLatest() {
+  if (cache.latest) return cache.latest;
+  try {
+    const res = await fetch(`${BASE}/latest_filings.json`);
+    if (res.ok) {
+      cache.latest = await res.json();
+      return cache.latest;
+    }
+  } catch {}
+  // Fallback: aggregate from all available DI files
+  const universe = await fetchUniverse();
+  const allDI = await Promise.all(universe.map(s => fetchDI(s.code)));
+  const entries = [];
+  allDI.forEach((di, i) => {
+    if (!di) return;
+    const code = universe[i].code;
+    const stockName = universe[i].name || di.name;
+    (di.history || []).forEach(h => {
+      entries.push({
+        filing_date: h.filing_date,
+        code,
+        stock_name: stockName,
+        shareholder: h.name,
+        notice_type: h.notice_type,
+        long_position_pct: h.long_position_pct,
+        form_type: h.form_type,
+        relevant_event_date: h.relevant_event_date,
+      });
+    });
+  });
+  // Sort: filing_date desc, code asc within same date
+  entries.sort((a, b) => a.code.localeCompare(b.code));
+  entries.sort((a, b) => (b.filing_date || '').localeCompare(a.filing_date || ''));
+  cache.latest = entries.slice(0, 30);
+  return cache.latest;
 }
 
 // ── Formatting helpers ───────────────────────────────────────────────────────
@@ -52,14 +91,23 @@ function fmtPct(n) {
   return n.toFixed(2) + '%';
 }
 
-function entityBadge(type) {
-  const label = { individual: 'Indiv.', corporate: 'Corp.', fund: 'Fund' }[type] || type;
-  return `<span class="entity-badge ${type}">${label}</span>`;
+function noticeBadge(type) {
+  const cls = (type || 'change').toLowerCase();
+  const arrow = cls === 'increase' ? '↑' : cls === 'decrease' ? '↓' : '';
+  return `<span class="notice-badge ${cls}">${arrow ? arrow + ' ' : ''}${type || 'Change'}</span>`;
 }
 
 function noticeTag(type) {
   const cls = (type || 'change').toLowerCase();
-  return `<span class="notice-tag ${cls}">${type || 'Change'}</span>`;
+  const arrow = cls === 'increase' ? '↑' : cls === 'decrease' ? '↓' : '';
+  return `<span class="notice-tag ${cls}">${arrow ? arrow + ' ' : ''}${type || 'Change'}</span>`;
+}
+
+function fmtDateLong(iso) {
+  if (!iso) return '—';
+  const [y, m, d] = iso.split('-');
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return `${parseInt(d)} ${months[parseInt(m) - 1]} ${y}`;
 }
 
 function heatClass(pct) {
@@ -70,6 +118,10 @@ function heatClass(pct) {
   if (pct < 30) return 'heat-4';
   return 'heat-5';
 }
+
+// ── Shared state ─────────────────────────────────────────────────────────────
+
+let lastSelectedStock = null;
 
 // ── Tab switching ────────────────────────────────────────────────────────────
 
@@ -84,6 +136,10 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
     const panel = document.getElementById(`tab-${btn.dataset.tab}`);
     panel.hidden = false;
     panel.classList.add('active');
+
+    if (btn.dataset.tab === 'latest') {
+      initLatest();
+    }
   });
 });
 
@@ -121,11 +177,136 @@ function makeDropdown(inputEl, dropdownEl, getItems, onSelect) {
   inputEl.addEventListener('focus', () => { if (inputEl.value) inputEl.dispatchEvent(new Event('input')); });
 }
 
-// ── TAB 1: By Stock ─────────────────────────────────────────────────────────
+// ── TAB 1: Latest ────────────────────────────────────────────────────────────
+
+let latestData = null;
+let latestLoaded = false;
+
+async function initLatest() {
+  if (latestLoaded) return;
+  latestLoaded = true;
+
+  document.getElementById('latest-loading').hidden = false;
+  document.getElementById('latest-result').hidden = true;
+  document.getElementById('latest-empty').hidden = true;
+
+  latestData = await fetchLatest();
+
+  document.getElementById('latest-loading').hidden = true;
+
+  if (!latestData || !latestData.length) {
+    document.getElementById('latest-empty').hidden = false;
+    document.getElementById('latest-empty').textContent = 'No filings available yet.';
+    return;
+  }
+
+  document.getElementById('latest-meta').textContent =
+    `${latestData.length} most recent filings across all tracked stocks`;
+
+  renderLatest('');
+
+  document.getElementById('latest-filter').addEventListener('input', function () {
+    renderLatest(this.value.toLowerCase().trim());
+  });
+}
+
+function renderLatest(filter) {
+  const rows = filter
+    ? latestData.filter(f =>
+        f.shareholder.toLowerCase().includes(filter) ||
+        f.code.toLowerCase().includes(filter) ||
+        (f.stock_name || '').toLowerCase().includes(filter)
+      )
+    : latestData;
+
+  const tbody = document.getElementById('latest-tbody');
+  const resultEl = document.getElementById('latest-result');
+  const emptyEl = document.getElementById('latest-empty');
+
+  if (!rows.length) {
+    resultEl.hidden = true;
+    emptyEl.hidden = false;
+    emptyEl.textContent = 'No filings match your filter.';
+    return;
+  }
+
+  emptyEl.hidden = true;
+  resultEl.hidden = false;
+
+  // Group consecutive rows by (code, filing_date) for rowspan display
+  const groups = [];
+  rows.forEach(f => {
+    const key = `${f.code}|${f.filing_date}`;
+    const last = groups[groups.length - 1];
+    if (last && last.key === key) {
+      last.filings.push(f);
+    } else {
+      groups.push({ key, code: f.code, stock_name: f.stock_name, filing_date: f.filing_date, filings: [f] });
+    }
+  });
+
+  tbody.innerHTML = groups.map((g, gi) => {
+    const span = g.filings.length;
+    return g.filings.map((f, i) => `
+      <tr class="${i === 0 && gi > 0 ? 'group-start' : ''}">
+        ${i === 0 ? `
+          <td rowspan="${span}" class="group-date">${fmtDateLong(g.filing_date)}</td>
+          <td rowspan="${span}" class="group-stock">
+            <span class="stock-code-badge" onclick="jumpToStock('${g.code}')">${g.code}</span>
+            <span class="latest-stock-name">${g.stock_name || ''}</span>
+          </td>
+        ` : ''}
+        <td class="latest-sh-cell" title="${f.shareholder}">${f.shareholder}</td>
+        <td>${noticeTag(f.notice_type)}</td>
+        <td class="num-col">${fmtPct(f.long_position_pct)}</td>
+        <td class="muted-date">${fmtDateLong(f.relevant_event_date)}</td>
+      </tr>
+    `).join('');
+  }).join('');
+}
+
+// ── TAB 2: By Stock ──────────────────────────────────────────────────────────
 
 let currentStockData = null;
+let currentShareholders = [];
+let isHistoricalFallback = false;
 let currentFilter = 'all';
 let currentSort = 'pct';
+let currentView = 'shareholders';
+
+function deriveLastKnownShareholders(history) {
+  const byName = {};
+  history.forEach(h => {
+    if (!h.name) return;
+    if (!byName[h.name] || (h.filing_date || '') > (byName[h.name].filing_date || '')) {
+      byName[h.name] = h;
+    }
+  });
+  return Object.values(byName)
+    .filter(h => (h.long_position_pct || 0) > 0)
+    .map(h => ({
+      name: h.name,
+      long_position_pct: h.long_position_pct,
+      long_position_shares: h.long_position_shares,
+      filing_date: h.filing_date,
+      entity_type: h.entity_type || 'corporate',
+    }))
+    .sort((a, b) => (b.long_position_pct || 0) - (a.long_position_pct || 0));
+}
+
+// View toggle
+document.querySelectorAll('.view-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentView = btn.dataset.view;
+    document.getElementById('view-shareholders').hidden = currentView !== 'shareholders';
+    document.getElementById('view-timeline').hidden = currentView !== 'timeline';
+    if (currentView === 'timeline' && currentStockData) {
+      initStockTimeline();
+    }
+  });
+});
 
 async function stockItems(q) {
   const universe = await fetchUniverse();
@@ -140,38 +321,45 @@ async function stockItems(q) {
 }
 
 async function loadStock(code, name) {
+  lastSelectedStock = { code, name };
   const data = await fetchDI(code);
   if (!data) {
     document.getElementById('stock-empty').hidden = false;
     document.getElementById('stock-result').hidden = true;
-    document.getElementById('stock-empty').textContent = `No data found for ${code}.`;
+    document.getElementById('stock-empty').textContent = `No disclosure data available for ${code}. This stock has not been scraped yet.`;
     return;
   }
   currentStockData = data;
-  renderStockResult(data);
-}
 
-function renderStockResult(data) {
+  let shareholders = data.shareholders || [];
+  isHistoricalFallback = false;
+  if (!shareholders.length && data.history?.length) {
+    shareholders = deriveLastKnownShareholders(data.history);
+    isHistoricalFallback = true;
+  }
+  currentShareholders = shareholders;
+
   document.getElementById('stock-empty').hidden = true;
   document.getElementById('stock-result').hidden = false;
 
-  document.getElementById('sh-code').textContent = data.code;
+  // Stat cards + subheader always update
+  document.getElementById('sh-code').textContent = data.code + ' · ';
   document.getElementById('sh-name').textContent = data.name;
-  document.getElementById('sh-last-scraped').textContent =
-    data.last_scraped ? 'Updated ' + data.last_scraped.slice(0, 10) : '';
-
-  const shareholders = data.shareholders || [];
   const totalPct = shareholders.reduce((s, sh) => s + (sh.long_position_pct || 0), 0);
-  const latestDate = shareholders.reduce((d, sh) => sh.filing_date > d ? sh.filing_date : d, '');
+  const latestDate = shareholders.reduce((d, sh) => (sh.filing_date || '') > d ? (sh.filing_date || '') : d, '');
+  document.getElementById('sh-count-val').textContent = shareholders.length || '—';
+  document.getElementById('sh-sum-val').textContent = shareholders.length ? totalPct.toFixed(1) + '%' : '—';
+  document.getElementById('sh-date-val').textContent = fmtDateLong(latestDate) || '—';
 
-  document.getElementById('sh-count-chip').textContent = `${shareholders.length} substantial shareholders`;
-  document.getElementById('sh-sum-chip').textContent = `${totalPct.toFixed(1)}% disclosed`;
-  document.getElementById('sh-date-chip').textContent = latestDate ? `Latest filing ${latestDate}` : 'No filings';
-
-  renderShareholdersTable(shareholders);
+  if (currentView === 'timeline') {
+    initStockTimeline();
+  } else {
+    renderShareholdersList(shareholders);
+  }
 }
 
-function renderShareholdersTable(shareholders) {
+
+function renderShareholdersList(shareholders) {
   let rows = shareholders.filter(sh =>
     currentFilter === 'all' || sh.entity_type === currentFilter
   );
@@ -180,24 +368,41 @@ function renderShareholdersTable(shareholders) {
   else if (currentSort === 'name') rows.sort((a, b) => a.name.localeCompare(b.name));
   else if (currentSort === 'date') rows.sort((a, b) => (b.filing_date || '').localeCompare(a.filing_date || ''));
 
-  const tbody = document.getElementById('shareholders-tbody');
+  const list = document.getElementById('shareholders-list');
+
+  // Build latest-history lookup for notice badges
+  const latestHistoryByName = {};
+  (currentStockData?.history || []).forEach(h => {
+    if (!latestHistoryByName[h.name] || (h.filing_date || '') > (latestHistoryByName[h.name].filing_date || '')) {
+      latestHistoryByName[h.name] = h;
+    }
+  });
+
   if (!rows.length) {
-    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--color-text-muted);padding:30px">No shareholders match the current filter.</td></tr>';
+    list.innerHTML = '<div style="text-align:center;color:var(--color-text-muted);padding:40px">No shareholders match the current filter.</div>';
     return;
   }
 
-  tbody.innerHTML = rows.map(sh => {
+  const maxPct = Math.max(...rows.map(sh => sh.long_position_pct || 0), 1);
+
+  const note = isHistoricalFallback
+    ? `<div class="historical-note">No current substantial shareholders on record. Showing last reported holdings derived from filing history.</div>`
+    : '';
+
+  list.innerHTML = note + rows.map(sh => {
     const pct = sh.long_position_pct || 0;
-    const barW = Math.min(100, pct * 3).toFixed(1);
-    return `<tr>
-      <td>${sh.name}</td>
-      <td>${entityBadge(sh.entity_type)}</td>
-      <td class="num-col">${fmtPct(pct)}</td>
-      <td class="bar-col"><div class="pct-bar-wrap"><div class="pct-bar" style="width:${barW}%"></div></div></td>
-      <td class="num-col">${fmtShares(sh.long_position_shares)}</td>
-      <td class="num-col">${sh.short_position_pct ? fmtPct(sh.short_position_pct) : '—'}</td>
-      <td>${sh.filing_date || '—'}</td>
-    </tr>`;
+    const barW = ((pct / maxPct) * 100).toFixed(1);
+    const histEntry = latestHistoryByName[sh.name];
+    const badge = histEntry ? noticeBadge(histEntry.notice_type) : '';
+
+    return `<div class="sh-row">
+      <div class="sh-name" title="${sh.name}">${sh.name}</div>
+      <div class="sh-bar-wrap"><div class="sh-bar" style="width:${barW}%"></div></div>
+      <div class="sh-pct">${fmtPct(pct)}</div>
+      <div class="sh-shares">${fmtShares(sh.long_position_shares)} sh</div>
+      ${badge}
+      <div class="sh-date">${fmtDateLong(sh.filing_date)}</div>
+    </div>`;
   }).join('');
 }
 
@@ -213,16 +418,65 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentFilter = btn.dataset.filter;
-    if (currentStockData) renderShareholdersTable(currentStockData.shareholders || []);
+    if (currentStockData) renderShareholdersList(currentShareholders);
   });
 });
 
 document.getElementById('stock-sort').addEventListener('change', e => {
   currentSort = e.target.value;
-  if (currentStockData) renderShareholdersTable(currentStockData.shareholders || []);
+  if (currentStockData) renderShareholdersList(currentShareholders);
 });
 
-// ── TAB 2: By Shareholder ────────────────────────────────────────────────────
+// ── Timeline (embedded in By Stock) ──────────────────────────────────────────
+
+function initStockTimeline() {
+  if (!currentStockData) return;
+  const history = currentStockData.history || [];
+  if (history.length) {
+    const dates = history.map(h => h.relevant_event_date).filter(Boolean).sort();
+    document.getElementById('tl-date-from').value = dates[0] || '';
+    document.getElementById('tl-date-to').value = dates[dates.length - 1] || '';
+  }
+  renderTimeline();
+}
+
+function renderTimeline() {
+  if (!currentStockData) return;
+  const history = currentStockData.history || [];
+  const shFilter = document.getElementById('tl-sh-filter').value.toLowerCase().trim();
+  const dateFrom = document.getElementById('tl-date-from').value;
+  const dateTo = document.getElementById('tl-date-to').value;
+
+  let rows = history.filter(h => {
+    if (shFilter && !h.name.toLowerCase().includes(shFilter)) return false;
+    if (dateFrom && h.relevant_event_date < dateFrom) return false;
+    if (dateTo && h.relevant_event_date > dateTo) return false;
+    return true;
+  });
+
+  const tbody = document.getElementById('tl-tbody');
+  if (!rows.length) {
+    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;color:var(--color-text-muted);padding:30px">No filings match the current filters.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = rows.map(h => `
+    <tr>
+      <td>${h.relevant_event_date || '—'}</td>
+      <td>${h.name}</td>
+      <td>${noticeTag(h.notice_type)}</td>
+      <td class="num-col">${fmtPct(h.long_position_pct)}</td>
+      <td>${h.form_type || '—'}</td>
+      <td>${h.filing_date || '—'}</td>
+    </tr>
+  `).join('');
+}
+
+['tl-sh-filter', 'tl-date-from', 'tl-date-to'].forEach(id => {
+  document.getElementById(id).addEventListener('input', renderTimeline);
+});
+
+// ── TAB 3: By Shareholder ────────────────────────────────────────────────────
 
 async function shareholderItems(q) {
   const idx = await fetchIndex();
@@ -291,9 +545,9 @@ function jumpToStock(code) {
   }, 300);
 }
 
-// ── TAB 3: Compare ───────────────────────────────────────────────────────────
+// ── TAB 4: Compare ───────────────────────────────────────────────────────────
 
-const compareSelected = []; // [{code, name}]
+const compareSelected = [];
 const MAX_COMPARE = 5;
 
 makeDropdown(
@@ -347,11 +601,9 @@ async function renderCompareMatrix() {
 
   const allDI = await Promise.all(compareSelected.map(s => fetchDI(s.code)));
 
-  // Collect all shareholder names across selected stocks
   const allNames = new Set();
   allDI.forEach(di => (di?.shareholders || []).forEach(sh => allNames.add(sh.name)));
 
-  // Build lookup: name → code → pct
   const matrix = {};
   allNames.forEach(name => { matrix[name] = {}; });
   allDI.forEach((di, i) => {
@@ -359,7 +611,6 @@ async function renderCompareMatrix() {
     (di?.shareholders || []).forEach(sh => { matrix[sh.name][code] = sh.long_position_pct || 0; });
   });
 
-  // Sort shareholders by max pct across stocks
   const sortedNames = [...allNames].sort((a, b) => {
     const maxA = Math.max(...Object.values(matrix[a]));
     const maxB = Math.max(...Object.values(matrix[b]));
@@ -386,7 +637,6 @@ async function renderCompareMatrix() {
     </tr>
   `).join('');
 
-  // Footer: sum of disclosed %
   const totals = codes.map(c => {
     const di = allDI[codes.indexOf(c)];
     return (di?.shareholders || []).reduce((s, sh) => s + (sh.long_position_pct || 0), 0);
@@ -399,73 +649,6 @@ async function renderCompareMatrix() {
     </tr>`;
 }
 
-// ── TAB 4: Timeline ──────────────────────────────────────────────────────────
+// ── Init ──────────────────────────────────────────────────────────────────────
 
-let tlStockData = null;
-
-makeDropdown(
-  document.getElementById('tl-stock-search'),
-  document.getElementById('tl-stock-dropdown'),
-  stockItems,
-  item => loadTimeline(item.code, item.name)
-);
-
-async function loadTimeline(code, name) {
-  const data = await fetchDI(code);
-  tlStockData = data;
-  document.getElementById('tl-stock-title').textContent = data ? `${data.code} — ${data.name}` : code;
-  document.getElementById('tl-filters').hidden = !data;
-  document.getElementById('tl-result').hidden = !data;
-  document.getElementById('tl-empty').hidden = !!data;
-
-  if (!data) {
-    document.getElementById('tl-empty').textContent = `No data found for ${code}.`;
-    return;
-  }
-
-  // Set default date range
-  const history = data.history || [];
-  if (history.length) {
-    const dates = history.map(h => h.relevant_event_date).filter(Boolean).sort();
-    document.getElementById('tl-date-from').value = dates[0] || '';
-    document.getElementById('tl-date-to').value = dates[dates.length - 1] || '';
-  }
-
-  renderTimeline();
-}
-
-function renderTimeline() {
-  if (!tlStockData) return;
-  const history = tlStockData.history || [];
-  const shFilter = document.getElementById('tl-sh-filter').value.toLowerCase().trim();
-  const dateFrom = document.getElementById('tl-date-from').value;
-  const dateTo = document.getElementById('tl-date-to').value;
-
-  let rows = history.filter(h => {
-    if (shFilter && !h.name.toLowerCase().includes(shFilter)) return false;
-    if (dateFrom && h.relevant_event_date < dateFrom) return false;
-    if (dateTo && h.relevant_event_date > dateTo) return false;
-    return true;
-  });
-
-  const tbody = document.getElementById('tl-tbody');
-  if (!rows.length) {
-    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;color:var(--color-text-muted);padding:30px">No filings match the current filters.</td></tr>';
-    return;
-  }
-
-  tbody.innerHTML = rows.map(h => `
-    <tr>
-      <td>${h.relevant_event_date || '—'}</td>
-      <td>${h.name}</td>
-      <td>${noticeTag(h.notice_type)}</td>
-      <td class="num-col">${fmtPct(h.long_position_pct)}</td>
-      <td>${h.form_type || '—'}</td>
-      <td>${h.filing_date || '—'}</td>
-    </tr>
-  `).join('');
-}
-
-['tl-sh-filter', 'tl-date-from', 'tl-date-to'].forEach(id => {
-  document.getElementById(id).addEventListener('input', renderTimeline);
-});
+initLatest();

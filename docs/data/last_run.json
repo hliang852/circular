@@ -1,5 +1,210 @@
 {
-  "build_universe_errors": [],
+  "build_universe_errors": [
+    {
+      "code": "01299",
+      "reason": "Failed to perform, curl: (28) Operation timed out after 245830 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "code": "01863",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02461",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02478",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02493",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02572",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02612",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02673",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02940",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02944",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02945",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02946",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02947",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02948",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02949",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "02950",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "03296",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "04337",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "04621",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "06871",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08013",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08552",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08553",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08557",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08558",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08600",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "08661",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80016",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80020",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80175",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80291",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80388",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80700",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80737",
+      "reason": "unexpected currency CNY"
+    },
+    {
+      "code": "80883",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80941",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "80992",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "81024",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "81211",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "81299",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "81810",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "82020",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "82318",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "82331",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "82333",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "82388",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "83690",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "86618",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "89618",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "89888",
+      "reason": "no marketCap"
+    },
+    {
+      "code": "89988",
+      "reason": "no marketCap"
+    }
+  ],
   "build_universe_run": "2026-05-16",
   "scrape_di_errors": [],
   "scrape_di_last_run": "2026-05-16T08:32:48Z",

@@ -14,6 +14,8 @@ from pathlib import Path
 
 DI_DIR = Path("docs/data/di")
 OUTPUT_PATH = Path("docs/data/shareholders_index.json")
+LATEST_PATH = Path("docs/data/latest_filings.json")
+LATEST_N = 30
 
 
 def normalise_name(name: str) -> str:
@@ -65,6 +67,34 @@ def main() -> None:
     total_holdings = sum(len(v) for v in result.values())
     print(f"Done. {total_names} shareholders, {total_holdings} total holdings.")
     print(f"  Output: {OUTPUT_PATH}")
+
+    # Build latest_filings.json: top-N most recent history entries across all stocks
+    all_entries: list[dict] = []
+    for path in di_files:
+        try:
+            data = json.loads(path.read_text())
+        except Exception:
+            continue
+        code = data.get("code", path.stem)
+        stock_name = data.get("name", "")
+        for h in data.get("history", []):
+            all_entries.append({
+                "filing_date": h.get("filing_date", ""),
+                "code": code,
+                "stock_name": stock_name,
+                "shareholder": h.get("name", ""),
+                "notice_type": h.get("notice_type", ""),
+                "long_position_pct": h.get("long_position_pct"),
+                "form_type": h.get("form_type", ""),
+                "relevant_event_date": h.get("relevant_event_date", ""),
+            })
+
+    # Sort: filing_date desc, then code asc within same date (stable two-pass)
+    all_entries.sort(key=lambda x: x.get("code", ""))
+    all_entries.sort(key=lambda x: x.get("filing_date", ""), reverse=True)
+    latest = all_entries[:LATEST_N]
+    LATEST_PATH.write_text(json.dumps(latest, indent=2, ensure_ascii=False))
+    print(f"  Latest filings: {len(latest)} entries → {LATEST_PATH}")
 
 
 if __name__ == "__main__":

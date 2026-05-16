@@ -3,187 +3,190 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HKEX DI Tracker</title>
+  <title>Circular</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+    body { display: flex; flex-direction: column; min-height: 100vh; }
+    .home-wrap {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 80px 24px 60px;
+    }
+    .home-hero { text-align: center; margin-bottom: 40px; }
+    .home-title {
+      font-size: 36px;
+      font-weight: 800;
+      letter-spacing: -1px;
+      color: var(--color-text);
+      margin-bottom: 8px;
+    }
+    .home-subtitle {
+      font-size: 15px;
+      color: var(--color-text-muted);
+    }
+    .home-search-wrap {
+      width: 100%;
+      max-width: 560px;
+      margin-bottom: 48px;
+      position: relative;
+    }
+    .home-search-wrap input[type="search"] {
+      width: 100%;
+      padding: 13px 20px;
+      font-size: 15px;
+      border: 1.5px solid var(--color-border);
+      border-radius: var(--radius-pill);
+      background: var(--color-surface);
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+      color: var(--color-text);
+    }
+    .home-search-wrap input[type="search"]:focus {
+      border-color: #999;
+      box-shadow: 0 0 0 3px rgba(0,0,0,.06);
+    }
+    .home-tools {
+      width: 100%;
+      max-width: 700px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .tools-section-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .8px;
+      text-transform: uppercase;
+      color: var(--color-text-muted);
+      margin-bottom: 4px;
+      margin-top: 8px;
+    }
+    .tool-card {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: var(--color-surface);
+      border: 1.5px solid var(--color-border);
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .tool-card:hover {
+      border-color: #bbb;
+      box-shadow: 0 4px 16px rgba(0,0,0,.07);
+    }
+    .tool-card-inner { flex: 1; min-width: 0; }
+    .tool-region {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+      color: var(--color-text-muted);
+      margin-bottom: 4px;
+    }
+    .tool-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--color-text);
+      margin-bottom: 6px;
+    }
+    .tool-desc {
+      font-size: 13px;
+      color: var(--color-text-muted);
+      line-height: 1.55;
+    }
+    .tool-arrow {
+      font-size: 18px;
+      color: var(--color-text-muted);
+      flex-shrink: 0;
+      transition: transform .15s;
+    }
+    .tool-card:hover .tool-arrow { transform: translateX(3px); }
+    .home-empty {
+      text-align: center;
+      padding: 48px 20px;
+      color: var(--color-text-muted);
+      font-size: 14px;
+    }
+    footer { margin-top: 0; }
+    @media (max-width: 600px) {
+      .home-wrap { padding: 48px 16px 40px; }
+      .home-title { font-size: 28px; }
+      .tool-card { padding: 16px 18px; }
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <div class="header-inner">
-      <h1>HKEX DI Tracker</h1>
-      <p class="subtitle">Substantial shareholding disclosures for HKEX-listed companies</p>
+  <main class="home-wrap">
+    <div class="home-hero">
+      <h1 class="home-title">Circular</h1>
+      <p class="home-subtitle">Financial data exploration</p>
     </div>
-  </header>
 
-  <nav class="tabs">
-    <button class="tab-btn active" data-tab="by-stock">By Stock</button>
-    <button class="tab-btn" data-tab="by-shareholder">By Shareholder</button>
-    <button class="tab-btn" data-tab="compare">Compare</button>
-    <button class="tab-btn" data-tab="timeline">Timeline</button>
-  </nav>
+    <div class="home-search-wrap">
+      <input id="home-search" type="search" placeholder="Search tools and datasets…" autocomplete="off">
+    </div>
 
-  <main>
-
-    <!-- ── TAB 1: BY STOCK ── -->
-    <section id="tab-by-stock" class="tab-panel active">
-      <div class="search-row">
-        <input id="stock-search" type="search" placeholder="Search stock code or name…" autocomplete="off">
-        <div id="stock-dropdown" class="dropdown" hidden></div>
-      </div>
-
-      <div id="stock-result" hidden>
-        <div class="stock-header">
-          <div>
-            <span class="stock-code-badge" id="sh-code"></span>
-            <span class="stock-name" id="sh-name"></span>
-          </div>
-          <div class="stock-meta">
-            <span id="sh-last-scraped"></span>
-          </div>
-        </div>
-
-        <div class="summary-chips">
-          <span class="chip" id="sh-count-chip"></span>
-          <span class="chip" id="sh-sum-chip"></span>
-          <span class="chip" id="sh-date-chip"></span>
-        </div>
-
-        <div class="controls-row">
-          <div class="filter-chips">
-            <button class="filter-btn active" data-filter="all">All</button>
-            <button class="filter-btn" data-filter="individual">Individual</button>
-            <button class="filter-btn" data-filter="corporate">Corporate</button>
-            <button class="filter-btn" data-filter="fund">Fund</button>
-          </div>
-          <div class="sort-controls">
-            <label>Sort:
-              <select id="stock-sort">
-                <option value="pct">% holding</option>
-                <option value="name">Name</option>
-                <option value="date">Filing date</option>
-              </select>
-            </label>
-          </div>
-        </div>
-
-        <table class="data-table" id="shareholders-table">
-          <thead>
-            <tr>
-              <th>Shareholder</th>
-              <th>Type</th>
-              <th class="num-col">Long %</th>
-              <th class="bar-col"></th>
-              <th class="num-col">Shares</th>
-              <th class="num-col">Short %</th>
-              <th>Filing date</th>
-            </tr>
-          </thead>
-          <tbody id="shareholders-tbody"></tbody>
-        </table>
-      </div>
-
-      <div id="stock-empty" class="empty-state">
-        Search for a stock above to view its substantial shareholders.
-      </div>
-    </section>
-
-    <!-- ── TAB 2: BY SHAREHOLDER ── -->
-    <section id="tab-by-shareholder" class="tab-panel" hidden>
-      <div class="search-row">
-        <input id="sh-search" type="search" placeholder="Search shareholder name…" autocomplete="off">
-        <div id="sh-dropdown" class="dropdown" hidden></div>
-      </div>
-
-      <div id="sh-result" hidden>
-        <h2 class="result-title" id="sh-result-name"></h2>
-        <table class="data-table" id="sh-holdings-table">
-          <thead>
-            <tr>
-              <th>Stock</th>
-              <th>Name</th>
-              <th class="num-col">Long %</th>
-              <th class="num-col">Shares</th>
-              <th>Filing date</th>
-            </tr>
-          </thead>
-          <tbody id="sh-holdings-tbody"></tbody>
-        </table>
-      </div>
-
-      <div id="sh-empty" class="empty-state">
-        Search for a shareholder above to view their holdings.
-      </div>
-    </section>
-
-    <!-- ── TAB 3: COMPARE ── -->
-    <section id="tab-compare" class="tab-panel" hidden>
-      <div class="search-row">
-        <input id="compare-search" type="search" placeholder="Add stock (up to 5)…" autocomplete="off">
-        <div id="compare-dropdown" class="dropdown" hidden></div>
-      </div>
-
-      <div id="compare-chips" class="compare-chips"></div>
-
-      <div id="compare-result" hidden>
-        <div class="table-scroll">
-          <table class="data-table compare-matrix" id="compare-table">
-            <thead id="compare-thead"></thead>
-            <tbody id="compare-tbody"></tbody>
-            <tfoot id="compare-tfoot"></tfoot>
-          </table>
-        </div>
-      </div>
-
-      <div id="compare-empty" class="empty-state">
-        Add up to 5 stocks above to compare their shareholders side by side.
-      </div>
-    </section>
-
-    <!-- ── TAB 4: TIMELINE ── -->
-    <section id="tab-timeline" class="tab-panel" hidden>
-      <div class="search-row">
-        <input id="tl-stock-search" type="search" placeholder="Search stock code or name…" autocomplete="off">
-        <div id="tl-stock-dropdown" class="dropdown" hidden></div>
-      </div>
-
-      <div id="tl-filters" hidden>
-        <div class="tl-controls">
-          <label>Shareholder:
-            <input id="tl-sh-filter" type="search" placeholder="Filter by shareholder…">
-          </label>
-          <label>From: <input id="tl-date-from" type="date"></label>
-          <label>To: <input id="tl-date-to" type="date"></label>
-        </div>
-      </div>
-
-      <div id="tl-result" hidden>
-        <h2 class="result-title" id="tl-stock-title"></h2>
-        <table class="data-table" id="tl-table">
-          <thead>
-            <tr>
-              <th>Event date</th>
-              <th>Shareholder</th>
-              <th>Action</th>
-              <th class="num-col">Long %</th>
-              <th>Form</th>
-              <th>Filing date</th>
-            </tr>
-          </thead>
-          <tbody id="tl-tbody"></tbody>
-        </table>
-      </div>
-
-      <div id="tl-empty" class="empty-state">
-        Search for a stock above to view its filing timeline.
-      </div>
-    </section>
-
+    <div class="home-tools" id="home-tools"></div>
   </main>
 
   <footer>
-    <p>Data sourced from <a href="https://di.hkex.com.hk" target="_blank" rel="noopener">HKEX DI Portal</a>.
-       Updated nightly on weekdays. Not investment advice.</p>
+    <p>Circular — financial data, openly explored.</p>
   </footer>
 
-  <script src="app.js"></script>
+  <script>
+    const TOOLS = [
+      {
+        href: 'hkex/',
+        region: 'Hong Kong',
+        title: 'HKEX Substantial Shareholder Disclosure',
+        description: 'Track substantial shareholding disclosures for HKEX-listed companies. Search by stock or shareholder, compare portfolios, and view filing timelines.',
+        tags: ['hkex', 'shareholders', 'disclosure', 'di', 'hong kong', 'equity', 'filing'],
+      },
+    ];
+
+    function renderTools(items) {
+      const el = document.getElementById('home-tools');
+      if (!items.length) {
+        el.innerHTML = '<div class="home-empty">No tools match your search.</div>';
+        return;
+      }
+      // Group by region
+      const regions = [...new Set(items.map(t => t.region))];
+      el.innerHTML = regions.map(region => {
+        const group = items.filter(t => t.region === region);
+        return `
+          <div class="tools-section-label">${region}</div>
+          ${group.map(t => `
+            <a class="tool-card" href="${t.href}">
+              <div class="tool-card-inner">
+                <div class="tool-title">${t.title}</div>
+                <div class="tool-desc">${t.description}</div>
+              </div>
+              <div class="tool-arrow">→</div>
+            </a>
+          `).join('')}
+        `;
+      }).join('');
+    }
+
+    renderTools(TOOLS);
+
+    document.getElementById('home-search').addEventListener('input', function () {
+      const q = this.value.toLowerCase().trim();
+      if (!q) { renderTools(TOOLS); return; }
+      const filtered = TOOLS.filter(t =>
+        t.title.toLowerCase().includes(q) ||
+        t.description.toLowerCase().includes(q) ||
+        t.region.toLowerCase().includes(q) ||
+        t.tags.some(tag => tag.includes(q))
+      );
+      renderTools(filtered);
+    });
+  </script>
 </body>
 </html>
