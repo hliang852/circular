@@ -1,0 +1,786 @@
+{
+  "code": "00700",
+  "name": "TENCENT HOLDINGS LTD.",
+  "last_scraped": "2026-05-16T07:47:06Z",
+  "shareholders": [
+    {
+      "name": "MIH TC Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2961223600,
+      "long_position_pct": 31.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Naspers Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2105253100,
+      "long_position_pct": 22.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2105253100,
+      "long_position_pct": 22.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 804859700,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ma Huateng",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 804859700,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 22.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 22.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 23.01,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 23.01,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 22.99,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 22.99,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 23.99,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 23.99,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 24.01,
+      "relevant_event_date": "2024-12-30",
+      "filing_date": "2025-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 24.01,
+      "relevant_event_date": "2024-12-30",
+      "filing_date": "2025-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 23.99,
+      "relevant_event_date": "2024-12-06",
+      "filing_date": "2024-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 23.99,
+      "relevant_event_date": "2024-12-06",
+      "filing_date": "2024-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 24.99,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 24.99,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2023-04-25",
+      "filing_date": "2023-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2023-04-25",
+      "filing_date": "2023-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 26.99,
+      "relevant_event_date": "2022-12-13",
+      "filing_date": "2022-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 26.99,
+      "relevant_event_date": "2022-12-13",
+      "filing_date": "2022-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 27.99,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 27.99,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 28.86,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 28.86,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 28.86,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.47,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.47,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-03-05",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2020-02-20",
+      "filing_date": "2020-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-02-17",
+      "filing_date": "2020-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-02-14",
+      "filing_date": "2020-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-02-11",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.54,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.54,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.55,
+      "relevant_event_date": "2020-01-15",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2020-01-15",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.55,
+      "relevant_event_date": "2020-01-15",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2020-01-14",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2020-01-14",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 31.0,
+      "relevant_event_date": "2019-09-20",
+      "filing_date": "2019-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 31.0,
+      "relevant_event_date": "2019-09-20",
+      "filing_date": "2019-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prosus N.V. (formerly known as \"Myriad International Holdings N.V.\")",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.41,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2019-04-29",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2019-03-14",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.54,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIH TC Holdings Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.48,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2018-05-04",
+      "filing_date": "2018-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIH TC Holdings Limited",
+      "long_position_pct": 31.17,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naspers Limited",
+      "long_position_pct": 31.17,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.77,
+      "relevant_event_date": "2018-02-01",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.44,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.45,
+      "relevant_event_date": "2018-01-15",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.24,
+      "relevant_event_date": "2017-10-16",
+      "filing_date": "2017-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2017-10-13",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2017-10-13",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.64,
+      "relevant_event_date": "2017-10-12",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.64,
+      "relevant_event_date": "2017-10-12",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2017-10-11",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2017-10-11",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Data Services Limited",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2017-10-10",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2017-10-10",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Huateng",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2017-10-10",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2017-09-29",
+      "filing_date": "2017-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    }
+  ]
+}

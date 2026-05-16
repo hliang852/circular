@@ -1,0 +1,1885 @@
+{
+  "code": "00005",
+  "name": "HSBC HOLDINGS PLC",
+  "last_scraped": "2026-05-16T08:31:39Z",
+  "shareholders": [
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1586341122,
+      "long_position_pct": 9.09,
+      "short_position_shares": 6856029,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1502584731,
+      "long_position_pct": 7.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-07",
+      "filing_date": "2024-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1032088179,
+      "long_position_pct": 6.01,
+      "short_position_shares": 565066027,
+      "short_position_pct": 3.29,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 871870258,
+      "long_position_pct": 5.07,
+      "short_position_shares": 71841795,
+      "short_position_pct": 0.41,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-03-05",
+      "filing_date": "2026-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-03-04",
+      "filing_date": "2026-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-25",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.11,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.13,
+      "relevant_event_date": "2025-06-20",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.12,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2025-05-06",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2025-05-05",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-04-04",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.95,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.05,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2025-03-20",
+      "filing_date": "2025-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.06,
+      "relevant_event_date": "2025-03-03",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-02-27",
+      "filing_date": "2025-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-02-26",
+      "filing_date": "2025-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-02-20",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-02-17",
+      "filing_date": "2025-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-01-22",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2024-12-19",
+      "filing_date": "2024-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2024-12-17",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2024-12-16",
+      "filing_date": "2024-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2024-12-12",
+      "filing_date": "2024-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2024-12-03",
+      "filing_date": "2024-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2024-05-31",
+      "filing_date": "2024-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2024-05-22",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2024-05-21",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2024-05-07",
+      "filing_date": "2024-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2022-02-03",
+      "filing_date": "2022-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2022-02-02",
+      "filing_date": "2022-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.14,
+      "relevant_event_date": "2020-08-27",
+      "filing_date": "2020-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.12,
+      "relevant_event_date": "2020-08-24",
+      "filing_date": "2020-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.12,
+      "relevant_event_date": "2020-08-20",
+      "filing_date": "2020-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2020-05-07",
+      "filing_date": "2020-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2020-05-05",
+      "filing_date": "2020-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.13,
+      "relevant_event_date": "2020-05-01",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-04-30",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2020-04-28",
+      "filing_date": "2020-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2020-04-15",
+      "filing_date": "2020-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.12,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2020-04-03",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.18,
+      "relevant_event_date": "2020-04-01",
+      "filing_date": "2020-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.18,
+      "relevant_event_date": "2020-03-31",
+      "filing_date": "2020-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-03-30",
+      "filing_date": "2020-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.12,
+      "relevant_event_date": "2020-03-26",
+      "filing_date": "2020-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.1,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.14,
+      "relevant_event_date": "2020-03-23",
+      "filing_date": "2020-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2020-03-17",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2020-03-12",
+      "filing_date": "2020-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.11,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.1,
+      "relevant_event_date": "2020-03-05",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2020-03-02",
+      "filing_date": "2020-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.87,
+      "relevant_event_date": "2020-03-02",
+      "filing_date": "2020-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2020-02-27",
+      "filing_date": "2020-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2020-02-27",
+      "filing_date": "2020-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2020-02-26",
+      "filing_date": "2020-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2020-02-26",
+      "filing_date": "2020-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2020-02-21",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2020-02-20",
+      "filing_date": "2020-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-02-17",
+      "filing_date": "2020-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2020-02-12",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2019-12-26",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2019-12-26",
+      "filing_date": "2019-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-12-24",
+      "filing_date": "2019-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.25,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 2.83,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.1,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.12,
+      "relevant_event_date": "2019-10-07",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.24,
+      "relevant_event_date": "2019-10-07",
+      "filing_date": "2019-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2019-10-04",
+      "filing_date": "2019-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2019-10-03",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2019-10-03",
+      "filing_date": "2019-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2019-09-19",
+      "filing_date": "2019-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2019-09-18",
+      "filing_date": "2019-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-08-28",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 2.27,
+      "relevant_event_date": "2019-08-19",
+      "filing_date": "2019-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.64,
+      "relevant_event_date": "2019-08-15",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2019-08-15",
+      "filing_date": "2019-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.74,
+      "relevant_event_date": "2019-08-13",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2019-08-13",
+      "filing_date": "2019-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2019-08-12",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2019-08-12",
+      "filing_date": "2019-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.83,
+      "relevant_event_date": "2019-08-09",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2019-08-09",
+      "filing_date": "2019-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2019-08-08",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2019-08-08",
+      "filing_date": "2019-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2019-05-17",
+      "filing_date": "2019-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2019-05-16",
+      "filing_date": "2019-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2019-05-14",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2019-05-13",
+      "filing_date": "2019-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2019-02-19",
+      "filing_date": "2019-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2019-02-18",
+      "filing_date": "2019-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2019-02-15",
+      "filing_date": "2019-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.83,
+      "relevant_event_date": "2019-02-14",
+      "filing_date": "2019-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2018-11-01",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2018-10-10",
+      "filing_date": "2018-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.74,
+      "relevant_event_date": "2018-10-05",
+      "filing_date": "2018-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2018-09-14",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2018-08-17",
+      "filing_date": "2018-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2018-08-16",
+      "filing_date": "2018-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.69,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2018-08-10",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2018-05-17",
+      "filing_date": "2018-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2018-05-16",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2018-05-14",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.82,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2018-02-21",
+      "filing_date": "2018-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2018-02-20",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2018-02-20",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2018-02-19",
+      "filing_date": "2018-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2018-02-16",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "long_position_pct": 6.17,
+      "relevant_event_date": "2018-02-09",
+      "filing_date": "2018-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.07,
+      "relevant_event_date": "2018-01-25",
+      "filing_date": "2018-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2018-01-15",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2017-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2017-12-12",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Asset Management Co., Ltd.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2017-11-13",
+      "filing_date": "2017-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2017-11-10",
+      "filing_date": "2017-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2017-11-09",
+      "filing_date": "2017-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2017-11-07",
+      "filing_date": "2017-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.61,
+      "relevant_event_date": "2017-10-16",
+      "filing_date": "2017-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.67,
+      "relevant_event_date": "2017-10-12",
+      "filing_date": "2017-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2017-10-11",
+      "filing_date": "2017-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2017-10-10",
+      "filing_date": "2017-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2017-10-06",
+      "filing_date": "2017-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2017-10-05",
+      "filing_date": "2017-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

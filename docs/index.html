@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HKEX DI Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>HKEX DI Tracker</h1>
+      <p class="subtitle">Substantial shareholding disclosures for HKEX-listed companies</p>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="by-stock">By Stock</button>
+    <button class="tab-btn" data-tab="by-shareholder">By Shareholder</button>
+    <button class="tab-btn" data-tab="compare">Compare</button>
+    <button class="tab-btn" data-tab="timeline">Timeline</button>
+  </nav>
+
+  <main>
+
+    <!-- ── TAB 1: BY STOCK ── -->
+    <section id="tab-by-stock" class="tab-panel active">
+      <div class="search-row">
+        <input id="stock-search" type="search" placeholder="Search stock code or name…" autocomplete="off">
+        <div id="stock-dropdown" class="dropdown" hidden></div>
+      </div>
+
+      <div id="stock-result" hidden>
+        <div class="stock-header">
+          <div>
+            <span class="stock-code-badge" id="sh-code"></span>
+            <span class="stock-name" id="sh-name"></span>
+          </div>
+          <div class="stock-meta">
+            <span id="sh-last-scraped"></span>
+          </div>
+        </div>
+
+        <div class="summary-chips">
+          <span class="chip" id="sh-count-chip"></span>
+          <span class="chip" id="sh-sum-chip"></span>
+          <span class="chip" id="sh-date-chip"></span>
+        </div>
+
+        <div class="controls-row">
+          <div class="filter-chips">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="individual">Individual</button>
+            <button class="filter-btn" data-filter="corporate">Corporate</button>
+            <button class="filter-btn" data-filter="fund">Fund</button>
+          </div>
+          <div class="sort-controls">
+            <label>Sort:
+              <select id="stock-sort">
+                <option value="pct">% holding</option>
+                <option value="name">Name</option>
+                <option value="date">Filing date</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <table class="data-table" id="shareholders-table">
+          <thead>
+            <tr>
+              <th>Shareholder</th>
+              <th>Type</th>
+              <th class="num-col">Long %</th>
+              <th class="bar-col"></th>
+              <th class="num-col">Shares</th>
+              <th class="num-col">Short %</th>
+              <th>Filing date</th>
+            </tr>
+          </thead>
+          <tbody id="shareholders-tbody"></tbody>
+        </table>
+      </div>
+
+      <div id="stock-empty" class="empty-state">
+        Search for a stock above to view its substantial shareholders.
+      </div>
+    </section>
+
+    <!-- ── TAB 2: BY SHAREHOLDER ── -->
+    <section id="tab-by-shareholder" class="tab-panel" hidden>
+      <div class="search-row">
+        <input id="sh-search" type="search" placeholder="Search shareholder name…" autocomplete="off">
+        <div id="sh-dropdown" class="dropdown" hidden></div>
+      </div>
+
+      <div id="sh-result" hidden>
+        <h2 class="result-title" id="sh-result-name"></h2>
+        <table class="data-table" id="sh-holdings-table">
+          <thead>
+            <tr>
+              <th>Stock</th>
+              <th>Name</th>
+              <th class="num-col">Long %</th>
+              <th class="num-col">Shares</th>
+              <th>Filing date</th>
+            </tr>
+          </thead>
+          <tbody id="sh-holdings-tbody"></tbody>
+        </table>
+      </div>
+
+      <div id="sh-empty" class="empty-state">
+        Search for a shareholder above to view their holdings.
+      </div>
+    </section>
+
+    <!-- ── TAB 3: COMPARE ── -->
+    <section id="tab-compare" class="tab-panel" hidden>
+      <div class="search-row">
+        <input id="compare-search" type="search" placeholder="Add stock (up to 5)…" autocomplete="off">
+        <div id="compare-dropdown" class="dropdown" hidden></div>
+      </div>
+
+      <div id="compare-chips" class="compare-chips"></div>
+
+      <div id="compare-result" hidden>
+        <div class="table-scroll">
+          <table class="data-table compare-matrix" id="compare-table">
+            <thead id="compare-thead"></thead>
+            <tbody id="compare-tbody"></tbody>
+            <tfoot id="compare-tfoot"></tfoot>
+          </table>
+        </div>
+      </div>
+
+      <div id="compare-empty" class="empty-state">
+        Add up to 5 stocks above to compare their shareholders side by side.
+      </div>
+    </section>
+
+    <!-- ── TAB 4: TIMELINE ── -->
+    <section id="tab-timeline" class="tab-panel" hidden>
+      <div class="search-row">
+        <input id="tl-stock-search" type="search" placeholder="Search stock code or name…" autocomplete="off">
+        <div id="tl-stock-dropdown" class="dropdown" hidden></div>
+      </div>
+
+      <div id="tl-filters" hidden>
+        <div class="tl-controls">
+          <label>Shareholder:
+            <input id="tl-sh-filter" type="search" placeholder="Filter by shareholder…">
+          </label>
+          <label>From: <input id="tl-date-from" type="date"></label>
+          <label>To: <input id="tl-date-to" type="date"></label>
+        </div>
+      </div>
+
+      <div id="tl-result" hidden>
+        <h2 class="result-title" id="tl-stock-title"></h2>
+        <table class="data-table" id="tl-table">
+          <thead>
+            <tr>
+              <th>Event date</th>
+              <th>Shareholder</th>
+              <th>Action</th>
+              <th class="num-col">Long %</th>
+              <th>Form</th>
+              <th>Filing date</th>
+            </tr>
+          </thead>
+          <tbody id="tl-tbody"></tbody>
+        </table>
+      </div>
+
+      <div id="tl-empty" class="empty-state">
+        Search for a stock above to view its filing timeline.
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Data sourced from <a href="https://di.hkex.com.hk" target="_blank" rel="noopener">HKEX DI Portal</a>.
+       Updated nightly on weekdays. Not investment advice.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

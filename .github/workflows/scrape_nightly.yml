@@ -1,0 +1,49 @@
+name: Nightly DI Scrape
+
+on:
+  schedule:
+    - cron: '0 22 * * 1-5'   # 22:00 UTC = 06:00 HKT next day (after market-close filings)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Scrape mode'
+        required: false
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - full
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360   # 6-hour limit for full runs (~600 stocks × 2s)
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape DI portal
+        run: |
+          MODE="${{ github.event.inputs.mode || 'incremental' }}"
+          python scripts/scrape_di.py --mode "$MODE"
+
+      - name: Build shareholder index
+        run: python scripts/build_index.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "data: nightly DI scrape $(date -u +%Y-%m-%d)"
+          git push
