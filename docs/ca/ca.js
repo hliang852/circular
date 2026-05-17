@@ -60,8 +60,9 @@ const fmtB    = n => n >= 1e9 ? `${(n/1e9).toFixed(1)}B` : n >= 1e6 ? `${(n/1e6)
 const fmtHKD  = n => n >= 1e9 ? `HK$${(n/1e9).toFixed(1)}B` : n >= 1e6 ? `HK$${(n/1e6).toFixed(0)}M` : `HK$${n.toLocaleString()}`;
 const pLabel  = p => { const[y,m]=p.split('-'); return new Date(+y,+m-1,1).toLocaleString('en-GB',{month:'short',year:'2-digit'}); };
 const fmtCode = c => `${parseInt(c,10)} HK`;
-const csClass = s => `cs-${s}`;
-const csStars = s => '★'.repeat(s) + '☆'.repeat(5-s);
+const csClamp = s => Math.min(Math.max(Math.round(s), 0), 5);
+const csClass = s => `cs-${csClamp(s)}`;
+const csStars = s => { const c = csClamp(s); return '★'.repeat(c) + '☆'.repeat(5-c); };
 
 /* ── Init ── */
 document.addEventListener('DOMContentLoaded', async () => {
@@ -509,7 +510,8 @@ function switchIdeasTab(tab, btn) {
 }
 
 /* ── Calendar ── */
-let calYear = 2025, calMonth = 4;
+const _now = new Date();
+let calYear = _now.getFullYear(), calMonth = _now.getMonth();
 function renderCalendar() {
   const title = new Date(calYear, calMonth, 1).toLocaleString('en-GB', {month:'long',year:'numeric'});
   const titleEl = document.getElementById('calTitle');

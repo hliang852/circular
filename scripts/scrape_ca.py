@@ -406,10 +406,17 @@ def scrape_stock(code, name, internal_id):
         monthly_filings[0]["date"].isoformat() if monthly_filings else None
     )
 
-    # Consistency score: how many of the last 12 months had buybacks
+    # Consistency score: how many of the last 12 months had buybacks → mapped to 0-5 tier
+    # 0 → 0 (none), 1-3 → 1 (Erratic), 4-6 → 2 (Opportunistic),
+    # 7-9 → 3 (Regular), 10-11 → 4 (Systematic), 12 → 5 (Daily)
     recent_months = [m for m in monthly_data if m["period"] >= (today - timedelta(days=365)).strftime("%Y-%m")]
     months_with_buyback = sum(1 for m in recent_months if m.get("repurchase_cancelled", 0) > 0)
-    consistency_score = months_with_buyback  # 0-12
+    if months_with_buyback == 0:   consistency_score = 0
+    elif months_with_buyback <= 3: consistency_score = 1
+    elif months_with_buyback <= 6: consistency_score = 2
+    elif months_with_buyback <= 9: consistency_score = 3
+    elif months_with_buyback <= 11: consistency_score = 4
+    else:                           consistency_score = 5
 
     # Build monthly array for frontend
     monthly_out = []
@@ -554,6 +561,7 @@ def main():
                 "agm_date": data["agm_date"],
                 "renew_probability": data["renew_probability"],
                 "last_filing_date": data["last_filing_date"],
+                "last_session": data.get("last_session"),
             })
         except Exception as e:
             print(f"  ERROR {code}: {e}")
