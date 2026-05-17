@@ -3,190 +3,359 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Circular</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Circular — HKEX Market Intelligence</title>
+  <link rel="stylesheet" href="assets/tokens.css">
+  <link rel="stylesheet" href="assets/shared.css">
   <style>
-    body { display: flex; flex-direction: column; min-height: 100vh; }
-    .home-wrap {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 80px 24px 60px;
+    /* Hub-specific layout */
+    .hub-hero {
+      text-align: center;
+      padding: 56px 20px 44px;
+      border-bottom: 1px solid var(--bd);
+      margin-bottom: 32px;
     }
-    .home-hero { text-align: center; margin-bottom: 40px; }
-    .home-title {
+    .hub-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--sf2);
+      border: 1px solid var(--bd);
+      border-radius: 20px;
+      font-size: 11px;
+      color: var(--tx3);
+      padding: 4px 12px;
+      margin-bottom: 18px;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+    }
+    .hub-title {
       font-size: 36px;
       font-weight: 800;
-      letter-spacing: -1px;
-      color: var(--color-text);
-      margin-bottom: 8px;
+      color: var(--tx);
+      letter-spacing: -.8px;
+      margin-bottom: 10px;
     }
-    .home-subtitle {
+    .hub-subtitle {
       font-size: 15px;
-      color: var(--color-text-muted);
+      color: var(--tx2);
+      max-width: 520px;
+      margin: 0 auto 28px;
+      line-height: 1.7;
     }
-    .home-search-wrap {
-      width: 100%;
-      max-width: 560px;
-      margin-bottom: 48px;
+
+    /* Global search */
+    .hub-search-wrap {
       position: relative;
+      max-width: 480px;
+      margin: 0 auto;
     }
-    .home-search-wrap input[type="search"] {
+    .hub-search-wrap svg {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--tx3);
+      pointer-events: none;
+    }
+    .hub-search {
       width: 100%;
-      padding: 13px 20px;
-      font-size: 15px;
-      border: 1.5px solid var(--color-border);
-      border-radius: var(--radius-pill);
-      background: var(--color-surface);
+      background: var(--sf);
+      border: 1px solid var(--bd2);
+      border-radius: 24px;
+      color: var(--tx);
+      font-size: 14px;
+      padding: 11px 16px 11px 40px;
+      font-family: var(--sans);
       outline: none;
       transition: border-color .15s, box-shadow .15s;
-      color: var(--color-text);
     }
-    .home-search-wrap input[type="search"]:focus {
-      border-color: #999;
-      box-shadow: 0 0 0 3px rgba(0,0,0,.06);
+    .hub-search:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(88,166,255,.15);
     }
-    .home-tools {
-      width: 100%;
-      max-width: 700px;
+    .hub-search::placeholder { color: var(--tx3); }
+    .hub-dropdown {
+      position: absolute;
+      top: calc(100% + 6px);
+      left: 0;
+      right: 0;
+      background: var(--sf2);
+      border: 1px solid var(--bd2);
+      border-radius: var(--rl);
+      z-index: 300;
+      max-height: 280px;
+      overflow-y: auto;
+      box-shadow: 0 8px 32px rgba(0,0,0,.45);
+      display: none;
+    }
+    .hub-dropdown.open { display: block; }
+    .hub-dropdown-item {
+      padding: 9px 16px;
+      cursor: pointer;
+      border-bottom: 1px solid var(--bd);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .hub-dropdown-item:last-child { border-bottom: none; }
+    .hub-dropdown-item:hover { background: rgba(88,166,255,.08); }
+    .hub-dropdown-item .hdi-code { font-family: var(--mono); font-size: 12px; color: var(--tx3); width: 64px; flex-shrink: 0; }
+    .hub-dropdown-item .hdi-name { font-size: 13px; color: var(--tx); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hub-dropdown-item .hdi-links { display: flex; gap: 6px; flex-shrink: 0; }
+    .hub-dropdown-item .hdi-link {
+      font-size: 11px;
+      padding: 2px 9px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .hdi-link.di-l { background: rgba(88,166,255,.12); color: var(--accent); border: 1px solid rgba(88,166,255,.25); }
+    .hdi-link.ca-l { background: rgba(63,185,80,.1); color: var(--green); border: 1px solid rgba(63,185,80,.2); }
+
+    /* Module cards */
+    .module-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .module-card {
+      background: var(--sf);
+      border: 1px solid var(--bd);
+      border-radius: var(--rl);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
       display: flex;
       flex-direction: column;
       gap: 12px;
+      transition: border-color .15s, box-shadow .15s;
+      cursor: pointer;
     }
-    .tools-section-label {
-      font-size: 11px;
+    .module-card:hover {
+      border-color: var(--bd2);
+      box-shadow: 0 4px 20px rgba(0,0,0,.25);
+    }
+    .mc-icon { font-size: 28px; }
+    .mc-title {
+      font-size: 17px;
       font-weight: 700;
-      letter-spacing: .8px;
-      text-transform: uppercase;
-      color: var(--color-text-muted);
-      margin-bottom: 4px;
-      margin-top: 8px;
+      color: var(--tx);
+      letter-spacing: -.2px;
     }
-    .tool-card {
+    .mc-desc {
+      font-size: 13px;
+      color: var(--tx2);
+      line-height: 1.6;
+      flex: 1;
+    }
+    .mc-stats {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .mc-stat {
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+    }
+    .mc-stat-val {
+      font-size: 18px;
+      font-weight: 700;
+      font-family: var(--mono);
+      color: var(--tx);
+    }
+    .mc-stat-label { font-size: 11px; color: var(--tx3); text-transform: uppercase; letter-spacing: .04em; }
+    .mc-open {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--accent);
+      padding: 8px 0 0;
+      border-top: 1px solid var(--bd);
+      text-decoration: none;
+      transition: gap .12s;
+    }
+    .module-card:hover .mc-open { gap: 10px; }
+
+    /* Status banner */
+    .status-bar {
+      background: var(--sf2);
+      border: 1px solid var(--bd);
+      border-radius: var(--r);
+      padding: 10px 16px;
       display: flex;
       align-items: center;
-      gap: 16px;
-      background: var(--color-surface);
-      border: 1.5px solid var(--color-border);
-      border-radius: var(--radius);
-      padding: 20px 24px;
-      text-decoration: none;
-      color: inherit;
-      transition: border-color .15s, box-shadow .15s;
+      gap: 10px;
+      font-size: 12px;
+      color: var(--tx3);
+      margin-bottom: 32px;
+      flex-wrap: wrap;
     }
-    .tool-card:hover {
-      border-color: #bbb;
-      box-shadow: 0 4px 16px rgba(0,0,0,.07);
-    }
-    .tool-card-inner { flex: 1; min-width: 0; }
-    .tool-region {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: .6px;
-      text-transform: uppercase;
-      color: var(--color-text-muted);
-      margin-bottom: 4px;
-    }
-    .tool-title {
-      font-size: 15px;
-      font-weight: 700;
-      color: var(--color-text);
-      margin-bottom: 6px;
-    }
-    .tool-desc {
-      font-size: 13px;
-      color: var(--color-text-muted);
-      line-height: 1.55;
-    }
-    .tool-arrow {
-      font-size: 18px;
-      color: var(--color-text-muted);
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
       flex-shrink: 0;
-      transition: transform .15s;
     }
-    .tool-card:hover .tool-arrow { transform: translateX(3px); }
-    .home-empty {
-      text-align: center;
-      padding: 48px 20px;
-      color: var(--color-text-muted);
-      font-size: 14px;
-    }
-    footer { margin-top: 0; }
-    @media (max-width: 600px) {
-      .home-wrap { padding: 48px 16px 40px; }
-      .home-title { font-size: 28px; }
-      .tool-card { padding: 16px 18px; }
+    .status-dot.green { background: var(--green); }
+    .status-dot.amber { background: var(--amber); }
+    .status-dot.red { background: var(--red); }
+    .status-dot.dim { background: var(--tx3); }
+
+    @media (max-width: 640px) {
+      .hub-title { font-size: 26px; }
+      .module-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
-  <main class="home-wrap">
-    <div class="home-hero">
-      <h1 class="home-title">Circular</h1>
-      <p class="home-subtitle">Financial data exploration</p>
+
+<div id="circular-header"></div>
+
+<main class="page">
+
+  <div class="hub-hero">
+    <div class="hub-tag">
+      <svg width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5V8l2 2" stroke-linecap="round"/></svg>
+      HKEX market intelligence
+    </div>
+    <h1 class="hub-title">Circular</h1>
+    <p class="hub-subtitle">Substantial shareholder disclosures and share buyback analytics for HKEX-listed companies.</p>
+
+    <div class="hub-search-wrap">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+      <input class="hub-search" id="hub-search" type="text" placeholder="Search ticker or company name…" autocomplete="off">
+      <div class="hub-dropdown" id="hub-dropdown"></div>
+    </div>
+  </div>
+
+  <!-- Status bar -->
+  <div class="status-bar" id="status-bar">
+    <span class="status-dot dim" id="status-dot"></span>
+    <span id="status-text">Loading scrape status…</span>
+  </div>
+
+  <!-- Module cards -->
+  <div class="module-grid">
+    <div class="module-card" onclick="location.href='di/'">
+      <div class="mc-icon">👥</div>
+      <div class="mc-title">Disclosure of Interests</div>
+      <div class="mc-desc">Substantial shareholding disclosures (≥5%) for all HKEX-listed companies above $100M USD market cap. Search by stock or shareholder, compare portfolios, and view filing timelines.</div>
+      <div class="mc-stats">
+        <div class="mc-stat"><div class="mc-stat-val" id="di-stocks-count">—</div><div class="mc-stat-label">Stocks tracked</div></div>
+        <div class="mc-stat"><div class="mc-stat-val" id="di-filings-count">—</div><div class="mc-stat-label">Recent filings</div></div>
+        <div class="mc-stat"><div class="mc-stat-val" id="di-updated">—</div><div class="mc-stat-label">Last updated</div></div>
+      </div>
+      <a class="mc-open" href="di/">Open DI tracker →</a>
     </div>
 
-    <div class="home-search-wrap">
-      <input id="home-search" type="search" placeholder="Search tools and datasets…" autocomplete="off">
+    <div class="module-card" onclick="location.href='ca/'">
+      <div class="mc-icon">🔄</div>
+      <div class="mc-title">Corporate Actions</div>
+      <div class="mc-desc">Share repurchase programmes, mandate headroom, equity issuances, and AGM calendars. Screens for Conviction Buys (below VWAP) and Mandate Renewers.</div>
+      <div class="mc-stats">
+        <div class="mc-stat"><div class="mc-stat-val" id="ca-active-count">—</div><div class="mc-stat-label">Active buybacks</div></div>
+        <div class="mc-stat"><div class="mc-stat-val" id="ca-conviction-count">—</div><div class="mc-stat-label">Conviction Buys</div></div>
+        <div class="mc-stat"><div class="mc-stat-val" id="ca-updated">—</div><div class="mc-stat-label">Last updated</div></div>
+      </div>
+      <a class="mc-open" href="ca/">Open CA tracker →</a>
     </div>
+  </div>
 
-    <div class="home-tools" id="home-tools"></div>
-  </main>
+</main>
 
-  <footer>
-    <p>Circular — financial data, openly explored.</p>
-  </footer>
+<script>
+window.CIRC_BASE = 'data';
+window.CIRC_ROOT = './';
+</script>
+<script src="assets/shared.js"></script>
+<script>
+renderHeader(null);
+(async () => {
+  // Load data in parallel
+  const [universe, latest, caIndex, lastRun] = await Promise.all([
+    fetchUniverse(),
+    fetchLatestFilings(),
+    fetchCAIndex(),
+    fetchLastRun(),
+  ]);
 
-  <script>
-    const TOOLS = [
-      {
-        href: 'hkex/',
-        region: 'Hong Kong',
-        title: 'HKEX Substantial Shareholder Disclosure',
-        description: 'Track substantial shareholding disclosures for HKEX-listed companies. Search by stock or shareholder, compare portfolios, and view filing timelines.',
-        tags: ['hkex', 'shareholders', 'disclosure', 'di', 'hong kong', 'equity', 'filing'],
-      },
-    ];
+  // DI card stats
+  const diCount = universe ? universe.length : null;
+  const diFilings = latest ? latest.length : null;
+  const diUpdatedRaw = lastRun?.di?.last_run || null;
+  document.getElementById('di-stocks-count').textContent = diCount ? diCount.toLocaleString() : '—';
+  document.getElementById('di-filings-count').textContent = diFilings !== null ? diFilings : '—';
+  document.getElementById('di-updated').textContent = diUpdatedRaw
+    ? new Date(diUpdatedRaw).toLocaleTimeString('en-GB', {hour:'2-digit',minute:'2-digit'}) + ' UTC'
+    : '—';
 
-    function renderTools(items) {
-      const el = document.getElementById('home-tools');
-      if (!items.length) {
-        el.innerHTML = '<div class="home-empty">No tools match your search.</div>';
-        return;
-      }
-      // Group by region
-      const regions = [...new Set(items.map(t => t.region))];
-      el.innerHTML = regions.map(region => {
-        const group = items.filter(t => t.region === region);
-        return `
-          <div class="tools-section-label">${region}</div>
-          ${group.map(t => `
-            <a class="tool-card" href="${t.href}">
-              <div class="tool-card-inner">
-                <div class="tool-title">${t.title}</div>
-                <div class="tool-desc">${t.description}</div>
-              </div>
-              <div class="tool-arrow">→</div>
-            </a>
-          `).join('')}
-        `;
-      }).join('');
+  // CA card stats
+  const caActive = caIndex ? caIndex.filter(s => s.programme_active).length : null;
+  const convictionBuys = caIndex ? caIndex.filter(s => s.programme_active && s.current_price_hkd < s.vwap_hkd && s.consistency_score >= 4).length : null;
+  const caUpdatedRaw = lastRun?.ca?.last_run || null;
+  document.getElementById('ca-active-count').textContent = caActive !== null ? caActive : '—';
+  document.getElementById('ca-conviction-count').textContent = convictionBuys !== null ? convictionBuys : '—';
+  document.getElementById('ca-updated').textContent = caUpdatedRaw
+    ? new Date(caUpdatedRaw).toLocaleTimeString('en-GB', {hour:'2-digit',minute:'2-digit'}) + ' UTC'
+    : '—';
+
+  // Status banner
+  const dot = document.getElementById('status-dot');
+  const text = document.getElementById('status-text');
+  if (lastRun) {
+    const diOk = !!lastRun.di?.last_run;
+    const caOk = !!lastRun.ca?.last_run;
+    if (diOk && caOk) {
+      dot.className = 'status-dot green';
+      const latest = diOk && caOk ? (lastRun.ca?.last_run > lastRun.di?.last_run ? lastRun.ca?.last_run : lastRun.di?.last_run) : (lastRun.di?.last_run || lastRun.ca?.last_run);
+      text.textContent = `All systems green · Last scrape: ${new Date(latest).toLocaleString('en-GB', {dateStyle:'medium', timeStyle:'short'})} UTC`;
+    } else {
+      dot.className = 'status-dot amber';
+      text.textContent = `Partial data: ${diOk ? 'DI ✓' : 'DI ✗'} · ${caOk ? 'CA ✓' : 'CA ✗'}`;
     }
+  } else {
+    dot.className = 'status-dot dim';
+    text.textContent = 'Scrape status unavailable — data may be loading';
+  }
 
-    renderTools(TOOLS);
+  // Global search
+  const searchEl = document.getElementById('hub-search');
+  const dropEl = document.getElementById('hub-dropdown');
+  let timer;
 
-    document.getElementById('home-search').addEventListener('input', function () {
-      const q = this.value.toLowerCase().trim();
-      if (!q) { renderTools(TOOLS); return; }
-      const filtered = TOOLS.filter(t =>
-        t.title.toLowerCase().includes(q) ||
-        t.description.toLowerCase().includes(q) ||
-        t.region.toLowerCase().includes(q) ||
-        t.tags.some(tag => tag.includes(q))
-      );
-      renderTools(filtered);
-    });
-  </script>
+  searchEl.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(async () => {
+      const q = searchEl.value.trim().toLowerCase();
+      if (!q || q.length < 1) { dropEl.classList.remove('open'); return; }
+      if (!universe) return;
+      const matches = universe
+        .filter(s => s.code.includes(q) || s.name.toLowerCase().includes(q) || `${parseInt(s.code,10)}`.includes(q))
+        .slice(0, 12);
+      if (!matches.length) { dropEl.classList.remove('open'); return; }
+      dropEl.innerHTML = matches.map(s => {
+        const code = parseInt(s.code, 10);
+        return `<div class="hub-dropdown-item">
+          <span class="hdi-code">${code} HK</span>
+          <span class="hdi-name" title="${s.name}">${s.name}</span>
+          <span class="hdi-links">
+            <a class="hdi-link di-l" href="di/?code=${s.code}">DI</a>
+            <a class="hdi-link ca-l" href="ca/?code=${s.code}">CA</a>
+          </span>
+        </div>`;
+      }).join('');
+      dropEl.classList.add('open');
+    }, 150);
+  });
+
+  searchEl.addEventListener('blur', () => setTimeout(() => dropEl.classList.remove('open'), 200));
+  searchEl.addEventListener('focus', () => { if (searchEl.value) searchEl.dispatchEvent(new Event('input')); });
+})();
+</script>
 </body>
 </html>

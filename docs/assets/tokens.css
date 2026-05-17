@@ -1,0 +1,35 @@
+/* Circular — Design Tokens (source: CA prototype v10) */
+:root {
+  /* Backgrounds */
+  --bg: #0d1117;
+  --sf: #161b22;
+  --sf2: #1c2330;
+
+  /* Borders */
+  --bd: #2a3140;
+  --bd2: #384152;
+
+  /* Text */
+  --tx: #e6edf3;
+  --tx2: #8b949e;
+  --tx3: #6e7681;
+
+  /* Accents */
+  --accent: #58a6ff;
+  --green: #3fb950;
+  --gbg: rgba(63,185,80,.13);
+  --amber: #d29922;
+  --abg: rgba(210,153,34,.13);
+  --red: #f85149;
+  --rbg: rgba(248,81,73,.11);
+  --purple: #a371f7;
+  --pbg: rgba(163,113,247,.13);
+
+  /* Typography */
+  --mono: 'SFMono-Regular', 'Consolas', monospace;
+  --sans: -apple-system, 'Segoe UI', system-ui, sans-serif;
+
+  /* Shape */
+  --r: 6px;
+  --rl: 10px;
+}

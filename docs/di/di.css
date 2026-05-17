@@ -1,0 +1,291 @@
+/* DI-specific overrides */
+
+/* ── DI page header ── */
+.di-header {
+  background: var(--sf2);
+  border-bottom: 1px solid var(--bd);
+  padding: 20px 0 0;
+  margin-bottom: 0;
+}
+.di-header-inner {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 20px 16px;
+}
+.di-page-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--tx);
+  letter-spacing: -.3px;
+  margin-bottom: 3px;
+}
+.di-page-subtitle { font-size: 12px; color: var(--tx3); }
+
+/* ── DI tab bar ── */
+.di-tabs {
+  background: var(--sf2);
+  border-bottom: 1px solid var(--bd);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.di-tabs::-webkit-scrollbar { display: none; }
+.di-tabs-inner {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  gap: 0;
+}
+.di-tab-btn {
+  padding: 12px 16px;
+  font-size: 13px;
+  color: var(--tx2);
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  font-family: var(--sans);
+  transition: color .15s, border-color .15s;
+  white-space: nowrap;
+  margin-bottom: -1px;
+}
+.di-tab-btn:hover { color: var(--tx); }
+.di-tab-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 500;
+}
+
+/* ── Latest tab ── */
+.latest-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.latest-meta { font-size: 12px; color: var(--tx3); }
+.latest-filter-input {
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: var(--r);
+  color: var(--tx);
+  font-size: 13px;
+  padding: 7px 12px;
+  font-family: var(--sans);
+  outline: none;
+  transition: border-color .15s;
+  width: 240px;
+}
+.latest-filter-input:focus { border-color: var(--accent); }
+.latest-filter-input::placeholder { color: var(--tx3); }
+
+/* ── By Stock tab ── */
+.view-toggle {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+.view-btn {
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: 20px;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--tx2);
+  font-family: var(--sans);
+  transition: all .15s;
+}
+.view-btn:hover { border-color: var(--bd2); color: var(--tx); }
+.view-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.controls-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.sort-select {
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: var(--r);
+  color: var(--tx2);
+  font-size: 13px;
+  padding: 6px 12px;
+  font-family: var(--sans);
+  outline: none;
+  cursor: pointer;
+}
+.filter-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.filter-btn {
+  font-size: 12px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: var(--sf2);
+  border: 1px solid var(--bd);
+  color: var(--tx2);
+  cursor: pointer;
+  transition: all .12s;
+  font-family: var(--sans);
+}
+.filter-btn:hover { border-color: var(--bd2); color: var(--tx); }
+.filter-btn.active {
+  background: rgba(88,166,255,.12);
+  border-color: rgba(88,166,255,.4);
+  color: var(--accent);
+}
+
+/* ── Shareholder bars ── */
+.sh-list { display: flex; flex-direction: column; gap: 0; }
+.sh-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--bd);
+}
+.sh-row:last-child { border-bottom: none; }
+.sh-info { flex: 1; min-width: 0; }
+.sh-name { font-size: 13px; font-weight: 500; color: var(--tx); margin-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sh-meta { font-size: 11px; color: var(--tx3); display: flex; gap: 8px; flex-wrap: wrap; }
+.sh-bar-wrap { width: 120px; flex-shrink: 0; }
+.sh-bar-track { height: 4px; background: var(--bd); border-radius: 2px; overflow: hidden; margin-bottom: 3px; }
+.sh-bar-fill { height: 100%; background: linear-gradient(90deg, #4a7cdc, #58a6ff); border-radius: 2px; }
+.sh-pct { font-size: 13px; font-weight: 600; font-family: var(--mono); color: var(--tx); text-align: right; }
+.sh-shares { font-size: 11px; color: var(--tx3); font-family: var(--mono); text-align: right; }
+.stock-subheader {
+  font-size: 12px;
+  color: var(--tx3);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.code-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+
+/* ── Timeline ── */
+.tl-controls {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  align-items: center;
+}
+.tl-controls label { font-size: 12px; color: var(--tx3); display: flex; align-items: center; gap: 6px; }
+.tl-controls input[type="search"],
+.tl-controls input[type="date"] {
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: var(--r);
+  color: var(--tx);
+  font-size: 12px;
+  padding: 5px 10px;
+  font-family: var(--sans);
+  outline: none;
+}
+.tl-controls input:focus { border-color: var(--accent); }
+
+/* ── Compare chips ── */
+.compare-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  min-height: 32px;
+}
+.compare-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(88,166,255,.12);
+  border: 1px solid rgba(88,166,255,.3);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+.compare-chip button {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1;
+  opacity: .7;
+  transition: opacity .12s;
+}
+.compare-chip button:hover { opacity: 1; }
+
+/* ── Historical data banner ── */
+.historical-banner {
+  background: var(--abg);
+  border: 1px solid rgba(210,153,34,.3);
+  border-radius: var(--r);
+  padding: 8px 14px;
+  font-size: 12px;
+  color: var(--amber);
+  margin-bottom: 14px;
+}
+
+/* ── Entity type badge colours ── */
+.entity-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 1px 6px;
+  border-radius: 8px;
+}
+.entity-corporate { background: rgba(88,166,255,.1); color: var(--accent); border: 1px solid rgba(88,166,255,.2); }
+.entity-fund       { background: rgba(163,113,247,.1); color: var(--purple); border: 1px solid rgba(163,113,247,.2); }
+.entity-individual { background: var(--abg); color: var(--amber); border: 1px solid rgba(210,153,34,.2); }
+.entity-unknown    { background: var(--sf2); color: var(--tx3); border: 1px solid var(--bd); }
+
+/* ── DI cross-link (to CA) ── */
+.di-to-ca {
+  background: var(--sf2);
+  border: 1px solid var(--bd);
+  border-radius: var(--r);
+  padding: 12px 16px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.di-to-ca .cl-label { font-size: 13px; color: var(--tx2); }
+.di-to-ca a { font-size: 13px; color: var(--accent); text-decoration: none; font-weight: 500; white-space: nowrap; }
+.di-to-ca a:hover { text-decoration: underline; }
+
+/* ── Result title ── */
+.result-title { font-size: 16px; font-weight: 600; color: var(--tx); margin-bottom: 16px; }
+
+/* ── Tab panel ── */
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+/* ── Compare matrix heat (stays in di.css) ── */
+.compare-matrix th, .compare-matrix td { min-width: 100px; }
+.compare-matrix td.heat-0 { color: var(--tx3); }
+.compare-matrix td.heat-1 { color: var(--tx2); }
+.compare-matrix td.heat-2 { background: rgba(88,166,255,.06); color: var(--tx); }
+.compare-matrix td.heat-3 { background: rgba(88,166,255,.12); color: var(--accent); }
+.compare-matrix td.heat-4 { background: rgba(63,185,80,.10); color: var(--green); }
+.compare-matrix td.heat-5 { background: rgba(63,185,80,.18); color: var(--green); font-weight: 600; }
+tfoot tr { border-top: 2px solid var(--bd2); }
+tfoot td { font-weight: 500; color: var(--tx); }
