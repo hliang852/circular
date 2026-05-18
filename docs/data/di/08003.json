@@ -1,0 +1,151 @@
+{
+  "code": "08003",
+  "name": "GREAT WORLD COMPANY HOLDINGS LTD.",
+  "last_scraped": "2026-05-18T23:06:12Z",
+  "shareholders": [
+    {
+      "name": "ZHAO XINYAN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 491280000,
+      "long_position_pct": 15.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WIN BLESS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 473780000,
+      "long_position_pct": 14.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Gold City Assets Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 337920000,
+      "long_position_pct": 14.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2016-05-25",
+      "filing_date": "2016-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ng Mui King Joky",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 337920000,
+      "long_position_pct": 14.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2016-05-25",
+      "filing_date": "2016-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ng Mui King, Joky",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 33792000,
+      "long_position_pct": 10.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "lin shunping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 199000000,
+      "long_position_pct": 7.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-03-27",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Gold City Assets Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Mui King, Joky",
+      "long_position_pct": 10.17,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WIN BLESS LIMITED",
+      "long_position_pct": 14.57,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO XINYAN",
+      "long_position_pct": 15.1,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "lin shunping",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2020-03-27",
+      "filing_date": "2020-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SALUS INVESTMENTS LIMITED",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2020-03-27",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gold City Assets Holdings Limited",
+      "long_position_pct": 14.26,
+      "relevant_event_date": "2016-05-25",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Mui King Joky",
+      "long_position_pct": 14.26,
+      "relevant_event_date": "2016-05-25",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

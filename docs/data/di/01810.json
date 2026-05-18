@@ -1,0 +1,2826 @@
+{
+  "code": "01810",
+  "name": "XIAOMI CORPORATION - W",
+  "last_scraped": "2026-05-18T22:59:40Z",
+  "shareholders": [
+    {
+      "name": "Lei Jun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 4023975813,
+      "long_position_pct": 90.06,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morningside Group International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2973276550,
+      "long_position_pct": 18.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morningside Venture (VII) Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2973276550,
+      "long_position_pct": 18.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morningside Ventures Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2973276550,
+      "long_position_pct": 18.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morningside-Springfield Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2973276550,
+      "long_position_pct": 18.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3058947767,
+      "long_position_pct": 17.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3057096844,
+      "long_position_pct": 14.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lin Bin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 444081939,
+      "long_position_pct": 9.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1894527733,
+      "long_position_pct": 8.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1894527733,
+      "long_position_pct": 8.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1835306103,
+      "long_position_pct": 8.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Apex Star LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1706572869,
+      "long_position_pct": 7.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1096161093,
+      "long_position_pct": 5.11,
+      "short_position_shares": 22968000,
+      "short_position_pct": 0.11,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.49,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 8.8,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 8.79,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 8.74,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2025-11-10",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-06-09",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.28,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 8.58,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.53,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 13.08,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 12.79,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 13.08,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.13,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2024-11-12",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2024-11-12",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2024-11-12",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2024-11-12",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2024-10-08",
+      "filing_date": "2024-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2024-08-15",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.73,
+      "relevant_event_date": "2024-08-15",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2024-08-15",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.22,
+      "relevant_event_date": "2024-08-15",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2024-06-06",
+      "filing_date": "2024-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2024-06-05",
+      "filing_date": "2024-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2023-11-15",
+      "filing_date": "2023-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.51,
+      "relevant_event_date": "2023-11-15",
+      "filing_date": "2023-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-11-15",
+      "filing_date": "2023-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.24,
+      "relevant_event_date": "2023-11-15",
+      "filing_date": "2023-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.46,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.23,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.43,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.24,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.47,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.28,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 14.99,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 8.34,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.34,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.27,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.24,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.23,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.12,
+      "relevant_event_date": "2021-08-31",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2021-08-20",
+      "filing_date": "2021-08-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 10.63,
+      "relevant_event_date": "2021-08-20",
+      "filing_date": "2021-08-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2021-08-20",
+      "filing_date": "2021-08-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.49,
+      "relevant_event_date": "2021-08-20",
+      "filing_date": "2021-08-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 17.11,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 10.61,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 12.13,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.49,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2021-03-25",
+      "filing_date": "2021-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.43,
+      "relevant_event_date": "2021-03-25",
+      "filing_date": "2021-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 8.81,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 11.95,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 11.5,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 11.21,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 11.5,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 12.09,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 11.79,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 12.09,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 17.23,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 16.93,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 17.23,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apex Star LLC",
+      "long_position_pct": 9.27,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 12.09,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 11.79,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 12.09,
+      "relevant_event_date": "2020-11-27",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.94,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 34.93,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 34.93,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 1.65,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.96,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 1.65,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 1.71,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 1.38,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 1.38,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 1.65,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 1.71,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 1.65,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.96,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.79,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2020-01-02",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 10.52,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 10.49,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 8.93,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 8.93,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 10.52,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 10.49,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2019-12-12",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2019-12-02",
+      "filing_date": "2019-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.85,
+      "relevant_event_date": "2019-12-02",
+      "filing_date": "2019-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2019-12-02",
+      "filing_date": "2019-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 11.86,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 11.86,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 11.99,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 10.18,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 10.18,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 11.99,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.8,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 14.51,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 12.36,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 12.36,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 14.51,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2019-07-04",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 27.87,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.67,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 15.12,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 15.12,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 15.69,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 15.69,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 13.59,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 13.59,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 15.69,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 15.69,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 16.21,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 16.21,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 13.27,
+      "relevant_event_date": "2019-03-11",
+      "filing_date": "2019-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 15.5,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 16.35,
+      "relevant_event_date": "2019-01-15",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 16.35,
+      "relevant_event_date": "2019-01-15",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 15.54,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Apoletto Managers Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-01-09",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cardew Services Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-01-09",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Galileo (PTC) Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-01-09",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 17.85,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP II, Ltd.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP II, L.P.",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 18.07,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 18.07,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 13.48,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 15.72,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 13.48,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 13.13,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 13.48,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 16.82,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 15.35,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 15.35,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 17.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Apoletto Managers Limited",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 14.56,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cardew Services Limited",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Galileo (PTC) Limited",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Landmark Trust Switzerland SA",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 16.97,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 35.85,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lou Yiting",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT Fund I, L.P.",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside China TMT GP, L.P.",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside Group International Limited",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside Venture (VII) Investments Limited",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside Ventures Limited",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morningside-Springfield Group Limited",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 14.56,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Parkway Global Holdings Limited",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP II, Ltd.",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP II, L.P.",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Jianming",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Mobile Holdings Limited",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 14.56,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunrise Vision Holdings Limited",
+      "long_position_pct": 64.15,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMT General Partner Ltd.",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "code": "03321",
+  "name": "ZHONGKE GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-05-18T23:04:14Z",
+  "shareholders": [
+    {
+      "name": "Copious Astute Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 214093000,
+      "long_position_pct": 42.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Kam Hung",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 214093000,
+      "long_position_pct": 42.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ng Suk Fun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 214093000,
+      "long_position_pct": 42.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 39940000,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39885000,
+      "long_position_pct": 7.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hung Sai Yeung",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 25715000,
+      "long_position_pct": 5.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yiu Li Ngor",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 25715000,
+      "long_position_pct": 5.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "申木平",
+      "long_position_pct": 2.8,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "申木平",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE CHEONG SUN",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Cheong Sun",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE CHEONG SUN",
+      "long_position_pct": 9.41,
+      "relevant_event_date": "2025-09-04",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE CHEONG SUN",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LOKE CHE CHAN GILBERT",
+      "long_position_pct": 0.15,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Loke Che Chan Gilbert",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2024-10-07",
+      "filing_date": "2024-10-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 2.36,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 2.36,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 8.59,
+      "relevant_event_date": "2024-03-18",
+      "filing_date": "2024-03-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 8.59,
+      "relevant_event_date": "2024-03-18",
+      "filing_date": "2024-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 18.22,
+      "relevant_event_date": "2024-02-28",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 18.22,
+      "relevant_event_date": "2024-02-28",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 18.6,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 20.4,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 18.6,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 20.4,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Guanqi",
+      "long_position_pct": 19.5,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Copious Astute Limited",
+      "long_position_pct": 42.42,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Daily Charm Inc.",
+      "long_position_pct": 19.5,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kam Hung",
+      "long_position_pct": 42.42,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Suk Fun",
+      "long_position_pct": 42.42,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Copious Astute Limited",
+      "long_position_pct": 66.9,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kam Hung",
+      "long_position_pct": 66.9,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Suk Fun",
+      "long_position_pct": 66.9,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hung Sai Yeung",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hung Sai Yeung",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yiu Li Ngor",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yiu Li Ngor",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hung Sai Yeung",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-09-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yiu Li Ngor",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-09-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "long_position_pct": 8.11,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Copious Astute Limited",
+      "long_position_pct": 67.5,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Phoenix Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leong Lap Kun",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kam Hung",
+      "long_position_pct": 67.5,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Suk Fun",
+      "long_position_pct": 67.5,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

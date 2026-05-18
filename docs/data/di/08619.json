@@ -1,0 +1,1263 @@
+{
+  "code": "08619",
+  "name": "NIU HOLDINGS LTD.",
+  "last_scraped": "2026-05-18T23:06:19Z",
+  "shareholders": [
+    {
+      "name": "Yuen Chi Ping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 218236000,
+      "long_position_pct": 15.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHAN Yin Nin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 12348650,
+      "long_position_pct": 8.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 109032000,
+      "long_position_pct": 7.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 109032000,
+      "long_position_pct": 7.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 109032000,
+      "long_position_pct": 7.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109032000,
+      "long_position_pct": 7.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Makarov Vitaly",
+      "long_position_pct": 3.23,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Makarov Vitaly",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Yin Nin",
+      "long_position_pct": 8.54,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Makarov Vitaly",
+      "long_position_pct": 6.12,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Makarov Vitaly",
+      "long_position_pct": 6.12,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Makarov Vitaly",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yuen Chi Ping",
+      "long_position_pct": 15.79,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-01-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-01-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-01-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-01-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-01-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 20.41,
+      "relevant_event_date": "2024-08-07",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 20.41,
+      "relevant_event_date": "2024-08-07",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 20.41,
+      "relevant_event_date": "2024-08-07",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 20.41,
+      "relevant_event_date": "2024-08-07",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 20.41,
+      "relevant_event_date": "2024-08-07",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 24.12,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 24.12,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 24.12,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 24.12,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 24.12,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 3.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 7.43,
+      "relevant_event_date": "2023-10-26",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 9.82,
+      "relevant_event_date": "2023-10-25",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 10.76,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 10.92,
+      "relevant_event_date": "2023-10-20",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 12.1,
+      "relevant_event_date": "2023-09-14",
+      "filing_date": "2023-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2023-02-27",
+      "filing_date": "2023-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 10.12,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2023-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 10.54,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 29.69,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 29.69,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 29.69,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 29.69,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 29.69,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2022-01-14",
+      "filing_date": "2022-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2022-01-13",
+      "filing_date": "2022-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Alpha Generator Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rich Merchant Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tang Ho Wai, Howard",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2021-12-28",
+      "filing_date": "2022-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Alpha Generator Limited",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2021-11-19",
+      "filing_date": "2021-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rich Merchant Limited",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2021-11-19",
+      "filing_date": "2021-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tang Ho Wai, Howard",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2021-11-19",
+      "filing_date": "2021-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2021-11-19",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Man Hin Max",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2021-11-19",
+      "filing_date": "2021-11-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alpha Generator Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2021-11-18",
+      "filing_date": "2021-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rich Merchant Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2021-11-18",
+      "filing_date": "2021-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tang Ho Wai, Howard",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2021-11-18",
+      "filing_date": "2021-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Alpha Generator Limited",
+      "long_position_pct": 14.77,
+      "relevant_event_date": "2021-11-16",
+      "filing_date": "2021-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rich Merchant Limited",
+      "long_position_pct": 14.77,
+      "relevant_event_date": "2021-11-16",
+      "filing_date": "2021-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tang Ho Wai, Howard",
+      "long_position_pct": 14.77,
+      "relevant_event_date": "2021-11-16",
+      "filing_date": "2021-11-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Alpha Generator Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rich Merchant Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Ho Wai, Howard",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN XIAO FEN",
+      "long_position_pct": 4.17,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE LIANG",
+      "long_position_pct": 4.17,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 41.05,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 41.05,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN XIAO FEN",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 41.05,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 41.05,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 41.05,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE LIANG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Choi Hing Lin Lori",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Shu Chung",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Choi Hing Lin Lori",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2019-11-25",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Shu Chung",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2019-11-25",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG YANHONG",
+      "long_position_pct": 4.46,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2019-10-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG YANHONG",
+      "long_position_pct": 9.51,
+      "relevant_event_date": "2019-03-13",
+      "filing_date": "2019-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG YANHONG",
+      "long_position_pct": 14.72,
+      "relevant_event_date": "2019-03-06",
+      "filing_date": "2019-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Galaxy Sourcing Limited",
+      "long_position_pct": 1.04,
+      "relevant_event_date": "2019-01-16",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yuen Fung Ting",
+      "long_position_pct": 1.04,
+      "relevant_event_date": "2019-01-16",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG YANHONG",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2019-01-16",
+      "filing_date": "2019-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Julia Gower",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yin Nin",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Galaxy Sourcing Limited",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwong Po Lam",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Kwai Ping",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Manning Properties Limited (萬年地產發展有限公司)",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuen Fung Ting",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

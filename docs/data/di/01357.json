@@ -1,0 +1,2637 @@
+{
+  "code": "01357",
+  "name": "MEITU, INC.",
+  "last_scraped": "2026-05-18T22:58:51Z",
+  "shareholders": [
+    {
+      "name": "Wu Zeyuan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 593196670,
+      "long_position_pct": 12.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-01",
+      "filing_date": "2025-10-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 566666670,
+      "long_position_pct": 12.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 566666670,
+      "long_position_pct": 12.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liu Chenchen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 517740180,
+      "long_position_pct": 12.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-11-23",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Jiarong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 517740180,
+      "long_position_pct": 11.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-03-30",
+      "filing_date": "2021-03-30",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 433494180,
+      "long_position_pct": 10.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Jiajun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 433334180,
+      "long_position_pct": 10.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cai Wensheng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 454500000,
+      "long_position_pct": 9.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 275206189,
+      "long_position_pct": 6.0,
+      "short_position_shares": 93343110,
+      "short_position_pct": 2.03,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 272600000,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Longlink Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 272600000,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254410975,
+      "long_position_pct": 5.55,
+      "short_position_shares": 9905000,
+      "short_position_pct": 0.22,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.62,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.57,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.54,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2026-04-03",
+      "filing_date": "2026-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "富国基金管理有限公司",
+      "long_position_pct": 4.74,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2026-03-03",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "富国基金管理有限公司",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "富国基金管理有限公司",
+      "long_position_pct": 4.58,
+      "relevant_event_date": "2025-12-16",
+      "filing_date": "2025-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2025-12-05",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-12-04",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.99,
+      "relevant_event_date": "2025-10-01",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 9.95,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "富国基金管理有限公司",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 3.73,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.89,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 10.96,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2025-08-18",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2025-08-15",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2025-08-14",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2025-08-12",
+      "filing_date": "2025-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2025-08-11",
+      "filing_date": "2025-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2025-08-07",
+      "filing_date": "2025-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2025-08-06",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.83,
+      "relevant_event_date": "2025-08-05",
+      "filing_date": "2025-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "富国基金管理有限公司",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2025-08-05",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2025-07-29",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 14.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 15.93,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2025-06-20",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-06-19",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 16.93,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2025-06-17",
+      "filing_date": "2025-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 8.7,
+      "relevant_event_date": "2025-06-13",
+      "filing_date": "2025-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 17.68,
+      "relevant_event_date": "2025-06-13",
+      "filing_date": "2025-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2025-06-13",
+      "filing_date": "2025-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.3,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 18.8,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 19.81,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2025-05-16",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-05-14",
+      "filing_date": "2025-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2025-05-12",
+      "filing_date": "2025-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.17,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2025-03-03",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 20.62,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 10.79,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 10.79,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 21.36,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 11.53,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 11.53,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 21.85,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 12.02,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 12.02,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.97,
+      "relevant_event_date": "2024-10-01",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-22",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.69,
+      "relevant_event_date": "2024-06-18",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.67,
+      "relevant_event_date": "2024-04-01",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 9.88,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.83,
+      "relevant_event_date": "2024-03-01",
+      "filing_date": "2024-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.83,
+      "relevant_event_date": "2024-02-01",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 1.45,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 3.29,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 1.45,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.83,
+      "relevant_event_date": "2024-01-01",
+      "filing_date": "2024-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2023-12-22",
+      "filing_date": "2023-12-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2023-12-22",
+      "filing_date": "2023-12-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2023-12-22",
+      "filing_date": "2023-12-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 23.85,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 13.85,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 13.85,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 11.03,
+      "relevant_event_date": "2023-11-08",
+      "filing_date": "2023-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 24.97,
+      "relevant_event_date": "2023-11-08",
+      "filing_date": "2023-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-11-01",
+      "filing_date": "2023-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-10-01",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-08-01",
+      "filing_date": "2023-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2023-07-01",
+      "filing_date": "2023-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 25.35,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2023-04-04",
+      "filing_date": "2023-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2023-04-01",
+      "filing_date": "2023-04-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2023-03-04",
+      "filing_date": "2023-03-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2023-02-04",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 25.36,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 13.96,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 13.96,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-12-04",
+      "filing_date": "2022-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-11-04",
+      "filing_date": "2022-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-10-04",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-09-04",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.72,
+      "relevant_event_date": "2022-06-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-06-04",
+      "filing_date": "2022-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-05-04",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-04-04",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.9,
+      "relevant_event_date": "2022-04-01",
+      "filing_date": "2022-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.9,
+      "relevant_event_date": "2021-03-30",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.0,
+      "relevant_event_date": "2020-11-23",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 12.0,
+      "relevant_event_date": "2020-11-23",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2020-06-03",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 11.78,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 26.2,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 13.18,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 14.42,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 14.42,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 13.21,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 13.18,
+      "relevant_event_date": "2019-11-29",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.41,
+      "relevant_event_date": "2019-11-19",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leyou Technologies Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-30",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Port New Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-30",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuk Kwok Cheung Charles",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-30",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leyou Technologies Holdings Limited",
+      "long_position_pct": 23.58,
+      "relevant_event_date": "2019-02-19",
+      "filing_date": "2019-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Port New Limited",
+      "long_position_pct": 23.58,
+      "relevant_event_date": "2019-02-19",
+      "filing_date": "2019-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuk Kwok Cheung Charles",
+      "long_position_pct": 23.58,
+      "relevant_event_date": "2019-02-19",
+      "filing_date": "2019-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 10.31,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.31,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 10.31,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 12.31,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 40.54,
+      "relevant_event_date": "2018-11-30",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.96,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.03,
+      "relevant_event_date": "2018-09-26",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.02,
+      "relevant_event_date": "2018-09-26",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 12.03,
+      "relevant_event_date": "2018-09-26",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.5,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.49,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.42,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.3,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.23,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.18,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III Associates L.P.",
+      "long_position_pct": 4.64,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III L.P.",
+      "long_position_pct": 4.64,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU Quan",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.15,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baolink Capital Ltd",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cai Wensheng",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easy Prestige Limited",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Capital Ltd",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Longlink Limited",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zeyuan",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Xinhong Capital Limited",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 9.79,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.18,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 9.79,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 9.79,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 11.18,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 14.78,
+      "relevant_event_date": "2017-08-25",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 14.78,
+      "relevant_event_date": "2017-08-25",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 15.05,
+      "relevant_event_date": "2017-08-15",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 15.05,
+      "relevant_event_date": "2017-08-15",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HO Chi Sing",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2017-07-25",
+      "filing_date": "2017-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2017-07-25",
+      "filing_date": "2017-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III Associates L.P.",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2017-07-25",
+      "filing_date": "2017-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III L.P.",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2017-07-25",
+      "filing_date": "2017-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2017-07-25",
+      "filing_date": "2017-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 13.35,
+      "relevant_event_date": "2017-07-17",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2017-07-17",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2017-07-10",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2017-07-10",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2017-07-10",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd",
+      "long_position_pct": 1.37,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 1.33,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 1.33,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiajun",
+      "long_position_pct": 11.82,
+      "relevant_event_date": "2017-06-30",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Jiarong",
+      "long_position_pct": 11.82,
+      "relevant_event_date": "2017-06-30",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kingkey Enterprise Holdings Limited",
+      "long_position_pct": 11.82,
+      "relevant_event_date": "2017-06-30",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Chenchen",
+      "long_position_pct": 11.82,
+      "relevant_event_date": "2017-06-30",
+      "filing_date": "2020-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

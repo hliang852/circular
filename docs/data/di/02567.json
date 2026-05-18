@@ -1,0 +1,594 @@
+{
+  "code": "02567",
+  "name": "QINIU LTD.",
+  "last_scraped": "2026-05-18T23:02:40Z",
+  "shareholders": [
+    {
+      "name": "Xu Shiwei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1068634873,
+      "long_position_pct": 53.33,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-25",
+      "filing_date": "2026-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Pei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1068634873,
+      "long_position_pct": 53.33,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-25",
+      "filing_date": "2026-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dream Galaxy Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1059143873,
+      "long_position_pct": 52.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 320114456,
+      "long_position_pct": 15.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 320114456,
+      "long_position_pct": 15.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Taobao Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 320114456,
+      "long_position_pct": 15.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Magic Logistics Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 228437469,
+      "long_position_pct": 11.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yu Feng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 228437469,
+      "long_position_pct": 11.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yunfeng Fund II AIV GP, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 228437469,
+      "long_position_pct": 11.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yunfeng Fund II AIV, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 228437469,
+      "long_position_pct": 11.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MPC GPGP II Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 137324957,
+      "long_position_pct": 6.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MPC Management II L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 137324957,
+      "long_position_pct": 6.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Su David Tuong Sing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 137324957,
+      "long_position_pct": 6.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Structural Reform Fund Corporation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134543304,
+      "long_position_pct": 6.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "EverestLu Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134543304,
+      "long_position_pct": 6.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MPC II L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 118902555,
+      "long_position_pct": 5.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 113289559,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 110408572,
+      "long_position_pct": 5.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Mingxing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 108052380,
+      "long_position_pct": 5.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dustland Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108052380,
+      "long_position_pct": 5.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lyu Guihua",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 108052380,
+      "long_position_pct": 5.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "MPC II L.P.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MPC GPGP II Ltd.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MPC Management II L.P.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Su David Tuong Sing",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Shiwei",
+      "long_position_pct": 53.33,
+      "relevant_event_date": "2026-04-25",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Pei",
+      "long_position_pct": 53.33,
+      "relevant_event_date": "2026-04-25",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream Galaxy Holdings Limited",
+      "long_position_pct": 52.86,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Shiwei",
+      "long_position_pct": 52.86,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Pei",
+      "long_position_pct": 52.86,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 4.57,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Taobao Holding Limited",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Dustland Ltd.",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lyu Guihua",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "long_position_pct": 16.27,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Mingxing",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Structural Reform Fund Corporation Limited",
+      "long_position_pct": 6.74,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream Galaxy Holdings Limited",
+      "long_position_pct": 53.71,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dustland Ltd.",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EverestLu Holding Limited",
+      "long_position_pct": 6.74,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lyu Guihua",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Magic Logistics Investment Limited",
+      "long_position_pct": 11.44,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MPC GPGP II Ltd.",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MPC II L.P.",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MPC Management II L.P.",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 6.12,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Su David Tuong Sing",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "long_position_pct": 16.27,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taobao Holding Limited",
+      "long_position_pct": 16.27,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Shiwei",
+      "long_position_pct": 53.71,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Feng",
+      "long_position_pct": 11.44,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yunfeng Fund II AIV GP, Ltd.",
+      "long_position_pct": 11.44,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yunfeng Fund II AIV, L.P.",
+      "long_position_pct": 11.44,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Pei",
+      "long_position_pct": 53.71,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

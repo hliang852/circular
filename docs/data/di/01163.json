@@ -1,0 +1,979 @@
+{
+  "code": "01163",
+  "name": "ADTIGER CORPORATIONS LTD.",
+  "last_scraped": "2026-05-18T22:58:22Z",
+  "shareholders": [
+    {
+      "name": "Chang Sufang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 288000000,
+      "long_position_pct": 32.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Hui",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 288000000,
+      "long_position_pct": 32.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 244125000,
+      "long_position_pct": 27.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 244125000,
+      "long_position_pct": 27.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YANG WEI",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 244125000,
+      "long_position_pct": 27.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 229500000,
+      "long_position_pct": 25.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pentacles Ace Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 229500000,
+      "long_position_pct": 25.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Rowtel Technology Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 229500000,
+      "long_position_pct": 25.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 58500000,
+      "long_position_pct": 6.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 58500000,
+      "long_position_pct": 6.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 27.23,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 27.23,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 27.23,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 24.96,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 24.96,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 24.96,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 22.51,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 22.51,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 22.51,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 19.27,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 19.27,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 19.27,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 17.52,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 17.52,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 17.52,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 15.29,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 15.29,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 15.29,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 13.23,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 13.23,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 13.23,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huo Yuwei",
+      "long_position_pct": 4.63,
+      "relevant_event_date": "2025-04-28",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KUN PENG GLOBAL INVESTMENT COMPANY LIMITED",
+      "long_position_pct": 4.63,
+      "relevant_event_date": "2025-04-28",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huo Yuwei",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KUN PENG GLOBAL INVESTMENT COMPANY LIMITED",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 25.6,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 32.13,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetech Media Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pentacles Ace Limited",
+      "long_position_pct": 25.6,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 10.2,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 10.2,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 32.13,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetech Media Limited",
+      "long_position_pct": 25.6,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huo Yuwei",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huo Yuwei",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KUN PENG GLOBAL INVESTMENT COMPANY LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KUN PENG GLOBAL INVESTMENT COMPANY LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KUN PENG GLOBAL INVESTMENT COMPANY LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 32.13,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rowtel Technology Limited",
+      "long_position_pct": 25.6,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 10.2,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 12.24,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 12.24,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 12.24,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2024-05-24",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2024-05-24",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2024-05-24",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE BLUE LIMITED",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CASE HOLDINGS GROUP LIMITED",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 38.55,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 38.55,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Southpac Trust International Inc.",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taschh Limited",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiequan LLC",
+      "long_position_pct": 4.02,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG WEI",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 42.57,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 11.85,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 42.57,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 11.85,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 48.19,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetech Media Limited",
+      "long_position_pct": 30.72,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 17.47,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 12.05,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 48.19,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rowtel Technology Limited",
+      "long_position_pct": 30.72,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Southpac Trust International Inc.",
+      "long_position_pct": 12.05,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taschh Limited",
+      "long_position_pct": 12.05,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiequan LLC",
+      "long_position_pct": 12.05,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 17.47,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HARVESTON ASSET MANAGEMENT PTE. LTD.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 57.83,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetech Media Limited",
+      "long_position_pct": 36.87,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 20.96,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 14.46,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 57.83,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rowtel Technology Limited",
+      "long_position_pct": 36.87,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Southpac Trust International Inc.",
+      "long_position_pct": 14.46,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taschh Limited",
+      "long_position_pct": 14.46,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiequan LLC",
+      "long_position_pct": 14.46,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 20.96,
+      "relevant_event_date": "2020-08-04",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HARVESTON ASSET MANAGEMENT PTE. LTD.",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HARVESTON ASSET MANAGEMENT PTE. LTD.",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HARVESTON ASSET MANAGEMENT PTE. LTD.",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HARVESTON ASSET MANAGEMENT PTE. LTD.",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2020-07-20",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Sufang",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetech Media Limited",
+      "long_position_pct": 38.2,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hera Bridge Media Limited",
+      "long_position_pct": 21.8,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hsia Timothy Chunhon",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rowtel Technology Limited",
+      "long_position_pct": 38.2,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Southpac Trust International Inc.",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taschh Limited",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiequan LLC",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Westel Technology Limited",
+      "long_position_pct": 21.8,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

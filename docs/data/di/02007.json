@@ -1,0 +1,4605 @@
+{
+  "code": "02007",
+  "name": "COUNTRY GARDEN HOLDINGS CO. LTD.",
+  "last_scraped": "2026-05-18T23:00:27Z",
+  "shareholders": [
+    {
+      "name": "CHEN Chong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 29408668232,
+      "long_position_pct": 63.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 29408668232,
+      "long_position_pct": 63.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YANG Huiyan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 29408668232,
+      "long_position_pct": 63.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2615413454,
+      "long_position_pct": 5.96,
+      "short_position_shares": 75618547,
+      "short_position_pct": 0.17,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 64.48,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 64.48,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 64.48,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 64.51,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 64.51,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 64.51,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 64.72,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 64.72,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 64.72,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 66.55,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 66.55,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 66.55,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 66.56,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 66.56,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 66.56,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 66.6,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 66.6,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 66.6,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 66.66,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 66.66,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 66.66,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 66.99,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 66.99,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 66.99,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 67.03,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 67.03,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 67.03,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 67.07,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 67.07,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 67.07,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 67.38,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 67.38,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 67.38,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.16,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.16,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.16,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.63,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.63,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.63,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.65,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.65,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.65,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.89,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.89,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.89,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.92,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.92,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.92,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 68.99,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 68.99,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 68.99,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.02,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.02,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.02,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.06,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.06,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.06,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.07,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.07,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.07,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.1,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.1,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.1,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.46,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.46,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.46,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.62,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.62,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.62,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.65,
+      "relevant_event_date": "2026-03-05",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.65,
+      "relevant_event_date": "2026-03-05",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.65,
+      "relevant_event_date": "2026-03-05",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.69,
+      "relevant_event_date": "2026-03-04",
+      "filing_date": "2026-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.69,
+      "relevant_event_date": "2026-03-04",
+      "filing_date": "2026-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.69,
+      "relevant_event_date": "2026-03-04",
+      "filing_date": "2026-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.85,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.85,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.85,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 69.88,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 69.88,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 69.88,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.32,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.32,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.32,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.37,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.37,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.37,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.41,
+      "relevant_event_date": "2026-02-23",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.41,
+      "relevant_event_date": "2026-02-23",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.41,
+      "relevant_event_date": "2026-02-23",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.47,
+      "relevant_event_date": "2026-02-20",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.47,
+      "relevant_event_date": "2026-02-20",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.47,
+      "relevant_event_date": "2026-02-20",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.49,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.49,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.49,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.59,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.59,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.59,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 70.88,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 70.88,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 70.88,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 71.14,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 71.14,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 71.14,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 71.15,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 71.15,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 71.15,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 71.73,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 71.73,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 71.73,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 71.95,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 71.95,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 71.95,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 72.0,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 72.0,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 72.0,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 74.0,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 74.0,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 74.0,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 74.69,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 74.69,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 74.69,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 75.05,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 75.05,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 75.05,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 76.31,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 76.31,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 76.31,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 76.42,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 76.42,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 76.42,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 76.59,
+      "relevant_event_date": "2026-01-26",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 76.59,
+      "relevant_event_date": "2026-01-26",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 76.59,
+      "relevant_event_date": "2026-01-26",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 78.84,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 78.84,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 78.84,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 79.81,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 79.81,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.7,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 79.81,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 80.46,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 80.46,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 80.46,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 84.26,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 84.26,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 84.26,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "long_position_pct": 4.83,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 84.46,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 84.46,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 84.46,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 88.0,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 88.0,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 88.0,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 6.33,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 96.9,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 96.9,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 96.9,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 98.14,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 98.14,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 98.14,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 100.03,
+      "relevant_event_date": "2026-01-12",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 100.03,
+      "relevant_event_date": "2026-01-12",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 100.03,
+      "relevant_event_date": "2026-01-12",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2026-01-09",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.55,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jane Street Group, LLC",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.49,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LMR Partners Limited",
+      "long_position_pct": 4.32,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.61,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-01-05",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LMR Partners Limited",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2026-01-05",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2026-01-05",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 101.68,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 101.68,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LMR Partners Limited",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 101.68,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 105.07,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 105.07,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 105.07,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.75,
+      "relevant_event_date": "2023-08-15",
+      "filing_date": "2023-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2023-08-14",
+      "filing_date": "2023-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An of China Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-08-11",
+      "filing_date": "2023-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安人寿保险股份有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-08-11",
+      "filing_date": "2023-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-08-11",
+      "filing_date": "2023-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 52.6,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 52.6,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 2.86,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 52.6,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.22,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 56.22,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An of China Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.22,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安人寿保险股份有限公司",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2022-11-22",
+      "filing_date": "2022-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.6,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.6,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.6,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An of China Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 2.64,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.51,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安人寿保险股份有限公司",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2022-07-29",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 62.79,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 61.25,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2021-11-04",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.88,
+      "relevant_event_date": "2021-11-03",
+      "filing_date": "2021-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.88,
+      "relevant_event_date": "2021-11-03",
+      "filing_date": "2021-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.88,
+      "relevant_event_date": "2021-11-03",
+      "filing_date": "2021-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.83,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.83,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.83,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.65,
+      "relevant_event_date": "2021-09-16",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.81,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.81,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.81,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安人寿保险股份有限公司",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.08,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-07-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.08,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.08,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-07-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.06,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.06,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.06,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.04,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.04,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.04,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.03,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.03,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.03,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.95,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.95,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.95,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.92,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.92,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.92,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.9,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.9,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.9,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2021-06-04",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2021-06-02",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.87,
+      "relevant_event_date": "2021-05-26",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.87,
+      "relevant_event_date": "2021-05-26",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.87,
+      "relevant_event_date": "2021-05-26",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.79,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.79,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.79,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2021-05-24",
+      "filing_date": "2021-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2021-05-24",
+      "filing_date": "2021-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2021-05-24",
+      "filing_date": "2021-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.61,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.61,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.61,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.57,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.57,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.57,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.52,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.52,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.52,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.43,
+      "relevant_event_date": "2021-05-17",
+      "filing_date": "2021-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.43,
+      "relevant_event_date": "2021-05-17",
+      "filing_date": "2021-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.43,
+      "relevant_event_date": "2021-05-17",
+      "filing_date": "2021-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.4,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.4,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.4,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.37,
+      "relevant_event_date": "2021-05-13",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.37,
+      "relevant_event_date": "2021-05-13",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.37,
+      "relevant_event_date": "2021-05-13",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.34,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.34,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.34,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.32,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.32,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.32,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.29,
+      "relevant_event_date": "2021-04-07",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.29,
+      "relevant_event_date": "2021-04-07",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.29,
+      "relevant_event_date": "2021-04-07",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.25,
+      "relevant_event_date": "2021-04-01",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.25,
+      "relevant_event_date": "2021-04-01",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.25,
+      "relevant_event_date": "2021-04-01",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.15,
+      "relevant_event_date": "2021-03-30",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.15,
+      "relevant_event_date": "2021-03-30",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.15,
+      "relevant_event_date": "2021-03-30",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 59.06,
+      "relevant_event_date": "2021-03-29",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 59.06,
+      "relevant_event_date": "2021-03-29",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 59.06,
+      "relevant_event_date": "2021-03-29",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.94,
+      "relevant_event_date": "2021-03-26",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.94,
+      "relevant_event_date": "2021-03-26",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.94,
+      "relevant_event_date": "2021-03-26",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.72,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.72,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.72,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2020-12-22",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2020-12-22",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2020-12-22",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.67,
+      "relevant_event_date": "2020-12-17",
+      "filing_date": "2020-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.67,
+      "relevant_event_date": "2020-12-17",
+      "filing_date": "2020-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.67,
+      "relevant_event_date": "2020-12-17",
+      "filing_date": "2020-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.65,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-14",
+      "filing_date": "2020-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-14",
+      "filing_date": "2020-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-14",
+      "filing_date": "2020-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-11",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-11",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.63,
+      "relevant_event_date": "2020-12-11",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.62,
+      "relevant_event_date": "2020-12-10",
+      "filing_date": "2020-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.62,
+      "relevant_event_date": "2020-12-10",
+      "filing_date": "2020-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.62,
+      "relevant_event_date": "2020-12-10",
+      "filing_date": "2020-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-09",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-08",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-08",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.61,
+      "relevant_event_date": "2020-12-08",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.57,
+      "relevant_event_date": "2020-11-10",
+      "filing_date": "2020-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.57,
+      "relevant_event_date": "2020-11-10",
+      "filing_date": "2020-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.57,
+      "relevant_event_date": "2020-11-10",
+      "filing_date": "2020-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.46,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.46,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.46,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.21,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.21,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.21,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.13,
+      "relevant_event_date": "2020-11-03",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.13,
+      "relevant_event_date": "2020-11-03",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.13,
+      "relevant_event_date": "2020-11-03",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.05,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.05,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.05,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.01,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.01,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.01,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.95,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.95,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.95,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.89,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.89,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.89,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.85,
+      "relevant_event_date": "2020-10-23",
+      "filing_date": "2020-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.85,
+      "relevant_event_date": "2020-10-23",
+      "filing_date": "2020-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.85,
+      "relevant_event_date": "2020-10-23",
+      "filing_date": "2020-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.8,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.8,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.8,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.62,
+      "relevant_event_date": "2020-10-08",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.62,
+      "relevant_event_date": "2020-10-08",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.62,
+      "relevant_event_date": "2020-10-08",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.57,
+      "relevant_event_date": "2020-10-07",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.57,
+      "relevant_event_date": "2020-10-07",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.57,
+      "relevant_event_date": "2020-10-07",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.48,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.48,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.48,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.43,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.43,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.43,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.35,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.35,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.35,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.32,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.32,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.32,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.27,
+      "relevant_event_date": "2020-09-18",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.27,
+      "relevant_event_date": "2020-09-18",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.27,
+      "relevant_event_date": "2020-09-18",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2020-09-04",
+      "filing_date": "2020-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2020-09-04",
+      "filing_date": "2020-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2020-09-04",
+      "filing_date": "2020-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.22,
+      "relevant_event_date": "2020-09-03",
+      "filing_date": "2020-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.22,
+      "relevant_event_date": "2020-09-03",
+      "filing_date": "2020-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.22,
+      "relevant_event_date": "2020-09-03",
+      "filing_date": "2020-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.19,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.19,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.19,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2019-11-22",
+      "filing_date": "2019-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2019-11-22",
+      "filing_date": "2019-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2019-11-22",
+      "filing_date": "2019-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2019-11-04",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2019-11-04",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2019-11-04",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.56,
+      "relevant_event_date": "2019-10-21",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.56,
+      "relevant_event_date": "2019-10-21",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.56,
+      "relevant_event_date": "2019-10-21",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 57.47,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.47,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.47,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.89,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.47,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.23,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.64,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 13.12,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.23,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.17,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.6,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.17,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.16,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.58,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 13.1,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.16,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.54,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.09,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.53,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.09,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.08,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.52,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.08,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.07,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.51,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.07,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.4,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.93,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.86,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.33,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.86,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.81,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.28,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.81,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.77,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.24,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.77,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.71,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.18,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.71,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Life Insurance Company of China, Ltd.",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2018-02-07",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ping An Life Insurance Company of China, Ltd.",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2018-02-06",
+      "filing_date": "2018-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 56.7,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 55.76,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.17,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 41.94,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 56.7,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 55.76,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.93,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 44.1,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.93,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.9,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 44.08,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.9,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.88,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.86,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 44.06,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 44.03,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 13.34,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.88,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.86,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.82,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 44.01,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.82,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.77,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.96,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.77,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.73,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.91,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.73,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.9,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 43.88,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genesis Capital Global Limited",
+      "long_position_pct": 13.33,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2016-06-13",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ping An Life Insurance Company of China, Ltd.",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2015-04-20",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2015-04-20",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国平安保险（集团）股份有限公司",
+      "long_position_pct": 10.99,
+      "relevant_event_date": "2015-04-01",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

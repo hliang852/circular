@@ -1,0 +1,1561 @@
+{
+  "code": "01762",
+  "name": "WANKA ONLINE INC.",
+  "last_scraped": "2026-05-18T22:59:18Z",
+  "shareholders": [
+    {
+      "name": "GAO Dinan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 470879300,
+      "long_position_pct": 23.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LU Haiyan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 470879300,
+      "long_position_pct": 23.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 420879300,
+      "long_position_pct": 21.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JIANG Yu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 229190000,
+      "long_position_pct": 11.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "United Millennial Tech Limited Partnership",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 175300000,
+      "long_position_pct": 11.49,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kung Hung Ka",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 184615384,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wealth Strategy Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 184615384,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 176400000,
+      "long_position_pct": 8.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.71,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.71,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 21.2,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.69,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 11.54,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.69,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 21.17,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kung Hung Ka",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 21.17,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 8.88,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 21.17,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wealth Strategy Holding Limited",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.75,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.75,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 23.75,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.74,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 10.12,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.74,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 23.74,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.73,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 10.11,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.73,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 9.95,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 23.73,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.71,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 10.22,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.71,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 23.71,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 23.7,
+      "relevant_event_date": "2025-09-02",
+      "filing_date": "2025-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 23.7,
+      "relevant_event_date": "2025-09-02",
+      "filing_date": "2025-09-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 23.7,
+      "relevant_event_date": "2025-09-02",
+      "filing_date": "2025-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Yu",
+      "long_position_pct": 11.67,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "PioneerHorizons Holdings Limited",
+      "long_position_pct": 11.49,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 27.48,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 2.85,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 2.85,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 2.85,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 2.85,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 1.54,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 13.03,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 1.54,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 13.03,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 27.48,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 27.48,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "United Millennial Tech Limited Partnership",
+      "long_position_pct": 11.49,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 27.48,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 1.54,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 13.03,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 30.58,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.55,
+      "relevant_event_date": "2023-06-12",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.55,
+      "relevant_event_date": "2023-06-12",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2023-05-11",
+      "filing_date": "2023-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2023-05-11",
+      "filing_date": "2023-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.19,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 32.04,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.97,
+      "relevant_event_date": "2022-04-20",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.97,
+      "relevant_event_date": "2022-04-20",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.9,
+      "relevant_event_date": "2022-04-19",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.9,
+      "relevant_event_date": "2022-04-19",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.83,
+      "relevant_event_date": "2022-04-14",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.83,
+      "relevant_event_date": "2022-04-14",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.76,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.76,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.69,
+      "relevant_event_date": "2022-04-12",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.69,
+      "relevant_event_date": "2022-04-12",
+      "filing_date": "2022-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.62,
+      "relevant_event_date": "2022-04-11",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.62,
+      "relevant_event_date": "2022-04-11",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2021-10-25",
+      "filing_date": "2021-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 32.86,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 33.56,
+      "relevant_event_date": "2021-03-01",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 4.69,
+      "relevant_event_date": "2020-12-14",
+      "filing_date": "2020-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2020-11-25",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2019-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 38.35,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Goodluckshome Inc.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUA Xinjiang",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANG Ying",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.25,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.52,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.52,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.51,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.51,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.51,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.51,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.45,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.45,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.36,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.36,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.35,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.35,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.34,
+      "relevant_event_date": "2019-06-25",
+      "filing_date": "2019-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.34,
+      "relevant_event_date": "2019-06-25",
+      "filing_date": "2019-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.37,
+      "relevant_event_date": "2019-06-25",
+      "filing_date": "2019-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Countryside Tech Inc.",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FENG Chun",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Goodluckshome Inc.",
+      "long_position_pct": 9.44,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUA Xinjiang",
+      "long_position_pct": 9.44,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Holdings Co., Ltd.",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Korea Investment Partners Co., Ltd.",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Ying",
+      "long_position_pct": 9.44,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENG Wei",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Jing",
+      "long_position_pct": 6.37,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

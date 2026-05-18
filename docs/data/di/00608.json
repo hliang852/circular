@@ -1,0 +1,5333 @@
+{
+  "code": "00608",
+  "name": "HIGH FASHION INTERNATIONAL LTD.",
+  "last_scraped": "2026-05-18T22:55:59Z",
+  "shareholders": [
+    {
+      "name": "Lam Foo Wah",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 224283361,
+      "long_position_pct": 73.39,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 224283361,
+      "long_position_pct": 73.39,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 171291620,
+      "long_position_pct": 56.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 51201840,
+      "long_position_pct": 16.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-01-11",
+      "filing_date": "2023-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.05,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.39,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.39,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.04,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.38,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.38,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.04,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.38,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.38,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.03,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.02,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.01,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.34,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.99,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.33,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.33,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.97,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.31,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.31,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.95,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.94,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.28,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.28,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.94,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.28,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.28,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2023-10-05",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.75,
+      "relevant_event_date": "2023-01-11",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2023-01-11",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2023-01-11",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.74,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.24,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.24,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.74,
+      "relevant_event_date": "2022-11-01",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.24,
+      "relevant_event_date": "2022-11-01",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.24,
+      "relevant_event_date": "2022-11-01",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.7,
+      "relevant_event_date": "2022-10-31",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.19,
+      "relevant_event_date": "2022-10-31",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.19,
+      "relevant_event_date": "2022-10-31",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.66,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.16,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.16,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.64,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.61,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.11,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.11,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.57,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.06,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.06,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.5,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.47,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.96,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.96,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.43,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.93,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.93,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.4,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.9,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.9,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.37,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.34,
+      "relevant_event_date": "2022-10-14",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.83,
+      "relevant_event_date": "2022-10-14",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.83,
+      "relevant_event_date": "2022-10-14",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.3,
+      "relevant_event_date": "2022-10-13",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2022-10-13",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2022-10-13",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.27,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.77,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.77,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.21,
+      "relevant_event_date": "2022-10-11",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.7,
+      "relevant_event_date": "2022-10-11",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.7,
+      "relevant_event_date": "2022-10-11",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.14,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.64,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.64,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.91,
+      "relevant_event_date": "2022-10-06",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.6,
+      "relevant_event_date": "2022-10-06",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.6,
+      "relevant_event_date": "2022-10-06",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.76,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.46,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.46,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.42,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.42,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.65,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.34,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.34,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.48,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 72.17,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 72.17,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.69,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.69,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.99,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.68,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.68,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.98,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.67,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.67,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.97,
+      "relevant_event_date": "2022-09-20",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.66,
+      "relevant_event_date": "2022-09-20",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.66,
+      "relevant_event_date": "2022-09-20",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.96,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.65,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.65,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.95,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.64,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.64,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.93,
+      "relevant_event_date": "2022-09-09",
+      "filing_date": "2022-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.62,
+      "relevant_event_date": "2022-09-09",
+      "filing_date": "2022-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.62,
+      "relevant_event_date": "2022-09-09",
+      "filing_date": "2022-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.61,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.61,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.88,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.58,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.58,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.55,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.55,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.85,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.54,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.54,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.83,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.52,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.52,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.82,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.52,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.52,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.81,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.51,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.51,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.8,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.5,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.5,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.79,
+      "relevant_event_date": "2022-07-12",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.49,
+      "relevant_event_date": "2022-07-12",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.49,
+      "relevant_event_date": "2022-07-12",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.78,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.48,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.48,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.77,
+      "relevant_event_date": "2022-07-07",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.46,
+      "relevant_event_date": "2022-07-07",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.46,
+      "relevant_event_date": "2022-07-07",
+      "filing_date": "2022-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.44,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.44,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.74,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.43,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.43,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.74,
+      "relevant_event_date": "2022-06-14",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.43,
+      "relevant_event_date": "2022-06-14",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.43,
+      "relevant_event_date": "2022-06-14",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.73,
+      "relevant_event_date": "2022-06-13",
+      "filing_date": "2022-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.42,
+      "relevant_event_date": "2022-06-13",
+      "filing_date": "2022-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.42,
+      "relevant_event_date": "2022-06-13",
+      "filing_date": "2022-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2022-06-08",
+      "filing_date": "2022-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.41,
+      "relevant_event_date": "2022-06-08",
+      "filing_date": "2022-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.41,
+      "relevant_event_date": "2022-06-08",
+      "filing_date": "2022-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.71,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.4,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.4,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.71,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.4,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.4,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.67,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.37,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.37,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.66,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.35,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.35,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.59,
+      "relevant_event_date": "2022-04-27",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.29,
+      "relevant_event_date": "2022-04-27",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.29,
+      "relevant_event_date": "2022-04-27",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.56,
+      "relevant_event_date": "2022-04-26",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.26,
+      "relevant_event_date": "2022-04-26",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.26,
+      "relevant_event_date": "2022-04-26",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.52,
+      "relevant_event_date": "2022-04-25",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.21,
+      "relevant_event_date": "2022-04-25",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.21,
+      "relevant_event_date": "2022-04-25",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.48,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.18,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.18,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.47,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.17,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.17,
+      "relevant_event_date": "2022-04-21",
+      "filing_date": "2022-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.08,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.08,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-02-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.07,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-02-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.07,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-02-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.36,
+      "relevant_event_date": "2022-01-19",
+      "filing_date": "2022-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.05,
+      "relevant_event_date": "2022-01-19",
+      "filing_date": "2022-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.05,
+      "relevant_event_date": "2022-01-19",
+      "filing_date": "2022-01-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.35,
+      "relevant_event_date": "2022-01-14",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2022-01-14",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2022-01-14",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2021-12-20",
+      "filing_date": "2021-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2021-12-20",
+      "filing_date": "2021-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2021-12-20",
+      "filing_date": "2021-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2021-10-18",
+      "filing_date": "2021-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2021-10-18",
+      "filing_date": "2021-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.04,
+      "relevant_event_date": "2021-10-18",
+      "filing_date": "2021-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.33,
+      "relevant_event_date": "2021-10-07",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.03,
+      "relevant_event_date": "2021-10-07",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.03,
+      "relevant_event_date": "2021-10-07",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2021-09-17",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 71.01,
+      "relevant_event_date": "2021-09-17",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 71.01,
+      "relevant_event_date": "2021-09-17",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.25,
+      "relevant_event_date": "2021-09-16",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.94,
+      "relevant_event_date": "2021-09-16",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.94,
+      "relevant_event_date": "2021-09-16",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.18,
+      "relevant_event_date": "2021-09-15",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.87,
+      "relevant_event_date": "2021-09-15",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.87,
+      "relevant_event_date": "2021-09-15",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.11,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.81,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.81,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 54.05,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.68,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.68,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.11,
+      "relevant_event_date": "2021-09-08",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.61,
+      "relevant_event_date": "2021-09-08",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.61,
+      "relevant_event_date": "2021-09-08",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 16.04,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.55,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.55,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.98,
+      "relevant_event_date": "2021-09-03",
+      "filing_date": "2021-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.48,
+      "relevant_event_date": "2021-09-03",
+      "filing_date": "2021-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.48,
+      "relevant_event_date": "2021-09-03",
+      "filing_date": "2021-09-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.93,
+      "relevant_event_date": "2021-09-02",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.43,
+      "relevant_event_date": "2021-09-02",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.43,
+      "relevant_event_date": "2021-09-02",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.9,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.4,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.4,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.83,
+      "relevant_event_date": "2021-07-30",
+      "filing_date": "2021-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.34,
+      "relevant_event_date": "2021-07-30",
+      "filing_date": "2021-08-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.34,
+      "relevant_event_date": "2021-07-30",
+      "filing_date": "2021-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.77,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.27,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.27,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.73,
+      "relevant_event_date": "2021-07-27",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.24,
+      "relevant_event_date": "2021-07-27",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.24,
+      "relevant_event_date": "2021-07-27",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.67,
+      "relevant_event_date": "2021-07-26",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.17,
+      "relevant_event_date": "2021-07-26",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.17,
+      "relevant_event_date": "2021-07-26",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.6,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.1,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.1,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.54,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 70.04,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 70.04,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.48,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.98,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.98,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.41,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.92,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.92,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.32,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.82,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.82,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.29,
+      "relevant_event_date": "2021-06-30",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.8,
+      "relevant_event_date": "2021-06-30",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.8,
+      "relevant_event_date": "2021-06-30",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.23,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.73,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.73,
+      "relevant_event_date": "2021-06-29",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.16,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.67,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.67,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.1,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.6,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.6,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 15.03,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.54,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.54,
+      "relevant_event_date": "2021-06-22",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.97,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.47,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.47,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.9,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.4,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.4,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.84,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.34,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.34,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.92,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.92,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.87,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.23,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.23,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.87,
+      "relevant_event_date": "2021-06-04",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.23,
+      "relevant_event_date": "2021-06-04",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.23,
+      "relevant_event_date": "2021-06-04",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.82,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.82,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.18,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.18,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.18,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.18,
+      "relevant_event_date": "2021-06-03",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.75,
+      "relevant_event_date": "2021-06-01",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.11,
+      "relevant_event_date": "2021-06-01",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.11,
+      "relevant_event_date": "2021-06-01",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.69,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.69,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.05,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 69.05,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.05,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 69.05,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.62,
+      "relevant_event_date": "2021-05-28",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.98,
+      "relevant_event_date": "2021-05-28",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.98,
+      "relevant_event_date": "2021-05-28",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.57,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.93,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.93,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.56,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.92,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.92,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.49,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.49,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.85,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.85,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.85,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.85,
+      "relevant_event_date": "2021-05-21",
+      "filing_date": "2021-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.43,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.75,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.75,
+      "relevant_event_date": "2021-05-18",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.32,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.32,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.68,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.68,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.68,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.68,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.26,
+      "relevant_event_date": "2021-05-12",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.62,
+      "relevant_event_date": "2021-05-12",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.62,
+      "relevant_event_date": "2021-05-12",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.57,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.57,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.57,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.57,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.18,
+      "relevant_event_date": "2021-05-10",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.54,
+      "relevant_event_date": "2021-05-10",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.54,
+      "relevant_event_date": "2021-05-10",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.15,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.51,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.51,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.48,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.48,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.48,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.48,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.07,
+      "relevant_event_date": "2021-04-30",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.43,
+      "relevant_event_date": "2021-04-30",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.43,
+      "relevant_event_date": "2021-04-30",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.01,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.37,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 68.36,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.37,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 68.36,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 53.01,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 52.06,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.42,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.42,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2021-01-27",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.4,
+      "relevant_event_date": "2021-01-27",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.4,
+      "relevant_event_date": "2021-01-27",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.39,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.39,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 52.0,
+      "relevant_event_date": "2021-01-21",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.36,
+      "relevant_event_date": "2021-01-21",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.36,
+      "relevant_event_date": "2021-01-21",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.96,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.32,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.32,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.94,
+      "relevant_event_date": "2021-01-19",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.3,
+      "relevant_event_date": "2021-01-19",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.3,
+      "relevant_event_date": "2021-01-19",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.79,
+      "relevant_event_date": "2021-01-12",
+      "filing_date": "2021-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.15,
+      "relevant_event_date": "2021-01-12",
+      "filing_date": "2021-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.15,
+      "relevant_event_date": "2021-01-12",
+      "filing_date": "2021-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.78,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.78,
+      "relevant_event_date": "2020-11-24",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-11-24",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-11-24",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.78,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.14,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.68,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.61,
+      "relevant_event_date": "2020-11-17",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.97,
+      "relevant_event_date": "2020-11-17",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.97,
+      "relevant_event_date": "2020-11-17",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.55,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.91,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.91,
+      "relevant_event_date": "2020-11-16",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.84,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.84,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.47,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.83,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.83,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.45,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.81,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.81,
+      "relevant_event_date": "2020-10-27",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.42,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.78,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.78,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.41,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.77,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.77,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.41,
+      "relevant_event_date": "2020-09-28",
+      "filing_date": "2020-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.77,
+      "relevant_event_date": "2020-09-28",
+      "filing_date": "2020-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.77,
+      "relevant_event_date": "2020-09-28",
+      "filing_date": "2020-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.39,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.75,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.75,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.39,
+      "relevant_event_date": "2020-07-20",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.75,
+      "relevant_event_date": "2020-07-20",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.75,
+      "relevant_event_date": "2020-07-20",
+      "filing_date": "2020-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.33,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.69,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.69,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.77,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.46,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.46,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 51.1,
+      "relevant_event_date": "2020-06-17",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.4,
+      "relevant_event_date": "2020-06-17",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.4,
+      "relevant_event_date": "2020-06-17",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.97,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.27,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.27,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.94,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.24,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.24,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.89,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.19,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.19,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.89,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.19,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.19,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.88,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.18,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.18,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.85,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.15,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.15,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.84,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 66.14,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 66.14,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.88,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.88,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.88,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.88,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.57,
+      "relevant_event_date": "2019-10-09",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.87,
+      "relevant_event_date": "2019-10-09",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.87,
+      "relevant_event_date": "2019-10-09",
+      "filing_date": "2019-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.55,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.85,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.85,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.52,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.82,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.82,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.72,
+      "relevant_event_date": "2019-09-20",
+      "filing_date": "2019-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.72,
+      "relevant_event_date": "2019-09-20",
+      "filing_date": "2019-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.72,
+      "relevant_event_date": "2019-09-20",
+      "filing_date": "2019-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.69,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.7,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.7,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.68,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.69,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.69,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.67,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.67,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.67,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.65,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.65,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.65,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.63,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.63,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.63,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.6,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.61,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.61,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.6,
+      "relevant_event_date": "2019-05-24",
+      "filing_date": "2019-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.6,
+      "relevant_event_date": "2019-05-24",
+      "filing_date": "2019-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.6,
+      "relevant_event_date": "2019-05-24",
+      "filing_date": "2019-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.59,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.59,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.59,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.59,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.55,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.56,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.56,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.55,
+      "relevant_event_date": "2019-05-14",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.56,
+      "relevant_event_date": "2019-05-14",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.56,
+      "relevant_event_date": "2019-05-14",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.53,
+      "relevant_event_date": "2019-05-10",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.54,
+      "relevant_event_date": "2019-05-10",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.54,
+      "relevant_event_date": "2019-05-10",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.52,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.52,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.51,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.52,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.5,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.33,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.33,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.5,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.32,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.32,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.49,
+      "relevant_event_date": "2018-11-27",
+      "filing_date": "2018-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.31,
+      "relevant_event_date": "2018-11-27",
+      "filing_date": "2018-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.31,
+      "relevant_event_date": "2018-11-27",
+      "filing_date": "2018-11-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.45,
+      "relevant_event_date": "2018-11-23",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.27,
+      "relevant_event_date": "2018-11-23",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.27,
+      "relevant_event_date": "2018-11-23",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.22,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.22,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.36,
+      "relevant_event_date": "2018-11-08",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.18,
+      "relevant_event_date": "2018-11-08",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.18,
+      "relevant_event_date": "2018-11-08",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.35,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.17,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.17,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.33,
+      "relevant_event_date": "2018-10-31",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.15,
+      "relevant_event_date": "2018-10-31",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.15,
+      "relevant_event_date": "2018-10-31",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.32,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.14,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.14,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.26,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.08,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.08,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.24,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.06,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.06,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.22,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.04,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.04,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.21,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.03,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.03,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.2,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.03,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.03,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.02,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.02,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.02,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.02,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.01,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.01,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2018-09-19",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 65.0,
+      "relevant_event_date": "2018-09-19",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 65.0,
+      "relevant_event_date": "2018-09-19",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2018-09-12",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.99,
+      "relevant_event_date": "2018-09-12",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.99,
+      "relevant_event_date": "2018-09-12",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.14,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.96,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.96,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.11,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.93,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.93,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.1,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.93,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.93,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.24,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.92,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.92,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.23,
+      "relevant_event_date": "2018-07-27",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.91,
+      "relevant_event_date": "2018-07-27",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.91,
+      "relevant_event_date": "2018-07-27",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.2,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.88,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.88,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.16,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.84,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.84,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.15,
+      "relevant_event_date": "2018-07-16",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.83,
+      "relevant_event_date": "2018-07-16",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.83,
+      "relevant_event_date": "2018-07-16",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.12,
+      "relevant_event_date": "2018-07-13",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.8,
+      "relevant_event_date": "2018-07-13",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.8,
+      "relevant_event_date": "2018-07-13",
+      "filing_date": "2018-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 50.07,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.75,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.75,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 49.91,
+      "relevant_event_date": "2018-07-03",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.6,
+      "relevant_event_date": "2018-07-03",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.6,
+      "relevant_event_date": "2018-07-03",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 49.79,
+      "relevant_event_date": "2018-06-22",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 64.48,
+      "relevant_event_date": "2018-06-22",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 64.48,
+      "relevant_event_date": "2018-06-22",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Fashion Charitable Foundation Limited",
+      "long_position_pct": 14.1,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 43.16,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 57.84,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 57.84,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 57.84,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 42.21,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 56.4,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 56.4,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}
