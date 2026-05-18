@@ -11,7 +11,7 @@
   "vwap_hkd": null,
   "current_price_hkd": 82.7,
   "buyback_yield_pct": 0.0,
-  "free_float_pct": 35.0,
+  "free_float_pct": 62.0,
   "consistency_score": 0,
   "last_filing_date": "2026-05-06",
   "agm_date": "2026-05-01",
@@ -24,7 +24,8 @@
       "month_close": null,
       "month_volume": null,
       "issued_shares": null,
-      "filing_date": "2024-05-07"
+      "filing_date": "2024-05-07",
+      "cum_pct": 0.0
     },
     {
       "period": "2024-05",
@@ -33,7 +34,8 @@
       "month_close": null,
       "month_volume": null,
       "issued_shares": null,
-      "filing_date": "2024-06-05"
+      "filing_date": "2024-06-05",
+      "cum_pct": 0.0
     },
     {
       "period": "2024-06",
@@ -42,7 +44,10 @@
       "month_close": 111.1,
       "month_volume": 669235214,
       "issued_shares": 5624897923,
-      "filing_date": "2024-07-05"
+      "filing_date": "2024-07-05",
+      "cum_pct": 0.0,
+      "hi": 113.32,
+      "lo": 108.88
     },
     {
       "period": "2024-07",
@@ -51,7 +56,10 @@
       "month_close": 109.3,
       "month_volume": 620188357,
       "issued_shares": 5624923889,
-      "filing_date": "2024-08-06"
+      "filing_date": "2024-08-06",
+      "cum_pct": 0.0,
+      "hi": 111.49,
+      "lo": 107.11
     },
     {
       "period": "2024-08",
@@ -60,7 +68,10 @@
       "month_close": 118.2,
       "month_volume": 660567544,
       "issued_shares": 5638313416,
-      "filing_date": "2024-09-04"
+      "filing_date": "2024-09-04",
+      "cum_pct": 0.0,
+      "hi": 120.56,
+      "lo": 115.84
     },
     {
       "period": "2024-09",
@@ -69,7 +80,10 @@
       "month_close": 172.0,
       "month_volume": 891182485,
       "issued_shares": 5501526031,
-      "filing_date": "2024-10-04"
+      "filing_date": "2024-10-04",
+      "cum_pct": 0.0,
+      "hi": 175.44,
+      "lo": 168.56
     },
     {
       "period": "2024-10",
@@ -78,7 +92,10 @@
       "month_close": 182.5,
       "month_volume": 1144209340,
       "issued_shares": 5502053837,
-      "filing_date": "2024-11-05"
+      "filing_date": "2024-11-05",
+      "cum_pct": 0.0,
+      "hi": 186.15,
+      "lo": 178.85
     },
     {
       "period": "2024-11",
@@ -87,7 +104,10 @@
       "month_close": 168.7,
       "month_volume": 684138372,
       "issued_shares": 5502065937,
-      "filing_date": "2024-12-04"
+      "filing_date": "2024-12-04",
+      "cum_pct": 0.0,
+      "hi": 172.07,
+      "lo": 165.33
     },
     {
       "period": "2024-12",
@@ -96,7 +116,10 @@
       "month_close": 152.5,
       "month_volume": 702206246,
       "issued_shares": 5466616883,
-      "filing_date": "2025-01-07"
+      "filing_date": "2025-01-07",
+      "cum_pct": 0.0,
+      "hi": 155.55,
+      "lo": 149.45
     },
     {
       "period": "2025-01",
@@ -105,7 +128,10 @@
       "month_close": 148.6,
       "month_volume": 631398956,
       "issued_shares": 5466971668,
-      "filing_date": "2025-02-05"
+      "filing_date": "2025-02-05",
+      "cum_pct": 0.0,
+      "hi": 151.57,
+      "lo": 145.63
     },
     {
       "period": "2025-02",
@@ -114,7 +140,10 @@
       "month_close": 162.0,
       "month_volume": 1354538123,
       "issued_shares": 5467084644,
-      "filing_date": "2025-03-06"
+      "filing_date": "2025-03-06",
+      "cum_pct": 0.0,
+      "hi": 165.24,
+      "lo": 158.76
     },
     {
       "period": "2025-03",
@@ -123,7 +152,10 @@
       "month_close": 155.8,
       "month_volume": 900529732,
       "issued_shares": 5530251949,
-      "filing_date": "2025-04-07"
+      "filing_date": "2025-04-07",
+      "cum_pct": 0.0,
+      "hi": 158.92,
+      "lo": 152.68
     },
     {
       "period": "2025-04",
@@ -132,7 +164,10 @@
       "month_close": 130.3,
       "month_volume": 1096556501,
       "issued_shares": 5530314490,
-      "filing_date": "2025-05-08"
+      "filing_date": "2025-05-08",
+      "cum_pct": 0.0,
+      "hi": 132.91,
+      "lo": 127.69
     },
     {
       "period": "2025-05",
@@ -141,7 +176,10 @@
       "month_close": 138.0,
       "month_volume": 1113732788,
       "issued_shares": 5530408987,
-      "filing_date": "2025-06-05"
+      "filing_date": "2025-06-05",
+      "cum_pct": 0.0,
+      "hi": 140.76,
+      "lo": 135.24
     },
     {
       "period": "2025-06",
@@ -150,7 +188,10 @@
       "month_close": 125.3,
       "month_volume": 1028369535,
       "issued_shares": 5530447487,
-      "filing_date": "2025-07-07"
+      "filing_date": "2025-07-07",
+      "cum_pct": 0.0,
+      "hi": 127.81,
+      "lo": 122.79
     },
     {
       "period": "2025-07",
@@ -159,7 +200,10 @@
       "month_close": 121.6,
       "month_volume": 1296860200,
       "issued_shares": 5531607227,
-      "filing_date": "2025-08-06"
+      "filing_date": "2025-08-06",
+      "cum_pct": 0.0,
+      "hi": 124.03,
+      "lo": 119.17
     },
     {
       "period": "2025-08",
@@ -168,7 +212,10 @@
       "month_close": 102.7,
       "month_volume": 1304023897,
       "issued_shares": 5531654639,
-      "filing_date": "2025-09-04"
+      "filing_date": "2025-09-04",
+      "cum_pct": 0.0,
+      "hi": 104.75,
+      "lo": 100.65
     },
     {
       "period": "2025-09",
@@ -177,7 +224,10 @@
       "month_close": 104.5,
       "month_volume": 1915864169,
       "issued_shares": 5531896566,
-      "filing_date": "2025-10-08"
+      "filing_date": "2025-10-08",
+      "cum_pct": 0.0,
+      "hi": 106.59,
+      "lo": 102.41
     },
     {
       "period": "2025-10",
@@ -186,7 +236,10 @@
       "month_close": 102.0,
       "month_volume": 1051631298,
       "issued_shares": 5532080934,
-      "filing_date": "2025-11-06"
+      "filing_date": "2025-11-06",
+      "cum_pct": 0.0,
+      "hi": 104.04,
+      "lo": 99.96
     },
     {
       "period": "2025-11",
@@ -195,7 +248,10 @@
       "month_close": 102.5,
       "month_volume": 813101799,
       "issued_shares": 5532143434,
-      "filing_date": "2025-12-04"
+      "filing_date": "2025-12-04",
+      "cum_pct": 0.0,
+      "hi": 104.55,
+      "lo": 100.45
     },
     {
       "period": "2025-12",
@@ -204,7 +260,10 @@
       "month_close": 102.8,
       "month_volume": 870740979,
       "issued_shares": 5532225834,
-      "filing_date": "2026-01-07"
+      "filing_date": "2026-01-07",
+      "cum_pct": 0.0,
+      "hi": 104.86,
+      "lo": 100.74
     },
     {
       "period": "2026-01",
@@ -213,7 +272,10 @@
       "month_close": 97.2,
       "month_volume": 965837447,
       "issued_shares": 5532543774,
-      "filing_date": "2026-02-05"
+      "filing_date": "2026-02-05",
+      "cum_pct": 0.0,
+      "hi": 99.14,
+      "lo": 95.26
     },
     {
       "period": "2026-02",
@@ -222,7 +284,10 @@
       "month_close": 81.15,
       "month_volume": 864802759,
       "issued_shares": 5532566249,
-      "filing_date": "2026-03-04"
+      "filing_date": "2026-03-04",
+      "cum_pct": 0.0,
+      "hi": 82.77,
+      "lo": 79.53
     },
     {
       "period": "2026-03",
@@ -231,7 +296,10 @@
       "month_close": 82.95,
       "month_volume": 1426542602,
       "issued_shares": 5595244334,
-      "filing_date": "2026-04-09"
+      "filing_date": "2026-04-09",
+      "cum_pct": 0.0,
+      "hi": 84.61,
+      "lo": 81.29
     },
     {
       "period": "2026-04",
@@ -240,7 +308,10 @@
       "month_close": 83.25,
       "month_volume": 787069397,
       "issued_shares": 5595466020,
-      "filing_date": "2026-05-06"
+      "filing_date": "2026-05-06",
+      "cum_pct": 0.0,
+      "hi": 84.92,
+      "lo": 81.58
     }
   ],
   "events": [],
