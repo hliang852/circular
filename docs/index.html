@@ -253,7 +253,7 @@
       <a class="mc-open" href="di/">Open DI tracker →</a>
     </div>
 
-    <div class="module-card" onclick="location.href='preview.html'">
+    <div class="module-card" onclick="location.href='ca/'">
       <div class="mc-icon">🔄</div>
       <div class="mc-title">Corporate Actions</div>
       <div class="mc-desc">Share repurchase programmes, mandate headroom, equity issuances, and AGM calendars. Screens for Conviction Buys (below VWAP) and Mandate Renewers.</div>
@@ -262,7 +262,7 @@
         <div class="mc-stat"><div class="mc-stat-val" id="ca-conviction-count">—</div><div class="mc-stat-label">Conviction Buys</div></div>
         <div class="mc-stat"><div class="mc-stat-val" id="ca-updated">—</div><div class="mc-stat-label">Last updated</div></div>
       </div>
-      <a class="mc-open" href="preview.html">Open CA tracker →</a>
+      <a class="mc-open" href="ca/">Open CA tracker →</a>
     </div>
   </div>
 
@@ -345,7 +345,7 @@ renderHeader(null);
           <span class="hdi-name" title="${s.name}">${s.name}</span>
           <span class="hdi-links">
             <a class="hdi-link di-l" href="di/?code=${s.code}">DI</a>
-            <a class="hdi-link ca-l" href="preview.html?code=${s.code}">CA</a>
+            <a class="hdi-link ca-l" href="ca/?code=${s.code}">CA</a>
           </span>
         </div>`;
       }).join('');

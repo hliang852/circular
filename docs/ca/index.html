@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Circular — Corporate Actions</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-<link rel="stylesheet" href="../assets/tokens.css">
-<link rel="stylesheet" href="../assets/shared.css">
-<link rel="stylesheet" href="ca.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Corporate Actions — Circular</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="../assets/tokens.css">
+  <link rel="stylesheet" href="../assets/shared.css">
+  <link rel="stylesheet" href="ca.css">
 </head>
 <body>
 
@@ -15,7 +15,6 @@
 
 <main class="page">
 
-<!-- VIEW TOGGLE -->
 <div class="sr">
   <div class="sw" style="position:relative">
     <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
@@ -23,7 +22,7 @@
     <div id="searchDropdown" class="dropdown" style="display:none;position:absolute;top:calc(100% + 4px);left:0;width:100%;max-width:400px;z-index:300"></div>
   </div>
   <div class="vtog">
-    <button class="vb on"  onclick="switchView('ca',this)">Corporate Actions</button>
+    <button class="vb on"  onclick="switchView('home',this)">Corporate Actions</button>
     <button class="vb"     onclick="switchView('league',this)">League Table</button>
     <button class="vb"     onclick="switchView('lastsession',this)">Last Session</button>
     <button class="vb"     onclick="switchView('ideas',this)">💡 Ideas</button>
@@ -31,146 +30,98 @@
   </div>
 </div>
 
-<!-- ═══ CORPORATE ACTIONS HOME ═══ -->
-<div id="cav" class="home-view">
+<!-- HOME -->
+<div id="homev" class="home-view">
   <div class="home-hero">
-    <div class="home-tag">
-      <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/></svg>
-      HKEX Corporate Actions Tracker
-    </div>
+    <div class="home-tag"><svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/></svg>HKEX Corporate Actions Tracker</div>
     <h1 class="home-title">What companies do with capital<br>tells you more than what they say.</h1>
-    <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, equity issuance, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
-    <button class="home-cta" onclick="goToStock('00700','Tencent Holdings')">
+    <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
+    <button class="home-cta" onclick="goToStock('00700','TENCENT HOLDINGS LIMITED')">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      Explore Tencent →
+      Explore Tencent — live data →
     </button>
   </div>
-
   <div class="why-grid">
-    <div class="why-card"><div class="why-icon">🔄</div><div class="why-title">Share Repurchases</div><div class="why-body">Monthly Return filings give you volume, price range, and cumulative progress against the AGM-approved mandate. We surface the VWAP floor — where the company itself has been buying — as a price support level.</div></div>
-    <div class="why-card"><div class="why-icon">📋</div><div class="why-title">Mandate Tracking</div><div class="why-body">Every mandate is capped at 10% of issued capital by Listing Rule 10.06. Circular shows headroom remaining, float-adjusted impact, and a probability score for renewal at the next AGM.</div></div>
+    <div class="why-card"><div class="why-icon">🔄</div><div class="why-title">Share Repurchases</div><div class="why-body">Monthly Return filings give you volume, price range, and cumulative progress against the AGM-approved mandate. We surface the VWAP floor as a price support level.</div></div>
+    <div class="why-card"><div class="why-icon">📋</div><div class="why-title">Mandate Tracking</div><div class="why-body">Every mandate is capped at 10% of issued capital by Listing Rule 10.06. Circular shows headroom remaining, float-adjusted impact, and probability of renewal.</div></div>
     <div class="why-card"><div class="why-icon">⚡</div><div class="why-title">Equity Issuances</div><div class="why-body">Placings, convertible bonds, and rights issues directly offset buybacks. We show gross buybacks alongside net capital return so you see the true picture.</div></div>
-    <div class="why-card"><div class="why-icon">🤝</div><div class="why-title">DI Cross-reference</div><div class="why-body">When a company buys back shares AND a substantial shareholder is simultaneously accumulating, both buyers are competing for the same shrinking float. That compound signal is surfaced on every stock page.</div></div>
+    <div class="why-card"><div class="why-icon">🤝</div><div class="why-title">DI Cross-reference</div><div class="why-body">When a company buys back shares AND a substantial shareholder is simultaneously accumulating, both buyers are competing for the same shrinking float.</div></div>
   </div>
-
   <div class="signal-examples">
     <div class="se-title">What the signals mean</div>
-    <div class="se-row"><div class="se-dot" style="background:var(--green)"></div><div><div class="se-label">● Strong</div><div class="se-desc">The company is buying back shares below its own 12-month VWAP, AND a substantial shareholder is accumulating via DI filing. Both buyers are active at current prices.</div></div></div>
-    <div class="se-row"><div class="se-dot" style="background:var(--amber)"></div><div><div class="se-label">● Moderate</div><div class="se-desc">The company is buying below its own VWAP with a consistency score of 4+, but no concurrent DI accumulation is detected.</div></div></div>
-    <div class="se-row"><div class="se-dot" style="background:var(--purple)"></div><div><div class="se-label">● Mandate Renewer</div><div class="se-desc">Company has an AGM within 90 days with >65% probability of mandate renewal. Uninterrupted programme support into the next fiscal year.</div></div></div>
+    <div class="se-row"><div class="se-dot" style="background:var(--green);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Strong</div><div class="se-desc">The company is buying back shares below its own 12-month VWAP, AND a substantial shareholder is accumulating via DI filing. Both buyers are active at current prices.</div></div></div>
+    <div class="se-row"><div class="se-dot" style="background:var(--amber);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Moderate</div><div class="se-desc">The company is buying below its own VWAP with a consistency score of 3+, but no concurrent DI accumulation is detected.</div></div></div>
+    <div class="se-row"><div class="se-dot" style="background:var(--purple);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Mandate Renewer</div><div class="se-desc">Company has an AGM within 90 days with &gt;65% probability of mandate renewal. Uninterrupted programme support into the next fiscal year.</div></div></div>
+  </div>
+  <div id="homeStats" style="display:flex;gap:20px;flex-wrap:wrap;margin-top:20px;padding:16px 20px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl)">
+    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-active">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Active programmes</span></div>
+    <div style="width:1px;background:var(--bd)"></div>
+    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-total">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Stocks tracked</span></div>
+    <div style="width:1px;background:var(--bd)"></div>
+    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--green);font-family:var(--mono)" id="hs-conviction">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Conviction Buys</span></div>
+    <div style="width:1px;background:var(--bd)"></div>
+    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-notional">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Total buyback value</span></div>
   </div>
 </div>
 
-<!-- ═══ BY STOCK ═══ -->
+<!-- BY STOCK -->
 <div id="sv" style="display:none">
-
   <div class="stock-hero" id="stockHero">
     <div class="hero-top">
-      <span class="hero-name" id="heroName">Tencent Holdings Ltd.</span>
-      <span class="hero-code" id="heroCode">700 HK</span>
-      <span class="badge badge-live">Active</span>
-      <div class="info-wrap" id="csWrap">
-        <span class="cs-badge cs-4" id="csBadge" tabindex="0">★★★★☆ 4</span>
-        <div class="info-popup">
-          <div class="ip-title">Consistency score</div>
-          <p class="ip-body">Number of months with active repurchase activity in the last 12. Systematic programmes provide a steady bid; erratic ones cluster around price weakness.</p>
-          <div class="ip-rows">
-            <div class="ip-row"><span class="ip-key">5 — Daily</span><span class="ip-val">12/12 months</span></div>
-            <div class="ip-row"><span class="ip-key">4 — Systematic</span><span class="ip-val">10–11/12</span></div>
-            <div class="ip-row"><span class="ip-key">3 — Regular</span><span class="ip-val">7–9/12</span></div>
-            <div class="ip-row"><span class="ip-key">2 — Opportunistic</span><span class="ip-val">4–6/12</span></div>
-            <div class="ip-row"><span class="ip-key">1 — Erratic</span><span class="ip-val">1–3/12</span></div>
-          </div>
-        </div>
-      </div>
-      <div class="info-wrap" id="sigWrap">
-        <span class="sig-hero-strong" id="sigBadge" tabindex="0">● Strong signal</span>
-        <div class="info-popup" style="left:auto;right:0;transform:none" id="sigPopup">
-          <div class="ip-title" id="sigPopupTitle">Why Strong?</div>
-          <p class="ip-body" id="sigPopupBody"></p>
-        </div>
-      </div>
-      <div class="uw-badge" id="uwBadge" style="margin-left:auto">▼ VWAP underwater</div>
+      <span class="hero-name" id="heroName">—</span>
+      <span class="hero-code" id="heroCode">— HK</span>
+      <span id="activeBadge" class="badge-live">Active</span>
+      <span class="cs-badge cs-0" id="csBadge">☆☆☆☆☆ 0</span>
+      <span class="sig-hero-moderate" id="sigBadge">● Moderate signal</span>
+      <div class="uw-badge" id="uwBadge" style="display:none">▼ VWAP underwater</div>
     </div>
     <div class="hero-mandate">
       <span class="hm-label">Mandate</span>
-      <div class="hm-track"><div class="hm-fill" id="mandateBarHero" style="width:16.3%"></div></div>
+      <div class="hm-track"><div class="hm-fill" id="mandateBarHero" style="width:0%"></div></div>
       <span class="hm-stat" id="mandateStatHero"></span>
     </div>
     <div class="econ-strip" id="econStrip"></div>
   </div>
 
-  <!-- cross-link to DI -->
   <div class="cross-link-card" id="diCrossLink" style="display:none">
-    <span class="cl-label">View Disclosure of Interests filings for this stock</span>
-    <a id="diCrossLinkHref" href="#">View Disclosure of Interests →</a>
+    <span>View Disclosure of Interests filings for this stock</span>
+    <a id="diCrossLinkHref" href="#">View DI filings →</a>
   </div>
   <div class="compound-signal" id="compoundSignal" style="display:none">
     🎯 <strong>Compound signal:</strong> <span id="compoundText"></span> <a id="compoundLink" href="#">View DI filings →</a>
   </div>
 
   <div class="chart-section">
-    <div class="cs-head"><div><div class="cs-title">Price &amp; buyback activity — 12-month view</div><div class="cs-sub" id="chartSub">May 2024–May 2025 · price (left) · buyback HK$B (right) · grey = blackout</div></div></div>
+    <div class="cs-head"><div><div class="cs-title">Price &amp; buyback activity — 24-month view</div><div class="cs-sub" id="chartSub"></div></div></div>
     <div class="event-pills" id="eventPills"></div>
     <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
     <div class="legend">
       <div class="li"><div class="ld" style="background:#58a6ff"></div>Price (HK$)</div>
       <div class="li"><div class="lb" style="background:rgba(63,185,80,.55)"></div>Below YTD VWAP</div>
       <div class="li"><div class="lb" style="background:rgba(88,166,255,.45)"></div>Above YTD VWAP</div>
-      <div class="li"><div class="lb" style="background:rgba(110,118,129,.18);border:1px solid rgba(110,118,129,.4)"></div>Blackout</div>
       <div class="li"><span class="lm" style="color:#f85149">▼</span>Placing</div>
       <div class="li"><span class="lm" style="color:#d29922">◆</span>CB</div>
-    </div>
-    <div class="blackout-info" id="blackoutInfo">
-      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--amber)"><circle cx="8" cy="8" r="6.5"/><path d="M8 5v4M8 11v.5" stroke-linecap="round"/></svg>
-      Next blackout period starts: <span class="blackout-date" id="nextBlackout">~15 Jul 2025</span>
-      <span>(est. 30 days before interim results · subject to filing)</span>
     </div>
   </div>
 
   <details class="mandate-section" id="mandateDetails">
     <summary>
       <div class="ms-top-row">
-        <span class="ms-title">
-          <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1.5L10 6h4.5L11 9l1.5 4.5L8 11l-4.5 2.5L5 9 1.5 6H6z" stroke-linejoin="round"/></svg>
-          Repurchase Mandate
-          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
-            <button id="mandateInfoBtn" class="info-btn" tabindex="0" onclick="event.stopPropagation()">?</button>
-            <div id="mandateInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);width:275px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6);pointer-events:auto">
-              <div class="ip-title">What is the repurchase mandate?</div>
-              <p class="ip-body">Under HK Listing Rule 10.06, companies need shareholder approval at each AGM. The mandate caps total repurchases until the next AGM — standard limit is 10% of issued shares.</p>
-              <div class="ip-rows">
-                <div class="ip-row"><span class="ip-key">Authority used</span><span class="ip-val">YTD repurchased ÷ mandate limit × 100</span></div>
-                <div class="ip-row"><span class="ip-key">Expires</span><span class="ip-val">Earlier of next AGM or 12 months</span></div>
-              </div>
-              <div class="ip-note">Source: <a href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">HKEXnews ↗</a></div>
-              <div style="position:absolute;top:100%;left:50%;transform:translateX(-50%);border:6px solid transparent;border-top-color:#384152"></div>
-            </div>
-          </span>
-        </span>
+        <span class="ms-title"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1.5L10 6h4.5L11 9l1.5 4.5L8 11l-4.5 2.5L5 9 1.5 6H6z" stroke-linejoin="round"/></svg>Repurchase Mandate</span>
         <div style="margin-left:auto;display:flex;align-items:center;gap:8px">
-          <a class="ms-link" id="mandateCircularLink" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank" onclick="event.stopPropagation()">Circular PDF ↗</a>
+          <a class="ms-link" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank" onclick="event.stopPropagation()">Circular PDF ↗</a>
           <span class="ms-chevron">▼</span>
         </div>
       </div>
-      <div class="ms-prog-row"><div class="mandate-track"><div class="mandate-fill" id="mandateBarExpanded" style="width:16.3%"></div></div></div>
+      <div class="ms-prog-row"><div class="mandate-track"><div class="mandate-fill" id="mandateBarExpanded" style="width:0%"></div></div></div>
     </summary>
     <div class="mandate-body">
       <div class="mc-stats" id="mandateStats"></div>
       <div class="prob-section">
         <div class="prob-head">
           <span class="prob-label" id="probLabel">Probability of mandate renewal</span>
-          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
-            <button id="probInfoBtn" class="info-btn" tabindex="0">?</button>
-            <div id="probInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);right:-10px;width:265px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6)">
-              <div class="ip-title">How is this calculated?</div>
-              <p class="ip-body">Four signals scored 0–25 each: programme active this month, consistency score, conviction (buying while underwater), mandate pace vs time elapsed.</p>
-              <div class="ip-note">Analytical estimate only.</div>
-              <div style="position:absolute;top:100%;right:14px;border:6px solid transparent;border-top-color:#384152"></div>
-            </div>
-          </span>
-          <div class="prob-track" style="margin-left:10px"><div class="prob-fill" id="probBar" style="width:82%;background:linear-gradient(90deg,#a371f7,#58a6ff)"></div></div>
-          <span class="prob-pct" id="probPct" style="color:var(--purple);margin-left:8px">82%</span>
+          <div class="prob-track" style="margin-left:10px"><div class="prob-fill" id="probBar" style="width:0%;background:linear-gradient(90deg,#a371f7,#58a6ff)"></div></div>
+          <span class="prob-pct" id="probPct" style="color:var(--purple);margin-left:8px">—%</span>
         </div>
         <div class="prob-factors" id="probFactors"></div>
       </div>
@@ -178,52 +129,48 @@
   </details>
 
   <div class="mg" id="metricCards"></div>
-
   <div class="insight-box" id="insightBox" style="margin-bottom:14px"></div>
 
   <div class="table-shell">
     <div class="table-head"><span class="table-title">Monthly return filings</span><span class="table-meta" id="monthlyMeta">Mandate: 10% of issued shares</span></div>
     <div class="table-scroll">
       <table>
-        <colgroup><col style="width:85px"><col style="width:65px"><col style="width:100px"><col style="width:130px"><col style="width:130px"><col style="width:90px"><col style="width:90px"><col style="width:82px"><col style="width:52px"></colgroup>
-        <thead><tr>
-          <th>Period</th><th class="num">Days</th><th class="num">Shares</th><th class="num">Price range (HK$)</th><th class="num">Consideration</th>
-          <th class="num">Cum % issued</th><th class="num">% mth vol <span id="volInfoWrap"></span></th><th class="num">vs VWAP</th><th>Filing</th>
-        </tr></thead>
+        <colgroup><col style="width:80px"><col style="width:65px"><col style="width:100px"><col style="width:130px"><col style="width:130px"><col style="width:90px"><col style="width:90px"><col style="width:80px"><col style="width:52px"></colgroup>
+        <thead><tr><th>Period</th><th class="num">Days</th><th class="num">Shares</th><th class="num">Price range (HK$)</th><th class="num">Consideration</th><th class="num">Cum % issued</th><th class="num">% mth vol</th><th class="num">vs VWAP</th><th>Filing</th></tr></thead>
         <tbody id="mtbody"></tbody>
       </table>
     </div>
   </div>
-</div><!-- /sv -->
+</div>
 
-<!-- ═══ LEAGUE ═══ -->
+<!-- LEAGUE -->
 <div id="lv" class="lv" style="display:none">
-  <div class="chips"><span class="chip on" onclick="filterL('all',this)">All programmes</span><span class="chip" onclick="filterL('active',this)">Active only</span><span class="chip" onclick="filterL('big',this)">&gt; HK$5B YTD</span></div>
+  <div class="chips"><span class="chip on" onclick="filterL('all',this)">All programmes</span><span class="chip" onclick="filterL('active',this)">Active only</span><span class="chip" onclick="filterL('big',this)">&gt; HK$5B</span></div>
   <div class="sort-row"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLeague('ytd',this)">YTD Consideration</button><button class="sort-btn" onclick="sortLeague('pct',this)">% Issued</button><button class="sort-btn" onclick="sortLeague('mandate',this)">Mandate Used</button><button class="sort-btn" onclick="sortLeague('date',this)">Last Filing</button></div></div>
   <div class="table-shell">
-    <div class="table-head"><span class="table-title" id="leagueTitle">YTD repurchase — ranked by consideration</span><span class="table-meta">2025 year-to-date</span></div>
+    <div class="table-head"><span class="table-title" id="leagueTitle">YTD repurchase — ranked by consideration</span><span class="table-meta">Live scraped data · HKEXnews Monthly Returns</span></div>
     <div class="table-scroll"><table>
-      <colgroup><col style="width:30px"><col style="width:180px"><col style="width:148px"><col style="width:115px"><col style="width:105px"><col style="width:108px"><col style="width:85px"><col style="width:95px"></colgroup>
+      <colgroup><col style="width:30px"><col style="width:190px"><col style="width:148px"><col style="width:115px"><col style="width:105px"><col style="width:110px"><col style="width:85px"><col style="width:95px"></colgroup>
       <thead><tr><th>#</th><th>Stock</th><th class="num" id="lh-consideration">YTD Consideration ▲</th><th class="num" id="lh-shares">Shares bought</th><th class="num" id="lh-pct">% Issued</th><th class="num" id="lh-mandate">Mandate used</th><th id="lh-status">Status</th><th id="lh-date">Last filing</th></tr></thead>
       <tbody id="ltbody"></tbody>
     </table></div>
   </div>
 </div>
 
-<!-- ═══ LAST SESSION ═══ -->
+<!-- LAST SESSION -->
 <div id="lastsessionv" class="lv" style="display:none">
-  <div class="sort-row" style="margin-bottom:12px"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLastSession('cn',this)">Consideration</button><button class="sort-btn" onclick="sortLastSession('sh',this)">Shares Bought</button><button class="sort-btn" onclick="sortLastSession('vp',this)">% of Day's Vol</button></div></div>
+  <div class="sort-row" style="margin-bottom:12px"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLS('cn',this)">Consideration</button><button class="sort-btn" onclick="sortLS('sh',this)">Shares Bought</button></div></div>
   <div class="table-shell">
-    <div class="table-head"><span class="table-title">Last session buyback</span><span class="table-meta">Most recent trading day each active programme transacted</span></div>
+    <div class="table-head"><span class="table-title">Last session buyback</span><span class="table-meta">Most recent NDDR filing per active programme</span></div>
     <div class="table-scroll"><table>
-      <colgroup><col style="width:180px"><col style="width:94px"><col style="width:110px"><col style="width:118px"><col style="width:130px"><col style="width:118px"><col style="width:58px"></colgroup>
-      <thead><tr><th>Stock</th><th>Date</th><th class="num" id="lss-sh">Shares bought</th><th class="num" id="lss-vp">% of day's vol</th><th class="num">Price range (HK$)</th><th class="num" id="lss-cn">Consideration ▲</th><th>Detail</th></tr></thead>
+      <colgroup><col style="width:190px"><col style="width:94px"><col style="width:110px"><col style="width:130px"><col style="width:120px"><col style="width:58px"></colgroup>
+      <thead><tr><th>Stock</th><th>Date</th><th class="num" id="lss-sh">Shares bought</th><th class="num">Avg price (HK$)</th><th class="num" id="lss-cn">Consideration ▲</th><th>Detail</th></tr></thead>
       <tbody id="la-tbody"></tbody>
     </table></div>
   </div>
 </div>
 
-<!-- ═══ IDEAS ═══ -->
+<!-- IDEAS -->
 <div id="ideasv" class="ideas-view" style="display:none">
   <div class="ist-nav">
     <button class="ist-btn on" onclick="switchIdeasTab('cb',this)">🎯 Conviction Buys</button>
@@ -232,36 +179,36 @@
   <div class="strat-pane on" id="cb-pane">
     <div class="strategy-card">
       <div class="strat-head">
-        <div class="strat-name"><span style="font-size:18px">🎯</span> Conviction Buys</div>
-        <div class="strat-desc">Stocks trading <strong style="color:var(--tx)">below their 12-month buyback VWAP.</strong><br>The company's own cost basis is your floor. Consistency ≥ 4, active in last 30 days.</div>
-        <div class="strat-criteria"><span class="crit">Current price &lt; 12m VWAP paid</span><span class="crit">Consistency ≥ 4/5</span><span class="crit">Active last 30 days</span><span class="crit">DI flag if substantial shareholder also buying</span></div>
+        <div class="strat-name"><span style="font-size:18px">🎯</span>Conviction Buys</div>
+        <div class="strat-desc">Stocks trading <strong style="color:var(--tx)">below their buyback VWAP.</strong> The company's own cost basis is your floor. Consistency ≥ 2, programme active.</div>
+        <div class="strat-criteria"><span class="crit">Current price &lt; VWAP paid</span><span class="crit">Programme active</span><span class="crit">Consistency ≥ 2/5</span></div>
       </div>
       <div class="table-scroll"><table>
-        <colgroup><col style="width:178px"><col style="width:80px"><col style="width:112px"><col style="width:112px"><col style="width:98px"><col style="width:108px"><col style="width:112px"><col style="width:86px"></colgroup>
-        <thead><tr><th>Stock</th><th>Consistency</th><th class="num">Current px</th><th class="num">12m VWAP paid</th><th class="num">Discount</th><th class="num">Buyback yield</th><th>Latest DI</th><th>Signal</th></tr></thead>
+        <colgroup><col style="width:190px"><col style="width:80px"><col style="width:112px"><col style="width:112px"><col style="width:98px"><col style="width:108px"><col style="width:86px"></colgroup>
+        <thead><tr><th>Stock</th><th>Consistency</th><th class="num">Current px</th><th class="num">VWAP paid</th><th class="num">Discount</th><th class="num">Buyback yield</th><th>Signal</th></tr></thead>
         <tbody id="cb-tbody"></tbody>
       </table></div>
-      <div class="ideas-note">⚠ VWAP paid = volume-weighted average from Monthly Return filings (last 12 months).<br><strong style="color:var(--green)">● Strong</strong> = company buying below VWAP <em>and</em> DI substantial shareholder simultaneously accumulating.<br><strong style="color:var(--amber)">● Moderate</strong> = company buying below VWAP only, no concurrent DI accumulation.</div>
+      <div class="ideas-note">⚠ VWAP paid = volume-weighted average from Monthly Return + NDDR filings. <strong style="color:var(--green)">● Strong</strong> = buying below VWAP, consistent programme. <strong style="color:var(--amber)">● Moderate</strong> = below VWAP, less consistent.</div>
     </div>
   </div>
   <div class="strat-pane" id="mr-pane">
     <div class="strategy-card">
       <div class="strat-head">
-        <div class="strat-name"><span style="font-size:18px">🔄</span> Mandate Renewers</div>
-        <div class="strat-desc">Companies with <strong style="color:var(--tx)">upcoming AGMs and high probability of mandate renewal.</strong><br>AGM within 90 days, renewal probability &gt; 65%, consistency ≥ 3.</div>
-        <div class="strat-criteria"><span class="crit">AGM within 90 days</span><span class="crit">Renewal prob. &gt; 65%</span><span class="crit">Consistency ≥ 3/5</span><span class="crit">Mandate &gt; 5% consumed</span></div>
+        <div class="strat-name"><span style="font-size:18px">🔄</span>Mandate Renewers</div>
+        <div class="strat-desc">Companies with <strong style="color:var(--tx)">upcoming AGMs and high probability of mandate renewal.</strong> Uninterrupted programme support into the next fiscal year.</div>
+        <div class="strat-criteria"><span class="crit">AGM within 90 days</span><span class="crit">Renewal prob. &gt; 65%</span><span class="crit">Mandate &gt; 5% consumed</span></div>
       </div>
       <div class="table-scroll"><table>
-        <colgroup><col style="width:178px"><col style="width:80px"><col style="width:108px"><col style="width:105px"><col style="width:115px"><col style="width:108px"><col style="width:115px"><col style="width:98px"></colgroup>
+        <colgroup><col style="width:190px"><col style="width:80px"><col style="width:108px"><col style="width:105px"><col style="width:115px"><col style="width:108px"><col style="width:115px"><col style="width:98px"></colgroup>
         <thead><tr><th>Stock</th><th>Consistency</th><th>AGM date</th><th class="num">Mandate used</th><th class="num">Renewal prob.</th><th class="num">Buyback yield</th><th class="num">Float adj.</th><th>Signal</th></tr></thead>
         <tbody id="mr-tbody"></tbody>
       </table></div>
-      <div class="ideas-note">📅 AGM dates sourced from HKEXnews circular filings. Renewal probability is a heuristic model — see the By Stock mandate section for methodology.</div>
+      <div class="ideas-note">📅 AGM dates estimated. Renewal probability is a heuristic model — see By Stock mandate section for methodology.</div>
     </div>
   </div>
 </div>
 
-<!-- ═══ CALENDAR ═══ -->
+<!-- CALENDAR -->
 <div id="calendarv" class="calendar-view" style="display:none">
   <div class="cal-nav">
     <button class="cal-btn" onclick="calNav(-1)">← Prev</button>
@@ -283,24 +230,6 @@
   <div class="cal-detail" id="calDetail" style="display:none">
     <div class="cd-date" id="cdDate"></div>
     <div class="cd-list" id="cdList"></div>
-  </div>
-</div>
-
-<!-- CHATBOT -->
-<div class="chat-bar">
-  <div class="chat-inner">
-    <span class="chat-label">Ask Circular</span>
-    <div class="chat-input-wrap">
-      <div id="chatResponse" class="chat-response">
-        <div id="chatLoading" class="cr-loading">Thinking…</div>
-        <div id="chatText" class="cr-text"></div>
-        <button id="chatJump" class="cr-jump" style="display:none"></button>
-      </div>
-      <input id="chatInput" class="chat-input" type="text" placeholder="e.g. Which stocks are buying below their VWAP? or Show me upcoming AGMs">
-      <button class="chat-send" onclick="sendChat()">
-        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2L2 7l5 2 2 5z" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-    </div>
   </div>
 </div>
 
