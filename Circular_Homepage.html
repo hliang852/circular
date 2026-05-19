@@ -164,58 +164,6 @@ a{color:inherit;text-decoration:none}
 .sb-sep{width:1px;height:12px;background:var(--bd)}
 .sb-trailing{margin-left:auto;font-family:var(--mono);font-size:10.5px;color:var(--tx3)}
 
-/* ============ MARKET DROPDOWN ============ */
-.market-drop{position:relative;display:inline-block}
-.market-drop-btn{
-  display:inline-flex;align-items:center;gap:5px;
-  background:rgba(88,166,255,.1);border:1px solid rgba(88,166,255,.25);
-  border-radius:20px;padding:2px 10px 2px 8px;
-  color:var(--tx);font-family:var(--sans);cursor:pointer;
-  transition:background .12s,border-color .12s;
-}
-.market-drop-btn:hover{background:rgba(88,166,255,.18);border-color:rgba(88,166,255,.5)}
-.market-drop-btn strong{color:var(--tx2);font-weight:500}
-.market-drop-btn svg{opacity:.6;flex-shrink:0}
-.market-drop-menu{
-  position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);
-  background:var(--sf);border:1px solid var(--bd2);border-radius:var(--rl);
-  padding:5px;min-width:190px;box-shadow:0 8px 24px rgba(0,0,0,.5);
-  opacity:0;pointer-events:none;transform:translateX(-50%) translateY(-4px);
-  transition:all .15s ease;z-index:300;
-}
-.market-drop-menu.open{opacity:1;pointer-events:auto;transform:translateX(-50%) translateY(0)}
-.market-drop-item{
-  display:flex;align-items:center;gap:8px;padding:8px 10px;
-  border-radius:var(--r);cursor:pointer;transition:background .12s;font-size:13px;
-}
-.market-drop-item:hover{background:var(--sf2)}
-.market-drop-item.selected{background:rgba(88,166,255,.08)}
-.mdi-name{color:var(--tx);flex:1}
-.mdi-ex{font-family:var(--mono);font-size:10px;color:var(--tx3);letter-spacing:.06em}
-.mdi-check{color:var(--accent);font-size:11px;opacity:0;margin-left:4px}
-.market-drop-item.selected .mdi-check{opacity:1}
-.market-drop-item.selected .mdi-ex{display:none}
-
-/* ============ SEARCH DROPDOWN ============ */
-.search-block{position:relative}
-.search-results{
-  position:absolute;top:calc(100% + 4px);left:0;right:0;
-  background:var(--sf2);border:1px solid var(--bd2);border-radius:var(--rl);
-  z-index:300;max-height:300px;overflow-y:auto;
-  box-shadow:0 8px 24px rgba(0,0,0,.5);display:none;
-}
-.search-results.open{display:block}
-.sr-item{
-  display:flex;align-items:center;gap:10px;padding:10px 16px;
-  border-bottom:1px solid var(--bd);cursor:pointer;transition:background .1s;
-}
-.sr-item:last-child{border-bottom:none}
-.sr-item:hover{background:rgba(88,166,255,.07)}
-.sr-code{font-family:var(--mono);font-size:11px;color:var(--tx3);width:52px;flex-shrink:0}
-.sr-name{font-size:13px;color:var(--tx);flex:1}
-.sr-hint{font-size:11px;color:var(--tx3)}
-.sr-empty{padding:16px;text-align:center;color:var(--tx3);font-size:13px}
-
 /* ============ RESPONSIVE ============ */
 @media(max-width:720px){
   .navi{padding:0 14px;gap:10px}
@@ -247,7 +195,7 @@ a{color:inherit;text-decoration:none}
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
         Disclosure of Interests
       </a>
-      <a href="capital-market/" class="tl">
+      <a href="#capital-market" class="tl">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
         Capital Market
       </a>
@@ -294,26 +242,7 @@ a{color:inherit;text-decoration:none}
     <h1 class="hero-title">Circular<span class="v">v0.1</span></h1>
     <div class="hero-region">
       <span class="rc-pin"></span>
-      <span>Showing
-        <span class="market-drop" id="marketDrop">
-          <button class="market-drop-btn" id="marketDropBtn" aria-expanded="false">
-            <strong id="regionContext">Hong Kong</strong>
-            <svg width="9" height="6" viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
-          </button>
-          <div class="market-drop-menu" id="marketDropMenu">
-            <div class="market-drop-item selected" data-code="HK" data-flag="🇭🇰" data-name="Hong Kong" data-exchange="HKEX">
-              <span>🇭🇰</span><span class="mdi-name">Hong Kong</span><span class="mdi-ex">HKEX</span><span class="mdi-check">●</span>
-            </div>
-            <div class="market-drop-item" data-code="SG" data-flag="🇸🇬" data-name="Singapore" data-exchange="SGX">
-              <span>🇸🇬</span><span class="mdi-name">Singapore</span><span class="mdi-ex">SGX</span><span class="mdi-check">●</span>
-            </div>
-            <div class="market-drop-item" data-code="JP" data-flag="🇯🇵" data-name="Japan" data-exchange="TSE">
-              <span>🇯🇵</span><span class="mdi-name">Japan</span><span class="mdi-ex">TSE</span><span class="mdi-check">●</span>
-            </div>
-          </div>
-        </span>
-        listed companies
-      </span>
+      <span>Showing <strong id="regionContext">Hong Kong</strong> listed companies</span>
     </div>
     <p class="hero-subtitle">Welcome. You are at the right place for serious investors<span class="lede2">A quiet workbench for the filings terminals don't show you cleanly.</span></p>
   </section>
@@ -325,11 +254,10 @@ a{color:inherit;text-decoration:none}
         <svg class="sicon" width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
           <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
         </svg>
-        <input id="searchInput" class="search-input" type="text" placeholder="Search stock code or company name — try 700, Tencent, HSBC…" autocomplete="off">
+        <input id="searchInput" class="search-input" type="text" placeholder="Search stock code or company name — try 700, Kioxia 285A, ST Engineering…" autocomplete="off">
         <span class="search-kbd">⌘ K</span>
-      </div>
+        </div>
     </div>
-    <div class="search-results" id="searchResults"></div>
   </div>
 
   <!-- ============ SWAP CARDS ============ -->
@@ -472,7 +400,7 @@ a{color:inherit;text-decoration:none}
             <li><strong>Convertibles</strong>price overlaid on the underlying chart</li>
           </ul>
           <div class="back-foot">
-            <a class="back-cta" href="capital-market/">Open ECM →</a>
+            <a class="back-cta" href="#capital-market">Open ECM →</a>
             <div class="back-stamp">
               <div class="ok-c">14 May 2026 · 16:42 UTC</div>
               <div style="opacity:.7">Event-driven</div>
@@ -524,149 +452,74 @@ a{color:inherit;text-decoration:none}
 </footer>
 
 <script>
-  // ── Shared region state ──────────────────────────────────────────────
-  const regionBtn    = document.getElementById('regionBtn');
-  const regionMenu   = document.getElementById('regionMenu');
-  const regionFlag   = document.getElementById('regionFlag');
-  const regionLabel  = document.getElementById('regionLabel');
+  // Region selector
+  const regionBtn   = document.getElementById('regionBtn');
+  const regionMenu  = document.getElementById('regionMenu');
+  const regionFlag  = document.getElementById('regionFlag');
+  const regionLabel = document.getElementById('regionLabel');
   const regionContext = document.getElementById('regionContext');
+  const exchangeContext = document.getElementById('exchangeContext');
 
-  function syncRegion(code, flag, name) {
-    // Sync nav region selector
-    document.querySelectorAll('.region-item').forEach(i => {
-      i.classList.toggle('selected', i.dataset.code === code);
-    });
-    regionFlag.textContent   = flag;
-    regionLabel.textContent  = code;
-    regionContext.textContent = name;
-    // Sync hero market dropdown
-    document.querySelectorAll('.market-drop-item').forEach(i => {
-      i.classList.toggle('selected', i.dataset.code === code);
-    });
+  function setRegion(item){
+    document.querySelectorAll('.region-item').forEach(i=>i.classList.remove('selected'));
+    item.classList.add('selected');
+    regionFlag.textContent  = item.dataset.flag;
+    regionLabel.textContent = item.dataset.code;
+    regionContext.textContent = item.dataset.name;
+    const exchangeNotes = {
+      HKEX: 'Main Board & GEM',
+      SGX:  'Mainboard & Catalist',
+      TSE:  'Prime, Standard & Growth'
+    };
+    exchangeContext.textContent = exchangeNotes[item.dataset.exchange] || item.dataset.exchange;
   }
 
-  // Nav region selector
-  regionBtn.addEventListener('click', e => {
+  regionBtn.addEventListener('click', (e)=>{
     e.stopPropagation();
     const open = regionMenu.classList.toggle('open');
     regionBtn.setAttribute('aria-expanded', open);
   });
-  document.querySelectorAll('.region-item').forEach(item => {
-    item.addEventListener('click', () => {
-      syncRegion(item.dataset.code, item.dataset.flag, item.dataset.name);
+  document.querySelectorAll('.region-item').forEach(item=>{
+    item.addEventListener('click', ()=>{
+      setRegion(item);
       regionMenu.classList.remove('open');
     });
   });
-  document.addEventListener('click', e => {
-    if (!document.getElementById('region').contains(e.target)) regionMenu.classList.remove('open');
+  document.addEventListener('click', (e)=>{
+    if(!document.getElementById('region').contains(e.target)) regionMenu.classList.remove('open');
   });
 
-  // ── Hero market dropdown ─────────────────────────────────────────────
-  const marketDropBtn  = document.getElementById('marketDropBtn');
-  const marketDropMenu = document.getElementById('marketDropMenu');
-
-  marketDropBtn.addEventListener('click', e => {
-    e.stopPropagation();
-    const open = marketDropMenu.classList.toggle('open');
-    marketDropBtn.setAttribute('aria-expanded', open);
-  });
-  document.querySelectorAll('.market-drop-item').forEach(item => {
-    item.addEventListener('click', () => {
-      syncRegion(item.dataset.code, item.dataset.flag, item.dataset.name);
-      marketDropMenu.classList.remove('open');
+  // Bubbles
+  function routeFor(target){
+    const q = document.getElementById('searchInput').value.trim();
+    const code = regionLabel.textContent;
+    const dest = ({ca:'ca/', di:'di/', ecm:'capital-market.html'})[target];
+    const params = new URLSearchParams();
+    if(q) params.set('q', q);
+    params.set('region', code);
+    console.log(`→ ${dest}?${params.toString()}`);
+  }
+  document.querySelectorAll('.bubble').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      routeFor(b.dataset.route);
+      b.style.borderColor = 'rgba(88,166,255,.6)';
+      b.style.background  = 'rgba(88,166,255,.2)';
+      setTimeout(()=>{ b.style.borderColor=''; b.style.background=''; }, 220);
     });
-  });
-  document.addEventListener('click', e => {
-    if (!document.getElementById('marketDrop').contains(e.target)) marketDropMenu.classList.remove('open');
-  });
-
-  // ── Search bar ───────────────────────────────────────────────────────
-  const searchInput   = document.getElementById('searchInput');
-  const searchResults = document.getElementById('searchResults');
-  let universe = null;
-
-  async function loadUniverse() {
-    if (universe) return universe;
-    try {
-      const res = await fetch('data/universe.json');
-      if (res.ok) universe = await res.json();
-    } catch {}
-    return universe;
-  }
-
-  function fmtCode(code) { return `${parseInt(code, 10)} HK`; }
-
-  function matchStocks(q, stocks) {
-    const ql = q.toLowerCase();
-    return stocks.filter(s =>
-      fmtCode(s.code).toLowerCase().startsWith(ql) ||
-      s.code.startsWith(q.padStart(5, '0')) ||
-      s.name.toLowerCase().includes(ql)
-    ).slice(0, 12);
-  }
-
-  function showResults(stocks, q) {
-    if (!stocks.length) {
-      searchResults.innerHTML = `<div class="sr-empty">No results for "${q}"</div>`;
-      searchResults.classList.add('open');
-      return;
-    }
-    searchResults.innerHTML = stocks.map(s => `
-      <div class="sr-item" data-code="${s.code}" tabindex="0">
-        <span class="sr-code">${fmtCode(s.code)}</span>
-        <span class="sr-name">${s.name}</span>
-        <span class="sr-hint">View →</span>
-      </div>
-    `).join('');
-    searchResults.classList.add('open');
-    searchResults.querySelectorAll('.sr-item').forEach(item => {
-      item.addEventListener('mousedown', e => {
-        e.preventDefault();
-        location.href = `di/?code=${item.dataset.code}`;
-      });
-    });
-  }
-
-  let searchTimer;
-  searchInput.addEventListener('input', () => {
-    clearTimeout(searchTimer);
-    const q = searchInput.value.trim();
-    if (!q) { searchResults.classList.remove('open'); return; }
-    searchTimer = setTimeout(async () => {
-      const stocks = await loadUniverse();
-      if (!stocks) return;
-      showResults(matchStocks(q, stocks), q);
-    }, 150);
-  });
-
-  searchInput.addEventListener('keydown', async e => {
-    if (e.key === 'Enter') {
-      const q = searchInput.value.trim();
-      if (!q) return;
-      const stocks = await loadUniverse();
-      if (!stocks) return;
-      const matches = matchStocks(q, stocks);
-      if (matches.length) location.href = `di/?code=${matches[0].code}`;
-    }
-    if (e.key === 'Escape') { searchResults.classList.remove('open'); searchInput.blur(); }
-  });
-
-  searchInput.addEventListener('blur', () => {
-    setTimeout(() => searchResults.classList.remove('open'), 200);
   });
 
   // Cmd/Ctrl + K
-  document.addEventListener('keydown', e => {
-    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+  document.addEventListener('keydown', (e)=>{
+    if((e.metaKey || e.ctrlKey) && e.key.toLowerCase()==='k'){
       e.preventDefault();
-      searchInput.focus();
+      document.getElementById('searchInput').focus();
     }
   });
 
-  // ── Swap card tap-to-flip (mobile) ───────────────────────────────────
-  document.querySelectorAll('.swap').forEach(card => {
-    card.addEventListener('click', e => {
-      if (e.target.closest('a')) return;
+  // Swap card tap-to-flip (mobile)
+  document.querySelectorAll('.swap').forEach(card=>{
+    card.addEventListener('click', (e)=>{
+      if(e.target.closest('a')) return;
       card.classList.toggle('flipped');
     });
   });

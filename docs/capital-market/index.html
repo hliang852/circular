@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capital Market — Circular</title>
+<link rel="stylesheet" href="../assets/tokens.css">
+<link rel="stylesheet" href="../assets/shared.css">
+<style>
+.cm-hero{
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  min-height:calc(100vh - 120px);text-align:center;padding:60px 20px;
+}
+.cm-badge{
+  display:inline-flex;align-items:center;gap:8px;
+  background:var(--pbg);border:1px solid rgba(163,113,247,.3);
+  border-radius:20px;font-size:11px;color:var(--purple);
+  padding:5px 14px;margin-bottom:28px;letter-spacing:.05em;text-transform:uppercase;
+}
+.cm-title{
+  font-size:52px;font-weight:700;color:var(--tx);letter-spacing:-1.8px;
+  line-height:1;margin-bottom:16px;
+}
+.cm-subtitle{
+  font-size:16px;color:var(--tx2);max-width:520px;line-height:1.7;margin-bottom:40px;
+}
+.cm-features{
+  display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-bottom:48px;
+}
+.cm-feature{
+  background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);
+  padding:16px 22px;min-width:180px;text-align:left;
+}
+.cm-feature-icon{font-size:20px;margin-bottom:8px}
+.cm-feature-name{font-size:13px;font-weight:600;color:var(--tx);margin-bottom:4px}
+.cm-feature-desc{font-size:12px;color:var(--tx3);line-height:1.5}
+.cm-back{
+  display:inline-flex;align-items:center;gap:6px;
+  background:rgba(88,166,255,.1);border:1px solid rgba(88,166,255,.25);
+  color:var(--accent);font-size:13px;font-weight:500;
+  padding:9px 18px;border-radius:var(--r);text-decoration:none;
+  transition:background .12s;
+}
+.cm-back:hover{background:rgba(88,166,255,.18)}
+</style>
+</head>
+<body>
+
+<div id="circular-header"></div>
+
+<main class="page">
+  <div class="cm-hero">
+    <div class="cm-badge">
+      <svg width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5V8l2 2" stroke-linecap="round"/></svg>
+      Coming Soon
+    </div>
+    <h1 class="cm-title">Capital Market</h1>
+    <p class="cm-subtitle">
+      The other side of the ledger — when companies raise rather than return.
+      Equity issuances, convertible bonds, lock-up expiries, and rights issues, all in one place.
+    </p>
+    <div class="cm-features">
+      <div class="cm-feature">
+        <div class="cm-feature-icon">📤</div>
+        <div class="cm-feature-name">Equity Issuances</div>
+        <div class="cm-feature-desc">Full history of every placement and rights issue a company has done</div>
+      </div>
+      <div class="cm-feature">
+        <div class="cm-feature-icon">🔒</div>
+        <div class="cm-feature-name">Lock-up Expiries</div>
+        <div class="cm-feature-desc">Calendar of upcoming lock-up expirations so you're never caught off-guard</div>
+      </div>
+      <div class="cm-feature">
+        <div class="cm-feature-icon">🔄</div>
+        <div class="cm-feature-name">Convertible Bonds</div>
+        <div class="cm-feature-desc">CB conversion prices overlaid on the underlying stock chart</div>
+      </div>
+    </div>
+    <a href="../" class="cm-back">
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 3L5 8l5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Back to Circular
+    </a>
+  </div>
+</main>
+
+<script>window.CIRC_BASE='../data';window.CIRC_ROOT='../';window.CIRC_MODULE='capital-market';</script>
+<script src="../assets/shared.js"></script>
+<script>renderHeader('capital-market');</script>
+</body>
+</html>

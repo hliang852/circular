@@ -103,6 +103,8 @@ function renderHeader(module) {
   const el = document.getElementById('circular-header');
   if (!el) return;
 
+  const cmHref = `${base}capital-market/`;
+
   el.innerHTML = `
     <nav class="circ-header">
       <div class="circ-header-inner">
@@ -114,26 +116,24 @@ function renderHeader(module) {
           Circular
         </a>
         <div class="circ-module-tabs">
-          <a href="${hubHref}" class="circ-tab ${!module ? 'active' : ''}">
+          <a href="${caHref}" class="circ-tab ${module === 'ca' ? 'active' : ''}">
             <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-              <path d="M2 8L8 2l6 6" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M4 10V14h3v-3h2v3h3v-4" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M8 2v2m0 8v2M2 8h2m8 0h2" stroke-linecap="round"/><circle cx="8" cy="8" r="3"/>
             </svg>
-            Home
+            Corporate Actions
           </a>
-          <a href="${diHref}"  class="circ-tab ${module === 'di' ? 'active' : ''}">
+          <a href="${diHref}" class="circ-tab ${module === 'di' ? 'active' : ''}">
             <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
               <circle cx="8" cy="5.5" r="2.5"/>
               <path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/>
             </svg>
             Disclosure of Interests
           </a>
-          <a href="${caHref}" class="circ-tab ${module === 'ca' ? 'active' : ''}">
+          <a href="${cmHref}" class="circ-tab ${module === 'capital-market' ? 'active' : ''}">
             <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-              <circle cx="8" cy="8" r="6.5"/>
-              <path d="M8 4.5V8l2 2" stroke-linecap="round"/>
+              <path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
-            Corporate Actions
+            Capital Market
           </a>
         </div>
         <div class="circ-header-right">
