@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Corporate Actions — Circular</title>
+<title>Circular — Corporate Actions</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
 :root{
@@ -18,6 +18,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px;line-height:1.6;min-height:100vh}
 
+/* NAV */
 .nav{background:var(--sf);border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100}
 .navi{max-width:1160px;margin:0 auto;padding:0 20px;display:flex;align-items:center}
 .brand{font-size:15px;font-weight:600;color:var(--tx);letter-spacing:-.3px;padding:14px 0;margin-right:22px;display:flex;align-items:center;gap:8px;text-decoration:none}
@@ -28,6 +29,7 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 .tl:hover{color:var(--tx)}.tl.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:500}
 .tl svg{width:13px;height:13px;opacity:.7}
 
+/* PAGE + VIEW TOGGLE */
 .page{max-width:1160px;margin:0 auto;padding:22px 20px 100px}
 .sr{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px}
 .sw{position:relative;flex:1;min-width:200px;max-width:370px}
@@ -38,13 +40,8 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 .vb{padding:7px 13px;font-size:12px;color:var(--tx2);background:none;border:none;cursor:pointer;font-family:var(--sans);transition:background .12s,color .12s;white-space:nowrap}
 .vb.on{background:var(--sf2);color:var(--tx);font-weight:500}
 .vb:hover:not(.on){color:var(--tx)}
-.dropdown{background:var(--sf2);border:1px solid var(--bd2);border-radius:var(--rl);max-height:260px;overflow-y:auto;box-shadow:0 8px 24px rgba(0,0,0,.45)}
-.dropdown-item{padding:9px 14px;cursor:pointer;border-bottom:1px solid var(--bd);display:flex;align-items:center;gap:10px}
-.dropdown-item:last-child{border-bottom:none}
-.dropdown-item:hover{background:rgba(88,166,255,.07)}
-.di-code{font-family:var(--mono);font-size:12px;color:var(--tx3);width:60px;flex-shrink:0}
-.di-name{font-size:13px;color:var(--tx);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
+/* HOME PAGE */
 .home-view{}
 .home-hero{text-align:center;padding:48px 20px 40px;border-bottom:1px solid var(--bd);margin-bottom:32px}
 .home-tag{display:inline-flex;align-items:center;gap:6px;background:var(--sf2);border:1px solid var(--bd);border-radius:20px;font-size:11px;color:var(--tx3);padding:4px 12px;margin-bottom:16px;letter-spacing:.04em}
@@ -61,9 +58,30 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 .se-title{font-size:13px;font-weight:500;color:var(--tx);margin-bottom:14px}
 .se-row{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-top:1px solid var(--bd)}
 .se-row:first-of-type{border-top:none;padding-top:0}
+.se-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px}
 .se-label{font-size:12px;font-weight:500;color:var(--tx);margin-bottom:2px}
 .se-desc{font-size:12px;color:var(--tx2);line-height:1.5}
 
+/* CHATBOT */
+.chat-bar{position:fixed;bottom:0;left:0;right:0;background:var(--sf);border-top:1px solid var(--bd);z-index:200;padding:12px 20px}
+.chat-inner{max-width:1160px;margin:0 auto;display:flex;gap:10px;align-items:center}
+.chat-input-wrap{flex:1;position:relative}
+.chat-input{width:100%;background:var(--sf2);border:1px solid var(--bd2);border-radius:20px;color:var(--tx);font-size:13px;padding:9px 44px 9px 16px;font-family:var(--sans);outline:none;transition:border-color .15s}
+.chat-input:focus{border-color:var(--accent)}
+.chat-input::placeholder{color:var(--tx3)}
+.chat-send{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:var(--accent);border:none;border-radius:50%;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:opacity .15s}
+.chat-send:hover{opacity:.85}
+.chat-send svg{color:#fff}
+.chat-label{font-size:11px;color:var(--tx3);white-space:nowrap}
+.chat-response{display:none;background:var(--sf2);border:1px solid var(--bd);border-radius:var(--rl);padding:12px 16px;margin-bottom:10px}
+.chat-response.visible{display:block}
+.cr-text{font-size:13px;color:var(--tx2);line-height:1.6;margin-bottom:8px}
+.cr-jump{display:inline-flex;align-items:center;gap:6px;background:rgba(88,166,255,.12);border:1px solid rgba(88,166,255,.3);color:var(--accent);font-size:12px;font-weight:500;padding:5px 12px;border-radius:10px;cursor:pointer;transition:background .12s}
+.cr-jump:hover{background:rgba(88,166,255,.2)}
+.cr-loading{display:none;font-size:12px;color:var(--tx3);font-style:italic}
+.cr-loading.visible{display:block}
+
+/* STOCK HERO */
 .stock-hero{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:18px 22px;margin-bottom:14px}
 .hero-top{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
 .hero-name{font-size:26px;font-weight:700;color:var(--tx);letter-spacing:-.5px}
@@ -71,375 +89,567 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 .badge-live{font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.25);display:inline-flex;align-items:center;gap:5px}
 .badge-live::before{content:'';width:6px;height:6px;background:var(--green);border-radius:50%;animation:pulse 2s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
-.badge-inactive{font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;background:var(--sf2);color:var(--tx3);border:1px solid var(--bd)}
 .cs-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;cursor:default}
-.cs-0{background:var(--sf2);color:var(--tx3);border:1px solid var(--bd)}
-.cs-1{background:rgba(248,81,73,.11);color:#f85149;border:1px solid rgba(248,81,73,.25)}
-.cs-2{background:rgba(224,108,0,.13);color:#e06c00;border:1px solid rgba(224,108,0,.25)}
-.cs-3{background:rgba(210,153,34,.13);color:#d29922;border:1px solid rgba(210,153,34,.25)}
 .cs-4{background:rgba(57,211,83,.12);color:#39d353;border:1px solid rgba(57,211,83,.25)}
 .cs-5{background:rgba(63,185,80,.15);color:#3fb950;border:1px solid rgba(63,185,80,.3)}
+.cs-3{background:rgba(210,153,34,.13);color:#d29922;border:1px solid rgba(210,153,34,.25)}
+.cs-2{background:rgba(224,108,0,.13);color:#e06c00;border:1px solid rgba(224,108,0,.25)}
+.cs-1{background:rgba(248,81,73,.11);color:#f85149;border:1px solid rgba(248,81,73,.25)}
 .sig-hero-strong{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.3);display:inline-flex;align-items:center;gap:4px}
 .sig-hero-moderate{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;background:var(--abg);color:var(--amber);border:1px solid rgba(210,153,34,.3);display:inline-flex;align-items:center;gap:4px}
 .uw-badge{display:inline-flex;align-items:center;gap:4px;background:var(--rbg);color:var(--red);font-size:10px;font-weight:500;padding:2px 7px;border-radius:10px;border:1px solid rgba(248,81,73,.22);white-space:nowrap}
-.hero-mandate{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.hero-mandate{display:flex;align-items:center;gap:10px;margin-bottom:11px;flex-wrap:wrap}
 .hm-label{font-size:11px;color:var(--tx3);white-space:nowrap}
-.hm-track{flex:1;height:5px;background:var(--bd);border-radius:3px;overflow:hidden}
-.hm-fill{height:100%;background:linear-gradient(90deg,var(--green),var(--accent));border-radius:3px;transition:width .4s}
-.hm-stat{font-size:11px;color:var(--tx2);white-space:nowrap}
-.econ-strip{display:flex;flex-wrap:wrap;gap:0;border-top:1px solid var(--bd);padding-top:10px;margin-top:4px}
+.hm-track{flex:1;max-width:180px;height:5px;background:var(--bd);border-radius:3px;overflow:hidden}
+.hm-fill{height:100%;background:linear-gradient(90deg,#3fb950,#58a6ff);border-radius:3px}
+.hm-stat{font-size:12px;color:var(--tx2);font-family:var(--mono)}
+.hm-stat .ok{color:var(--green)}.hm-stat .dim{color:var(--tx3)}
+.econ-strip{display:flex;align-items:center;gap:0;flex-wrap:wrap;padding-top:10px;border-top:1px solid var(--bd)}
 .es-item{display:flex;flex-direction:column;gap:1px;padding:0 16px 0 0}
-.es-label{font-size:10px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em}
-.es-val{font-size:14px;font-weight:600;font-family:var(--mono)}
-.es-val.pos{color:var(--green)}.es-val.neu{color:var(--tx2)}.es-val.neg{color:var(--red)}
-.es-sep{width:1px;background:var(--bd);margin:0 4px}
+.es-label{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--tx3)}
+.es-val{font-size:13px;font-weight:500;font-family:var(--mono)}
+.es-val.pos{color:var(--green)}.es-val.neu{color:var(--tx2)}
+.es-sep{width:1px;height:32px;background:var(--bd2);margin-right:16px;flex-shrink:0;align-self:center}
 
-.cross-link-card{display:flex;align-items:center;justify-content:space-between;gap:12px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:10px 16px;margin-bottom:10px;font-size:12px;color:var(--tx2)}
-.cross-link-card a{color:var(--accent);text-decoration:none;font-weight:500}
+/* INSIGHT BOX */
+.insight-box{background:var(--sf2);border:1px solid var(--bd);border-radius:var(--rl);padding:14px 18px;margin-bottom:12px}
+.ib-head{font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3);margin-bottom:10px;display:flex;align-items:center;gap:6px}
+.ib-points{display:flex;flex-direction:column;gap:7px}
+.ib-point{display:flex;align-items:flex-start;gap:9px;font-size:13px;line-height:1.55}
+.ib-icon{flex-shrink:0;width:16px;height:16px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;margin-top:1px}
+.ib-icon.bull{background:var(--gbg);color:var(--green)}.ib-icon.bear{background:var(--rbg);color:var(--red)}
+.ib-icon.neutral{background:var(--sf);border:1px solid var(--bd);color:var(--tx3)}
+.ib-icon.di{background:rgba(88,166,255,.12);color:var(--accent);border:1px solid rgba(88,166,255,.25)}
+.ib-text{color:var(--tx2)}.ib-text strong{color:var(--tx);font-weight:500}
+.ib-text a{color:var(--accent);text-decoration:none}
 
-.chart-section{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:18px 20px;margin-bottom:14px}
-.cs-head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
-.cs-title{font-size:13px;font-weight:500;color:var(--tx)}
-.cs-sub{font-size:11px;color:var(--tx3);margin-top:2px}
-.chart-wrap{height:240px;position:relative}
-.event-pills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
-.ep{display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--tx2);background:var(--sf2);border:1px solid var(--bd);border-radius:10px;padding:3px 10px}
-.ep-link{color:var(--accent);text-decoration:none;margin-left:4px;font-size:10px}
-.legend{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}
-.li{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--tx3)}
-.ld{width:12px;height:3px;border-radius:1px}
-.lb{width:12px;height:10px;border-radius:2px}
-.lm{font-size:12px}
-.blackout-info{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--tx3);margin-top:10px}
-.blackout-date{color:var(--amber)}
-
-.mandate-section{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:0;margin-bottom:14px;overflow:visible}
-.mandate-section summary{padding:14px 18px;list-style:none;cursor:pointer;user-select:none}
-.mandate-section summary::-webkit-details-marker{display:none}
-.ms-top-row{display:flex;align-items:center;gap:8px;margin-bottom:8px}
-.ms-title{font-size:13px;font-weight:500;color:var(--tx);display:flex;align-items:center;gap:6px}
-.ms-link{font-size:11px;color:var(--accent);text-decoration:none}
-.ms-chevron{font-size:10px;color:var(--tx3);transition:transform .2s}
-.mandate-section[open] .ms-chevron{transform:rotate(180deg)}
-.ms-prog-row{padding:0 18px 12px}
-.mandate-track{height:5px;background:var(--bd);border-radius:3px;overflow:hidden}
-.mandate-fill{height:100%;background:linear-gradient(90deg,var(--green),var(--accent));border-radius:3px}
-.mandate-body{padding:0 18px 18px;border-top:1px solid var(--bd)}
-.mc-stats{display:flex;gap:20px;flex-wrap:wrap;padding-top:16px;margin-bottom:16px}
-.mc-group{display:flex;flex-direction:column;gap:8px;flex:1;min-width:180px}
-.mc-group-label{font-size:10px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
-.mc-vdivider{width:1px;background:var(--bd);flex-shrink:0}
-.mcs-item{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
-.mcs-label{font-size:12px;color:var(--tx2)}
-.mcs-value{font-size:13px;font-family:var(--mono);font-weight:600;color:var(--tx)}
+/* COLLAPSIBLE MANDATE */
+details.mandate-section{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);margin-bottom:12px}
+details.mandate-section summary{list-style:none;cursor:pointer;padding:13px 18px;display:flex;flex-direction:column;user-select:none;transition:background .12s}
+details.mandate-section summary::-webkit-details-marker{display:none}
+details.mandate-section summary:hover{background:var(--sf2)}
+.ms-top-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;width:100%}
+.ms-title{font-size:13px;font-weight:500;color:var(--tx);display:flex;align-items:center;gap:7px}
+.ms-chevron{font-size:11px;color:var(--tx3);transition:transform .2s;flex-shrink:0}
+details.mandate-section[open] .ms-chevron{transform:rotate(180deg)}
+.ms-link{font-size:12px;color:var(--accent);text-decoration:none;white-space:nowrap;flex-shrink:0}
+.ms-link:hover{text-decoration:underline}
+.ms-prog-row{width:100%;margin-top:8px}
+.mandate-body{padding:18px 20px 22px;border-top:1px solid var(--bd)}
+.mandate-track{height:7px;background:var(--bd);border-radius:4px;margin:0 0 12px;overflow:hidden}
+.mandate-fill{height:100%;background:linear-gradient(90deg,#3fb950,#58a6ff);border-radius:4px}
+.mc-stats{display:flex;gap:0;flex-wrap:wrap}
+.mc-group{display:flex;flex-direction:column;gap:13px;padding:0 28px 0 0}
+.mc-group-label{font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:var(--tx3);font-weight:500;padding-bottom:9px;border-bottom:1px solid var(--bd);margin-bottom:2px}
+.mc-vdivider{width:1px;background:var(--bd);margin:0 28px;flex-shrink:0;align-self:stretch}
+.mcs-item{display:flex;flex-direction:column;gap:3px}
+.mcs-label{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3)}
+.mcs-value{font-size:13px;font-weight:500;font-family:var(--mono)}
 .mcs-value.ok{color:var(--green)}.mcs-value.dim{color:var(--tx2)}
-.mcs-unit{font-size:10px;color:var(--tx3);font-weight:400;font-family:var(--sans);margin-left:5px}
-.prob-section{padding-top:14px;border-top:1px solid var(--bd)}
-.prob-head{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.prob-label{font-size:12px;color:var(--tx2)}
-.prob-track{height:5px;width:120px;background:var(--bd);border-radius:3px;overflow:hidden}
+.mcs-unit{font-size:10px;font-weight:400;color:var(--tx3);margin-left:3px;font-family:var(--sans)}
+.prob-section{margin-top:20px;padding-top:16px;border-top:1px solid var(--bd)}
+.prob-head{display:flex;align-items:center;gap:8px;margin-bottom:10px;flex-wrap:wrap}
+.prob-label{font-size:11px;font-weight:500;color:var(--tx2)}
+.prob-track{height:5px;background:var(--bd);border-radius:3px;overflow:hidden;width:160px;flex-shrink:0}
 .prob-fill{height:100%;border-radius:3px}
-.prob-pct{font-size:13px;font-family:var(--mono);font-weight:600}
-.prob-factors{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
-.pf-item{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:var(--tx2);background:var(--sf2);border:1px solid var(--bd);border-radius:10px;padding:3px 10px}
+.prob-pct{font-size:12px;font-weight:600;font-family:var(--mono)}
+.prob-factors{display:flex;gap:20px;flex-wrap:wrap;margin-top:8px}
+.pf-item{font-size:11px;color:var(--tx3);display:flex;align-items:center;gap:4px}
 .pf-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
-.info-btn{width:14px;height:14px;border-radius:50%;background:var(--sf2);border:1px solid var(--bd2);color:var(--tx3);font-size:9px;font-weight:600;font-family:var(--mono);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;line-height:1;padding:0}
 
-.mg{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-bottom:14px}
-.mc2{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:14px 16px}
-.ml{font-size:11px;color:var(--tx3);margin-bottom:4px;display:flex;align-items:center;gap:4px}
-.mv{font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono);letter-spacing:-.5px;line-height:1.1}
-.ms2{font-size:11px;color:var(--tx3);margin-top:3px}
-.md{font-size:11px;margin-top:4px}.md.up{color:var(--green)}.md.dim{color:var(--tx3)}
-.uw-flag{font-size:11px;color:var(--red);margin-top:4px}
+/* INFO TOOLTIP */
+.info-wrap{position:relative;display:inline-flex;align-items:center}
+.info-btn{width:15px;height:15px;border-radius:50%;background:var(--sf2);border:1px solid var(--bd2);color:var(--tx3);font-size:9px;font-weight:600;font-family:var(--mono);cursor:pointer;display:flex;align-items:center;justify-content:center;line-height:1;transition:background .12s,color .12s;padding:0;flex-shrink:0}
+.info-btn:hover{background:rgba(88,166,255,.15);border-color:rgba(88,166,255,.5);color:var(--accent)}
+.info-popup{display:none;position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);width:275px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.5)}
+.info-popup::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:6px solid transparent;border-top-color:#384152}
+.info-popup::before{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:#1c2330;margin-top:-1px;z-index:1}
+.info-wrap:hover .info-popup,.info-wrap:focus-within .info-popup{display:block}
+.ip-title{font-size:12px;font-weight:500;color:var(--tx);margin-bottom:7px}
+.ip-body{font-size:11.5px;color:var(--tx2);line-height:1.6;margin-bottom:7px}
+.ip-rows{display:flex;flex-direction:column;gap:5px;margin-bottom:7px}
+.ip-row{display:flex;gap:7px;font-size:11.5px;line-height:1.5}
+.ip-key{color:var(--tx3);flex-shrink:0;width:105px}.ip-val{color:var(--tx2)}
+.ip-note{font-size:11px;color:var(--tx3);border-top:1px solid var(--bd);padding-top:7px;line-height:1.5}
+.ip-note a{color:var(--accent);text-decoration:none}
 
-.insight-box{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:16px 20px}
-.ib-head{display:flex;align-items:center;gap:7px;font-size:12px;font-weight:500;color:var(--tx3);margin-bottom:12px;text-transform:uppercase;letter-spacing:.04em}
-.ib-points{display:flex;flex-direction:column;gap:8px}
-.ib-point{display:flex;align-items:flex-start;gap:10px}
-.ib-icon{width:22px;height:22px;border-radius:50%;font-size:10px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px}
-.ib-icon.bull{background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.25)}
-.ib-icon.bear{background:var(--rbg);color:var(--red);border:1px solid rgba(248,81,73,.22)}
-.ib-icon.neutral{background:var(--sf2);color:var(--tx2);border:1px solid var(--bd)}
-.ib-icon.di{background:var(--pbg);color:var(--purple);border:1px solid rgba(163,113,247,.25);font-family:var(--mono);font-size:8px;font-weight:700}
-.ib-text{font-size:12px;color:var(--tx2);line-height:1.6}
-.ib-text a{color:var(--accent)}
+/* CHART SECTION */
+.chart-section{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:18px 20px;margin-bottom:14px}
+.cs-head{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:8px}
+.cs-title{font-size:13px;font-weight:500;color:var(--tx)}
+.cs-sub{font-size:12px;color:var(--tx3);margin-top:2px}
+.chart-wrap{position:relative;height:210px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;padding-top:10px;border-top:1px solid var(--bd)}
+.li{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--tx3)}
+.ld{width:20px;height:3px;border-radius:2px}.lb{width:10px;height:10px;border-radius:2px}
+.lm{font-weight:600;font-size:12px;margin-right:1px}
+.blackout-info{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:12px;color:var(--tx3);flex-wrap:wrap}
+.blackout-date{color:var(--amber);font-family:var(--mono);font-weight:500}
+.event-pills{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.ep{font-size:11px;padding:3px 10px;border-radius:12px;display:inline-flex;align-items:center;gap:6px;font-weight:500}
+.ep-placing{background:var(--rbg);color:var(--red);border:1px solid rgba(248,81,73,.25)}
+.ep-cb{background:var(--abg);color:var(--amber);border:1px solid rgba(210,153,34,.25)}
+.ep-link{font-size:10px;opacity:.75;color:inherit;text-decoration:none;border-left:1px solid currentColor;padding-left:6px;margin-left:2px}
+.ep-link:hover{opacity:1}
 
-.table-shell{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;margin-bottom:14px}
-.table-head{display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid var(--bd)}
-.table-title{font-size:13px;font-weight:500;color:var(--tx)}
-.table-meta{font-size:11px;color:var(--tx3)}
-.table-scroll{overflow-x:auto}
-table{width:100%;border-collapse:collapse;font-size:12px}
-th{padding:9px 10px;text-align:left;font-size:11px;font-weight:500;color:var(--tx3);border-bottom:1px solid var(--bd);white-space:nowrap;background:var(--sf2)}
-td{padding:9px 10px;border-bottom:1px solid rgba(42,49,64,.5);color:var(--tx2);white-space:nowrap}
-tr:last-child td{border-bottom:none}
-tr:hover td{background:rgba(88,166,255,.04)}
+/* METRIC CARDS */
+.mg{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:11px;margin-bottom:14px}
+.mc2{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:14px 17px}
+.ml{font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;display:flex;align-items:center;gap:5px}
+.mv{font-size:20px;font-weight:600;font-family:var(--mono);letter-spacing:-.5px}
+.ms2{font-size:11px;color:var(--tx3);margin-top:3px;font-family:var(--mono)}
+.md{font-size:11px;margin-top:3px}
+.md.up{color:var(--green)}.md.dn{color:var(--red)}.md.dim{color:var(--tx3)}
+.uw-flag{display:inline-flex;align-items:center;gap:4px;background:var(--rbg);color:var(--red);font-size:10px;font-weight:500;padding:2px 7px;border-radius:10px;margin-top:5px;border:1px solid rgba(248,81,73,.22)}
+
+/* TABLE */
+.ts{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;margin-bottom:14px}
+.th{padding:12px 16px;border-bottom:1px solid var(--bd);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.ttitle{font-size:13px;font-weight:500;color:var(--tx)}.tmeta{font-size:12px;color:var(--tx3)}
+.tscroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px;table-layout:fixed}
+thead th{padding:8px 13px;text-align:left;font-size:11px;font-weight:500;color:var(--tx3);text-transform:uppercase;letter-spacing:.05em;background:var(--sf2);border-bottom:1px solid var(--bd);white-space:nowrap}
 th.num,td.num{text-align:right}
+tbody tr{border-bottom:1px solid var(--bd);transition:background .1s}
+tbody tr:last-child{border-bottom:none}
+tbody tr:hover{background:rgba(88,166,255,.04)}
+td{padding:9px 13px;color:var(--tx2);white-space:nowrap;vertical-align:middle}
 td.bold{font-weight:500;color:var(--tx)}
-.hi{color:var(--red)}.lo{color:var(--green)}
-.bc{display:flex;align-items:center;gap:6px}
-.ib2{height:4px;background:var(--accent);border-radius:2px;opacity:.55;flex-shrink:0}
-.ib2.hi2{background:var(--green);opacity:.7}
-.fl{display:inline-flex;align-items:center;gap:3px;font-size:11px;color:var(--accent);text-decoration:none}
-.fl:hover{text-decoration:underline}
-.scell-link{display:flex;flex-direction:column;gap:1px;cursor:pointer}
-.scell-link:hover .nm{color:var(--accent)}
-.nm{font-size:12px;font-weight:500;color:var(--tx)}
-.cd{font-size:11px;font-family:var(--mono);color:var(--tx3)}
-.prow{display:flex;align-items:center;gap:7px;justify-content:flex-end}
-.pbar{height:4px;background:var(--accent);border-radius:2px;opacity:.5}
-.bl{font-size:11px;font-weight:500;color:var(--green);background:var(--gbg);border:1px solid rgba(63,185,80,.2);padding:2px 8px;border-radius:10px}
-.bi{font-size:11px;color:var(--tx3);background:var(--sf2);border:1px solid var(--bd);padding:2px 8px;border-radius:10px}
+td.num{font-family:var(--mono);font-size:12.5px}
+.hi{color:var(--green)}.lo{color:var(--red)}
+.bc{display:flex;align-items:center;gap:6px;justify-content:flex-end}
+.ib2{height:5px;border-radius:3px;background:rgba(88,166,255,.3);min-width:3px}
+.ib2.hi2{background:rgba(88,166,255,.65)}
+.fl{font-size:11px;color:var(--accent);text-decoration:none;display:inline-flex;align-items:center;gap:3px;opacity:.8;transition:opacity .12s}
+.fl:hover{opacity:1}
 
-.lv{margin-top:0}
+/* LEAGUE / LATEST */
+.lv{display:none}
+.sort-row{display:flex;align-items:center;gap:8px;margin-bottom:10px;flex-wrap:wrap}
+.sort-label{font-size:11px;color:var(--tx3);white-space:nowrap}
+.sort-tabs{display:flex;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);overflow:hidden}
+.sort-btn{padding:5px 12px;font-size:12px;color:var(--tx2);background:none;border:none;cursor:pointer;font-family:var(--sans);transition:background .12s,color .12s;white-space:nowrap;border-right:1px solid var(--bd)}
+.sort-btn:last-child{border-right:none}
+.sort-btn.on{background:var(--sf2);color:var(--tx);font-weight:500}
+.sort-btn:hover:not(.on){color:var(--tx)}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
-.chip{font-size:12px;color:var(--tx2);background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 13px;cursor:pointer;transition:background .12s,color .12s}
-.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.sort-row{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap}
-.sort-label{font-size:11px;color:var(--tx3)}
-.sort-tabs{display:flex;gap:4px;flex-wrap:wrap}
-.sort-btn{font-size:11px;color:var(--tx2);background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:4px 10px;cursor:pointer;font-family:var(--sans);transition:background .12s,color .12s}
-.sort-btn.on{background:var(--sf2);color:var(--accent);border-color:var(--bd2)}
+.chip{font-size:12px;padding:4px 12px;border-radius:20px;background:var(--sf2);border:1px solid var(--bd);color:var(--tx2);cursor:pointer;transition:all .12s}
+.chip:hover{border-color:var(--bd2);color:var(--tx)}
+.chip.on{background:rgba(88,166,255,.12);border-color:rgba(88,166,255,.4);color:var(--accent)}
+.scell-link{cursor:pointer;display:inline-flex;flex-direction:column;gap:1px;padding:3px 6px;margin:-3px -6px;border-radius:5px;transition:background .12s}
+.scell-link:hover{background:rgba(88,166,255,.1)}
+.scell-link:hover .nm{color:var(--accent)}
+.scell-link .nm{transition:color .12s}
+.nm{font-weight:500;color:var(--tx);font-size:13px}.cd{font-size:11px;font-family:var(--mono);color:var(--tx3)}
+.prow{display:flex;align-items:center;gap:6px;justify-content:flex-end}
+.pbar{height:5px;border-radius:3px;background:rgba(63,185,80,.4);min-width:3px}
+.bl{display:inline-block;font-size:10px;font-weight:500;padding:2px 7px;border-radius:10px;background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.2)}
+.bi{display:inline-block;font-size:10px;font-weight:500;padding:2px 7px;border-radius:10px;background:var(--sf2);color:var(--tx3);border:1px solid var(--bd)}
 
-.signal-dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:4px}
-.sig-strong{color:var(--green)}.sig-strong .signal-dot{background:var(--green)}
-.sig-med{color:var(--amber)}.sig-med .signal-dot{background:var(--amber)}
-
-.ideas-view{}
-.ist-nav{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
-.ist-btn{font-size:12px;color:var(--tx2);background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:6px 14px;cursor:pointer;font-family:var(--sans);transition:background .12s}
-.ist-btn.on{background:var(--sf2);color:var(--tx);border-color:var(--bd2)}
+/* IDEAS */
+.ideas-view{display:none}
+.ist-nav{display:flex;gap:0;border-bottom:1px solid var(--bd);margin-bottom:16px}
+.ist-btn{padding:10px 18px;font-size:13px;color:var(--tx2);background:none;border:none;border-bottom:2px solid transparent;cursor:pointer;font-family:var(--sans);transition:color .14s,border-color .14s;margin-bottom:-1px;white-space:nowrap;display:flex;align-items:center;gap:6px}
+.ist-btn:hover{color:var(--tx)}.ist-btn.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:500}
 .strat-pane{display:none}.strat-pane.on{display:block}
-.strategy-card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:20px}
-.strat-head{margin-bottom:16px}
-.strat-name{font-size:16px;font-weight:600;color:var(--tx);display:flex;align-items:center;gap:8px;margin-bottom:6px}
-.strat-desc{font-size:13px;color:var(--tx2);line-height:1.6;margin-bottom:10px}
-.strat-criteria{display:flex;flex-wrap:wrap;gap:6px}
-.crit{font-size:11px;color:var(--tx3);background:var(--sf2);border:1px solid var(--bd);border-radius:10px;padding:3px 10px}
-.ideas-note{font-size:11px;color:var(--tx3);margin-top:14px;padding-top:12px;border-top:1px solid var(--bd);line-height:1.7}
-.di-flag{font-size:11px;color:var(--purple);background:var(--pbg);border:1px solid rgba(163,113,247,.25);border-radius:10px;padding:2px 9px;text-decoration:none;white-space:nowrap}
+.strategy-card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;margin-bottom:20px}
+.strat-head{padding:16px 20px;border-bottom:1px solid var(--bd);background:var(--sf2)}
+.strat-name{font-size:15px;font-weight:600;color:var(--tx);display:flex;align-items:center;gap:9px;margin-bottom:4px}
+.strat-desc{font-size:12px;color:var(--tx3);line-height:1.65}
+.strat-criteria{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.crit{font-size:11px;padding:2px 9px;border-radius:10px;background:var(--sf);border:1px solid var(--bd);color:var(--tx2)}
+.di-flag{display:inline-flex;align-items:center;gap:3px;background:var(--pbg);color:var(--purple);font-size:10px;font-weight:500;padding:2px 7px;border-radius:10px;border:1px solid rgba(163,113,247,.25);text-decoration:none;cursor:pointer}
+.di-flag:hover{background:rgba(163,113,247,.2)}
+.signal-dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:3px}
+.sig-strong{background:var(--green)}.sig-med{background:var(--amber)}
+.ideas-note{font-size:12px;color:var(--tx3);padding:12px 16px;border-top:1px solid var(--bd);line-height:1.7}
 
-.calendar-view{}
+/* CALENDAR */
+.calendar-view{display:none}
 .cal-nav{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
-.cal-btn{font-size:12px;color:var(--tx2);background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:5px 12px;cursor:pointer;font-family:var(--sans)}
-.cal-title{font-size:14px;font-weight:600;color:var(--tx);flex:1;text-align:center}
-.cal-legend{display:flex;gap:12px;flex-wrap:wrap}
-.cal-leg{display:flex;align-items:center;gap:4px;font-size:11px;color:var(--tx3)}
-.cal-dot{width:7px;height:7px;border-radius:50%}
-.cal-grid{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden}
-.cal-header{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid var(--bd)}
-.cal-dow{padding:8px;text-align:center;font-size:10px;font-weight:500;color:var(--tx3);text-transform:uppercase;letter-spacing:.05em}
+.cal-title{font-size:15px;font-weight:600;color:var(--tx)}
+.cal-btn{background:var(--sf);border:1px solid var(--bd);color:var(--tx2);border-radius:var(--r);padding:5px 12px;font-size:12px;cursor:pointer;font-family:var(--sans);transition:background .12s}
+.cal-btn:hover{background:var(--sf2);color:var(--tx)}
+.cal-legend{display:flex;gap:14px;margin-left:auto;flex-wrap:wrap}
+.cal-leg{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--tx3)}
+.cal-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.cal-grid{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;margin-bottom:16px}
+.cal-header{display:grid;grid-template-columns:repeat(7,1fr);background:var(--sf2);border-bottom:1px solid var(--bd)}
+.cal-dow{padding:8px;text-align:center;font-size:11px;font-weight:500;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em}
 .cal-body{display:grid;grid-template-columns:repeat(7,1fr)}
-.cal-cell{border-right:1px solid var(--bd);border-bottom:1px solid var(--bd);padding:6px;min-height:64px;cursor:pointer;transition:background .1s}
-.cal-cell:hover{background:rgba(88,166,255,.05)}
+.cal-cell{min-height:72px;border-right:1px solid var(--bd);border-bottom:1px solid var(--bd);padding:6px 8px;position:relative;transition:background .1s}
 .cal-cell:nth-child(7n){border-right:none}
-.cal-cell.empty{background:rgba(0,0,0,.15);cursor:default}
-.cal-cell.today{background:rgba(88,166,255,.07)}
-.cal-day{font-size:12px;font-weight:500;color:var(--tx);margin-bottom:3px}
-.cal-events{display:flex;flex-direction:column;gap:1px}
-.cal-event{font-size:9px;padding:1px 4px;border-radius:2px;display:flex;align-items:center;gap:3px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.cal-cell.empty{background:rgba(0,0,0,.15)}
+.cal-cell.today{background:rgba(88,166,255,.06)}
+.cal-cell:not(.empty):hover{background:var(--sf2);cursor:pointer}
+.cal-day{font-size:12px;font-weight:500;color:var(--tx2);margin-bottom:4px}
+.cal-cell.today .cal-day{color:var(--accent);font-weight:700}
+.cal-events{display:flex;flex-direction:column;gap:2px}
+.cal-event{font-size:10px;padding:1px 5px;border-radius:3px;display:flex;align-items:center;gap:4px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 .cal-event.agm{background:rgba(63,185,80,.18);color:var(--green)}
-.cal-event.results{background:rgba(88,166,255,.18);color:var(--accent)}
-.cal-event.blackout{background:rgba(210,153,34,.18);color:var(--amber)}
-.cal-detail{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:16px 20px;margin-top:12px}
-.cd-date{font-size:13px;font-weight:500;color:var(--tx);margin-bottom:10px}
+.cal-event.results{background:rgba(88,166,255,.15);color:var(--accent)}
+.cal-event.blackout{background:rgba(210,153,34,.15);color:var(--amber)}
+.cal-detail{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:16px 20px}
+.cd-date{font-size:13px;font-weight:500;color:var(--tx);margin-bottom:12px}
 .cd-list{display:flex;flex-direction:column;gap:8px}
-.cd-item{display:flex;align-items:flex-start;gap:10px}
-.cd-badge{font-size:10px;font-weight:600;padding:2px 7px;border-radius:10px;white-space:nowrap}
-.cd-badge.agm{background:rgba(63,185,80,.15);color:var(--green)}
+.cd-item{display:flex;align-items:flex-start;gap:10px;padding:8px 12px;background:var(--sf2);border-radius:var(--r)}
+.cd-badge{font-size:10px;font-weight:500;padding:2px 7px;border-radius:8px;white-space:nowrap;flex-shrink:0;margin-top:1px}
+.cd-badge.agm{background:rgba(63,185,80,.18);color:var(--green)}
 .cd-badge.results{background:rgba(88,166,255,.15);color:var(--accent)}
 .cd-badge.blackout{background:rgba(210,153,34,.15);color:var(--amber)}
 .cd-name{font-size:12px;font-weight:500;color:var(--tx)}
 .cd-note{font-size:11px;color:var(--tx3)}
-.compound-signal{display:flex;align-items:center;gap:8px;background:rgba(63,185,80,.07);border:1px solid rgba(63,185,80,.2);border-radius:var(--r);padding:10px 14px;margin-bottom:10px;font-size:12px;color:var(--tx2)}
-.compound-signal a{color:var(--green);font-weight:500}
-
 
 @media(max-width:640px){
-  .mg{grid-template-columns:1fr 1fr}
-  .mc-stats{flex-direction:column}
-  .mc-vdivider{display:none}
-  .hero-name{font-size:20px}
-  .chart-wrap{height:160px}
-  .cal-cell{min-height:50px}
+  .page{padding:14px 14px 100px}.hero-name{font-size:20px}
+  .mg{grid-template-columns:repeat(2,1fr);gap:8px}.mv{font-size:17px}
+  .chart-wrap{height:160px}.cal-cell{min-height:50px}
+  .chat-bar{padding:10px 14px}
 }
 </style>
 </head>
 <body>
 
+<!-- TOP NAV -->
 <nav class="nav">
   <div class="navi">
-    <a href="./" class="brand">
+    <a href="#" class="brand">
       <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5v3.5l2.5 1.5" stroke-linecap="round"/></svg>
       Circular
     </a>
     <div class="navtabs">
-      <a href="../di/" class="tl"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>Disclosure of Interests</a>
-      <a href="./" class="tl on"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5V8l2 2" stroke-linecap="round"/></svg>Corporate Actions</a>
+      <a href="#" class="tl"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="1.5" y="1.5" width="13" height="13" rx="2"/><path d="M5 8h6M5 5.5h6M5 10.5h4" stroke-linecap="round"/></svg>By Stock</a>
+      <a href="#" class="tl"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>By Shareholder</a>
+      <a href="#" class="tl"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>Compare</a>
+      <a href="#" class="tl"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5V8l2 2" stroke-linecap="round"/></svg>Timeline</a>
+      <a href="#" class="tl on"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v2m0 8v2M2 8h2m8 0h2" stroke-linecap="round"/><circle cx="8" cy="8" r="3"/></svg>Corporate Actions</a>
     </div>
   </div>
 </nav>
 
 <main class="page">
 
+<!-- VIEW TOGGLE -->
 <div class="sr">
-  <div class="sw" style="position:relative">
+  <div class="sw">
     <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
-    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" autocomplete="off">
-    <div id="searchDropdown" class="dropdown" style="display:none;position:absolute;top:calc(100% + 4px);left:0;width:100%;max-width:400px;z-index:300"></div>
+    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" value="700 HK — Tencent Holdings">
   </div>
   <div class="vtog">
-    <button class="vb on"  onclick="switchView('home',this)">Corporate Actions</button>
-    <button class="vb"     onclick="switchView('league',this)">League Table</button>
-    <button class="vb"     onclick="switchView('lastsession',this)">Last Session</button>
-    <button class="vb"     onclick="switchView('ideas',this)">💡 Ideas</button>
+    <button class="vb on"  onclick="switchView('home',this)">📊 Corporate Actions</button>
+    <button class="vb"     onclick="switchView('league',this)">🏆 League Table</button>
+    <button class="vb"     onclick="switchView('lastsession',this)">📈 Last Session</button>
+    <button class="vb"     onclick="switchView('ideas',this)">💡 Ideas Screen</button>
     <button class="vb"     onclick="switchView('calendar',this)">📅 Calendar</button>
   </div>
 </div>
 
-<!-- HOME -->
+<!-- ═══════════════ HOME ═══════════════ -->
 <div id="homev" class="home-view">
   <div class="home-hero">
-    <div class="home-tag"><svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/></svg>HKEX Corporate Actions Tracker</div>
+    <div class="home-tag">
+      <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/></svg>
+      HKEX Corporate Actions Tracker
+    </div>
     <h1 class="home-title">What companies do with capital<br>tells you more than what they say.</h1>
-    <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
-    <button class="home-cta" onclick="goToStock('00700','TENCENT HOLDINGS LIMITED')">
+    <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, equity issuance, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
+    <button class="home-cta" onclick="switchView('league', document.querySelectorAll('.vb')[1])">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      Explore Tencent — live data →
+      Explore Tencent →
     </button>
   </div>
+
   <div class="why-grid">
-    <div class="why-card"><div class="why-icon">🔄</div><div class="why-title">Share Repurchases</div><div class="why-body">Monthly Return filings give you volume, price range, and cumulative progress against the AGM-approved mandate. We surface the VWAP floor as a price support level.</div></div>
-    <div class="why-card"><div class="why-icon">📋</div><div class="why-title">Mandate Tracking</div><div class="why-body">Every mandate is capped at 10% of issued capital by Listing Rule 10.06. Circular shows headroom remaining, float-adjusted impact, and probability of renewal.</div></div>
-    <div class="why-card"><div class="why-icon">⚡</div><div class="why-title">Equity Issuances</div><div class="why-body">Placings, convertible bonds, and rights issues directly offset buybacks. We show gross buybacks alongside net capital return so you see the true picture.</div></div>
-    <div class="why-card"><div class="why-icon">🤝</div><div class="why-title">DI Cross-reference</div><div class="why-body">When a company buys back shares AND a substantial shareholder is simultaneously accumulating, both buyers are competing for the same shrinking float.</div></div>
+    <div class="why-card">
+      <div class="why-icon">🔄</div>
+      <div class="why-title">Share Repurchases</div>
+      <div class="why-body">Monthly Return filings give you volume, price range, and cumulative progress against the AGM-approved mandate. We surface the VWAP floor — where the company itself has been buying — as a price support level.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon">📋</div>
+      <div class="why-title">Mandate Tracking</div>
+      <div class="why-body">Every mandate is capped at 10% of issued capital by Listing Rule 10.06. Circular shows headroom remaining, float-adjusted impact, and a probability score for renewal at the next AGM — before the programme exhausts.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon">⚡</div>
+      <div class="why-title">Equity Issuances</div>
+      <div class="why-body">Placings, convertible bonds, and rights issues directly offset buybacks. We show gross buybacks alongside net capital return (buybacks minus issuances) so you see the true picture, not just the headline number.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon">🤝</div>
+      <div class="why-title">DI Cross-reference</div>
+      <div class="why-body">When a company buys back shares AND a substantial shareholder is simultaneously accumulating, both buyers are competing for the same shrinking float. That compound signal is surfaced on every stock page.</div>
+    </div>
   </div>
+
   <div class="signal-examples">
     <div class="se-title">What the signals mean</div>
-    <div class="se-row"><div class="se-dot" style="background:var(--green);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Strong</div><div class="se-desc">The company is buying back shares below its own 12-month VWAP, AND a substantial shareholder is accumulating via DI filing. Both buyers are active at current prices.</div></div></div>
-    <div class="se-row"><div class="se-dot" style="background:var(--amber);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Moderate</div><div class="se-desc">The company is buying below its own VWAP with a consistency score of 3+, but no concurrent DI accumulation is detected.</div></div></div>
-    <div class="se-row"><div class="se-dot" style="background:var(--purple);width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px"></div><div><div class="se-label">● Mandate Renewer</div><div class="se-desc">Company has an AGM within 90 days with &gt;65% probability of mandate renewal. Uninterrupted programme support into the next fiscal year.</div></div></div>
-  </div>
-  <div id="homeStats" style="display:flex;gap:20px;flex-wrap:wrap;margin-top:20px;padding:16px 20px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl)">
-    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-active">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Active programmes</span></div>
-    <div style="width:1px;background:var(--bd)"></div>
-    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-total">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Stocks tracked</span></div>
-    <div style="width:1px;background:var(--bd)"></div>
-    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--green);font-family:var(--mono)" id="hs-conviction">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Conviction Buys</span></div>
-    <div style="width:1px;background:var(--bd)"></div>
-    <div style="display:flex;flex-direction:column;gap:2px"><span style="font-size:22px;font-weight:700;color:var(--tx);font-family:var(--mono)" id="hs-notional">—</span><span style="font-size:11px;color:var(--tx3);text-transform:uppercase;letter-spacing:.04em">Total buyback value</span></div>
+    <div class="se-row">
+      <div class="se-dot" style="background:var(--green)"></div>
+      <div>
+        <div class="se-label">● Strong</div>
+        <div class="se-desc">The company is buying back shares below its own 12-month VWAP (underwater), AND a substantial shareholder is accumulating via DI filing. Both buyers are active at current prices.</div>
+      </div>
+    </div>
+    <div class="se-row">
+      <div class="se-dot" style="background:var(--amber)"></div>
+      <div>
+        <div class="se-label">● Moderate</div>
+        <div class="se-desc">The company is buying below its own VWAP with a consistency score of 4+, but no concurrent DI accumulation is detected. The company's own cost basis is your floor.</div>
+      </div>
+    </div>
+    <div class="se-row">
+      <div class="se-dot" style="background:var(--purple)"></div>
+      <div>
+        <div class="se-label">● Mandate Renewer</div>
+        <div class="se-desc">Company has an AGM within 90 days with >65% probability of mandate renewal. Uninterrupted programme support into the next fiscal year.</div>
+      </div>
+    </div>
   </div>
 </div>
 
-<!-- BY STOCK -->
+<!-- ═══════════════ BY STOCK ═══════════════ -->
 <div id="sv" style="display:none">
-  <div class="stock-hero" id="stockHero">
+
+  <!-- 1. STOCK HERO -->
+  <div class="stock-hero">
     <div class="hero-top">
-      <span class="hero-name" id="heroName">—</span>
-      <span class="hero-code" id="heroCode">— HK</span>
-      <span id="activeBadge" class="badge-live">Active</span>
-      <span class="cs-badge cs-0" id="csBadge">☆☆☆☆☆ 0</span>
-      <span class="sig-hero-moderate" id="sigBadge">● Moderate signal</span>
-      <div class="uw-badge" id="uwBadge" style="display:none">▼ VWAP underwater</div>
+      <span class="hero-name">Tencent Holdings Ltd.</span>
+      <span class="hero-code">700 HK</span>
+      <span class="badge-live">Active</span>
+      <div class="info-wrap">
+        <span class="cs-badge cs-3" tabindex="0">★★★☆☆ 3</span>
+        <div class="info-popup">
+          <div class="ip-title">Consistency score 3/5</div>
+          <p class="ip-body">9 of the last 13 months had active repurchase activity. Systematic programmes provide a steady bid; erratic ones cluster around price weakness.</p>
+          <div class="ip-rows">
+            <div class="ip-row"><span class="ip-key">5 — Daily</span><span class="ip-val">12/12 months</span></div>
+            <div class="ip-row"><span class="ip-key">4 — Systematic</span><span class="ip-val">10–11/12 months</span></div>
+            <div class="ip-row"><span class="ip-key">3 — Regular</span><span class="ip-val">7–9/12 months</span></div>
+            <div class="ip-row"><span class="ip-key">2 — Opportunistic</span><span class="ip-val">4–6/12 months</span></div>
+            <div class="ip-row"><span class="ip-key">1 — Erratic</span><span class="ip-val">1–3/12 months</span></div>
+          </div>
+        </div>
+      </div>
+      <!-- SIGNAL BADGE -->
+      <div class="info-wrap">
+        <span class="sig-hero-moderate" tabindex="0">● Moderate signal</span>
+        <div class="info-popup" style="left:auto;right:0;transform:none">
+          <div class="ip-title">Why Moderate?</div>
+          <p class="ip-body">Tencent is buying significantly below its mandate-year VWAP: current price (HK$456.4) vs 12-month VWAP paid (HK$565.7), a 19.3% discount. Consistency score 3/5. No concurrent DI accumulation detected yet.</p>
+          <div class="ip-note">This signal is screened in <a href="#" onclick="switchView('ideas',document.querySelectorAll('.vb')[3]);switchIdeasTab('cb',document.querySelectorAll('.ist-btn')[0])">💡 Conviction Buys →</a></div>
+        </div>
+      </div>
+      <div class="uw-badge" style="margin-left:auto">▼ VWAP underwater -19.3%</div>
     </div>
     <div class="hero-mandate">
       <span class="hm-label">Mandate</span>
-      <div class="hm-track"><div class="hm-fill" id="mandateBarHero" style="width:0%"></div></div>
-      <span class="hm-stat" id="mandateStatHero"></span>
+      <div class="hm-track"><div class="hm-fill" style="width:16.9%"></div></div>
+      <span class="hm-stat"><span class="ok">16.9%</span> of mandate used · <span class="ok">8.31%</span> remaining · <span class="dim">expires 2027 AGM</span></span>
     </div>
-    <div class="econ-strip" id="econStrip"></div>
+    <div class="econ-strip">
+      <div class="es-item"><span class="es-label">Buyback yield</span><span class="es-val pos">1.69%</span></div>
+      <div class="es-sep"></div>
+      <div class="es-item"><span class="es-label">Dividend yield</span><span class="es-val neu">1.1%</span></div>
+      <div class="es-sep"></div>
+      <div class="es-item"><span class="es-label">Total return yield</span><span class="es-val pos">6.0%</span></div>
+      <div class="es-sep"></div>
+      <div class="es-item"><span class="es-label">Net capital return YTD</span><span class="es-val pos">+HK$87.1B</span></div>
+      <div class="es-sep"></div>
+      <div class="es-item"><span class="es-label">Free float</span><span class="es-val neu">57%</span></div>
+      <div class="es-sep"></div>
+      <div class="es-item">
+        <span class="es-label">Float-adj. repurchased</span>
+        <div class="info-wrap" style="gap:4px">
+          <span class="es-val pos">2.96%</span>
+          <button class="info-btn">?</button>
+          <div class="info-popup" style="left:auto;right:-10px;transform:none">
+            <div class="ip-title">Float-adjusted repurchase</div>
+            <p class="ip-body">Issued-capital % ÷ free float %. With 57% float, the 1.69% issued-capital buyback removes 2.96% of publicly tradable shares.</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
-  <div class="cross-link-card" id="diCrossLink" style="display:none">
-    <span>View Disclosure of Interests filings for this stock</span>
-    <a id="diCrossLinkHref" href="#">View DI filings →</a>
-  </div>
-  <div class="compound-signal" id="compoundSignal" style="display:none">
-    🎯 <strong>Compound signal:</strong> <span id="compoundText"></span> <a id="compoundLink" href="#">View DI filings →</a>
-  </div>
-
+  <!-- 2. CHART -->
   <div class="chart-section">
-    <div class="cs-head"><div><div class="cs-title">Price &amp; buyback activity — 24-month view</div><div class="cs-sub" id="chartSub"></div></div></div>
+    <div class="cs-head"><div><div class="cs-title">Price &amp; buyback activity — 12-month view</div><div class="cs-sub">Apr 2025–Apr 2026 · price (left) · buyback HK$B (right) · grey = blackout</div></div></div>
     <div class="event-pills" id="eventPills"></div>
     <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
     <div class="legend">
       <div class="li"><div class="ld" style="background:#58a6ff"></div>Price (HK$)</div>
-      <div class="li"><div class="lb" style="background:rgba(63,185,80,.55)"></div>Below YTD VWAP</div>
+      <div class="li"><div class="lb" style="background:rgba(63,185,80,.55)"></div>Below YTD VWAP HK$565.7</div>
       <div class="li"><div class="lb" style="background:rgba(88,166,255,.45)"></div>Above YTD VWAP</div>
+      <div class="li"><div class="lb" style="background:rgba(110,118,129,.18);border:1px solid rgba(110,118,129,.4)"></div>Blackout</div>
       <div class="li"><span class="lm" style="color:#f85149">▼</span>Placing</div>
       <div class="li"><span class="lm" style="color:#d29922">◆</span>CB</div>
     </div>
+    <div class="blackout-info">
+      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--amber)"><circle cx="8" cy="8" r="6.5"/><path d="M8 5v4M8 11v.5" stroke-linecap="round"/></svg>
+      Next blackout period starts: <span class="blackout-date">~15 Jul 2026</span>
+      <span>(est. 30 days before interim results · subject to filing)</span>
+    </div>
   </div>
 
+  <!-- 3. MANDATE (collapsed) -->
   <details class="mandate-section" id="mandateDetails">
     <summary>
       <div class="ms-top-row">
-        <span class="ms-title"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1.5L10 6h4.5L11 9l1.5 4.5L8 11l-4.5 2.5L5 9 1.5 6H6z" stroke-linejoin="round"/></svg>Repurchase Mandate</span>
+        <span class="ms-title">
+          <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1.5L10 6h4.5L11 9l1.5 4.5L8 11l-4.5 2.5L5 9 1.5 6H6z" stroke-linejoin="round"/></svg>
+          Repurchase Mandate
+          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
+            <button id="mandateInfoBtn" class="info-btn" tabindex="0" onclick="event.stopPropagation()">?</button>
+            <div id="mandateInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);width:275px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6);pointer-events:auto">
+              <div class="ip-title">What is the repurchase mandate?</div>
+              <p class="ip-body">Under HK Listing Rule 10.06, companies need shareholder approval at each AGM. The mandate caps total repurchases until the next AGM — standard limit is 10% of issued shares.</p>
+              <div class="ip-rows">
+                <div class="ip-row"><span class="ip-key">Authority used</span><span class="ip-val">YTD repurchased ÷ mandate limit × 100</span></div>
+                <div class="ip-row"><span class="ip-key">Expires</span><span class="ip-val">Earlier of next AGM or 12 months</span></div>
+              </div>
+              <div class="ip-note">Source: <a href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">HKEXnews ↗</a></div>
+              <div style="position:absolute;top:100%;left:50%;transform:translateX(-50%);border:6px solid transparent;border-top-color:#384152"></div>
+            </div>
+          </span>
+        </span>
         <div style="margin-left:auto;display:flex;align-items:center;gap:8px">
           <a class="ms-link" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank" onclick="event.stopPropagation()">Circular PDF ↗</a>
           <span class="ms-chevron">▼</span>
         </div>
       </div>
-      <div class="ms-prog-row"><div class="mandate-track"><div class="mandate-fill" id="mandateBarExpanded" style="width:0%"></div></div></div>
+      <div class="ms-prog-row"><div class="mandate-track"><div class="mandate-fill" style="width:16.9%"></div></div></div>
     </summary>
     <div class="mandate-body">
-      <div class="mc-stats" id="mandateStats"></div>
+      <div class="mc-stats">
+        <div class="mc-group">
+          <span class="mc-group-label">As % of issued share capital</span>
+          <div class="mcs-item"><span class="mcs-label">Repurchased YTD</span><span class="mcs-value ok">1.69%<span class="mcs-unit">of issued capital</span></span></div>
+          <div class="mcs-item"><span class="mcs-label">AGM mandate limit</span><span class="mcs-value dim">10.00%<span class="mcs-unit">of issued capital</span></span></div>
+          <div class="mcs-item"><span class="mcs-label">Still available</span><span class="mcs-value ok">8.31%<span class="mcs-unit">≈ HK$346B · ~758M shares</span></span></div>
+        </div>
+        <div class="mc-vdivider"></div>
+        <div class="mc-group">
+          <span class="mc-group-label">Progress against mandate authority</span>
+          <div class="mcs-item"><span class="mcs-label">Authority used</span><span class="mcs-value ok">16.9%<span class="mcs-unit">of 10% limit (= 1.69 ÷ 10.00)</span></span></div>
+          <div class="mcs-item"><span class="mcs-label">Mandate expires</span><span class="mcs-value dim">2027 AGM<span class="mcs-unit">≈ 12 months remaining</span></span></div>
+        </div>
+        <div class="mc-vdivider"></div>
+        <div class="mc-group">
+          <span class="mc-group-label">Free float adjustment</span>
+          <div class="mcs-item"><span class="mcs-label">Free float</span><span class="mcs-value dim">~57%<span class="mcs-unit">of issued capital</span></span></div>
+          <div class="mcs-item"><span class="mcs-label">Bought back (float-adj.)</span><span class="mcs-value ok">2.96%<span class="mcs-unit">of free float</span></span></div>
+          <div class="mcs-item"><span class="mcs-label">Mandate limit (float-adj.)</span><span class="mcs-value dim">17.54%<span class="mcs-unit">of free float</span></span></div>
+        </div>
+      </div>
       <div class="prob-section">
         <div class="prob-head">
-          <span class="prob-label" id="probLabel">Probability of mandate renewal</span>
-          <div class="prob-track" style="margin-left:10px"><div class="prob-fill" id="probBar" style="width:0%;background:linear-gradient(90deg,#a371f7,#58a6ff)"></div></div>
-          <span class="prob-pct" id="probPct" style="color:var(--purple);margin-left:8px">—%</span>
+          <span class="prob-label">Probability of mandate renewal at 2026 AGM</span>
+          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
+            <button id="probInfoBtn" class="info-btn" tabindex="0">?</button>
+            <div id="probInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);right:-10px;width:265px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6)">
+              <div class="ip-title">How is this calculated?</div>
+              <p class="ip-body">Four signals scored 0–25 each: programme active this month, consistency score, conviction (buying while underwater), mandate pace vs time elapsed.</p>
+              <div class="ip-note">Analytical estimate only.</div>
+              <div style="position:absolute;top:100%;right:14px;border:6px solid transparent;border-top-color:#384152"></div>
+            </div>
+          </span>
+          <div class="prob-track" style="margin-left:10px"><div class="prob-fill" style="width:70%;background:linear-gradient(90deg,#d29922,#58a6ff)"></div></div>
+          <span class="prob-pct" style="color:var(--amber);margin-left:8px">70%</span>
         </div>
         <div class="prob-factors" id="probFactors"></div>
       </div>
     </div>
   </details>
 
-  <div class="mg" id="metricCards"></div>
-  <div class="insight-box" id="insightBox" style="margin-bottom:14px"></div>
+  <!-- 4. METRIC CARDS -->
+  <div class="mg">
+    <div class="mc2">
+      <div class="ml">YTD Consideration</div>
+      <div class="mv" style="font-size:18px">HK$87.1B</div>
+      <div class="ms2">Jun 2025–Apr 2026 · 11 months</div>
+      <div class="md dim">Since May 2025 AGM</div>
+    </div>
+    <div class="mc2">
+      <div class="ml">Shares Bought YTD</div>
+      <div class="mv">153.9M</div>
+      <div class="ms2">1.69% issued · 2.96% float</div>
+      <div class="md dim">9118M shares outstanding</div>
+    </div>
+    <div class="mc2">
+      <div class="ml">YTD VWAP Paid <div class="info-wrap" style="margin-left:2px"><button class="info-btn">?</button><div class="info-popup"><div class="ip-title">YTD VWAP</div><p class="ip-body">Total consideration Jan–May 2025 ÷ shares repurchased. When current price is below this, the programme is "underwater."</p></div></div></div>
+      <div class="mv" style="font-size:18px">HK$565.7</div>
+      <div class="ms2">Jun 2025–Apr 2026 avg cost basis</div>
+      <div class="uw-flag">▼ Underwater vs HK$456.4 (−19.3%) · still buying</div>
+    </div>
+    <div class="mc2">
+      <div class="ml">Avg Monthly Spend</div>
+      <div class="mv" style="font-size:18px">HK$7.9B</div>
+      <div class="ms2">9 of 11 months active</div>
+      <div class="md dim">Annualised est. HK$94.8B</div>
+    </div>
+  </div>
 
-  <div class="table-shell">
-    <div class="table-head"><span class="table-title">Monthly return filings</span><span class="table-meta" id="monthlyMeta">Mandate: 10% of issued shares</span></div>
-    <div class="table-scroll">
+  <!-- 5. INSIGHT + DI -->
+  <div class="insight-box" style="margin-bottom:14px">
+    <div class="ib-head"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1a5 5 0 0 1 2 9.5V12H6v-1.5A5 5 0 0 1 8 1z"/><path d="M6 13h4M7 15h2" stroke-linecap="round"/></svg>Capital return summary &amp; DI context</div>
+    <div class="ib-points">
+      <div class="ib-point"><div class="ib-icon bear">▼</div><span class="ib-text"><strong>Buying underwater:</strong> Mandate-year VWAP paid HK$565.7 vs current HK$456.4 (−19.3%). Recent sessions (Mar–Apr 2026) confirm programme remains active below VWAP.</span></div>
+      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Float impact is material:</strong> 1.69% of issued capital = <strong>2.96% of freely traded shares</strong> absorbed since May 2025 AGM.</span></div>
+      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Buyback yield 1.69%</strong> (since May 2025 AGM) + est. ~0.9% dividend yield. Annualised pace ~HK$95B/year based on 11-month run rate.</span></div>
+      <div class="ib-point"><div class="ib-icon neutral">→</div><span class="ib-text"><strong>Net capital return HK$87.1B</strong> since May 2025 AGM. No equity issuances detected in scraper window — gross = net.</span></div>
+      <div class="ib-point" style="padding-top:8px;margin-top:4px;border-top:1px solid var(--bd)">
+        <div class="ib-icon di">DI</div>
+        <span class="ib-text"><strong>DI context:</strong> Tencent has repurchased <strong>1.69% of issued capital</strong> since May 2025 AGM. DI cross-reference not yet linked — enable DI module to see phantom threshold crossings. <a href="#">View Tencent DI filings →</a></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. MONTHLY TABLE -->
+  <div class="ts">
+    <div class="th"><span class="ttitle">Monthly return filings</span><span class="tmeta">13 months · Mandate: 10% of 9118M issued shares</span></div>
+    <div class="tscroll">
       <table>
-        <colgroup><col style="width:80px"><col style="width:65px"><col style="width:100px"><col style="width:130px"><col style="width:130px"><col style="width:90px"><col style="width:90px"><col style="width:80px"><col style="width:52px"></colgroup>
-        <thead><tr><th>Period</th><th class="num">Days</th><th class="num">Shares</th><th class="num">Price range (HK$)</th><th class="num">Consideration</th><th class="num">Cum % issued</th><th class="num">% mth vol</th><th class="num">vs VWAP</th><th>Filing</th></tr></thead>
+        <colgroup><col style="width:85px"><col style="width:65px"><col style="width:100px"><col style="width:130px"><col style="width:130px"><col style="width:90px"><col style="width:90px"><col style="width:82px"><col style="width:52px"></colgroup>
+        <thead><tr>
+          <th>Period</th><th class="num">Days</th><th class="num">Shares</th><th class="num">Price range (HK$)</th><th class="num">Consideration</th>
+          <th class="num">Cum % issued</th><th class="num">% mth vol <span id="volInfoWrap"></span></th><th class="num">vs VWAP</th><th>Filing</th>
+        </tr></thead>
         <tbody id="mtbody"></tbody>
       </table>
     </div>
   </div>
-</div>
+</div><!-- /sv -->
 
-<!-- LEAGUE -->
-<div id="lv" class="lv" style="display:none">
-  <div class="chips"><span class="chip on" onclick="filterL('all',this)">All programmes</span><span class="chip" onclick="filterL('active',this)">Active only</span><span class="chip" onclick="filterL('big',this)">&gt; HK$5B</span></div>
+<!-- ═══════════════ LEAGUE ═══════════════ -->
+<div id="lv" class="lv">
+  <div class="chips"><span class="chip on" onclick="filterL('all',this)">All programmes</span><span class="chip" onclick="filterL('active',this)">Active only</span><span class="chip" onclick="filterL('big',this)">&gt; HK$5B YTD</span></div>
   <div class="sort-row"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLeague('ytd',this)">YTD Consideration</button><button class="sort-btn" onclick="sortLeague('pct',this)">% Issued</button><button class="sort-btn" onclick="sortLeague('mandate',this)">Mandate Used</button><button class="sort-btn" onclick="sortLeague('date',this)">Last Filing</button></div></div>
-  <div class="table-shell">
-    <div class="table-head"><span class="table-title" id="leagueTitle">YTD repurchase — ranked by consideration</span><span class="table-meta">Live scraped data · HKEXnews Monthly Returns</span></div>
-    <div class="table-scroll"><table>
-      <colgroup><col style="width:30px"><col style="width:190px"><col style="width:148px"><col style="width:115px"><col style="width:105px"><col style="width:110px"><col style="width:85px"><col style="width:95px"></colgroup>
+  <div class="ts">
+    <div class="th"><span class="ttitle" id="leagueTitle">YTD repurchase — ranked by consideration</span><span class="tmeta">2025 year-to-date</span></div>
+    <div class="tscroll"><table>
+      <colgroup><col style="width:30px"><col style="width:180px"><col style="width:148px"><col style="width:115px"><col style="width:105px"><col style="width:108px"><col style="width:85px"><col style="width:95px"></colgroup>
       <thead><tr><th>#</th><th>Stock</th><th class="num" id="lh-consideration">YTD Consideration ▲</th><th class="num" id="lh-shares">Shares bought</th><th class="num" id="lh-pct">% Issued</th><th class="num" id="lh-mandate">Mandate used</th><th id="lh-status">Status</th><th id="lh-date">Last filing</th></tr></thead>
       <tbody id="ltbody"></tbody>
     </table></div>
   </div>
 </div>
 
-<!-- LAST SESSION -->
-<div id="lastsessionv" class="lv" style="display:none">
-  <div class="sort-row" style="margin-bottom:12px"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLS('cn',this)">Consideration</button><button class="sort-btn" onclick="sortLS('sh',this)">Shares Bought</button></div></div>
-  <div class="table-shell">
-    <div class="table-head"><span class="table-title">Last session buyback</span><span class="table-meta">Most recent NDDR filing per active programme</span></div>
-    <div class="table-scroll"><table>
-      <colgroup><col style="width:190px"><col style="width:94px"><col style="width:110px"><col style="width:130px"><col style="width:120px"><col style="width:58px"></colgroup>
-      <thead><tr><th>Stock</th><th>Date</th><th class="num" id="lss-sh">Shares bought</th><th class="num">Avg price (HK$)</th><th class="num" id="lss-cn">Consideration ▲</th><th>Detail</th></tr></thead>
+<!-- ═══════════════ LAST SESSION ═══════════════ -->
+<div id="lastsessionv" class="lv">
+  <div class="sort-row" style="margin-bottom:12px"><span class="sort-label">Sort by:</span><div class="sort-tabs"><button class="sort-btn on" onclick="sortLastSession('cn',this)">Consideration</button><button class="sort-btn" onclick="sortLastSession('sh',this)">Shares Bought</button><button class="sort-btn" onclick="sortLastSession('vp',this)">% of Day's Vol</button></div></div>
+  <div class="ts">
+    <div class="th"><span class="ttitle">Last session buyback</span><span class="tmeta">Most recent trading day each active programme transacted · volume from HKEX/Yahoo Finance</span></div>
+    <div class="tscroll"><table>
+      <colgroup><col style="width:180px"><col style="width:94px"><col style="width:110px"><col style="width:118px"><col style="width:130px"><col style="width:118px"><col style="width:58px"></colgroup>
+      <thead><tr><th>Stock</th><th>Date</th><th class="num" id="lss-sh">Shares bought</th><th class="num" id="lss-vp">% of day's vol</th><th class="num">Price range (HK$)</th><th class="num" id="lss-cn">Consideration ▲</th><th>Detail</th></tr></thead>
       <tbody id="la-tbody"></tbody>
     </table></div>
   </div>
 </div>
 
-<!-- IDEAS -->
-<div id="ideasv" class="ideas-view" style="display:none">
+<!-- ═══════════════ IDEAS ═══════════════ -->
+<div id="ideasv" class="ideas-view">
   <div class="ist-nav">
     <button class="ist-btn on" onclick="switchIdeasTab('cb',this)">🎯 Conviction Buys</button>
     <button class="ist-btn" onclick="switchIdeasTab('mr',this)">🔄 Mandate Renewers</button>
@@ -447,37 +657,41 @@ td.bold{font-weight:500;color:var(--tx)}
   <div class="strat-pane on" id="cb-pane">
     <div class="strategy-card">
       <div class="strat-head">
-        <div class="strat-name"><span style="font-size:18px">🎯</span>Conviction Buys</div>
-        <div class="strat-desc">Stocks trading <strong style="color:var(--tx)">below their buyback VWAP.</strong> The company's own cost basis is your floor. Consistency ≥ 2, programme active.</div>
-        <div class="strat-criteria"><span class="crit">Current price &lt; VWAP paid</span><span class="crit">Programme active</span><span class="crit">Consistency ≥ 2/5</span></div>
+        <div class="strat-name"><span style="font-size:18px">🎯</span> Conviction Buys</div>
+        <div class="strat-desc">Stocks trading <strong style="color:var(--tx)">below their 12-month buyback VWAP.</strong><br>The company's own cost basis is your floor.<br>Consistency ≥ 4, active in last 30 days.</div>
+        <div class="strat-criteria"><span class="crit">Current price &lt; 12m VWAP paid</span><span class="crit">Consistency ≥ 4/5</span><span class="crit">Active last 30 days</span><span class="crit">DI flag if substantial shareholder also buying</span></div>
       </div>
-      <div class="table-scroll"><table>
-        <colgroup><col style="width:190px"><col style="width:80px"><col style="width:112px"><col style="width:112px"><col style="width:98px"><col style="width:108px"><col style="width:86px"></colgroup>
-        <thead><tr><th>Stock</th><th>Consistency</th><th class="num">Current px</th><th class="num">VWAP paid</th><th class="num">Discount</th><th class="num">Buyback yield</th><th>Signal</th></tr></thead>
+      <div class="tscroll"><table>
+        <colgroup><col style="width:178px"><col style="width:80px"><col style="width:112px"><col style="width:112px"><col style="width:98px"><col style="width:108px"><col style="width:112px"><col style="width:86px"></colgroup>
+        <thead><tr><th>Stock</th><th>Consistency</th><th class="num">Current px</th><th class="num">12m VWAP paid</th><th class="num">Discount</th><th class="num">Buyback yield</th><th>Latest DI</th><th>Signal</th></tr></thead>
         <tbody id="cb-tbody"></tbody>
       </table></div>
-      <div class="ideas-note">⚠ VWAP paid = volume-weighted average from Monthly Return + NDDR filings. <strong style="color:var(--green)">● Strong</strong> = buying below VWAP, consistent programme. <strong style="color:var(--amber)">● Moderate</strong> = below VWAP, less consistent.</div>
+      <div class="ideas-note">
+        ⚠ VWAP paid = volume-weighted average from Monthly Return filings (last 12 months).<br>
+        <strong style="color:var(--green)">● Strong</strong> = company is buying below its own VWAP <em>and</em> a DI substantial shareholder is simultaneously accumulating.<br>
+        <strong style="color:var(--amber)">● Moderate</strong> = company buying below VWAP only, no concurrent DI accumulation. Only stocks with consistency ≥ 4 shown.
+      </div>
     </div>
   </div>
   <div class="strat-pane" id="mr-pane">
     <div class="strategy-card">
       <div class="strat-head">
-        <div class="strat-name"><span style="font-size:18px">🔄</span>Mandate Renewers</div>
-        <div class="strat-desc">Companies with <strong style="color:var(--tx)">upcoming AGMs and high probability of mandate renewal.</strong> Uninterrupted programme support into the next fiscal year.</div>
-        <div class="strat-criteria"><span class="crit">AGM within 90 days</span><span class="crit">Renewal prob. &gt; 65%</span><span class="crit">Mandate &gt; 5% consumed</span></div>
+        <div class="strat-name"><span style="font-size:18px">🔄</span> Mandate Renewers</div>
+        <div class="strat-desc">Companies with <strong style="color:var(--tx)">upcoming AGMs and high probability of mandate renewal.</strong><br>Uninterrupted programme support into the next fiscal year.<br>AGM within 90 days, renewal probability &gt; 65%, consistency ≥ 3.</div>
+        <div class="strat-criteria"><span class="crit">AGM within 90 days</span><span class="crit">Renewal prob. &gt; 65%</span><span class="crit">Consistency ≥ 3/5</span><span class="crit">Mandate &gt; 5% consumed</span></div>
       </div>
-      <div class="table-scroll"><table>
-        <colgroup><col style="width:190px"><col style="width:80px"><col style="width:108px"><col style="width:105px"><col style="width:115px"><col style="width:108px"><col style="width:115px"><col style="width:98px"></colgroup>
+      <div class="tscroll"><table>
+        <colgroup><col style="width:178px"><col style="width:80px"><col style="width:108px"><col style="width:105px"><col style="width:115px"><col style="width:108px"><col style="width:115px"><col style="width:98px"></colgroup>
         <thead><tr><th>Stock</th><th>Consistency</th><th>AGM date</th><th class="num">Mandate used</th><th class="num">Renewal prob.</th><th class="num">Buyback yield</th><th class="num">Float adj.</th><th>Signal</th></tr></thead>
         <tbody id="mr-tbody"></tbody>
       </table></div>
-      <div class="ideas-note">📅 AGM dates estimated. Renewal probability is a heuristic model — see By Stock mandate section for methodology.</div>
+      <div class="ideas-note">📅 AGM dates sourced from HKEXnews circular filings. Renewal probability is a heuristic model combining four signals — see the League Table for mandate detail.</div>
     </div>
   </div>
 </div>
 
-<!-- CALENDAR -->
-<div id="calendarv" class="calendar-view" style="display:none">
+<!-- ═══════════════ CALENDAR ═══════════════ -->
+<div id="calendarv" class="calendar-view">
   <div class="cal-nav">
     <button class="cal-btn" onclick="calNav(-1)">← Prev</button>
     <span class="cal-title" id="calTitle"></span>
@@ -501,391 +715,193 @@ td.bold{font-weight:500;color:var(--tx)}
   </div>
 </div>
 
+<!-- ═══════════════ CHATBOT BAR ═══════════════ -->
+<div class="chat-bar">
+  <div class="chat-inner">
+    <span class="chat-label">Ask Circular</span>
+    <div class="chat-input-wrap">
+      <div id="chatResponse" class="chat-response">
+        <div id="chatLoading" class="cr-loading">Thinking…</div>
+        <div id="chatText" class="cr-text"></div>
+        <button id="chatJump" class="cr-jump" style="display:none"></button>
+      </div>
+      <input id="chatInput" class="chat-input" type="text" placeholder="e.g. Which stocks are buying back shares below their VWAP? or Show me upcoming AGMs">
+      <button class="chat-send" onclick="sendChat()">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2L2 7l5 2 2 5z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
 
 </main>
-
 <script>
-'use strict';
-
-const BASE = '../data';
-
-/* ── Helpers ── */
-const fmtB   = n => n>=1e9?`${(n/1e9).toFixed(1)}B`:n>=1e6?`${(n/1e6).toFixed(0)}M`:n.toLocaleString();
-const fmtHKD = n => n>=1e9?`HK$${(n/1e9).toFixed(1)}B`:n>=1e6?`HK$${(n/1e6).toFixed(0)}M`:`HK$${n.toLocaleString()}`;
-const pLabel = p => { const[y,m]=p.split('-'); return new Date(+y,+m-1,1).toLocaleString('en-GB',{month:'short',year:'2-digit'}); };
-const fmtCode= c => `${parseInt(c,10)} HK`;
-const csClamp= s => Math.min(Math.max(Math.round(s),0),5);
-const csClass= s => `cs-${csClamp(s)}`;
-const csStars= s => { const c=csClamp(s); return '★'.repeat(c)+'☆'.repeat(5-c); };
-
-/* ── Cache ── */
-const _cache = {};
-async function fetchJSON(key, url) {
-  if (_cache[key]) return _cache[key];
-  try { const r=await fetch(url); if(!r.ok) return null; _cache[key]=await r.json(); return _cache[key]; }
-  catch { return null; }
-}
-
-/* ── Map ca_index row → internal format ── */
-function mapRow(r) {
-  const ls = r.last_session;
-  return {
-    c: r.code, n: r.name,
-    cn: r.cumulative_notional || 0,
-    sh: r.shares_bought || 0,
-    pc: r.pct_issued || 0,
-    mc: r.mandate_consumed_pct || 0,
-    act: r.programme_active || false,
-    lf: r.last_filing_date || '',
-    ff: r.free_float_pct || 35,
-    cs: r.consistency_score || 0,
-    vwap: r.vwap_hkd || 0,
-    curPx: r.current_price_hkd || 0,
-    bbYld: r.pct_issued || 0,
-    agm: r.agm_date || '',
-    renewProb: r.renew_probability || 0,
-    ld: ls ? {
-      date: ls.date,
-      sh: ls.shares || 0,
-      hi: ls.avg_price_hkd || 0,
-      lo: ls.avg_price_hkd || 0,
-      cn: Math.round((ls.shares||0)*(ls.avg_price_hkd||0)),
-    } : null,
-  };
-}
-
-/* ── Map per-stock monthly array ── */
-function mapMonthly(stockData) {
-  return (stockData.monthly || []).map(m => ({
-    p:  m.period,
-    sh: m.shares || 0,
-    lo: m.lo || m.month_close || 0,
-    hi: m.hi || m.month_close || 0,
-    cn: m.notional || 0,
-    cum: m.cum_pct || 0,
-    d:  m.trading_days || 0,
-    price: m.month_close || 0,
-    mv: m.month_volume || 0,
-    blackout: m.blackout || false,
-    filing_date: m.filing_date || null,
-  }));
-}
-
-/* ── State ── */
-let league = [];
-let gMonthly = [], gEvents = [], gVwap = 0, gStockData = null;
-
-/* ── Calendar events (real 2026 schedule) ── */
-const calEvents = [
-  {date:"2026-05-20",type:"agm",     name:"Tencent Holdings",  note:"2026 Annual General Meeting"},
-  {date:"2026-05-21",type:"agm",     name:"China Mobile",      note:"2026 Annual General Meeting"},
-  {date:"2026-05-26",type:"agm",     name:"Sunny Optical",     note:"2026 Annual General Meeting"},
-  {date:"2026-05-27",type:"agm",     name:"Meituan",           note:"2026 Annual General Meeting"},
-  {date:"2026-06-03",type:"agm",     name:"Ping An Insurance", note:"2026 Annual General Meeting"},
-  {date:"2026-06-10",type:"agm",     name:"China Const. Bank", note:"2026 Annual General Meeting"},
-  {date:"2026-06-12",type:"agm",     name:"Haidilao",          note:"2026 Annual General Meeting"},
-  {date:"2026-06-17",type:"agm",     name:"ICBC",              note:"2026 Annual General Meeting"},
-  {date:"2026-06-19",type:"agm",     name:"Budweiser APAC",    note:"2026 Annual General Meeting"},
-  {date:"2026-07-15",type:"blackout",name:"Tencent Holdings",  note:"Estimated blackout start (30d before interim results)"},
-  {date:"2026-07-29",type:"results", name:"HSBC Holdings",     note:"2026 Interim Results"},
-  {date:"2026-08-12",type:"results", name:"Tencent Holdings",  note:"2026 Interim Results"},
-  {date:"2026-08-27",type:"results", name:"AIA Group",         note:"2026 Interim Results"},
+/* ── DATA ── */
+const monthly=[
+  {p:"2025-04",sh:14354000,lo:460.6,hi:474.6,cn:6712249059,cum:0.157,d:0,price:467.62,mv:668932076,blackout:false},
+  {p:"2025-05",sh:0,lo:0,hi:0,cn:0,cum:0.157,d:0,price:488.2,mv:414116318,blackout:true},
+  {p:"2025-06",sh:25543000,lo:489.7,hi:504.7,cn:12700160955,cum:0.438,d:0,price:497.21,mv:340066355,blackout:false},
+  {p:"2025-07",sh:11927000,lo:535.5,hi:551.8,cn:6484301997,cum:0.568,d:0,price:543.67,mv:410630030,blackout:false},
+  {p:"2025-08",sh:16936892,lo:580.8,hi:598.5,cn:9986503017,cum:0.754,d:0,price:589.63,mv:419739503,blackout:false},
+  {p:"2025-09",sh:24122000,lo:645.5,hi:665.2,cn:15808700057,cum:1.019,d:0,price:655.36,mv:410673611,blackout:false},
+  {p:"2025-10",sh:9137000,lo:612.4,hi:631.1,cn:5680984572,cum:1.119,d:0,price:621.76,mv:331344027,blackout:false},
+  {p:"2025-11",sh:0,lo:0,hi:0,cn:0,cum:1.119,d:0,price:604.46,mv:309499401,blackout:true},
+  {p:"2025-12",sh:24950000,lo:583.2,hi:601.0,cn:14772929930,cum:1.393,d:0,price:592.1,mv:276457562,blackout:false},
+  {p:"2026-01",sh:16527000,lo:590.0,hi:608.0,cn:9900018414,cum:1.574,d:0,price:599.02,mv:456732414,blackout:false},
+  {p:"2026-02",sh:0,lo:0,hi:0,cn:0,cum:1.574,d:0,price:512.03,mv:574417051,blackout:true},
+  {p:"2026-03",sh:17159141,lo:471.2,hi:485.6,cn:8209377476,cum:1.762,d:0,price:478.43,mv:671000884,blackout:false},
+  {p:"2026-04",sh:7606000,lo:455.5,hi:469.3,cn:3517108714,cum:1.845,d:0,price:462.41,mv:438471867,blackout:false}
+];
+const events=[];
+const league=[
+  {c:"00700",n:"Tencent Holdings",cn:202477830080,sh:459916745,pc:5.04,mc:50.44,act:true,lf:"2026-04-09",ff:57,cs:3,vwap:499.6,curPx:456.4,bbYld:5.04,agm:"2026-05-01",renewProb:60,ld:{date:"2026-04-09",sh:1964000,dv:29460000,hi:512.16,lo:507.07,cn:1000880718}},
+  {c:"01299",n:"AIA Group",cn:50806243971,sh:755560000,pc:7.19,mc:71.9,act:true,lf:"2026-05-15",ff:68,cs:1,vwap:85.2,curPx:87.6,bbYld:7.19,agm:"2026-05-01",renewProb:86,ld:{date:"2026-05-15",sh:1375000,dv:20625000,hi:88.15,lo:87.27,cn:120606069}},
+  {c:"09988",n:"Alibaba Group",cn:36637403154,sh:356989072,pc:1.86,mc:18.6,act:false,lf:"2026-05-06",ff:54,cs:2,vwap:null,curPx:132.3,bbYld:1.86,agm:"2026-05-01",renewProb:14,ld:null},
+  {c:"00011",n:"Hang Seng Bank",cn:2800000000,sh:28600000,pc:1.49,mc:14.9,act:false,lf:"2025-04-08",ff:70,cs:1,vwap:94.8,curPx:98.2,bbYld:1.49,agm:"2025-04-30",renewProb:44,ld:null},
+  {c:"02382",n:"Sunny Optical",cn:991584000,sh:15840000,pc:1.45,mc:14.47,act:true,lf:"2026-05-06",ff:55,cs:1,vwap:null,curPx:64.95,bbYld:1.45,agm:"2026-05-01",renewProb:11,ld:null},
+  {c:"00941",n:"China Mobile",cn:52473002,sh:728000,pc:0.0,mc:0.04,act:false,lf:"2026-05-06",ff:26,cs:0,vwap:null,curPx:86.2,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"00002",n:"CLP Holdings",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-04",ff:63,cs:0,vwap:null,curPx:76.65,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"00005",n:"HSBC Holdings",cn:0,sh:1592963671,pc:9.27,mc:92.7,act:true,lf:"2026-05-07",ff:72,cs:3,vwap:null,curPx:null,bbYld:9.27,agm:"2026-05-01",renewProb:100,ld:null},
+  {c:"00388",n:"HKEX",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-05",ff:65,cs:0,vwap:null,curPx:416.4,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"00939",n:"China Const. Bank",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:31,cs:0,vwap:null,curPx:8.78,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"01398",n:"ICBC",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:33,cs:0,vwap:null,curPx:6.89,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"01876",n:"Budweiser APAC",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-07",ff:51,cs:0,vwap:null,curPx:7.76,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"02318",n:"Ping An Insurance",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-04-30",ff:44,cs:0,vwap:null,curPx:62.45,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"03690",n:"Meituan",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:62,cs:0,vwap:null,curPx:82.7,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
+  {c:"06862",n:"Haidilao",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:52,cs:0,vwap:null,curPx:14.68,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null}
+];
+const calEvents=[
+  {date:"2026-05-01",type:"agm",     name:"Tencent Holdings",   note:"2026 AGM — shareholders vote on repurchase mandate renewal"},
+  {date:"2026-03-20",type:"results", name:"Tencent Holdings",   note:"2025 Annual Results (estimated)"},
+  {date:"2026-01-20",type:"blackout",name:"Tencent Holdings",   note:"Estimated blackout start (30d before annual results)"},
+  {date:"2025-08-13",type:"results", name:"Tencent Holdings",   note:"2025 Interim Results"},
+  {date:"2025-07-15",type:"blackout",name:"Tencent Holdings",   note:"Estimated blackout start (30d before interim results)"},
+  {date:"2025-05-14",type:"agm",     name:"Tencent Holdings",   note:"2025 Annual General Meeting"},
+  {date:"2026-07-15",type:"blackout",name:"Tencent Holdings",   note:"Estimated blackout start (pre-2026 interim results)"},
 ];
 
-/* ── Init ── */
-document.addEventListener('DOMContentLoaded', async () => {
-  switchView('home', document.querySelector('.vtog .vb'));
+/* ── HELPERS ── */
+const fmtB   = n=>n>=1e9?`${(n/1e9).toFixed(1)}B`:n>=1e6?`${(n/1e6).toFixed(0)}M`:n.toLocaleString();
+const fmtHKD = n=>n>=1e9?`HK$${(n/1e9).toFixed(1)}B`:n>=1e6?`HK$${(n/1e6).toFixed(0)}M`:`HK$${n.toLocaleString()}`;
+const pLabel = p=>{const[y,m]=p.split('-');return new Date(+y,+m-1,1).toLocaleString('en-GB',{month:'short',year:'2-digit'});};
+const fmtCode= c=>`${parseInt(c,10)} HK`;
+const csClass= s=>`cs-${s}`;
+const csStars= s=>'★'.repeat(s)+'☆'.repeat(5-s);
 
-  const raw = await fetchJSON('idx', `${BASE}/ca_index.json`);
-  if (raw && raw.length) {
-    league = raw.map(mapRow);
-    // Home stats
-    const active = league.filter(r=>r.act).length;
-    const conviction = league.filter(r=>r.act && r.curPx>0 && r.vwap>0 && r.curPx<r.vwap && r.cs>=2).length;
-    const totalCN = league.reduce((s,r)=>s+r.cn,0);
-    document.getElementById('hs-active').textContent = active;
-    document.getElementById('hs-total').textContent = league.length;
-    document.getElementById('hs-conviction').textContent = conviction;
-    document.getElementById('hs-notional').textContent = fmtHKD(totalCN);
-  }
+/* ── PROBABILITY FACTORS ── */
+const probFactors=[{label:'Programme active this month',score:25,color:'var(--green)'},{label:'Consistency score 3/5',score:16,color:'var(--amber)'},{label:'Buying significantly underwater (−19%)',score:20,color:'var(--green)'},{label:'Mandate pace on track',score:9,color:'var(--amber)'}];
+const pfEl=document.getElementById('probFactors');
+probFactors.forEach(f=>{const d=document.createElement('div');d.className='pf-item';d.innerHTML=`<span class="pf-dot" style="background:${f.color}"></span>${f.label} <span style="color:var(--tx2);font-family:var(--mono);margin-left:3px">(+${f.score})</span>`;pfEl.appendChild(d);});
 
-  renderLeague();
-  renderLastSession();
-  renderConvictionBuys();
-  renderMandateRenewers();
-  renderCalendar();
-  wireSearch();
+/* ── VOL TOOLTIP ── */
+const viW=document.getElementById('volInfoWrap');
+viW.style.cssText='position:relative;display:inline-flex;align-items:center;margin-left:3px;vertical-align:middle';
+viW.innerHTML=`<span tabindex="0" style="width:13px;height:13px;border-radius:50%;background:var(--sf);border:1px solid var(--bd2);color:var(--tx3);font-size:9px;font-weight:600;font-family:var(--mono);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;line-height:1">?</span><div style="display:none;position:absolute;bottom:calc(100% + 8px);right:-10px;width:230px;background:#1c2330;border:1px solid #384152;border-radius:7px;padding:11px 13px;z-index:300;font-size:11px;color:var(--tx2);line-height:1.6;font-weight:400;text-transform:none;letter-spacing:0;box-shadow:0 6px 20px rgba(0,0,0,.5)"><strong style="display:block;color:var(--tx);margin-bottom:4px">% of monthly traded volume</strong>Shares repurchased ÷ total shares traded that month. Above ~5% = company was a meaningful price support factor.<span style="display:block;color:var(--tx3);margin-top:4px">Source: HKEX Securities Statistics / Yahoo Finance</span></div>`;
+const vBtn=viW.querySelector('span'),vTip=viW.querySelector('div');
+vBtn.addEventListener('mouseenter',()=>vTip.style.display='block');
+vBtn.addEventListener('mouseleave',()=>vTip.style.display='none');
+vBtn.addEventListener('focus',()=>vTip.style.display='block');
+vBtn.addEventListener('blur',()=>vTip.style.display='none');
 
-  const code = new URLSearchParams(location.search).get('code');
-  if (code) {
-    const s = league.find(r=>r.c===code);
-    if (s) goToStock(s.c, s.n);
-  }
-
+/* ── EVENT PILLS ── */
+events.forEach(ev=>{
+  const p=document.createElement('span');
+  p.className=`ep ep-${ev.type}`;
+  p.innerHTML=`<span style="font-size:13px">${ev.marker}</span> ${pLabel(ev.p)} — ${ev.label}: ${ev.detail}<a href="${ev.pdfUrl}" target="_blank" class="ep-link" onclick="event.stopPropagation()">PDF ↗</a>`;
+  document.getElementById('eventPills').appendChild(p);
 });
 
-/* ── Search ── */
-function wireSearch() {
-  const si=document.getElementById('searchInput'), dd=document.getElementById('searchDropdown');
-  if(!si||!dd) return;
-  let t;
-  si.addEventListener('input',()=>{
-    clearTimeout(t);
-    t=setTimeout(()=>{
-      const q=si.value.trim().toLowerCase();
-      if(!q){dd.style.display='none';return;}
-      const m=league.filter(r=>r.n.toLowerCase().includes(q)||r.c.includes(q)||String(parseInt(r.c,10)).includes(q)).slice(0,10);
-      if(!m.length){dd.style.display='none';return;}
-      dd.innerHTML=m.map(r=>`<div class="dropdown-item" onmousedown="event.preventDefault();goToStock('${r.c}','${r.n.replace(/'/g,"\\'")}');document.getElementById('searchInput').value='${fmtCode(r.c)} — ${r.n.replace(/'/g,"\\'")}';document.getElementById('searchDropdown').style.display='none'"><span class="di-code">${fmtCode(r.c)}</span><span class="di-name">${r.n}</span><span class="di-code" style="margin-left:auto;color:${r.act?'var(--green)':'var(--tx3)'}">${r.act?'Active':'Inactive'}</span></div>`).join('');
-      dd.style.display='block';
-    },120);
-  });
-  si.addEventListener('blur',()=>setTimeout(()=>{dd.style.display='none';},200));
-}
+/* ── CHART ── */
+const ytdVwap=565.7;
+const barColors=monthly.map(d=>d.cn===0?'rgba(88,166,255,0.08)':(d.cn/d.sh)<ytdVwap?'rgba(63,185,80,0.55)':'rgba(88,166,255,0.45)');
+const blackoutPlugin={id:'blackout',beforeDatasetsDraw(chart){const{ctx,chartArea,scales}=chart;const tw=scales.x.getPixelForTick(1)-scales.x.getPixelForTick(0);monthly.forEach((d,i)=>{if(!d.blackout)return;const x0=scales.x.getPixelForTick(i)-tw/2,x1=x0+tw;ctx.save();ctx.fillStyle='rgba(110,118,129,0.12)';ctx.fillRect(x0,chartArea.top,x1-x0,chartArea.bottom-chartArea.top);ctx.strokeStyle='rgba(110,118,129,0.22)';ctx.lineWidth=0.5;ctx.strokeRect(x0,chartArea.top,x1-x0,chartArea.bottom-chartArea.top);ctx.font='9px sans-serif';ctx.fillStyle='rgba(110,118,129,0.6)';ctx.textAlign='center';ctx.fillText('⛔',(x0+x1)/2,chartArea.top+12);ctx.restore();});}};
+const eventLinesPlugin={id:'eventLines',afterDraw(chart){const{ctx,chartArea,scales}=chart;events.forEach(ev=>{const idx=monthly.findIndex(d=>d.p===ev.p);if(idx<0)return;const x=scales.x.getPixelForTick(idx);ctx.save();ctx.strokeStyle=ev.color;ctx.lineWidth=1.5;ctx.setLineDash([5,4]);ctx.globalAlpha=0.75;ctx.beginPath();ctx.moveTo(x,chartArea.top);ctx.lineTo(x,chartArea.bottom);ctx.stroke();ctx.globalAlpha=0.06;ctx.fillStyle=ev.color;ctx.fillRect(x-10,chartArea.top,20,chartArea.bottom-chartArea.top);ctx.globalAlpha=1;ctx.setLineDash([]);ctx.font=`bold 11px ${getComputedStyle(document.body).fontFamily}`;ctx.fillStyle=ev.color;ctx.textAlign='center';ctx.fillText(ev.marker,x,chartArea.top+14);ctx.restore();});}};
+const vwapLinePlugin={id:'vwapLine',afterDraw(chart){const{ctx,chartArea,scales}=chart;const y=scales.yp.getPixelForValue(ytdVwap);if(y<chartArea.top||y>chartArea.bottom)return;ctx.save();ctx.strokeStyle='rgba(248,81,73,0.45)';ctx.lineWidth=1;ctx.setLineDash([3,3]);ctx.beginPath();ctx.moveTo(chartArea.left,y);ctx.lineTo(chartArea.right,y);ctx.stroke();ctx.fillStyle='rgba(248,81,73,0.65)';ctx.font='9px monospace';ctx.textAlign='left';ctx.fillText(`VWAP $${ytdVwap}`,chartArea.left+4,y-3);ctx.restore();}};
+new Chart(document.getElementById('mainChart').getContext('2d'),{
+  data:{labels:monthly.map(d=>pLabel(d.p)),datasets:[
+    {type:'line',data:monthly.map(d=>d.price),yAxisID:'yp',borderColor:'#58a6ff',borderWidth:2,pointRadius:3,pointBackgroundColor:'#58a6ff',pointBorderColor:'#0d1117',pointBorderWidth:1.5,tension:0.3,fill:false,order:1},
+    {type:'bar',data:monthly.map(d=>+(d.cn/1e9).toFixed(2)),yAxisID:'yb',backgroundColor:barColors,borderColor:barColors.map(c=>c.replace(/[\d.]+\)$/,'0.9)')),borderWidth:1,borderRadius:3,order:2}
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{display:false},tooltip:{backgroundColor:'#1c2330',borderColor:'#2a3140',borderWidth:1,titleColor:'#e6edf3',bodyColor:'#8b949e',padding:10,callbacks:{afterTitle(items){const idx=items[0]?.dataIndex;const ev=events.find(e=>e.p===monthly[idx]?.p);return ev?[`⚡ ${ev.label}: ${ev.detail}`]:[];},label(c){if(c.datasetIndex===0)return`  Price: HK$${c.raw}`;return c.raw>0?`  Buyback: HK$${c.raw.toFixed(1)}B`:'  No repurchase';}}}},scales:{x:{grid:{color:'rgba(255,255,255,.04)'},ticks:{color:'#6e7681',font:{size:11},maxRotation:0}},yp:{position:'left',grid:{color:'rgba(255,255,255,.06)'},ticks:{color:'#58a6ff',font:{size:11},callback:v=>`$${v}`},border:{display:false}},yb:{position:'right',grid:{drawOnChartArea:false},ticks:{color:'#3fb950',font:{size:11},callback:v=>`$${v}B`},border:{display:false}}}},
+  plugins:[blackoutPlugin,eventLinesPlugin,vwapLinePlugin]
+});
 
-/* ── Chart ── */
-let chartInst = null;
-function buildChart(monthly, events, vwap) {
-  const barColors = monthly.map(d=>{
-    if(!d.cn) return 'rgba(88,166,255,0.08)';
-    return (d.cn/Math.max(d.sh,1))<vwap?'rgba(63,185,80,0.55)':'rgba(88,166,255,0.45)';
-  });
-  const vwapPlugin={id:'vwap',afterDraw(chart){if(!vwap)return;const{ctx,chartArea,scales}=chart;const y=scales.yp.getPixelForValue(vwap);if(y<chartArea.top||y>chartArea.bottom)return;ctx.save();ctx.strokeStyle='rgba(248,81,73,0.45)';ctx.lineWidth=1;ctx.setLineDash([3,3]);ctx.beginPath();ctx.moveTo(chartArea.left,y);ctx.lineTo(chartArea.right,y);ctx.stroke();ctx.fillStyle='rgba(248,81,73,0.65)';ctx.font='9px monospace';ctx.textAlign='left';ctx.fillText(`VWAP $${vwap}`,chartArea.left+4,y-3);ctx.restore();}};
-  if(chartInst) chartInst.destroy();
-  const canvas=document.getElementById('mainChart');
-  if(!canvas) return;
-  chartInst=new Chart(canvas.getContext('2d'),{
-    data:{
-      labels:monthly.map(d=>pLabel(d.p)),
-      datasets:[
-        {type:'line',data:monthly.map(d=>d.price||0),yAxisID:'yp',borderColor:'#58a6ff',borderWidth:2,pointRadius:2,pointBackgroundColor:'#58a6ff',tension:0.3,fill:false,order:1},
-        {type:'bar',data:monthly.map(d=>+((d.cn||0)/1e9).toFixed(2)),yAxisID:'yb',backgroundColor:barColors,borderColor:barColors.map(c=>c.replace(/[\d.]+\)$/,'0.9)')),borderWidth:1,borderRadius:3,order:2}
-      ]
-    },
-    options:{
-      responsive:true,maintainAspectRatio:false,
-      interaction:{mode:'index',intersect:false},
-      plugins:{legend:{display:false},tooltip:{backgroundColor:'#1c2330',borderColor:'#2a3140',borderWidth:1,titleColor:'#e6edf3',bodyColor:'#8b949e',padding:10,callbacks:{label(c){if(c.datasetIndex===0)return` Price: HK$${c.raw}`;return c.raw>0?` Buyback: HK$${c.raw.toFixed(1)}B`:' No repurchase';}}}},
-      scales:{x:{grid:{color:'rgba(255,255,255,.04)'},ticks:{color:'#6e7681',font:{size:11},maxRotation:0}},yp:{position:'left',grid:{color:'rgba(255,255,255,.06)'},ticks:{color:'#58a6ff',font:{size:11},callback:v=>`$${v}`},border:{display:false}},yb:{position:'right',grid:{drawOnChartArea:false},ticks:{color:'#3fb950',font:{size:11},callback:v=>`$${v}B`},border:{display:false}}}
-    },
-    plugins:[vwapPlugin]
-  });
-}
+/* ── MONTHLY TABLE ── */
+const avg12=565.7,maxCn=Math.max(...monthly.map(d=>d.cn));
+const mtb=document.getElementById('mtbody');
+[...monthly].reverse().forEach(row=>{
+  const pct=maxCn>0?(row.cn/maxCn)*70:0;
+  const vw=row.sh>0?row.cn/row.sh:0;
+  const vs=vw>0?((vw/avg12-1)*100):null;
+  const vsClass=vs===null?'':(vs<0?'style="color:var(--green)"':'style="color:var(--red)"');
+  const vsTxt=vs===null?'—':`${vs>=0?'+':''}${vs.toFixed(1)}%`;
+  const ev=events.find(e=>e.p===row.p);
+  const volPct=(row.sh>0&&row.mv>0)?(row.sh/row.mv*100):null;
+  const volC=volPct===null?'':(volPct>=5?'color:var(--amber)':volPct>=3?'color:var(--tx)':'color:var(--tx2)');
+  const volTxt=volPct===null?'<span style="color:var(--tx3)">—</span>':`<span style="${volC}">${volPct.toFixed(1)}%</span>`;
+  const boStyle=row.blackout?'background:rgba(110,118,129,.07);':'';
+  const boTag=row.blackout?'<span style="font-size:9px;color:var(--tx3);margin-left:4px">⛔</span>':'';
+  const tr=document.createElement('tr');
+  tr.style.cssText=boStyle;
+  tr.innerHTML=`<td class="bold">${pLabel(row.p)}${boTag}${ev?` <span style="font-size:10px;color:${ev.color}">${ev.marker}</span>`:''}</td>
+    <td class="num">${row.d||'—'}</td><td class="num">${row.sh>0?fmtB(row.sh):'—'}</td>
+    <td class="num">${row.sh>0?`<span style="font-family:var(--mono);font-size:12px"><span class="hi">H ${row.hi.toFixed(1)}</span>  <span class="lo">L ${row.lo.toFixed(1)}</span></span>`:'—'}</td>
+    <td class="num"><div class="bc">${row.cn>0?`<div class="ib2 ${pct>40?'hi2':''}" style="width:${pct}px"></div>`:''} ${row.cn>0?fmtHKD(row.cn):`<span style="color:var(--tx3)">${row.blackout?'Blackout period':'No repurchase'}</span>`}</div></td>
+    <td class="num" style="color:var(--tx)">${row.cum.toFixed(2)}%</td>
+    <td class="num">${volTxt}</td>
+    <td class="num" ${vsClass}>${vsTxt}</td>
+    <td>${row.cn>0?`<a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`:'<span style="color:var(--tx3);font-size:11px">—</span>'}</td>`;
+  mtb.appendChild(tr);
+});
 
-/* ── Monthly table ── */
-function buildMonthlyTable(monthly, vwap) {
-  const maxCn=Math.max(...monthly.map(d=>d.cn||0),1);
-  const mtb=document.getElementById('mtbody');
-  if(!mtb) return;
-  mtb.innerHTML='';
-  [...monthly].reverse().forEach(row=>{
-    const cn=row.cn||0, sh=row.sh||0, px=row.price||0, mv=row.mv||0;
-    const pct=maxCn>0?(cn/maxCn)*70:0;
-    const vw=sh>0?cn/sh:0;
-    const vs=vwap>0&&vw>0?((vw/vwap-1)*100):null;
-    const vsClass=vs===null?'':(vs<0?'style="color:var(--green)"':'style="color:var(--red)"');
-    const vsTxt=vs===null?'—':`${vs>=0?'+':''}${vs.toFixed(1)}%`;
-    const volPct=(sh>0&&mv>0)?(sh/mv*100):null;
-    const volTxt=volPct===null?'<span style="color:var(--tx3)">—</span>':`<span style="color:${volPct>=5?'var(--amber)':volPct>=3?'var(--tx)':'var(--tx2)'}">${volPct.toFixed(1)}%</span>`;
-    const hiTxt=row.hi>0?`<span class="hi">H ${row.hi.toFixed(1)}</span>`:null;
-    const loTxt=row.lo>0?`<span class="lo">L ${row.lo.toFixed(1)}</span>`:null;
-    const pxRange=(hiTxt&&loTxt)?`<span style="font-family:var(--mono);font-size:12px">${hiTxt}  ${loTxt}</span>`:'<span style="color:var(--tx3)">—</span>';
+/* ── LAST SESSION ── */
+let lastSessionSort='cn';
+function renderLastSession(){
+  const tb=document.getElementById('la-tbody');tb.innerHTML='';
+  let rows=league.filter(r=>r.ld).map(r=>({...r,vp:r.ld.sh/r.ld.dv*100}));
+  if(lastSessionSort==='cn') rows.sort((a,b)=>b.ld.cn-a.ld.cn);
+  if(lastSessionSort==='sh') rows.sort((a,b)=>b.ld.sh-a.ld.sh);
+  if(lastSessionSort==='vp') rows.sort((a,b)=>b.vp-a.vp);
+  rows.forEach(r=>{
+    const d=r.ld,vp=r.vp,vc=vp>=5?'color:var(--amber)':vp>=3?'color:var(--tx)':'color:var(--tx2)';
     const tr=document.createElement('tr');
-    if(row.blackout) tr.style.background='rgba(110,118,129,.06)';
-    tr.innerHTML=`<td class="bold">${pLabel(row.p)}${row.blackout?'<span style="font-size:9px;color:var(--tx3);margin-left:4px">⛔</span>':''}</td>
-      <td class="num">${row.d||'—'}</td>
-      <td class="num">${sh>0?fmtB(sh):'—'}</td>
-      <td class="num">${sh>0?pxRange:'—'}</td>
-      <td class="num"><div class="bc">${cn>0?`<div class="ib2 ${pct>40?'hi2':''}" style="width:${pct}px"></div>`:''}${cn>0?fmtHKD(cn):`<span style="color:var(--tx3)">${row.blackout?'Blackout period':'No repurchase'}</span>`}</div></td>
-      <td class="num" style="color:var(--tx)">${(row.cum||0).toFixed(2)}%</td>
-      <td class="num">${volTxt}</td>
-      <td class="num" ${vsClass}>${vsTxt}</td>
-      <td>${cn>0&&row.filing_date?`<a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`:'<span style="color:var(--tx3);font-size:11px">—</span>'}</td>`;
-    mtb.appendChild(tr);
+    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0" role="button"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
+      <td style="font-family:var(--mono);font-size:12px;color:var(--tx2)">${d.date}</td>
+      <td class="num">${fmtB(d.sh)}</td><td class="num"><span style="${vc}">${vp.toFixed(1)}%</span></td>
+      <td class="num"><span style="font-family:var(--mono);font-size:12px"><span class="hi">H ${d.hi.toFixed(2)}</span>  <span class="lo">L ${d.lo.toFixed(2)}</span></span></td>
+      <td class="num">${fmtHKD(d.cn)}</td>
+      <td><a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a></td>`;
+    tb.appendChild(tr);
   });
 }
-
-/* ── Mandate stats ── */
-function buildMandateStats(data) {
-  const el=document.getElementById('mandateStats');
-  if(!el||!data) return;
-  const pc=data.pct_issued||0, mandPct=data.mandate_pct||10, ff=data.free_float_pct||35;
-  const sh=data.shares_issued||1, available=mandPct-pc;
-  const shAvail=sh*available/100, estVal=shAvail*(data.vwap_hkd||0);
-  const floatAdj=(pc/ff*100).toFixed(2), floatMand=(mandPct/ff*100).toFixed(2);
-  const authUsed=(pc/mandPct*100).toFixed(1);
-  el.innerHTML=`
-    <div class="mc-group">
-      <span class="mc-group-label">As % of issued share capital</span>
-      <div class="mcs-item"><span class="mcs-label">Repurchased YTD</span><span class="mcs-value ok">${pc.toFixed(2)}%<span class="mcs-unit">of issued capital</span></span></div>
-      <div class="mcs-item"><span class="mcs-label">AGM mandate limit</span><span class="mcs-value dim">${mandPct.toFixed(2)}%<span class="mcs-unit">of issued capital</span></span></div>
-      <div class="mcs-item"><span class="mcs-label">Still available</span><span class="mcs-value ok">${available.toFixed(2)}%<span class="mcs-unit">≈ ${fmtHKD(estVal)} · ${fmtB(shAvail)} shares</span></span></div>
-    </div>
-    <div class="mc-vdivider"></div>
-    <div class="mc-group">
-      <span class="mc-group-label">Progress against mandate authority</span>
-      <div class="mcs-item"><span class="mcs-label">Authority used</span><span class="mcs-value ok">${authUsed}%<span class="mcs-unit">of ${mandPct}% limit</span></span></div>
-      <div class="mcs-item"><span class="mcs-label">Mandate expires</span><span class="mcs-value dim">Next AGM<span class="mcs-unit">approx. 2027</span></span></div>
-    </div>
-    <div class="mc-vdivider"></div>
-    <div class="mc-group">
-      <span class="mc-group-label">Free float adjustment</span>
-      <div class="mcs-item"><span class="mcs-label">Free float</span><span class="mcs-value dim">~${ff}%<span class="mcs-unit">of issued capital</span></span></div>
-      <div class="mcs-item"><span class="mcs-label">Bought back (float-adj.)</span><span class="mcs-value ok">${floatAdj}%<span class="mcs-unit">of free float</span></span></div>
-      <div class="mcs-item"><span class="mcs-label">Mandate limit (float-adj.)</span><span class="mcs-value dim">${floatMand}%<span class="mcs-unit">of free float</span></span></div>
-    </div>`;
+function sortLastSession(by,btn){
+  lastSessionSort=by;
+  document.querySelectorAll('#lastsessionv .sort-btn').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+  const colMap={cn:'lss-cn',sh:'lss-sh',vp:'lss-vp'};
+  const labels={cn:'Consideration ▲',sh:'Shares Bought ▲',vp:"% of Day's Vol ▲"};
+  ['lss-cn','lss-sh','lss-vp'].forEach(id=>{const el=document.getElementById(id);if(el){el.style.color='';el.textContent=id==='lss-cn'?'Consideration ▲':id==='lss-sh'?'Shares bought':"% of day's vol";}});
+  const aEl=document.getElementById(colMap[by]);if(aEl){aEl.style.color='var(--accent)';aEl.textContent=labels[by];}
+  renderLastSession();
 }
+renderLastSession();
 
-/* ── Prob factors ── */
-function buildProbFactors(data) {
-  const cs=data.consistency_score||0, act=data.programme_active||false;
-  const underwater=(data.current_price_hkd||0)<(data.vwap_hkd||0);
-  const mc=data.mandate_consumed_pct||0;
-  const factors=[];
-  if(act) factors.push({label:'Programme active',score:25,color:'var(--green)'});
-  if(cs>=4) factors.push({label:`Consistency score ${cs}/5`,score:22,color:'var(--green)'});
-  else if(cs>=3) factors.push({label:`Consistency score ${cs}/5`,score:12,color:'var(--amber)'});
-  if(underwater) factors.push({label:'Buying while underwater (vs VWAP)',score:20,color:'var(--amber)'});
-  if(mc>=10) factors.push({label:'Mandate pace on track',score:15,color:'var(--amber)'});
-  const el=document.getElementById('probFactors');
-  if(!el) return;
-  el.innerHTML='';
-  factors.forEach(f=>{const d=document.createElement('div');d.className='pf-item';d.innerHTML=`<span class="pf-dot" style="background:${f.color}"></span>${f.label} <span style="color:var(--tx2);font-family:var(--mono);margin-left:3px">(+${f.score})</span>`;el.appendChild(d);});
-}
-
-/* ── Metric cards ── */
-function buildMetricCards(data) {
-  const el=document.getElementById('metricCards');
-  if(!el||!data) return;
-  const cn=data.cumulative_notional||0, sh=data.shares_bought||0;
-  const pct=data.pct_issued||0, ff=data.free_float_pct||35;
-  const vwap=data.vwap_hkd||0, curPx=data.current_price_hkd||0;
-  const floatAdj=(pct/ff*100).toFixed(2);
-  const pctVwap=vwap>0?((curPx/vwap-1)*100).toFixed(1):'—';
-  const isUnder=curPx>0&&vwap>0&&curPx<vwap;
-  const activeMths=(data.monthly||[]).filter(m=>(m.notional||0)>0).length||1;
-  const avgMo=cn/activeMths, ann=avgMo*12;
-  el.innerHTML=`
-    <div class="mc2"><div class="ml">YTD Consideration</div><div class="mv" style="font-size:18px">${fmtHKD(cn)}</div><div class="ms2">${activeMths} active months</div></div>
-    <div class="mc2"><div class="ml">Shares Bought</div><div class="mv">${fmtB(sh)}</div><div class="ms2">${pct.toFixed(2)}% issued · ${floatAdj}% float</div></div>
-    <div class="mc2"><div class="ml">VWAP Paid</div><div class="mv" style="font-size:18px">HK$${vwap}</div><div class="ms2">vs current HK$${curPx}</div>${isUnder?`<div class="uw-flag">▼ Underwater ${pctVwap}% · still buying</div>`:`<div class="md up">↑ Above VWAP +${pctVwap}%</div>`}</div>
-    <div class="mc2"><div class="ml">Avg Monthly Spend</div><div class="mv" style="font-size:18px">${fmtHKD(avgMo)}</div><div class="ms2">Annualised est. ${fmtHKD(ann)}</div></div>`;
-}
-
-/* ── Insight box ── */
-function buildInsightBox(data) {
-  const el=document.getElementById('insightBox');
-  if(!el||!data) return;
-  const pct=data.pct_issued||0, ff=data.free_float_pct||35;
-  const vwap=data.vwap_hkd||0, curPx=data.current_price_hkd||0;
-  const isUnder=curPx>0&&vwap>0&&curPx<vwap;
-  const floatAdj=(pct/ff*100).toFixed(2);
-  el.innerHTML=`
-    <div class="ib-head"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1a5 5 0 0 1 2 9.5V12H6v-1.5A5 5 0 0 1 8 1z"/><path d="M6 13h4M7 15h2" stroke-linecap="round"/></svg>Capital return summary &amp; DI context</div>
-    <div class="ib-points">
-      ${isUnder?`<div class="ib-point"><div class="ib-icon bear">▼</div><span class="ib-text"><strong>Buying underwater:</strong> VWAP paid HK$${vwap} vs current HK$${curPx} (${((curPx/vwap-1)*100).toFixed(1)}%). Still actively buying — signalling conviction at current levels.</span></div>`:`<div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Buying above VWAP:</strong> Current price HK$${curPx} is above the average cost HK$${vwap}. Programme still active.</span></div>`}
-      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Float impact is material:</strong> ${pct.toFixed(2)}% of issued capital = <strong>${floatAdj}% of freely traded shares</strong> absorbed.</span></div>
-      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Buyback yield ${pct.toFixed(1)}%</strong> at current price. Higher yields suggest management sees shares as undervalued.</span></div>
-      <div class="ib-point" style="padding-top:8px;margin-top:4px;border-top:1px solid var(--bd)">
-        <div class="ib-icon di">DI</div>
-        <span class="ib-text"><strong>DI context:</strong> ${data.name} has repurchased <strong>${pct.toFixed(2)}% of issued capital</strong>. Cross-reference with DI filings for institutional accumulation signals. <a href="../di/?code=${data.code}">View DI filings →</a></span>
-      </div>
-    </div>`;
-}
-
-/* ── Update hero from league data ── */
-function updateHero(r) {
-  const el=id=>document.getElementById(id);
-  if(el('heroName')) el('heroName').textContent=r.n;
-  if(el('heroCode')) el('heroCode').textContent=fmtCode(r.c);
-  const ab=el('activeBadge');
-  if(ab){ab.className=r.act?'badge-live':'badge-inactive';ab.textContent=r.act?'Active':'Completed';}
-  const csB=el('csBadge');
-  if(csB){csB.className=`cs-badge ${csClass(r.cs)}`;csB.textContent=`${csStars(r.cs)} ${r.cs}`;}
-  const sig=el('sigBadge');
-  if(sig){const s=r.curPx>0&&r.vwap>0&&r.curPx<r.vwap;sig.className=s?'sig-hero-strong':'sig-hero-moderate';sig.textContent=s?'● Strong signal':'● Moderate signal';}
-  const uw=el('uwBadge');
-  if(uw){const s=r.curPx>0&&r.vwap>0&&r.curPx<r.vwap;uw.style.display=s?'inline-flex':'none';if(s)uw.textContent=`▼ VWAP underwater ${((r.curPx/r.vwap-1)*100).toFixed(1)}%`;}
-  const mBar=el('mandateBarHero'), mBarE=el('mandateBarExpanded');
-  if(mBar) mBar.style.width=r.mc+'%';
-  if(mBarE) mBarE.style.width=r.mc+'%';
-  const mStat=el('mandateStatHero');
-  if(mStat) mStat.innerHTML=`<span style="color:var(--green)">${r.mc.toFixed(1)}%</span> of mandate used · <span style="color:var(--green)">${(100-r.mc).toFixed(1)}%</span> remaining`;
-  const econ=el('econStrip');
-  if(econ){const floatAdj=(r.pc/r.ff*100).toFixed(2);econ.innerHTML=`<div class="es-item"><span class="es-label">Buyback yield</span><span class="es-val pos">${r.bbYld.toFixed(1)}%</span></div><div class="es-sep"></div><div class="es-item"><span class="es-label">Free float</span><span class="es-val neu">${r.ff}%</span></div><div class="es-sep"></div><div class="es-item"><span class="es-label">Float-adj. repurchased</span><span class="es-val pos">${floatAdj}%</span></div><div class="es-sep"></div><div class="es-item"><span class="es-label">Mandate used</span><span class="es-val neu">${r.mc.toFixed(1)}%</span></div>`;}
-  const pPct=el('probPct'),pBar=el('probBar'),pLabel=el('probLabel');
-  if(pPct){pPct.textContent=r.renewProb+'%';}
-  if(pBar) pBar.style.width=r.renewProb+'%';
-  if(pLabel) pLabel.textContent=`Probability of mandate renewal at ${r.agm?new Date(r.agm+'T00:00:00').getFullYear()+1:'next'} AGM`;
-}
-
-/* ── Go to stock ── */
-async function goToStock(code, name) {
-  const si=document.getElementById('searchInput');
-  if(si) si.value=`${fmtCode(code)} — ${name}`;
-  switchView('stock', null);
-  window.scrollTo({top:0,behavior:'smooth'});
-
-  const r=league.find(x=>x.c===code);
-  if(r) updateHero(r);
-
-  // Cross-links
-  const dl=document.getElementById('diCrossLink'), dh=document.getElementById('diCrossLinkHref');
-  if(dl&&dh){dl.style.display='flex';dh.href=`../di/?code=${code}`;}
-
-  // Loading state
-  const mtb=document.getElementById('mtbody');
-  if(mtb) mtb.innerHTML=`<tr><td colspan="9" style="text-align:center;color:var(--tx3);padding:24px">Loading filing data…</td></tr>`;
-  const mc=document.getElementById('metricCards'); if(mc) mc.innerHTML='';
-  const ib=document.getElementById('insightBox'); if(ib) ib.innerHTML='';
-
-  const data=await fetchJSON(`ca_${code}`,`${BASE}/ca/${code}.json`);
-  if(data){
-    const monthly=mapMonthly(data);
-    const vwap=data.vwap_hkd||0;
-    gMonthly=monthly; gVwap=vwap; gStockData=data;
-    buildChart(monthly,[],vwap);
-    buildMonthlyTable(monthly,vwap);
-    buildMandateStats(data);
-    buildMetricCards(data);
-    buildInsightBox(data);
-    buildProbFactors(data);
-    const cs=document.getElementById('chartSub');
-    if(cs&&monthly.length){cs.textContent=`${pLabel(monthly[0].p)}–${pLabel(monthly[monthly.length-1].p)} · price (left) · buyback HK$B (right)`;}
-  } else {
-    if(mtb) mtb.innerHTML=`<tr><td colspan="9" style="text-align:center;color:var(--tx3);padding:24px">Filing data for ${name} not yet scraped.</td></tr>`;
-  }
-}
-
-/* ── View switcher ── */
-const VIEWS={home:'homev',stock:'sv',league:'lv',lastsession:'lastsessionv',ideas:'ideasv',calendar:'calendarv'};
-function switchView(v,btn){
-  document.querySelectorAll('.vb').forEach(b=>b.classList.remove('on'));
-  if(btn) btn.classList.add('on');
-  Object.keys(VIEWS).forEach(k=>{const el=document.getElementById(VIEWS[k]);if(el)el.style.display=k===v?'block':'none';});
-  if(v==='stock') setTimeout(()=>{if(chartInst)chartInst.resize();},50);
-}
-
-/* ── League ── */
-let lFilter='all', lSort='ytd';
-const lTitles={ytd:'YTD repurchase — ranked by consideration',pct:'ranked by % issued capital',mandate:'ranked by mandate consumed',date:'ranked by last filing date'};
-const lCols={ytd:'lh-consideration',pct:'lh-pct',mandate:'lh-mandate',date:'lh-date'};
+/* ── LEAGUE TABLE ── */
+let leagueFilter='all',leagueSort='ytd';
+const leagueTitleMap={ytd:'YTD repurchase — ranked by consideration',pct:'YTD repurchase — ranked by % issued capital',mandate:'YTD repurchase — ranked by mandate consumed',date:'YTD repurchase — ranked by last filing date'};
+const leagueActiveCol={ytd:'lh-consideration',pct:'lh-pct',mandate:'lh-mandate',date:'lh-date'};
 function renderLeague(){
-  const tb=document.getElementById('ltbody');
-  if(!tb) return;
-  if(!league.length){tb.innerHTML='<tr><td colspan="8" style="text-align:center;color:var(--tx3);padding:20px">Loading…</td></tr>';return;}
+  const tb=document.getElementById('ltbody');tb.innerHTML='';
   let data=[...league];
-  if(lFilter==='active') data=data.filter(d=>d.act);
-  if(lFilter==='big') data=data.filter(d=>d.cn>=5e9);
-  if(lSort==='ytd') data.sort((a,b)=>b.cn-a.cn);
-  if(lSort==='pct') data.sort((a,b)=>b.pc-a.pc);
-  if(lSort==='mandate') data.sort((a,b)=>b.mc-a.mc);
-  if(lSort==='date') data.sort((a,b)=>b.lf.localeCompare(a.lf));
-  const tEl=document.getElementById('leagueTitle'); if(tEl) tEl.textContent=lTitles[lSort];
+  if(leagueFilter==='active') data=data.filter(d=>d.act);
+  if(leagueFilter==='big') data=data.filter(d=>d.cn>=5e9);
+  if(leagueSort==='ytd') data.sort((a,b)=>b.cn-a.cn);
+  if(leagueSort==='pct') data.sort((a,b)=>b.pc-a.pc);
+  if(leagueSort==='mandate') data.sort((a,b)=>b.mc-a.mc);
+  if(leagueSort==='date') data.sort((a,b)=>b.lf.localeCompare(a.lf));
+  document.getElementById('leagueTitle').textContent=leagueTitleMap[leagueSort];
   ['lh-consideration','lh-pct','lh-mandate','lh-date'].forEach(id=>{const el=document.getElementById(id);if(el)el.style.color='';});
-  const ah=document.getElementById(lCols[lSort]); if(ah) ah.style.color='var(--accent)';
-  const maxC=(league[0]||{cn:1}).cn||1;
-  tb.innerHTML='';
+  const activeH=document.getElementById(leagueActiveCol[leagueSort]);if(activeH)activeH.style.color='var(--accent)';
+  const maxC=league[0].cn;
   data.forEach((r,i)=>{
     const bw=Math.round(r.cn/maxC*80);
     const tr=document.createElement('tr');
@@ -900,112 +916,210 @@ function renderLeague(){
     tb.appendChild(tr);
   });
 }
-function sortLeague(by,btn){lSort=by;document.querySelectorAll('#lv .sort-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');renderLeague();}
-function filterL(f,el){lFilter=f;document.querySelectorAll('.chips .chip').forEach(c=>c.classList.remove('on'));el.classList.add('on');renderLeague();}
+renderLeague();
+function sortLeague(by,btn){leagueSort=by;document.querySelectorAll('#lv .sort-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');renderLeague();}
+function filterL(f,el){leagueFilter=f;document.querySelectorAll('.chips .chip').forEach(c=>c.classList.remove('on'));el.classList.add('on');renderLeague();}
 
-/* ── Last Session ── */
-let lsSort='cn';
-function renderLastSession(){
-  const tb=document.getElementById('la-tbody');
-  if(!tb) return;
-  tb.innerHTML='';
-  let rows=league.filter(r=>r.ld);
-  if(lsSort==='cn') rows.sort((a,b)=>b.ld.cn-a.ld.cn);
-  if(lsSort==='sh') rows.sort((a,b)=>b.ld.sh-a.ld.sh);
-  if(!rows.length){tb.innerHTML='<tr><td colspan="6" style="text-align:center;color:var(--tx3);padding:24px">No last-session data available yet — NDDR events require recent filing activity.</td></tr>';return;}
-  rows.forEach(r=>{
-    const d=r.ld;
-    const tr=document.createElement('tr');
-    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
-      <td style="font-family:var(--mono);font-size:12px;color:var(--tx2)">${d.date}</td>
-      <td class="num">${fmtB(d.sh)}</td>
-      <td class="num" style="font-family:var(--mono);font-size:12px">HK$${d.hi.toFixed(2)}</td>
-      <td class="num">${fmtHKD(d.cn)}</td>
-      <td><a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a></td>`;
-    tb.appendChild(tr);
-  });
-}
-function sortLS(by,btn){lsSort=by;document.querySelectorAll('#lastsessionv .sort-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');renderLastSession();}
-
-/* ── Ideas ── */
+/* ── IDEAS ── */
 function renderConvictionBuys(){
-  const tb=document.getElementById('cb-tbody');
-  if(!tb) return;
-  tb.innerHTML='';
-  const rows=league.filter(r=>r.act&&r.curPx>0&&r.vwap>0&&r.curPx<r.vwap&&r.cs>=2).sort((a,b)=>(a.curPx/a.vwap)-(b.curPx/b.vwap));
+  const tb=document.getElementById('cb-tbody');tb.innerHTML='';
+  const rows=league.filter(r=>r.act&&r.curPx<r.vwap&&r.cs>=4).sort((a,b)=>(a.curPx/a.vwap)-(b.curPx/b.vwap));
   rows.forEach(r=>{
     const disc=((r.curPx/r.vwap-1)*100);
-    const sigScore=r.cs>=3?'strong':'med';
+    const diActive=r.c==='00700'||r.c==='09988';
+    const diHtml=diActive?`<a href="#" class="di-flag">⬆ Latest DI →</a>`:`<span style="color:var(--tx3);font-size:12px">No DI signal</span>`;
+    const sigScore=diActive?(r.cs>=4?'strong':'med'):(r.cs>=4?'med':'weak');
     const tr=document.createElement('tr');
-    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
+    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0" role="button"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
       <td><span class="cs-badge ${csClass(r.cs)}" style="font-size:10px;padding:2px 7px">${csStars(r.cs)} ${r.cs}</span></td>
-      <td class="num" style="color:var(--red)">HK$${r.curPx}</td>
-      <td class="num">HK$${r.vwap}</td>
+      <td class="num" style="color:var(--red)">HK$${r.curPx}</td><td class="num">HK$${r.vwap}</td>
       <td class="num" style="color:var(--red)">${disc.toFixed(1)}%</td>
       <td class="num" style="color:var(--green)">${r.bbYld.toFixed(1)}%</td>
-      <td><span class="signal-dot" style="background:${sigScore==='strong'?'var(--green)':'var(--amber)'}"></span><span style="font-size:12px;font-weight:500;color:${sigScore==='strong'?'var(--green)':'var(--amber)'}">${sigScore==='strong'?'Strong':'Moderate'}</span></td>`;
+      <td>${diHtml}</td>
+      <td><span class="signal-dot sig-${sigScore}"></span><span style="font-size:12px;font-weight:500;color:${sigScore==='strong'?'var(--green)':'var(--amber)'}">${sigScore==='strong'?'Strong':'Moderate'}</span></td>`;
     tb.appendChild(tr);
   });
-  if(!rows.length){const tr=document.createElement('tr');tr.innerHTML=`<td colspan="7" style="text-align:center;color:var(--tx3);padding:24px">No stocks currently match criteria (active + below VWAP + consistency ≥ 2)</td>`;tb.appendChild(tr);}
+  if(!rows.length){const tr=document.createElement('tr');tr.innerHTML=`<td colspan="8" style="text-align:center;color:var(--tx3);padding:24px;font-size:13px">No stocks currently match all criteria</td>`;tb.appendChild(tr);}
 }
 function renderMandateRenewers(){
-  const tb=document.getElementById('mr-tbody');
-  if(!tb) return;
-  tb.innerHTML='';
-  const today=new Date().toISOString().slice(0,10);
-  const cutoff=new Date(); cutoff.setDate(cutoff.getDate()+90);
-  const cut=cutoff.toISOString().slice(0,10);
-  const rows=league.filter(r=>r.renewProb>=65&&r.mc>=5&&r.agm<=cut&&r.agm>=today).sort((a,b)=>b.renewProb-a.renewProb);
-  rows.forEach(r=>{
+  const tb=document.getElementById('mr-tbody');tb.innerHTML='';
+  league.filter(r=>r.renewProb>=65&&r.cs>=3&&r.mc>=5).sort((a,b)=>b.renewProb-a.renewProb).forEach(r=>{
     const floatAdj=(r.pc/r.ff*100).toFixed(2);
     const oc=r.renewProb>=80?'var(--green)':r.renewProb>=70?'var(--amber)':'var(--tx2)';
-    const pf=r.renewProb>=80?'linear-gradient(90deg,#3fb950,#58a6ff)':'linear-gradient(90deg,#d29922,#e09c00)';
+    const ol=r.renewProb>=80?'Strong':r.renewProb>=70?'Moderate':'Watch';
+    const pf=r.renewProb>=80?'linear-gradient(90deg,#3fb950,#58a6ff)':r.renewProb>=70?'linear-gradient(90deg,#d29922,#e09c00)':'rgba(88,166,255,.5)';
     const tr=document.createElement('tr');
-    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
+    tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0" role="button"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
       <td><span class="cs-badge ${csClass(r.cs)}" style="font-size:10px;padding:2px 7px">${csStars(r.cs)} ${r.cs}</span></td>
       <td style="font-family:var(--mono);font-size:12px;color:var(--tx2)">${r.agm}</td>
       <td class="num">${r.mc.toFixed(1)}%<span style="font-size:10px;color:var(--tx3);font-family:var(--sans)"> of mandate</span></td>
       <td class="num"><div style="display:flex;align-items:center;gap:6px;justify-content:flex-end"><div style="height:5px;width:50px;background:var(--bd);border-radius:3px;overflow:hidden"><div style="height:100%;width:${r.renewProb}%;background:${pf};border-radius:3px"></div></div><span style="font-family:var(--mono);font-size:12px;color:${oc}">${r.renewProb}%</span></div></td>
       <td class="num" style="color:var(--green)">${r.bbYld.toFixed(1)}%</td>
-      <td class="num" style="color:var(--amber)">${floatAdj}%</td>
-      <td><span style="font-size:11px;font-weight:500;color:${oc}">${r.renewProb>=80?'Strong':r.renewProb>=70?'Moderate':'Watch'}</span></td>`;
+      <td class="num" style="color:var(--amber)">${floatAdj}%<span style="font-size:10px;color:var(--tx3);font-family:var(--sans)"> of float</span></td>
+      <td><span style="font-size:11px;font-weight:500;color:${oc}">${ol}</span></td>`;
     tb.appendChild(tr);
   });
-  if(!rows.length){const tr=document.createElement('tr');tr.innerHTML=`<td colspan="8" style="text-align:center;color:var(--tx3);padding:24px">No mandate renewers with AGM within 90 days currently meet criteria</td>`;tb.appendChild(tr);}
 }
-function switchIdeasTab(tab,btn){document.querySelectorAll('.ist-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');document.querySelectorAll('.strat-pane').forEach(p=>p.classList.remove('on'));document.getElementById(tab+'-pane').classList.add('on');}
+renderConvictionBuys();renderMandateRenewers();
 
-/* ── Calendar ── */
-const _n=new Date();
-let calYear=_n.getFullYear(), calMonth=_n.getMonth();
+/* ── CALENDAR ── */
+let calYear=2026,calMonth=4; // 0-indexed, so 4=May
 function renderCalendar(){
   const title=new Date(calYear,calMonth,1).toLocaleString('en-GB',{month:'long',year:'numeric'});
-  const tEl=document.getElementById('calTitle'); if(tEl) tEl.textContent=title;
-  const body=document.getElementById('calBody'); if(!body) return;
-  body.innerHTML='';
-  const fd=new Date(calYear,calMonth,1).getDay(), off=fd===0?6:fd-1;
-  const dim=new Date(calYear,calMonth+1,0).getDate();
-  for(let i=0;i<off;i++){const c=document.createElement('div');c.className='cal-cell empty';body.appendChild(c);}
-  for(let d=1;d<=dim;d++){
-    const ds=`${calYear}-${String(calMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const evs=calEvents.filter(e=>e.date===ds);
-    const tod=new Date(), isToday=tod.getFullYear()===calYear&&tod.getMonth()===calMonth&&tod.getDate()===d;
+  document.getElementById('calTitle').textContent=title;
+  const body=document.getElementById('calBody');body.innerHTML='';
+  const firstDay=new Date(calYear,calMonth,1).getDay();
+  const offset=firstDay===0?6:firstDay-1; // Mon=0
+  const daysInMonth=new Date(calYear,calMonth+1,0).getDate();
+  for(let i=0;i<offset;i++){const cell=document.createElement('div');cell.className='cal-cell empty';body.appendChild(cell);}
+  for(let d=1;d<=daysInMonth;d++){
+    const dateStr=`${calYear}-${String(calMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const dayEvents=calEvents.filter(e=>e.date===dateStr);
+    const today=new Date();
+    const isToday=today.getFullYear()===calYear&&today.getMonth()===calMonth&&today.getDate()===d;
     const cell=document.createElement('div');
     cell.className='cal-cell'+(isToday?' today':'');
-    cell.innerHTML=`<div class="cal-day">${d}</div><div class="cal-events">${evs.slice(0,3).map(e=>`<div class="cal-event ${e.type}"><span>●</span>${e.name.split(' ')[0]}</div>`).join('')}${evs.length>3?`<div style="font-size:9px;color:var(--tx3);padding:1px 4px">+${evs.length-3}</div>`:''}</div>`;
-    cell.addEventListener('click',()=>showCalDay(ds,evs));
+    cell.innerHTML=`<div class="cal-day">${d}</div><div class="cal-events">${dayEvents.slice(0,3).map(e=>`<div class="cal-event ${e.type}"><span>●</span>${e.name.split(' ')[0]}</div>`).join('')}${dayEvents.length>3?`<div style="font-size:9px;color:var(--tx3);padding:1px 4px">+${dayEvents.length-3} more</div>`:''}</div>`;
+    cell.addEventListener('click',()=>showCalDay(dateStr,dayEvents));
     body.appendChild(cell);
   }
 }
-function showCalDay(ds,evs){
-  const det=document.getElementById('calDetail'); if(!det) return;
-  const fmt=new Date(ds+'T00:00:00').toLocaleDateString('en-GB',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
-  const dEl=document.getElementById('cdDate'); if(dEl) dEl.textContent=fmt;
-  const list=document.getElementById('cdList'); if(!list) return;
-  if(!evs.length){list.innerHTML='<div style="color:var(--tx3);font-size:13px">No corporate events on this date</div>';det.style.display='block';return;}
-  list.innerHTML=evs.map(e=>`<div class="cd-item"><span class="cd-badge ${e.type}">${e.type==='agm'?'AGM':e.type==='results'?'Results':'Blackout'}</span><div><div class="cd-name">${e.name}</div><div class="cd-note">${e.note}</div></div></div>`).join('');
-  det.style.display='block';
+function showCalDay(dateStr,dayEvents){
+  const detail=document.getElementById('calDetail');
+  const fmt=new Date(dateStr+'T00:00:00').toLocaleDateString('en-GB',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+  document.getElementById('cdDate').textContent=fmt;
+  const list=document.getElementById('cdList');
+  if(dayEvents.length===0){list.innerHTML='<div style="color:var(--tx3);font-size:13px">No corporate events on this date</div>';detail.style.display='block';return;}
+  list.innerHTML=dayEvents.map(e=>`<div class="cd-item"><span class="cd-badge ${e.type}">${e.type==='agm'?'AGM':e.type==='results'?'Results':'Blackout'}</span><div><div class="cd-name">${e.name}</div><div class="cd-note">${e.note}</div></div></div>`).join('');
+  detail.style.display='block';
 }
-function calNav(dir){calMonth+=dir;if(calMonth>11){calMonth=0;calYear++;}if(calMonth<0){calMonth=11;calYear--;}renderCalendar();const d=document.getElementById('calDetail');if(d)d.style.display='none';}
+function calNav(dir){calMonth+=dir;if(calMonth>11){calMonth=0;calYear++;}if(calMonth<0){calMonth=11;calYear--;}renderCalendar();document.getElementById('calDetail').style.display='none';}
+renderCalendar();
+document.querySelector('.sw').style.display='none';
+
+/* ── MANDATE & PROB TOOLTIPS ── */
+function wireTooltip(btnId,popupId){
+  const btn=document.getElementById(btnId),popup=document.getElementById(popupId);
+  if(!btn||!popup)return;
+  let open=false;
+  const show=()=>{popup.style.display='block';open=true;};
+  const hide=()=>{popup.style.display='none';open=false;};
+  btn.addEventListener('mouseenter',show);
+  btn.addEventListener('mouseleave',e=>{if(!popup.matches(':hover'))hide();});
+  popup.addEventListener('mouseleave',hide);
+  btn.addEventListener('focus',show);btn.addEventListener('blur',()=>setTimeout(hide,100));
+  btn.addEventListener('click',e=>{e.stopPropagation();open?hide():show();});
+}
+wireTooltip('mandateInfoBtn','mandateInfoPopup');
+wireTooltip('probInfoBtn','probInfoPopup');
+
+/* ── IDEAS SUB-TAB ── */
+function switchIdeasTab(tab,btn){
+  document.querySelectorAll('.ist-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');
+  document.querySelectorAll('.strat-pane').forEach(p=>p.classList.remove('on'));
+  document.getElementById(tab+'-pane').classList.add('on');
+}
+
+/* ── GO TO STOCK ── */
+function goToStock(code,name){
+  document.getElementById('searchInput').value=`${fmtCode(code)} — ${name}`;
+  const btn=document.querySelector('.vtog .vb:nth-child(2)');
+  switchView('league',btn);
+  window.scrollTo({top:0,behavior:'smooth'});
+  const hero=document.querySelector('.stock-hero');
+  if(hero){hero.style.transition='box-shadow .4s ease';hero.style.boxShadow='0 0 0 2px rgba(88,166,255,.4)';setTimeout(()=>{hero.style.boxShadow='';},800);}
+}
+
+/* ── VIEW SWITCH ── */
+const viewIds={home:'homev',league:'lv',lastsession:'lastsessionv',ideas:'ideasv',calendar:'calendarv'};
+function switchView(v,btn){
+  document.querySelectorAll('.vb').forEach(b=>b.classList.remove('on'));btn.classList.add('on');
+  Object.keys(viewIds).forEach(k=>{
+    const el=document.getElementById(viewIds[k]);
+    if(k===v&&el) el.style.display='block';
+    else if(el) el.style.display='none';
+  });
+  const sw=document.querySelector('.sw');
+  if(sw) sw.style.display=v==='home'?'none':'flex';
+}
+
+/* ── CHATBOT ── */
+const chatNavMap={
+  'conviction buys':  {view:'ideas',  subtab:'cb', label:'Open Conviction Buys →'},
+  'conviction':       {view:'ideas',  subtab:'cb', label:'Open Conviction Buys →'},
+  'mandate renewer':  {view:'ideas',  subtab:'mr', label:'Open Mandate Renewers →'},
+  'mandate':          {view:'ideas',  subtab:'mr', label:'Open Mandate Renewers →'},
+  'agm':              {view:'calendar',             label:'Open Calendar →'},
+  'calendar':         {view:'calendar',             label:'Open Calendar →'},
+  'results date':     {view:'calendar',             label:'Open Calendar →'},
+  'last session':     {view:'lastsession',          label:'Open Last Session →'},
+  'league':           {view:'league',               label:'Open League Table →'},
+  'tencent':          {view:'league',  label:'Open League Table →'},
+  'hsbc':             {view:'league',  label:'Open League Table →'},
+  'alibaba':          {view:'league',  label:'Open League Table →'},
+  'vwap':             {view:'ideas',  subtab:'cb', label:'Open Conviction Buys →'},
+  'underwater':       {view:'ideas',  subtab:'cb', label:'Open Conviction Buys →'},
+};
+
+async function sendChat(){
+  const input=document.getElementById('chatInput');
+  const q=input.value.trim();if(!q)return;
+  const resp=document.getElementById('chatResponse');
+  const loading=document.getElementById('chatLoading');
+  const textEl=document.getElementById('chatText');
+  const jumpBtn=document.getElementById('chatJump');
+  resp.classList.add('visible');loading.classList.add('visible');
+  textEl.textContent='';jumpBtn.style.display='none';
+  try{
+    const res=await fetch('https://api.anthropic.com/v1/messages',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({
+        model:'claude-sonnet-4-6',max_tokens:300,
+        messages:[{role:'user',content:`You are a navigation assistant for Circular, an HKEX Corporate Actions tracker (data as at May 2026). The app has views: home (Corporate Actions overview), league (League Table ranked by cumulative consideration), lastsession (Last Session Buyback - most recent trading day per active stock), ideas/cb (Conviction Buys - stocks below mandate-year VWAP), ideas/mr (Mandate Renewers - companies with AGM soon), calendar (results dates and AGM calendar). Key stocks with real data: Tencent (700 HK, HK$87.1B since May AGM, VWAP HK$565.7, current HK$456.4, −19.3% underwater, cs=3), AIA (1299 HK, HK$50.8B cumulative, cs=1), Alibaba (9988 HK, HK$36.6B, cs=2), HSBC (5 HK, 9.27% repurchased, cs=3), Hang Seng Bank (11 HK, HK$2.8B). Conviction Buys (price < VWAP): Tencent is the main one with strong conviction. Mandate Renewers: stocks with AGM in Jun-Jul 2026. User question: "${q}". Reply ONLY as JSON with keys: answer (1-2 sentences), view (home/stock/league/lastsession/ideas/calendar), subtab (cb or mr, only if view=ideas), jump_label (short button text like "View Tencent →"). No markdown, no backticks, just raw JSON.`}]
+      })
+    });
+    const data=await res.json();
+    const raw=data.content[0].text.replace(/```json|```/g,'').trim();
+    const parsed=JSON.parse(raw);
+    loading.classList.remove('visible');
+    textEl.textContent=parsed.answer;
+    const nav=parsed.view;
+    jumpBtn.textContent=parsed.jump_label||'Go →';
+    jumpBtn.style.display='inline-flex';
+    jumpBtn.onclick=()=>{
+      const vbIndex={home:0,league:1,lastsession:2,ideas:3,calendar:4}[nav];
+      const btn=document.querySelectorAll('.vtog .vb')[vbIndex];
+      switchView(nav,btn);
+      if(nav==='ideas'&&parsed.subtab){
+        const istBtn=document.querySelectorAll('.ist-btn')[parsed.subtab==='cb'?0:1];
+        switchIdeasTab(parsed.subtab,istBtn);
+      }
+      if(parsed.stock){document.getElementById('searchInput').value=parsed.stock;}
+      window.scrollTo({top:0,behavior:'smooth'});
+    };
+  }catch(e){
+    loading.classList.remove('visible');
+    // Fallback: keyword-based nav
+    const ql=q.toLowerCase();
+    let matched=null;
+    for(const k of Object.keys(chatNavMap)){if(ql.includes(k)){matched=chatNavMap[k];break;}}
+    textEl.textContent=matched?`Navigating you to the most relevant section for "${q}".`:`Try asking about specific stocks, the league table, upcoming AGMs, or which stocks are buying back below their VWAP.`;
+    if(matched){
+      jumpBtn.textContent=matched.label;jumpBtn.style.display='inline-flex';
+      jumpBtn.onclick=()=>{
+        const vbIndex={home:0,league:1,lastsession:2,ideas:3,calendar:4}[matched.view];
+        const btn=document.querySelectorAll('.vtog .vb')[vbIndex];
+        switchView(matched.view,btn);
+        if(matched.subtab){const istBtn=document.querySelectorAll('.ist-btn')[matched.subtab==='cb'?0:1];switchIdeasTab(matched.subtab,istBtn);}
+        if(matched.stock){document.getElementById('searchInput').value=matched.stock;}
+        window.scrollTo({top:0,behavior:'smooth'});
+      };
+    }else{jumpBtn.style.display='none';}
+  }
+  input.value='';
+}
+document.getElementById('chatInput').addEventListener('keydown',e=>{if(e.key==='Enter')sendChat();});
 </script>
 </body>
+</html>
