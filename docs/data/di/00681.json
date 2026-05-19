@@ -1,18 +1,18 @@
 {
   "code": "00681",
   "name": "CHINESE PEOPLE HOLDINGS CO. LTD.",
-  "last_scraped": "2026-05-16T07:49:29Z",
+  "last_scraped": "2026-05-19T23:00:48Z",
   "shareholders": [
     {
       "name": "CIVIOS GROUP LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 3839836762,
-      "long_position_pct": 42.98,
+      "long_position_shares": 3842836762,
+      "long_position_pct": 43.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "MO SHIKANG",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 3839836762,
-      "long_position_pct": 42.98,
+      "long_position_shares": 3842836762,
+      "long_position_pct": 43.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "MO YUNBI",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 3839836762,
-      "long_position_pct": 42.98,
+      "long_position_shares": 3842836762,
+      "long_position_pct": 43.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "RENOWN CITY HOLDINGS LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 3839836762,
-      "long_position_pct": 42.98,
+      "long_position_shares": 3842836762,
+      "long_position_pct": 43.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "LOFTY KEY LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 2704836762,
-      "long_position_pct": 30.27,
+      "long_position_shares": 2707836762,
+      "long_position_pct": 30.31,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,46 @@
     }
   ],
   "history": [
+    {
+      "name": "CIVIOS GROUP LIMITED",
+      "long_position_pct": 43.01,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LOFTY KEY LIMITED",
+      "long_position_pct": 30.31,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO SHIKANG",
+      "long_position_pct": 43.01,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO YUNBI",
+      "long_position_pct": 43.01,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RENOWN CITY HOLDINGS LIMITED",
+      "long_position_pct": 43.01,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "CIVIOS GROUP LIMITED",
       "long_position_pct": 42.98,

@@ -1,7 +1,7 @@
 {
   "code": "02423",
   "name": "KE HOLDINGS INC. - W",
-  "last_scraped": "2026-05-18T23:02:15Z",
+  "last_scraped": "2026-05-19T23:07:06Z",
   "shareholders": [
     {
       "name": "ARK Trust (Hong Kong) Limited",
@@ -223,22 +223,17 @@
       "filing_date": "2022-05-11",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 170126991,
-      "long_position_pct": 5.06,
-      "short_position_shares": 58870041,
-      "short_position_pct": 1.75,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.06,

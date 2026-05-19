@@ -1,7 +1,7 @@
 {
   "code": "02668",
   "name": "PAK TAK INTERNATIONAL LTD.",
-  "last_scraped": "2026-05-18T23:03:19Z",
+  "last_scraped": "2026-05-19T23:08:12Z",
   "shareholders": [
     {
       "name": "SHI Andong",
@@ -147,7 +147,33 @@
       "notice_type": "Current"
     },
     {
+      "name": "EMPIRE SUN GROUP LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 433130000,
+      "long_position_pct": 7.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "GRANDMARK WORLDWIDE LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 433130000,
+      "long_position_pct": 7.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HONG KONG ABLE TRILLION GROUP LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 433130000,
@@ -166,6 +192,22 @@
       "long_position_pct": 7.69,
       "relevant_event_date": "2026-04-28",
       "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EMPIRE SUN GROUP LIMITED",
+      "long_position_pct": 7.69,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HONG KONG ABLE TRILLION GROUP LIMITED",
+      "long_position_pct": 7.69,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

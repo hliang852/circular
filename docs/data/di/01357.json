@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-18T22:58:51Z",
+  "last_scraped": "2026-05-19T23:02:55Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -111,12 +111,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 275206189,
-      "long_position_pct": 6.0,
-      "short_position_shares": 93343110,
+      "long_position_shares": 274939158,
+      "long_position_pct": 5.99,
+      "short_position_shares": 93290275,
       "short_position_pct": 2.03,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -150,12 +150,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 254410975,
-      "long_position_pct": 5.55,
-      "short_position_shares": 9905000,
-      "short_position_pct": 0.22,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 247535899,
+      "long_position_pct": 5.4,
+      "short_position_shares": 9478000,
+      "short_position_pct": 0.21,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -163,7 +163,23 @@
   "history": [
     {
       "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.0,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.4,
       "relevant_event_date": "2026-05-13",
       "filing_date": "2026-05-18",
       "form_type": "Form 2",
