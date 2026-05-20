@@ -1,0 +1,2358 @@
+{
+  "code": "01364",
+  "name": "GUMING HOLDINGS LTD.",
+  "last_scraped": "2026-05-19T23:03:08Z",
+  "shareholders": [
+    {
+      "name": "Pan Pingping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1776958122,
+      "long_position_pct": 74.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qi Xia",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1776958122,
+      "long_position_pct": 74.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1776958122,
+      "long_position_pct": 74.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Yunan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1776958122,
+      "long_position_pct": 74.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ancient Leaves Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chivalrous Cavalry Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chivalrous Knights Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chivalrous Lancers Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cousin Tea Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Modern Leaves Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Nascent Leaves Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Nephew Tea Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Spring Equinox Drinks Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Summer Solstice Drinks Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Uncle Tea Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Winter Solstice Drinks Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1762459626,
+      "long_position_pct": 74.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.68,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.68,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.68,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.68,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.51,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.51,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.51,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.51,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.34,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.34,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.34,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ancient Leaves Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Cavalry Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Knights Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Lancers Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cousin Tea Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Modern Leaves Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nascent Leaves Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nephew Tea Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Equinox Drinks Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Summer Solstice Drinks Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uncle Tea Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winter Solstice Drinks Limited",
+      "long_position_pct": 74.11,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.7,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.7,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.7,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.73,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.8,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.73,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.8,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.73,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.8,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.73,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.61,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.61,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.61,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.61,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.08,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.08,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.08,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.08,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.14,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU YONGHUA",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-01-26",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "宁波梅山保税港区美兴私募基金管理有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-01-26",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.07,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.07,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.07,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.25,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.06,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.06,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.06,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.01,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.01,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.01,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.02,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.02,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.02,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.09,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-12-05",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-12-05",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-12-05",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.11,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.11,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.11,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.17,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.17,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.17,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-21",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.36,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU YONGHUA",
+      "long_position_pct": 6.31,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "宁波梅山保税港区美兴私募基金管理有限公司",
+      "long_position_pct": 6.31,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.3,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.27,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.27,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.27,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ancient Leaves Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Cavalry Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Knights Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Lancers Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cousin Tea Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Modern Leaves Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nascent Leaves Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nephew Tea Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Equinox Drinks Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Summer Solstice Drinks Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uncle Tea Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winter Solstice Drinks Limited",
+      "long_position_pct": 73.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 72.94,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 72.94,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 72.94,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 72.77,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 72.77,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 72.77,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 72.71,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 72.71,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 72.71,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ancient Leaves Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Cavalry Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Knights Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Lancers Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cousin Tea Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Modern Leaves Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nascent Leaves Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nephew Tea Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Equinox Drinks Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Summer Solstice Drinks Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uncle Tea Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winter Solstice Drinks Limited",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ancient Leaves Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Cavalry Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Knights Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chivalrous Lancers Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cousin Tea Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Modern Leaves Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nascent Leaves Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nephew Tea Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Equinox Drinks Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Summer Solstice Drinks Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uncle Tea Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winter Solstice Drinks Limited",
+      "long_position_pct": 73.35,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU YONGHUA",
+      "long_position_pct": 7.65,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "宁波梅山保税港区美兴私募基金管理有限公司",
+      "long_position_pct": 7.38,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

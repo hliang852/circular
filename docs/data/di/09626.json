@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-18T23:06:47Z",
+  "last_scraped": "2026-05-19T23:12:21Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -33,12 +33,12 @@
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 51167617,
-      "long_position_pct": 14.82,
-      "short_position_shares": 50426177,
-      "short_position_pct": 14.6,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 61772994,
+      "long_position_pct": 17.89,
+      "short_position_shares": 61030534,
+      "short_position_pct": 17.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -95,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 20073133,
+      "long_position_pct": 5.81,
+      "short_position_shares": 13711314,
+      "short_position_pct": 3.97,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -102,19 +115,6 @@
       "long_position_pct": 5.74,
       "short_position_shares": 4166751,
       "short_position_pct": 1.2,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 19798820,
-      "long_position_pct": 5.73,
-      "short_position_shares": 13542513,
-      "short_position_pct": 3.92,
       "relevant_event_date": "2026-05-12",
       "filing_date": "2026-05-12",
       "form_type": "Form 2",
@@ -135,6 +135,30 @@
     }
   ],
   "history": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.8,

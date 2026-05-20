@@ -1,0 +1,579 @@
+{
+  "code": "06687",
+  "name": "JST GROUP CORPORATION LTD.",
+  "last_scraped": "2026-05-19T23:10:35Z",
+  "shareholders": [
+    {
+      "name": "Black Tea Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 172418900,
+      "long_position_pct": 39.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HD Luo Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 172418900,
+      "long_position_pct": 39.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Luo Haidong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 172418900,
+      "long_position_pct": 39.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Popogo Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 48580600,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XJ He Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 48580600,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "He Xingjian",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 48580600,
+      "long_position_pct": 11.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cheng Qi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 33791200,
+      "long_position_pct": 7.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Donghui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 33791200,
+      "long_position_pct": 7.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiaxing HongShan Kunsheng Investment Management Partnership (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Max Dazzle Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ningbo Meishan Free Trade Port HongShan Huanjia Investment Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ningbo Meishan Free Trade Port HongShan Zhisheng Equity Investment Partnership (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Shibo Enterprise Management Consulting Partnership (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Kui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 28623900,
+      "long_position_pct": 6.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 25661652,
+      "long_position_pct": 5.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Golden Bull Lee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 23120500,
+      "long_position_pct": 5.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Taurus Lee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 23120500,
+      "long_position_pct": 5.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Cansheng",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 23120500,
+      "long_position_pct": 5.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Black Tea Limited",
+      "long_position_pct": 39.52,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HD Luo Limited",
+      "long_position_pct": 39.52,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 39.52,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.79,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.77,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.74,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.71,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.69,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.66,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.61,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.59,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.57,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.52,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.47,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 6.31,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JST Incentive Plan Limited",
+      "long_position_pct": 0.83,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 0.83,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Black Tea Limited",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HD Luo Limited",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "He Xingjian",
+      "long_position_pct": 11.14,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Cansheng",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Black Tea Limited",
+      "long_position_pct": 39.37,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Qi",
+      "long_position_pct": 7.93,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Bull Lee Limited",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HD Luo Limited",
+      "long_position_pct": 39.37,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "He Xingjian",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiaxing HongShan Kunsheng Investment Management Partnership (Limited Partnership)",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JST Incentive Plan Limited",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Cansheng",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 39.37,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Max Dazzle Limited",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ningbo Meishan Free Trade Port HongShan Huanjia Investment Management Limited",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ningbo Meishan Free Trade Port HongShan Zhisheng Equity Investment Partnership (Limited Partnership)",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Popogo Limited",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Shibo Enterprise Management Consulting Partnership (Limited Partnership)",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taurus Lee Limited",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Donghui",
+      "long_position_pct": 7.93,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XJ He Limited",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Kui",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

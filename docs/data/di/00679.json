@@ -1,7 +1,7 @@
 {
   "code": "00679",
   "name": "ASIA TELE-NET AND TECHNOLOGY CORPORATION LTD.",
-  "last_scraped": "2026-05-18T22:56:14Z",
+  "last_scraped": "2026-05-19T23:00:32Z",
   "shareholders": [
     {
       "name": "Lam Kwok Hing",
@@ -59,12 +59,12 @@
       "name": "Anatole Investment Management Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 27560000,
-      "long_position_pct": 7.22,
+      "long_position_shares": 40360000,
+      "long_position_pct": 10.57,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,17 +72,33 @@
       "name": "Yang Xiaofan",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 27560000,
-      "long_position_pct": 7.22,
+      "long_position_shares": 40360000,
+      "long_position_pct": 10.57,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Anatole Investment Management Limited",
+      "long_position_pct": 10.57,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Xiaofan",
+      "long_position_pct": 10.57,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "J&A Investment Limited",
       "long_position_pct": 52.95,

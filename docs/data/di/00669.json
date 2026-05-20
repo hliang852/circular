@@ -1,7 +1,7 @@
 {
   "code": "00669",
   "name": "TECHTRONIC INDUSTRIES CO. LTD.",
-  "last_scraped": "2026-05-18T22:56:08Z",
+  "last_scraped": "2026-05-19T23:00:25Z",
   "shareholders": [
     {
       "name": "Pudwill Horst Julius",
@@ -56,19 +56,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 94560972,
-      "long_position_pct": 5.17,
-      "short_position_shares": 2567000,
-      "short_position_pct": 0.14,
-      "relevant_event_date": "2026-05-08",
-      "filing_date": "2026-05-08",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "FIL Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -106,12 +93,33 @@
       "filing_date": "2026-02-26",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 93947391,
+      "long_position_pct": 5.13,
+      "short_position_shares": 2697500,
+      "short_position_pct": 0.15,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 11.22,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
       "relevant_event_date": "2026-05-13",
       "filing_date": "2026-05-18",
       "form_type": "Form 2",
