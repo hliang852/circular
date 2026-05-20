@@ -81,34 +81,61 @@ body {
   flex-shrink: 0;
 }
 
-/* ── Header search ── */
-.circ-search-wrap {
-  position: relative;
-}
-.circ-search-wrap svg {
-  position: absolute;
-  left: 9px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--tx3);
-  pointer-events: none;
-  width: 13px;
-  height: 13px;
-}
-.circ-search {
-  background: var(--sf2);
+/* ── Header region selector ── */
+.circ-region { position: relative; }
+.circ-region-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 10px 6px 11px;
+  background: var(--bg);
   border: 1px solid var(--bd2);
   border-radius: var(--r);
   color: var(--tx);
   font-size: 12px;
-  padding: 6px 10px 6px 28px;
   font-family: var(--sans);
-  outline: none;
-  transition: border-color .15s;
-  width: 200px;
+  cursor: pointer;
+  transition: border-color .12s, background .12s;
 }
-.circ-search:focus { border-color: var(--accent); }
-.circ-search::placeholder { color: var(--tx3); }
+.circ-region-btn:hover { border-color: var(--accent); background: var(--sf2); }
+.circ-region-flag { font-size: 13px; line-height: 1; }
+.circ-region-code { font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: .04em; }
+.circ-region-chev { width: 9px; height: 9px; opacity: .6; }
+.circ-region-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: var(--rl);
+  padding: 5px;
+  min-width: 210px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.5);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-4px);
+  transition: all .15s ease;
+  z-index: 200;
+}
+.circ-region-menu.open { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.circ-region-menuhead { font-size: 10px; text-transform: uppercase; letter-spacing: .07em; color: var(--tx3); padding: 8px 10px 6px; }
+.circ-region-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  border-radius: var(--r);
+  cursor: pointer;
+  font-size: 13px;
+  transition: background .12s;
+}
+.circ-region-item:hover { background: var(--sf2); }
+.circ-region-item.selected { background: rgba(88,166,255,.08); }
+.cri-name { color: var(--tx); flex: 1; }
+.cri-ex { font-family: var(--mono); font-size: 10.5px; color: var(--tx3); letter-spacing: .06em; }
+.cri-check { color: var(--accent); font-size: 12px; opacity: 0; }
+.circ-region-item.selected .cri-check { opacity: 1; }
+.circ-region-item.selected .cri-ex { display: none; }
 
 /* ── Page layout ── */
 .page {

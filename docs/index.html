@@ -196,6 +196,12 @@ a{color:inherit;text-decoration:none}
 .market-drop-item.selected .mdi-check{opacity:1}
 .market-drop-item.selected .mdi-ex{display:none}
 
+/* ============ SEARCH DEST PICKER ============ */
+.search-dest{display:flex;background:var(--sf2);border:1px solid var(--bd);border-radius:var(--r);overflow:hidden;flex-shrink:0}
+.sd-btn{padding:5px 10px;font-size:11px;font-weight:500;font-family:var(--mono);color:var(--tx3);background:none;border:none;border-right:1px solid var(--bd);cursor:pointer;transition:background .12s,color .12s;letter-spacing:.04em}
+.sd-btn:last-child{border-right:none}
+.sd-btn.on{background:var(--accent);color:#fff}
+
 /* ============ SEARCH DROPDOWN ============ */
 .search-block{position:relative}
 .search-results{
@@ -326,7 +332,11 @@ a{color:inherit;text-decoration:none}
           <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
         </svg>
         <input id="searchInput" class="search-input" type="text" placeholder="Search stock code or company name — try 700, Tencent, HSBC…" autocomplete="off">
-        <span class="search-kbd">⌘ K</span>
+        <div class="search-dest" id="searchDest">
+          <button class="sd-btn on" data-dest="di">DI</button>
+          <button class="sd-btn" data-dest="ca">CA</button>
+          <button class="sd-btn" data-dest="ecm">ECM</button>
+        </div>
       </div>
     </div>
     <div class="search-results" id="searchResults"></div>
@@ -584,6 +594,17 @@ a{color:inherit;text-decoration:none}
   const searchInput   = document.getElementById('searchInput');
   const searchResults = document.getElementById('searchResults');
   let universe = null;
+  let searchDest = 'di';
+
+  // Module destination picker
+  document.querySelectorAll('.sd-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.sd-btn').forEach(b => b.classList.remove('on'));
+      btn.classList.add('on');
+      searchDest = btn.dataset.dest;
+      if (searchInput.value.trim()) searchInput.dispatchEvent(new Event('input'));
+    });
+  });
 
   async function loadUniverse() {
     if (universe) return universe;
@@ -605,6 +626,12 @@ a{color:inherit;text-decoration:none}
     ).slice(0, 12);
   }
 
+  function navigate(code) {
+    if (searchDest === 'ca') location.href = `ca/?code=${code}`;
+    else if (searchDest === 'di') location.href = `di/?code=${code}`;
+    else location.href = 'capital-market/';
+  }
+
   function showResults(stocks, q) {
     if (!stocks.length) {
       searchResults.innerHTML = `<div class="sr-empty">No results for "${q}"</div>`;
@@ -612,17 +639,17 @@ a{color:inherit;text-decoration:none}
       return;
     }
     searchResults.innerHTML = stocks.map(s => `
-      <div class="sr-item" data-code="${s.code}" tabindex="0">
+      <div class="sr-item" data-code="${s.code}">
         <span class="sr-code">${fmtCode(s.code)}</span>
         <span class="sr-name">${s.name}</span>
-        <span class="sr-hint">View →</span>
+        <span class="sr-hint">${searchDest.toUpperCase()} →</span>
       </div>
     `).join('');
     searchResults.classList.add('open');
     searchResults.querySelectorAll('.sr-item').forEach(item => {
       item.addEventListener('mousedown', e => {
         e.preventDefault();
-        location.href = `di/?code=${item.dataset.code}`;
+        navigate(item.dataset.code);
       });
     });
   }
@@ -646,7 +673,7 @@ a{color:inherit;text-decoration:none}
       const stocks = await loadUniverse();
       if (!stocks) return;
       const matches = matchStocks(q, stocks);
-      if (matches.length) location.href = `di/?code=${matches[0].code}`;
+      if (matches.length) navigate(matches[0].code);
     }
     if (e.key === 'Escape') { searchResults.classList.remove('open'); searchInput.blur(); }
   });

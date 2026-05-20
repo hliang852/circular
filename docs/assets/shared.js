@@ -137,38 +137,62 @@ function renderHeader(module) {
           </a>
         </div>
         <div class="circ-header-right">
-          <div class="circ-search-wrap">
-            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-              <circle cx="6.5" cy="6.5" r="4.5"/>
-              <path d="M10.5 10.5L14 14" stroke-linecap="round"/>
-            </svg>
-            <input class="circ-search" id="circ-global-search" type="text" placeholder="Search stock…" autocomplete="off">
+          <div class="circ-region" id="circRegion">
+            <button class="circ-region-btn" id="circRegionBtn" aria-expanded="false">
+              <span class="circ-region-flag" id="circRegionFlag">🇭🇰</span>
+              <span class="circ-region-code" id="circRegionLabel">HK</span>
+              <svg class="circ-region-chev" viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+            </button>
+            <div class="circ-region-menu" id="circRegionMenu">
+              <div class="circ-region-menuhead">Select region</div>
+              <div class="circ-region-item selected" data-code="HK" data-flag="🇭🇰" data-name="Hong Kong">
+                <span>🇭🇰</span><span class="cri-name">Hong Kong</span><span class="cri-ex">HKEX</span><span class="cri-check">●</span>
+              </div>
+              <div class="circ-region-item" data-code="SG" data-flag="🇸🇬" data-name="Singapore">
+                <span>🇸🇬</span><span class="cri-name">Singapore</span><span class="cri-ex">SGX</span><span class="cri-check">●</span>
+              </div>
+              <div class="circ-region-item" data-code="JP" data-flag="🇯🇵" data-name="Japan">
+                <span>🇯🇵</span><span class="cri-name">Japan</span><span class="cri-ex">TSE</span><span class="cri-check">●</span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </nav>
   `;
 
-  // Wire global search
-  const si = document.getElementById('circ-global-search');
-  if (si) {
-    si.addEventListener('keydown', async e => {
-      if (e.key !== 'Enter') return;
-      const q = si.value.trim().toLowerCase();
-      if (!q) return;
-      const universe = await fetchUniverse();
-      if (!universe) return;
-      const match = universe.find(s =>
-        s.code === q.padStart(5, '0') ||
-        s.name.toLowerCase().includes(q) ||
-        fmtCode(s.code).toLowerCase().includes(q)
-      );
-      if (match) {
-        // Navigate to current module with code, or DI if on hub
-        const dest = module === 'ca' ? caHref.split('?')[0] : diHref.split('?')[0];
-        location.href = `${dest}?code=${match.code}`;
-      }
+  // Wire region selector
+  const rBtn  = document.getElementById('circRegionBtn');
+  const rMenu = document.getElementById('circRegionMenu');
+  const rFlag = document.getElementById('circRegionFlag');
+  const rCode = document.getElementById('circRegionLabel');
+  if (rBtn && rMenu) {
+    rBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      const open = rMenu.classList.toggle('open');
+      rBtn.setAttribute('aria-expanded', open);
     });
+    document.querySelectorAll('#circRegion .circ-region-item').forEach(item => {
+      item.addEventListener('click', () => {
+        document.querySelectorAll('#circRegion .circ-region-item').forEach(i => i.classList.remove('selected'));
+        item.classList.add('selected');
+        rFlag.textContent = item.dataset.flag;
+        rCode.textContent = item.dataset.code;
+        rMenu.classList.remove('open');
+        try { localStorage.setItem('circRegion', JSON.stringify({ code: item.dataset.code, flag: item.dataset.flag, name: item.dataset.name })); } catch {}
+      });
+    });
+    document.addEventListener('click', e => {
+      if (!document.getElementById('circRegion').contains(e.target)) rMenu.classList.remove('open');
+    });
+    // Restore from localStorage
+    try {
+      const saved = JSON.parse(localStorage.getItem('circRegion'));
+      if (saved) {
+        const match = document.querySelector(`#circRegion .circ-region-item[data-code="${saved.code}"]`);
+        if (match) { document.querySelectorAll('#circRegion .circ-region-item').forEach(i => i.classList.remove('selected')); match.classList.add('selected'); rFlag.textContent = saved.flag; rCode.textContent = saved.code; }
+      }
+    } catch {}
   }
 }
 

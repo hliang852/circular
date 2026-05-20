@@ -12,30 +12,41 @@
 
 <div id="circular-header"></div>
 
-<div class="di-header">
-  <div class="di-header-inner">
-    <div class="di-page-title">HKEX Substantial Shareholder Disclosure</div>
-    <div class="di-page-subtitle">Substantial shareholding disclosures for HKEX-listed companies · updated nightly</div>
-  </div>
-</div>
-
-<nav class="di-tabs">
-  <div class="di-tabs-inner">
-    <button class="di-tab-btn active" data-tab="latest">Latest</button>
-    <button class="di-tab-btn" data-tab="by-stock">By Stock</button>
-    <button class="di-tab-btn" data-tab="by-shareholder">By Shareholder</button>
-    <button class="di-tab-btn" data-tab="compare">Compare</button>
-  </div>
-</nav>
-
 <main class="page">
+
+  <!-- ── DI page header + tab bar ── -->
+  <div class="di-page-header">
+    <div class="di-page-heading">
+      <div class="di-page-tag">
+        <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
+        Disclosure of Interests
+      </div>
+      <h1 class="di-page-title">Substantial Shareholder Filings</h1>
+      <p class="di-page-subtitle">Part XV SFO · ≥5% threshold · HKEX-listed companies · updated nightly</p>
+    </div>
+    <div class="di-vtog">
+      <button class="di-vb on" data-tab="latest">📋 Latest Filings</button>
+      <button class="di-vb" data-tab="by-shareholder">👤 By Shareholder</button>
+      <button class="di-vb" data-tab="compare">⚖ Compare</button>
+    </div>
+  </div>
 
   <!-- ── TAB 1: LATEST ── -->
   <section id="tab-latest" class="tab-panel active">
-    <div class="latest-header">
+
+    <!-- Prominent search bar -->
+    <div class="di-search-block">
+      <div class="di-search-card">
+        <div class="di-search-row">
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
+          </svg>
+          <input id="latest-filter" type="search" placeholder="Filter by shareholder name, stock code, or company…" class="di-search-input" autocomplete="off">
+        </div>
+      </div>
       <div class="latest-meta" id="latest-meta"></div>
-      <input id="latest-filter" type="search" placeholder="Filter by shareholder or stock…" class="latest-filter-input">
     </div>
+
     <div id="latest-loading" class="loading-state">Loading latest filings…</div>
     <div id="latest-result" hidden>
       <div class="table-shell">
@@ -59,93 +70,7 @@
     <div id="latest-empty" class="empty-state" hidden>No filings match your filter.</div>
   </section>
 
-  <!-- ── TAB 2: BY STOCK ── -->
-  <section id="tab-by-stock" class="tab-panel" hidden>
-    <div class="search-row">
-      <div class="search-input-wrap">
-        <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
-        <input id="stock-search" class="search-input" type="search" placeholder="Search stock code or name…" autocomplete="off">
-      </div>
-      <div id="stock-dropdown" class="dropdown" hidden></div>
-    </div>
-
-    <div id="stock-result" hidden>
-      <!-- DI cross-link to CA -->
-      <div class="di-to-ca" id="di-to-ca-link" style="display:none">
-        <span class="cl-label">View share buyback data for this stock</span>
-        <a id="di-to-ca-href" href="#">View Corporate Actions →</a>
-      </div>
-
-      <div class="view-toggle">
-        <button class="view-btn active" data-view="shareholders">Shareholders</button>
-        <button class="view-btn" data-view="timeline">Timeline</button>
-      </div>
-
-      <!-- Shareholders view -->
-      <div id="view-shareholders">
-        <div class="controls-row">
-          <select id="stock-sort" class="sort-select">
-            <option value="pct">Sort by %</option>
-            <option value="name">Sort by name</option>
-            <option value="date">Sort by filing date</option>
-          </select>
-          <div class="filter-chips">
-            <button class="filter-btn active" data-filter="all">All types</button>
-            <button class="filter-btn" data-filter="individual">Individual</button>
-            <button class="filter-btn" data-filter="corporate">Corporate</button>
-            <button class="filter-btn" data-filter="fund">Fund</button>
-          </div>
-        </div>
-
-        <div class="stat-cards">
-          <div class="stat-card"><div class="stat-label">Substantial shareholders</div><div class="stat-value" id="sh-count-val">—</div></div>
-          <div class="stat-card"><div class="stat-label">Total disclosed</div><div class="stat-value" id="sh-sum-val">—</div></div>
-          <div class="stat-card"><div class="stat-label">Latest filing</div><div class="stat-value" id="sh-date-val" style="font-size:14px">—</div></div>
-        </div>
-
-        <div class="stock-subheader">
-          <span class="code-dot" id="sh-code"></span>
-          <span id="sh-name"></span>
-        </div>
-
-        <div id="historical-banner" class="historical-banner" hidden>
-          ⚠ Showing last-known positions derived from filing history (no current shareholders listed by HKEX for this stock).
-        </div>
-
-        <div id="shareholders-list" class="sh-list"></div>
-      </div>
-
-      <!-- Timeline view -->
-      <div id="view-timeline" hidden>
-        <div class="tl-controls">
-          <label>Shareholder: <input id="tl-sh-filter" type="search" placeholder="Filter by name…"></label>
-          <label>From: <input id="tl-date-from" type="date"></label>
-          <label>To: <input id="tl-date-to" type="date"></label>
-        </div>
-        <div class="table-shell">
-          <div class="table-scroll">
-            <table id="tl-table">
-              <thead>
-                <tr>
-                  <th>Event date</th>
-                  <th>Shareholder</th>
-                  <th>Action</th>
-                  <th class="num">Long %</th>
-                  <th>Form</th>
-                  <th>Filing date</th>
-                </tr>
-              </thead>
-              <tbody id="tl-tbody"></tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div id="stock-empty" class="empty-state">Search for a stock above to view its substantial shareholders.</div>
-  </section>
-
-  <!-- ── TAB 3: BY SHAREHOLDER ── -->
+  <!-- ── TAB 2: BY SHAREHOLDER ── -->
   <section id="tab-by-shareholder" class="tab-panel" hidden>
     <div class="search-row">
       <div class="search-input-wrap">
@@ -178,7 +103,7 @@
     <div id="sh-empty" class="empty-state">Search for a shareholder above to view their holdings.</div>
   </section>
 
-  <!-- ── TAB 4: COMPARE ── -->
+  <!-- ── TAB 3: COMPARE ── -->
   <section id="tab-compare" class="tab-panel" hidden>
     <div class="search-row">
       <div class="search-input-wrap">
@@ -204,6 +129,16 @@
 
     <div id="compare-empty" class="empty-state">Add up to 5 stocks above to compare their shareholders side by side.</div>
   </section>
+
+  <!-- ── DISCLAIMER ── -->
+  <div class="disclaimer">
+    <div class="disc-icon">!</div>
+    <div class="disc-body">
+      <h3>For information only — not advice</h3>
+      <p>Circular is a personal data project that scrapes publicly available filings from HKEX, HKEXnews, and equivalent regulatory sources. Nothing on this site constitutes investment advice, a recommendation, or a solicitation to buy or sell any security.</p>
+      <p>Data is provided "as is" with no warranty of accuracy, completeness, or timeliness. Filings may contain errors, scraping may fail, and indices may lag. Always verify against the original regulatory source before acting on any figure shown here.</p>
+    </div>
+  </div>
 
 </main>
 

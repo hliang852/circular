@@ -5,60 +5,19 @@ document.addEventListener('DOMContentLoaded', () => {
   renderHeader('di');
   initTabs();
   initLatest();
-
-  // Route from ?code= URL param
-  const code = new URLSearchParams(location.search).get('code');
-  if (code) {
-    // Switch to By Stock tab and load
-    const btn = document.querySelector('[data-tab="by-stock"]');
-    if (btn) btn.click();
-    loadStock(code, code);
-  }
 });
 
 // ── Tab switching ────────────────────────────────────────────────────
 function initTabs() {
-  document.querySelectorAll('.di-tab-btn').forEach(btn => {
+  document.querySelectorAll('.di-vb').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.di-tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.di-vb').forEach(b => b.classList.remove('on'));
       document.querySelectorAll('.tab-panel').forEach(p => { p.classList.remove('active'); p.hidden = true; });
-      btn.classList.add('active');
+      btn.classList.add('on');
       const panel = document.getElementById(`tab-${btn.dataset.tab}`);
       if (panel) { panel.hidden = false; panel.classList.add('active'); }
       if (btn.dataset.tab === 'latest') initLatest();
     });
-  });
-
-  // View toggle within By Stock
-  document.querySelectorAll('.view-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentView = btn.dataset.view;
-      document.getElementById('view-shareholders').hidden = currentView !== 'shareholders';
-      document.getElementById('view-timeline').hidden = currentView !== 'timeline';
-      if (currentView === 'timeline' && currentStockData) initStockTimeline();
-    });
-  });
-
-  // Filter chips
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentFilter = btn.dataset.filter;
-      if (currentStockData) renderShareholdersList(currentShareholders);
-    });
-  });
-
-  // Sort select
-  const sortSel = document.getElementById('stock-sort');
-  if (sortSel) sortSel.addEventListener('change', e => { currentSort = e.target.value; if (currentStockData) renderShareholdersList(currentShareholders); });
-
-  // Timeline filters
-  ['tl-sh-filter', 'tl-date-from', 'tl-date-to'].forEach(id => {
-    const el = document.getElementById(id);
-    if (el) el.addEventListener('input', renderTimeline);
   });
 }
 
