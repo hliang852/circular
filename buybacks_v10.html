@@ -353,7 +353,7 @@ td.num{font-family:var(--mono);font-size:12.5px}
     </div>
     <h1 class="home-title">What companies do with capital<br>tells you more than what they say.</h1>
     <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, equity issuance, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
-    <button class="home-cta" onclick="switchView('league', document.querySelectorAll('.vb')[1])">
+    <button class="home-cta" onclick="document.getElementById('homev').style.display='none';document.getElementById('sv').style.display='block';document.querySelector('.sw').style.display='flex';window.scrollTo({top:0,behavior:'smooth'})">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
       Explore Tencent →
     </button>
@@ -1022,12 +1022,7 @@ function switchIdeasTab(tab,btn){
 
 /* ── GO TO STOCK ── */
 function goToStock(code,name){
-  document.getElementById('searchInput').value=`${fmtCode(code)} — ${name}`;
-  const btn=document.querySelector('.vtog .vb:nth-child(2)');
-  switchView('league',btn);
-  window.scrollTo({top:0,behavior:'smooth'});
-  const hero=document.querySelector('.stock-hero');
-  if(hero){hero.style.transition='box-shadow .4s ease';hero.style.boxShadow='0 0 0 2px rgba(88,166,255,.4)';setTimeout(()=>{hero.style.boxShadow='';},800);}
+  window.location.href=`buybacks_v10.html?code=${code}`;
 }
 
 /* ── VIEW SWITCH ── */
