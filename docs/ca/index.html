@@ -32,7 +32,7 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 /* PAGE + VIEW TOGGLE */
 .page{max-width:1160px;margin:0 auto;padding:22px 20px 100px}
 .sr{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px}
-.sw{position:relative;flex:1;min-width:200px;max-width:370px}
+.sw{position:relative;min-width:200px;max-width:370px;margin-left:auto}
 .sw svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--tx3);pointer-events:none}
 .si{width:100%;background:var(--sf);border:1px solid var(--bd2);border-radius:var(--r);color:var(--tx);font-size:13px;padding:8px 12px 8px 32px;font-family:var(--sans);outline:none;transition:border-color .15s}
 .si:focus{border-color:var(--accent)}.si::placeholder{color:var(--tx3)}
@@ -325,6 +325,10 @@ td.num{font-family:var(--mono);font-size:12.5px}
       Circular
     </a>
     <div class="navtabs">
+      <a href="../" class="tl">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 8.5L8 3l6 5.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 7.5V13h8V7.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Home
+      </a>
       <a href="./" class="tl on">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v2m0 8v2M2 8h2m8 0h2" stroke-linecap="round"/><circle cx="8" cy="8" r="3"/></svg>
         Corporate Actions
@@ -345,16 +349,16 @@ td.num{font-family:var(--mono);font-size:12.5px}
 
 <!-- VIEW TOGGLE -->
 <div class="sr">
-  <div class="sw">
-    <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
-    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" value="700 HK — Tencent Holdings">
-  </div>
   <div class="vtog">
     <button class="vb on"  onclick="switchView('home',this)">📊 Corporate Actions</button>
     <button class="vb"     onclick="switchView('league',this)">🏆 League Table</button>
     <button class="vb"     onclick="switchView('lastsession',this)">📈 Last Session</button>
     <button class="vb"     onclick="switchView('ideas',this)">💡 Ideas Screen</button>
     <button class="vb"     onclick="switchView('calendar',this)">📅 Calendar</button>
+  </div>
+  <div class="sw">
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" value="700 HK — Tencent Holdings">
   </div>
 </div>
 
@@ -367,28 +371,29 @@ td.num{font-family:var(--mono);font-size:12.5px}
     </div>
     <h1 class="home-title">What companies do with capital<br>tells you more than what they say.</h1>
     <p class="home-subtitle">Circular tracks every repurchase mandate, monthly buyback filing, equity issuance, and AGM date for HKEX-listed companies — and surfaces the signals that matter to equity analysts.</p>
+
+    <!-- Home search bar -->
+    <div class="home-search-block">
+      <div class="home-search-card">
+        <div class="home-search-row">
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
+          </svg>
+          <input id="homeSearchInput" class="home-search-input" type="text" placeholder="Search stock code or company — e.g. 700, Tencent, HSBC…" autocomplete="off">
+          <div class="home-search-dest" id="homeSearchDest">
+            <button class="hsd-btn on" data-dest="ca">CA</button>
+            <button class="hsd-btn" data-dest="di">DI</button>
+            <button class="hsd-btn" data-dest="ecm">ECM</button>
+          </div>
+        </div>
+      </div>
+      <div class="home-search-results" id="homeSearchResults"></div>
+    </div>
+
     <button class="home-cta" onclick="switchView('league', document.querySelectorAll('.vb')[1])">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
       Explore Tencent →
     </button>
-  </div>
-
-  <!-- Home search bar -->
-  <div class="home-search-block">
-    <div class="home-search-card">
-      <div class="home-search-row">
-        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-          <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
-        </svg>
-        <input id="homeSearchInput" class="home-search-input" type="text" placeholder="Search stock code or company — e.g. 700, Tencent, HSBC…" autocomplete="off">
-        <div class="home-search-dest" id="homeSearchDest">
-          <button class="hsd-btn on" data-dest="ca">CA</button>
-          <button class="hsd-btn" data-dest="di">DI</button>
-          <button class="hsd-btn" data-dest="ecm">ECM</button>
-        </div>
-      </div>
-    </div>
-    <div class="home-search-results" id="homeSearchResults"></div>
   </div>
 
   <div class="why-grid">
@@ -414,30 +419,6 @@ td.num{font-family:var(--mono);font-size:12.5px}
     </div>
   </div>
 
-  <div class="signal-examples">
-    <div class="se-title">What the signals mean</div>
-    <div class="se-row">
-      <div class="se-dot" style="background:var(--green)"></div>
-      <div>
-        <div class="se-label">● Strong</div>
-        <div class="se-desc">The company is buying back shares below its own 12-month VWAP (underwater), AND a substantial shareholder is accumulating via DI filing. Both buyers are active at current prices.</div>
-      </div>
-    </div>
-    <div class="se-row">
-      <div class="se-dot" style="background:var(--amber)"></div>
-      <div>
-        <div class="se-label">● Moderate</div>
-        <div class="se-desc">The company is buying below its own VWAP with a consistency score of 4+, but no concurrent DI accumulation is detected. The company's own cost basis is your floor.</div>
-      </div>
-    </div>
-    <div class="se-row">
-      <div class="se-dot" style="background:var(--purple)"></div>
-      <div>
-        <div class="se-label">● Mandate Renewer</div>
-        <div class="se-desc">Company has an AGM within 90 days with >65% probability of mandate renewal. Uninterrupted programme support into the next fiscal year.</div>
-      </div>
-    </div>
-  </div>
 </div>
 
 <!-- ═══════════════ BY STOCK ═══════════════ -->
@@ -793,7 +774,8 @@ const league=[
   {c:"03690",n:"Meituan",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:62,cs:0,vwap:null,curPx:82.7,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
   {c:"06862",n:"Haidilao",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:52,cs:0,vwap:null,curPx:14.68,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null}
 ];
-const calEvents=[
+// Calendar events: loaded from calendar.json, fallback to static seed
+let calEvents=[
   {date:"2026-05-01",type:"agm",     name:"Tencent Holdings",   note:"2026 AGM — shareholders vote on repurchase mandate renewal"},
   {date:"2026-03-20",type:"results", name:"Tencent Holdings",   note:"2025 Annual Results (estimated)"},
   {date:"2026-01-20",type:"blackout",name:"Tencent Holdings",   note:"Estimated blackout start (30d before annual results)"},
@@ -802,6 +784,19 @@ const calEvents=[
   {date:"2025-05-14",type:"agm",     name:"Tencent Holdings",   note:"2025 Annual General Meeting"},
   {date:"2026-07-15",type:"blackout",name:"Tencent Holdings",   note:"Estimated blackout start (pre-2026 interim results)"},
 ];
+(async()=>{
+  try {
+    const r = await fetch('../data/calendar.json');
+    if (r.ok) {
+      const data = await r.json();
+      if (Array.isArray(data) && data.length) {
+        calEvents = data;
+        // Redraw calendar if it's currently visible
+        if (document.getElementById('calendarv').style.display !== 'none') renderCalendar();
+      }
+    }
+  } catch {}
+})();
 
 /* ── HELPERS ── */
 const fmtB   = n=>n>=1e9?`${(n/1e9).toFixed(1)}B`:n>=1e6?`${(n/1e6).toFixed(0)}M`:n.toLocaleString();

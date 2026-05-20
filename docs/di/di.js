@@ -4,10 +4,25 @@
 document.addEventListener('DOMContentLoaded', () => {
   renderHeader('di');
   initTabs();
-  initLatest();
 });
 
 // ── Tab switching ────────────────────────────────────────────────────
+function switchDITab(tabName) {
+  const btn = document.querySelector(`.di-vb[data-tab="${tabName}"]`);
+  if (btn) btn.click();
+}
+
+function discoverShareholder(name) {
+  switchDITab('by-shareholder');
+  setTimeout(() => {
+    const inp = document.getElementById('sh-search');
+    if (inp) {
+      inp.value = name;
+      inp.dispatchEvent(new Event('input'));
+    }
+  }, 60);
+}
+
 function initTabs() {
   document.querySelectorAll('.di-vb').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -16,6 +31,9 @@ function initTabs() {
       btn.classList.add('on');
       const panel = document.getElementById(`tab-${btn.dataset.tab}`);
       if (panel) { panel.hidden = false; panel.classList.add('active'); }
+      // Show filter input only on Latest tab
+      const navRight = document.getElementById('diSubnavRight');
+      if (navRight) navRight.hidden = btn.dataset.tab !== 'latest';
       if (btn.dataset.tab === 'latest') initLatest();
     });
   });
@@ -246,13 +264,6 @@ function renderShareholdersList(shareholders) {
   }).join('');
 }
 
-makeDropdown(
-  document.getElementById('stock-search'),
-  document.getElementById('stock-dropdown'),
-  stockItems,
-  item => loadStock(item.code, item.name)
-);
-
 // ── Timeline ─────────────────────────────────────────────────────────
 function initStockTimeline() {
   if (!currentStockData) return;
@@ -356,16 +367,11 @@ makeDropdown(
 );
 
 function jumpToStock(code) {
-  const btn = document.querySelector('[data-tab="by-stock"]');
-  if (btn) btn.click();
-  const input = document.getElementById('stock-search');
-  if (!input) return;
-  input.value = code;
-  input.dispatchEvent(new Event('input'));
+  switchDITab('latest');
   setTimeout(() => {
-    const first = document.querySelector('#stock-dropdown .dropdown-item');
-    if (first) first.dispatchEvent(new MouseEvent('mousedown'));
-  }, 300);
+    const filter = document.getElementById('latest-filter');
+    if (filter) { filter.value = code; filter.dispatchEvent(new Event('input')); }
+  }, 80);
 }
 
 // ── TAB 4: Compare ───────────────────────────────────────────────────
@@ -441,3 +447,77 @@ async function renderCompareMatrix() {
   const totals = codes.map(c => { const di = allDI[codes.indexOf(c)]; return (di?.shareholders||[]).reduce((s,sh) => s+(sh.long_position_pct||0), 0); });
   document.getElementById('compare-tfoot').innerHTML = `<tr><td><strong>Total disclosed</strong></td>${totals.map(t => `<td class="num"><strong>${t.toFixed(1)}%</strong></td>`).join('')}</tr>`;
 }
+
+// ── DI Home search ───────────────────────────────────────────────────
+(function initHomeSearch() {
+  const inp = document.getElementById('diHomeSearch');
+  const res = document.getElementById('diHomeSearchResults');
+  if (!inp || !res) return;
+
+  let timer;
+  inp.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(async () => {
+      const q = inp.value.trim().toLowerCase();
+      if (q.length < 2) { res.style.display = 'none'; return; }
+
+      const [universe, idx] = await Promise.all([fetchUniverse(), fetchShareholdersIndex()]);
+      const results = [];
+
+      // Shareholders from index
+      if (idx) {
+        Object.keys(idx)
+          .filter(n => n.toLowerCase().includes(q))
+          .slice(0, 6)
+          .forEach(n => results.push({ type: 'sh', label: n }));
+      }
+
+      // Stocks from universe
+      if (universe) {
+        universe
+          .filter(s => s.code.includes(q) || s.name.toLowerCase().includes(q) || `${parseInt(s.code,10)}`.includes(q))
+          .slice(0, 4)
+          .forEach(s => results.push({ type: 'stock', label: s.name, code: s.code }));
+      }
+
+      if (!results.length) {
+        res.innerHTML = '<div class="di-home-sr-empty">No results found</div>';
+        res.style.display = 'block';
+        return;
+      }
+
+      res.innerHTML = results.map(r => r.type === 'sh'
+        ? `<div class="di-home-sr-item" data-type="sh" data-name="${r.label}">
+            <span class="di-home-sr-icon">👤</span>
+            <span class="di-home-sr-text">${r.label}</span>
+            <span class="di-home-sr-hint">By Shareholder →</span>
+           </div>`
+        : `<div class="di-home-sr-item" data-type="stock" data-code="${r.code}">
+            <span class="di-home-sr-icon">${parseInt(r.code,10)} HK</span>
+            <span class="di-home-sr-text">${r.label}</span>
+            <span class="di-home-sr-hint">Latest →</span>
+           </div>`
+      ).join('');
+      res.style.display = 'block';
+
+      res.querySelectorAll('.di-home-sr-item').forEach(item => {
+        item.addEventListener('mousedown', e => {
+          e.preventDefault();
+          res.style.display = 'none';
+          inp.value = '';
+          if (item.dataset.type === 'sh') {
+            discoverShareholder(item.dataset.name);
+          } else {
+            switchDITab('latest');
+            setTimeout(() => {
+              const filter = document.getElementById('latest-filter');
+              if (filter) { filter.value = item.dataset.code; filter.dispatchEvent(new Event('input')); }
+            }, 100);
+          }
+        });
+      });
+    }, 150);
+  });
+
+  inp.addEventListener('blur', () => setTimeout(() => { res.style.display = 'none'; }, 200));
+})();

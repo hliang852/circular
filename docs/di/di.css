@@ -1,12 +1,43 @@
 /* DI-specific overrides */
 
-/* ── DI page header ── */
-.di-page-header {
+/* ── DI sub-navigation row ── */
+.di-subnav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   border-bottom: 1px solid var(--bd);
-  padding-bottom: 20px;
+  padding-bottom: 14px;
   margin-bottom: 24px;
+  flex-wrap: wrap;
 }
-.di-page-heading { margin-bottom: 18px; }
+.di-subnav-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+.di-subnav-input {
+  background: var(--sf);
+  border: 1px solid var(--bd2);
+  border-radius: var(--r);
+  color: var(--tx);
+  font-size: 13px;
+  padding: 7px 12px;
+  font-family: var(--sans);
+  outline: none;
+  width: 280px;
+  transition: border-color .15s;
+}
+.di-subnav-input:focus { border-color: var(--accent); }
+.di-subnav-input::placeholder { color: var(--tx3); }
+
+/* ── DI home hero ── */
+.di-home-hero {
+  text-align: center;
+  padding: 48px 20px 40px;
+  border-bottom: 1px solid var(--bd);
+  margin-bottom: 32px;
+}
 .di-page-tag {
   display: inline-flex;
   align-items: center;
@@ -17,19 +48,114 @@
   font-size: 11px;
   color: var(--tx3);
   padding: 4px 12px;
-  margin-bottom: 10px;
+  margin-bottom: 16px;
   letter-spacing: .04em;
 }
 .di-page-tag svg { opacity: .7; }
-.di-page-title {
-  font-size: 28px;
+.di-home-title {
+  font-size: 32px;
   font-weight: 700;
   color: var(--tx);
-  letter-spacing: -.5px;
-  margin-bottom: 5px;
-  line-height: 1.1;
+  letter-spacing: -.6px;
+  margin-bottom: 10px;
+  line-height: 1.2;
 }
-.di-page-subtitle { font-size: 13px; color: var(--tx3); line-height: 1.5; }
+.di-home-subtitle {
+  font-size: 15px;
+  color: var(--tx2);
+  max-width: 600px;
+  margin: 0 auto 28px;
+  line-height: 1.7;
+}
+
+/* ── DI home search ── */
+.di-home-search-block {
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto 36px;
+  text-align: left;
+}
+.di-home-search-card {
+  background: var(--sf);
+  border: 1px solid var(--bd);
+  border-radius: var(--rl);
+  padding: 12px 16px;
+}
+.di-home-search-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.di-home-search-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: var(--tx);
+  font-size: 14px;
+  font-family: var(--sans);
+  outline: none;
+}
+.di-home-search-input::placeholder { color: var(--tx3); }
+.di-home-search-results {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: var(--sf2);
+  border: 1px solid var(--bd2);
+  border-radius: var(--rl);
+  z-index: 300;
+  max-height: 280px;
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0,0,0,.5);
+  display: none;
+  top: calc(100% + 4px);
+}
+.di-home-sr-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--bd);
+  cursor: pointer;
+  transition: background .1s;
+}
+.di-home-sr-item:last-child { border-bottom: none; }
+.di-home-sr-item:hover { background: rgba(88,166,255,.07); }
+.di-home-sr-icon { font-size: 11px; font-family: var(--mono); color: var(--tx3); min-width: 52px; }
+.di-home-sr-text { font-size: 13px; color: var(--tx); flex: 1; }
+.di-home-sr-hint { font-size: 11px; color: var(--accent); font-weight: 500; font-family: var(--mono); }
+.di-home-sr-empty { padding: 14px 16px; color: var(--tx3); font-size: 13px; }
+
+/* ── DI home action cards ── */
+.di-home-actions {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.di-action-card {
+  background: var(--sf);
+  border: 1px solid var(--bd);
+  border-radius: var(--rl);
+  padding: 22px 28px;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+  text-align: left;
+  min-width: 220px;
+  max-width: 300px;
+  flex: 1;
+  font-family: var(--sans);
+}
+.di-action-card:hover {
+  border-color: var(--accent);
+  background: var(--sf2);
+}
+.di-action-icon { font-size: 22px; margin-bottom: 10px; }
+.di-action-title { font-size: 14px; font-weight: 600; color: var(--tx); margin-bottom: 6px; }
+.di-action-desc { font-size: 12px; color: var(--tx3); line-height: 1.65; }
+
+/* ── Latest meta row ── */
+.latest-meta-row { margin-bottom: 12px; }
 
 /* ── DI CA-style view toggle ── */
 .di-vtog {

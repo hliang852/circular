@@ -14,36 +14,64 @@
 
 <main class="page">
 
-  <!-- ── DI page header + tab bar ── -->
-  <div class="di-page-header">
-    <div class="di-page-heading">
-      <div class="di-page-tag">
-        <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
-        Disclosure of Interests
-      </div>
-      <h1 class="di-page-title">Substantial Shareholder Filings</h1>
-      <p class="di-page-subtitle">Part XV SFO · ≥5% threshold · HKEX-listed companies · updated nightly</p>
-    </div>
+  <!-- ── DI sub-navigation ── -->
+  <div class="di-subnav">
     <div class="di-vtog">
-      <button class="di-vb on" data-tab="latest">📋 Latest Filings</button>
+      <button class="di-vb on" data-tab="home">🏠 Overview</button>
+      <button class="di-vb" data-tab="latest">📋 Latest</button>
       <button class="di-vb" data-tab="by-shareholder">👤 By Shareholder</button>
       <button class="di-vb" data-tab="compare">⚖ Compare</button>
     </div>
+    <div class="di-subnav-right" id="diSubnavRight" hidden>
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--tx3);flex-shrink:0">
+        <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
+      </svg>
+      <input id="latest-filter" type="search" class="di-subnav-input" placeholder="Filter by name, stock, or company…" autocomplete="off">
+    </div>
   </div>
 
-  <!-- ── TAB 1: LATEST ── -->
-  <section id="tab-latest" class="tab-panel active">
-
-    <!-- Prominent search bar -->
-    <div class="di-search-block">
-      <div class="di-search-card">
-        <div class="di-search-row">
-          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-            <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
-          </svg>
-          <input id="latest-filter" type="search" placeholder="Filter by shareholder name, stock code, or company…" class="di-search-input" autocomplete="off">
-        </div>
+  <!-- ── TAB: OVERVIEW / HOME ── -->
+  <section id="tab-home" class="tab-panel active">
+    <div class="di-home-hero">
+      <div class="di-page-tag">
+        <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
+        Disclosure of Interests · Part XV SFO · ≥5% threshold
       </div>
+      <h1 class="di-home-title">Substantial Shareholder Disclosures</h1>
+      <p class="di-home-subtitle">Under Part XV of the Securities and Futures Ordinance, investors crossing the 5% ownership threshold in any HKEX-listed company must file a disclosure. Circular tracks every filing — so you can see who owns what, and who is accumulating or selling down.</p>
+
+      <!-- Home search -->
+      <div class="di-home-search-block">
+        <div class="di-home-search-card">
+          <div class="di-home-search-row">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--tx3);flex-shrink:0">
+              <circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/>
+            </svg>
+            <input id="diHomeSearch" class="di-home-search-input" type="text" placeholder="Search shareholder name or stock code…" autocomplete="off">
+          </div>
+        </div>
+        <div class="di-home-search-results" id="diHomeSearchResults"></div>
+      </div>
+
+      <!-- Action cards -->
+      <div class="di-home-actions">
+        <button class="di-action-card" onclick="switchDITab('latest')">
+          <div class="di-action-icon">📋</div>
+          <div class="di-action-title">Explore Latest Filings</div>
+          <div class="di-action-desc">Browse the most recent substantial shareholder disclosures across all HKEX-listed companies, sorted by filing date.</div>
+        </button>
+        <button class="di-action-card" onclick="discoverShareholder('BlackRock')">
+          <div class="di-action-icon">🔍</div>
+          <div class="di-action-title">Discover BlackRock</div>
+          <div class="di-action-desc">BlackRock is one of the world's largest asset managers. Explore its substantial positions across HKEX-listed companies.</div>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── TAB: LATEST ── -->
+  <section id="tab-latest" class="tab-panel" hidden>
+    <div class="latest-meta-row">
       <div class="latest-meta" id="latest-meta"></div>
     </div>
 
@@ -70,7 +98,7 @@
     <div id="latest-empty" class="empty-state" hidden>No filings match your filter.</div>
   </section>
 
-  <!-- ── TAB 2: BY SHAREHOLDER ── -->
+  <!-- ── TAB: BY SHAREHOLDER ── -->
   <section id="tab-by-shareholder" class="tab-panel" hidden>
     <div class="search-row">
       <div class="search-input-wrap">
@@ -103,7 +131,7 @@
     <div id="sh-empty" class="empty-state">Search for a shareholder above to view their holdings.</div>
   </section>
 
-  <!-- ── TAB 3: COMPARE ── -->
+  <!-- ── TAB: COMPARE ── -->
   <section id="tab-compare" class="tab-panel" hidden>
     <div class="search-row">
       <div class="search-input-wrap">
