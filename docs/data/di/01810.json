@@ -1,18 +1,18 @@
 {
   "code": "01810",
   "name": "XIAOMI CORPORATION - W",
-  "last_scraped": "2026-05-19T23:04:48Z",
+  "last_scraped": "2026-05-20T23:11:42Z",
   "shareholders": [
     {
       "name": "Lei Jun",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 4023975813,
+      "long_position_shares": 4010935938,
       "long_position_pct": 90.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "Lin Bin",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 444081939,
+      "long_position_shares": 442642872,
       "long_position_pct": 9.94,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -163,17 +163,57 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1086543661,
+      "long_position_shares": 1086476703,
       "long_position_pct": 5.06,
       "short_position_shares": 22986800,
       "short_position_pct": 0.11,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 90.06,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Bin",
+      "long_position_pct": 8.83,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.06,

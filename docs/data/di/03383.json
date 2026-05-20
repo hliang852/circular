@@ -1,7 +1,7 @@
 {
   "code": "03383",
   "name": "AGILE GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-19T23:08:54Z",
+  "last_scraped": "2026-05-20T23:16:22Z",
   "shareholders": [
     {
       "name": "Luk Sin Fong, Fion",
@@ -20,26 +20,13 @@
       "name": "Chen Zhuo Lin",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2559474500,
-      "long_position_pct": 50.72,
+      "long_position_shares": 2558600500,
+      "long_position_pct": 50.71,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Lu Yanping",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 2460971250,
-      "long_position_pct": 48.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2023-08-15",
-      "filing_date": "2023-08-15",
-      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -59,13 +46,26 @@
       "name": "Chan Cheuk Hei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2422501250,
-      "long_position_pct": 48.01,
+      "long_position_shares": 2421627250,
+      "long_position_pct": 47.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lu Yanping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 2421627250,
+      "long_position_pct": 47.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -160,19 +160,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Chan Cheuk Nam",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 2421407750,
-      "long_position_pct": 47.99,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "Chan Siu Na",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -183,6 +170,19 @@
       "relevant_event_date": "2026-05-18",
       "filing_date": "2026-05-18",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Cheuk Nam",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 2420533750,
+      "long_position_pct": 47.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -213,6 +213,38 @@
     }
   ],
   "history": [
+    {
+      "name": "Chan Cheuk Hei",
+      "long_position_pct": 47.99,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Cheuk Nam",
+      "long_position_pct": 47.97,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Zhuo Lin",
+      "long_position_pct": 50.71,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lu Yanping",
+      "long_position_pct": 47.99,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Chan Cheuk Hei",
       "long_position_pct": 48.01,
@@ -268,6 +300,30 @@
       "filing_date": "2026-05-15",
       "form_type": "Form 3A",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Cheuk Hei",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Cheuk Nam",
+      "long_position_pct": 48.01,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Zhuo Lin",
+      "long_position_pct": 50.74,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
     },
     {
       "name": "Chan Cheuk Hei",

@@ -1,18 +1,18 @@
 {
   "code": "00679",
   "name": "ASIA TELE-NET AND TECHNOLOGY CORPORATION LTD.",
-  "last_scraped": "2026-05-19T23:00:32Z",
+  "last_scraped": "2026-05-20T23:09:34Z",
   "shareholders": [
     {
       "name": "Lam Kwok Hing",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 254241167,
-      "long_position_pct": 66.57,
+      "long_position_shares": 241441167,
+      "long_position_pct": 63.22,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -35,19 +35,6 @@
       "entity_type": "corporate",
       "long_position_shares": 201995834,
       "long_position_pct": 52.89,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-07-03",
-      "filing_date": "2025-07-03",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Medusa Group Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 48520666,
-      "long_position_pct": 12.7,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
       "relevant_event_date": "2025-07-03",
@@ -80,6 +67,19 @@
       "filing_date": "2026-05-19",
       "form_type": "Form 1",
       "notice_type": "Current"
+    },
+    {
+      "name": "Medusa Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 35720666,
+      "long_position_pct": 9.35,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -98,6 +98,22 @@
       "filing_date": "2026-05-19",
       "form_type": "Form 1",
       "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hing",
+      "long_position_pct": 63.22,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medusa Group Limited",
+      "long_position_pct": 9.35,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
     },
     {
       "name": "J&A Investment Limited",

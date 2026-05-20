@@ -1,0 +1,998 @@
+{
+  "code": "02621",
+  "name": "SHOUHUI GROUP LTD.",
+  "last_scraped": "2026-05-20T23:14:57Z",
+  "shareholders": [
+    {
+      "name": "Guang Yao",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 108662592,
+      "long_position_pct": 48.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Little Blue Light Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108652992,
+      "long_position_pct": 48.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Little Green Light Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108652992,
+      "long_position_pct": 48.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhang Guo",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 108652992,
+      "long_position_pct": 48.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tan Wenqing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Jingbo",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海诺亚投资管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "天津歌斐诺辰企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "歌斐资产管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "珠海君晨股权投资中心（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "珠海麒斐股权投资中心（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "芜湖览派投资中心（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "诺亚控股有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28411400,
+      "long_position_pct": 12.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Haoxin Management Consulting Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Kangde Equity Investment Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Kunde Investment Management Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Mingde Equity Investment Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Shengde Equity Investment Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing HongShan Yade Equity Investment Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing Yucheng Management Consulting Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hangzhou HongShan Peide Zhihui Equity Investment Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ningbo Meishan Bonded Port Area HongShan Huide Investment Management Partnership (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Huanyuan Investment Management Co., Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Kui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海景穆企业管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海景穆投资管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海钛铭资产管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "周毅",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "芜湖俊成投资中心（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "谭文虹",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 26354400,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Han Jie",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 20184600,
+      "long_position_pct": 8.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hu Xiaona",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 20184600,
+      "long_position_pct": 8.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廣州景柔科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 20184600,
+      "long_position_pct": 8.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "西藏聚智健康科技有限公司(前稱西藏聚智創業投資有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 20184600,
+      "long_position_pct": 8.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Convolution Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16522800,
+      "long_position_pct": 7.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "liu pu",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 16522800,
+      "long_position_pct": 7.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MallocLuke Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16522800,
+      "long_position_pct": 7.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "韩立炜",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 16522800,
+      "long_position_pct": 7.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "嘉兴极地信天壹期投资合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 13526600,
+      "long_position_pct": 5.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 12446600,
+      "long_position_pct": 5.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 11446600,
+      "long_position_pct": 5.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 5.51,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guang Yao",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guang Yao",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little Blue Light Ltd",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little Green Light Ltd",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Guo",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guang Yao",
+      "long_position_pct": 47.98,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guang Yao",
+      "long_position_pct": 47.97,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guang Yao",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Han Jie",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Xiaona",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Kaijing",
+      "long_position_pct": 2.88,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天士力大健康產業投資集團有限公司",
+      "long_position_pct": 2.88,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天士力生物醫藥產業集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廣州景柔科技有限公司",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "西藏聚智健康科技有限公司(前稱西藏聚智創業投資有限公司)",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "嘉兴极地信天壹期投资合伙企业（有限合伙）",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing HongShan Haoxin Management Consulting Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing HongShan Kangde Equity Investment Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing HongShan Kunde Investment Management Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing HongShan Mingde Equity Investment Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing HongShan Shengde Equity Investment Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing HongShan Yade Equity Investment Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Yucheng Management Consulting Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Convolution Ltd",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hangzhou HongShan Peide Zhihui Equity Investment Center (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little Blue Light Ltd",
+      "long_position_pct": 47.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little Green Light Ltd",
+      "long_position_pct": 47.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "liu pu",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MallocLuke Ltd",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ningbo Meishan Bonded Port Area HongShan Huide Investment Management Partnership (Limited Partnership)",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Huanyuan Investment Management Co., Ltd",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Wenqing",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jingbo",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Kaijing",
+      "long_position_pct": 11.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhang guo",
+      "long_position_pct": 47.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Kui",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海景穆企业管理有限公司",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海景穆投资管理有限公司",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海诺亚投资管理有限公司",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海钛铭资产管理有限公司",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "光耀",
+      "long_position_pct": 47.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "周毅",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "嘉兴极地信天壹期投资合伙企业（有限合伙）",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天士力大健康產業投資集團有限公司",
+      "long_position_pct": 11.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天士力生物醫藥產業集團有限公司",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津歌斐诺辰企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "歌斐资产管理有限公司",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "珠海君晨股权投资中心（有限合伙）",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "珠海麒斐股权投资中心（有限合伙）",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "芜湖俊成投资中心（有限合伙）",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "芜湖览派投资中心（有限合伙）",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "西藏聚智創業投資有限公司",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "诺亚控股有限公司",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "谭文虹",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "韩立炜",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

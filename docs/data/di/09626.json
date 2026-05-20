@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-19T23:12:21Z",
+  "last_scraped": "2026-05-20T23:19:02Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -59,12 +59,12 @@
       "name": "Tencent Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 43749518,
-      "long_position_pct": 12.96,
+      "long_position_shares": 40430138,
+      "long_position_pct": 11.71,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2023-12-07",
-      "filing_date": "2023-12-07",
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 20073133,
-      "long_position_pct": 5.81,
-      "short_position_shares": 13711314,
-      "short_position_pct": 3.97,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "long_position_shares": 20177536,
+      "long_position_pct": 5.84,
+      "short_position_shares": 14130521,
+      "short_position_pct": 4.09,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -135,6 +135,30 @@
     }
   ],
   "history": [
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 11.71,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.81,

@@ -1,0 +1,737 @@
+{
+  "code": "06090",
+  "name": "BUTONG GROUP",
+  "last_scraped": "2026-05-20T23:17:02Z",
+  "shareholders": [
+    {
+      "name": "WANG Wei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 46356102,
+      "long_position_pct": 51.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Boyan Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45106820,
+      "long_position_pct": 49.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WANGBOYAN HOLDING INC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45106820,
+      "long_position_pct": 49.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WWANG HOLDING INC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45106820,
+      "long_position_pct": 49.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44640920,
+      "long_position_pct": 49.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tian Tu Capital Co., Ltd. (深圳市天圖投資管理股份有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7374400,
+      "long_position_pct": 8.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiantu Investments International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7374400,
+      "long_position_pct": 8.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Yonghua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 7374400,
+      "long_position_pct": 8.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tian Tu Capital Co., Ltd. (深圳市天圖投資管理股份有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7191300,
+      "long_position_pct": 7.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiantu GP Limited Company",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7191300,
+      "long_position_pct": 7.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiantu VC USD Fund I L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7191300,
+      "long_position_pct": 7.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Yonghua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 7191300,
+      "long_position_pct": 7.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SHEN Ling",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 5400000,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SHENLING HOLDING INC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5400000,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SL Family Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5400000,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SLING HOLDING INC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5400000,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tembusu B Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Huadong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xiao Ping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京經緯億創投資管理合夥企業(有限合夥)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京經緯創榮投資中心(有限合夥)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京經緯旌創投資有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5236340,
+      "long_position_pct": 5.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BUTONG ESOP LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4575638,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4575638,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Boyan Holdings Limited",
+      "long_position_pct": 49.7,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 49.19,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANG Wei",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANGBOYAN HOLDING INC",
+      "long_position_pct": 49.7,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WWANG HOLDING INC",
+      "long_position_pct": 49.7,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Butong ESOP Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEILING HOLDING INC",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tembusu B Limited",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Huadong",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xiao Ping",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯億創投資管理合夥企業(有限合夥)",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯創榮投資中心(有限合夥)",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯旌創投資有限公司",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gaorong Partners Fund IV, L.P.",
+      "long_position_pct": 4.29,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaorong Partners IV Ltd.",
+      "long_position_pct": 4.76,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaorong Partners IV Ltd.",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gaorong Partners Fund IV, L.P.",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gaorong Partners IV Ltd.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Boyan Holdings Limited",
+      "long_position_pct": 53.01,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANGBOYAN HOLDING INC",
+      "long_position_pct": 53.01,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WWANG HOLDING INC",
+      "long_position_pct": 53.01,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tian Tu Capital Co., Ltd. (深圳市天圖投資管理股份有限公司)",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiantu GP Limited Company",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiantu VC USD Fund I L.P.",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANG Wei",
+      "long_position_pct": 54.22,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Boyan Holdings Limited",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BUTONG ESOP LIMITED",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaorong Partners Fund IV, L.P.",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaorong Partners IV Ltd.",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Ling",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHENLING HOLDING INC",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SL Family Limited",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SLING HOLDING INC",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tembusu B Limited",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tian Tu Capital Co., Ltd. (深圳市天圖投資管理股份有限公司)",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiantu GP Limited Company",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiantu Investments International Limited",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiantu VC USD Fund I L.P.",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 58.45,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Huadong",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Wei",
+      "long_position_pct": 53.87,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANGBOYAN HOLDING INC",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEILING HOLDING INC",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WWANG HOLDING INC",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiao Ping",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京經緯億創投資管理合夥企業(有限合夥)",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京經緯創榮投資中心(有限合夥)",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京經緯旌創投資有限公司",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

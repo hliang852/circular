@@ -1,18 +1,18 @@
 {
   "code": "02567",
   "name": "QINIU LTD.",
-  "last_scraped": "2026-05-19T23:07:30Z",
+  "last_scraped": "2026-05-20T23:14:27Z",
   "shareholders": [
     {
       "name": "Xu Shiwei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1051132873,
-      "long_position_pct": 52.46,
+      "long_position_shares": 1055342973,
+      "long_position_pct": 52.67,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Zhou Pei",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1051132873,
-      "long_position_pct": 52.46,
+      "long_position_shares": 1055342973,
+      "long_position_pct": 52.67,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Dream Galaxy Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1042232873,
-      "long_position_pct": 52.02,
+      "long_position_shares": 1046442973,
+      "long_position_pct": 52.23,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -311,6 +311,30 @@
       "notice_type": "Increase"
     },
     {
+      "name": "Dream Galaxy Holdings Limited",
+      "long_position_pct": 52.23,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Shiwei",
+      "long_position_pct": 52.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Pei",
+      "long_position_pct": 52.67,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
       "name": "MPC GPGP II Ltd.",
       "long_position_pct": 6.85,
       "relevant_event_date": "2026-05-11",
@@ -355,6 +379,30 @@
       "long_position_pct": 52.46,
       "relevant_event_date": "2026-05-11",
       "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream Galaxy Holdings Limited",
+      "long_position_pct": 52.46,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Shiwei",
+      "long_position_pct": 52.9,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Pei",
+      "long_position_pct": 52.9,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-20",
       "form_type": "Form 1",
       "notice_type": "Change"
     },

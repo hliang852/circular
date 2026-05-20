@@ -1,18 +1,18 @@
 {
   "code": "09939",
   "name": "KINTOR PHARMACEUTICAL LTD. - B",
-  "last_scraped": "2026-05-19T23:13:20Z",
+  "last_scraped": "2026-05-20T23:19:54Z",
   "shareholders": [
     {
       "name": "Tong Youzhi",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 56912770,
-      "long_position_pct": 11.41,
+      "long_position_shares": 56982770,
+      "long_position_pct": 11.43,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "KT International Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 54412770,
-      "long_position_pct": 10.91,
+      "long_position_shares": 54482770,
+      "long_position_pct": 10.93,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,22 @@
     }
   ],
   "history": [
+    {
+      "name": "KT International Investment Limited",
+      "long_position_pct": 10.93,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Youzhi",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "KT International Investment Limited",
       "long_position_pct": 10.91,

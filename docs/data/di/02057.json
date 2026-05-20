@@ -1,0 +1,1044 @@
+{
+  "code": "02057",
+  "name": "ZTO EXPRESS (CAYMAN) INC. - W",
+  "last_scraped": "2026-05-20T23:12:43Z",
+  "shareholders": [
+    {
+      "name": "LMS Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 206100000,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zto Lms Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 206100000,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 116146241,
+      "long_position_pct": 19.41,
+      "short_position_shares": 5000000,
+      "short_position_pct": 0.84,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 116146241,
+      "long_position_pct": 19.41,
+      "short_position_shares": 5000000,
+      "short_position_pct": 0.84,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 71941287,
+      "long_position_pct": 12.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Jianfa",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 64252639,
+      "long_position_pct": 10.73,
+      "short_position_shares": 5000000,
+      "short_position_pct": 0.83,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LJFA Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 64219041,
+      "long_position_pct": 10.73,
+      "short_position_shares": 5000000,
+      "short_position_pct": 0.83,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zto Ljf Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 64219041,
+      "long_position_pct": 10.73,
+      "short_position_shares": 5000000,
+      "short_position_pct": 0.83,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Alibaba ZT Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 57870370,
+      "long_position_pct": 10.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 61192420,
+      "long_position_pct": 10.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Taobao Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 61192420,
+      "long_position_pct": 10.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Jilei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 42257711,
+      "long_position_pct": 7.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 40891906,
+      "long_position_pct": 7.25,
+      "short_position_shares": 21679350,
+      "short_position_pct": 3.84,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WJL Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 42088065,
+      "long_position_pct": 7.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zto Wjl Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 42088065,
+      "long_position_pct": 7.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.25,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.1,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.38,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.39,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.29,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.23,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jilei",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2026-03-23",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba ZT Investment Limited",
+      "long_position_pct": 10.26,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2026-02-18",
+      "filing_date": "2026-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2026-02-17",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.25,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Jianfa",
+      "long_position_pct": 10.73,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LJFA Holding Limited",
+      "long_position_pct": 10.73,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Ljf Holding Limited",
+      "long_position_pct": 10.73,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jilei",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "long_position_pct": 12.02,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WJL Holding Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Wjl Holding Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2024-08-13",
+      "filing_date": "2024-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2024-07-22",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.75,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.47,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.47,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jilei",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WJL Holding Limited",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Wjl Holding Limited",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2024-03-20",
+      "filing_date": "2024-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Invesco Developing Markets Fund",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2024-03-13",
+      "filing_date": "2024-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2024-03-06",
+      "filing_date": "2024-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-01-29",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2023-12-27",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2023-12-15",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Invesco Developing Markets Fund",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2023-12-05",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-11-24",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.68,
+      "relevant_event_date": "2023-10-12",
+      "filing_date": "2023-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2023-10-11",
+      "filing_date": "2023-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2023-10-10",
+      "filing_date": "2023-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.72,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Jilei",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WJL Holding Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zto Wjl Holding Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.61,
+      "relevant_event_date": "2023-06-26",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Jianfa",
+      "long_position_pct": 10.84,
+      "relevant_event_date": "2023-06-08",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LJFA Holding Limited",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2023-06-08",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-06-08",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-06-08",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Ljf Holding Limited",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2023-06-08",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Alibaba ZT Investment Limited",
+      "long_position_pct": 9.47,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Developing Markets Fund",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Jianfa",
+      "long_position_pct": 10.84,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Meisong",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LJFA Holding Limited",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LMS Holding Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SCTS Capital Pte. Ltd.",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered Trust (Singapore) Limited",
+      "long_position_pct": 19.41,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Taobao Holding Limited",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jilei",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WJL Holding Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Ljf Holding Limited",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Lms Holding Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zto Wjl Holding Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Developing Markets Fund",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2021-05-07",
+      "filing_date": "2021-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2021-04-29",
+      "filing_date": "2021-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Invesco Advisers, Inc.",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2020-09-29",
+      "filing_date": "2020-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Invesco Developing Markets Fund",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2020-09-29",
+      "filing_date": "2020-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

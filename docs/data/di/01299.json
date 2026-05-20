@@ -1,7 +1,7 @@
 {
   "code": "01299",
   "name": "AIA GROUP LTD.",
-  "last_scraped": "2026-05-19T23:02:45Z",
+  "last_scraped": "2026-05-20T23:10:54Z",
   "shareholders": [
     {
       "name": "The Bank of New York Mellon Corporation",
@@ -20,12 +20,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 733736673,
-      "long_position_pct": 7.02,
+      "long_position_shares": 736531046,
+      "long_position_pct": 7.05,
       "short_position_shares": 2179400,
       "short_position_pct": 0.02,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -44,6 +44,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.02,

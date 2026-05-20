@@ -1,7 +1,7 @@
 {
   "code": "00268",
   "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP CO. LTD.",
-  "last_scraped": "2026-05-19T22:59:33Z",
+  "last_scraped": "2026-05-20T23:08:55Z",
   "shareholders": [
     {
       "name": "XU SHAOCHUN",
@@ -56,6 +56,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 215247755,
+      "long_position_pct": 6.06,
+      "short_position_shares": 4232000,
+      "short_position_pct": 0.12,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -80,22 +93,17 @@
       "filing_date": "2026-04-08",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 210428675,
-      "long_position_pct": 5.93,
-      "short_position_shares": 4232000,
-      "short_position_pct": 0.12,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.93,

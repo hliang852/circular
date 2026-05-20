@@ -1,0 +1,781 @@
+{
+  "code": "00485",
+  "name": "CHINA SINOSTAR GROUP CO. LTD.",
+  "last_scraped": "2026-05-20T23:09:09Z",
+  "shareholders": [
+    {
+      "name": "CHINA HUARONG INTERNATIONAL HOLDINGS LTD",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2917914246,
+      "long_position_pct": 73.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lushan Investment Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2917914246,
+      "long_position_pct": 73.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2917914246,
+      "long_position_pct": 73.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Xing Qiao",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 146059461,
+      "long_position_pct": 57.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 145895711,
+      "long_position_pct": 57.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 108591364,
+      "long_position_pct": 51.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Asian-American Trade & Investment Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108591364,
+      "long_position_pct": 42.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hong Kong Huang Zi Shan Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108591364,
+      "long_position_pct": 42.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZOU De Ben Benjamin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 108591364,
+      "long_position_pct": 42.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "遼寧皇子山溫泉度假城開發有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108591364,
+      "long_position_pct": 42.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Harvest Fortune Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 30000000,
+      "long_position_pct": 11.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liu Ning",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 30000000,
+      "long_position_pct": 11.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Harvest Fortune Investment Limited",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Ning",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asian-American Trade & Investment Corporation",
+      "long_position_pct": 42.61,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Harvest Fortune Investment Limited",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Huang Zi Shan Limited",
+      "long_position_pct": 42.61,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Ning",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Xing Qiao",
+      "long_position_pct": 57.31,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZOU De Ben Benjamin",
+      "long_position_pct": 42.61,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧皇子山溫泉度假城開發有限公司",
+      "long_position_pct": 42.61,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Xing Qiao",
+      "long_position_pct": 68.63,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asian-American Trade & Investment Corporation",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hong Kong Huang Zi Shan Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZOU De Ben Benjamin",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 68.55,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧皇子山溫泉度假城開發有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Asian-American Trade & Investment Corporation",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asian-American Trade & Investment Corporation",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Dandan",
+      "long_position_pct": 0.42,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZOU De Ben Benjamin",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZOU De Ben Benjamin",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zou Xinyu",
+      "long_position_pct": 0.42,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHAN MAN HOI (in the capacity as the Receiver)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2024-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai KAR YAN (in the capacity as the Receiver)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2024-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Huang Zi Shan Limited",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Huang Zi Shan Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lushan Investment Holding Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Dandan",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zou Xinyu",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧皇子山溫泉度假城開發有限公司",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧皇子山溫泉度假城開發有限公司",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lushan Investment Holding Limited",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lushan Investment Holding Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Dandan",
+      "long_position_pct": 51.44,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zou Xinyu",
+      "long_position_pct": 51.44,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN MAN HOI (in the capacity as the Receiver)",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai KAR YAN (in the capacity as the Receiver)",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Xue Feng",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Xue Feng",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2020-09-17",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Xue Feng",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 51.02,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Achieve Prosper Capital Limited",
+      "long_position_pct": 54.61,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHINA HUARONG INTERNATIONAL HOLDINGS LTD",
+      "long_position_pct": 73.37,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Shihua Holdings Limited",
+      "long_position_pct": 54.61,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Bao Qin",
+      "long_position_pct": 54.61,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lushan Investment Holding Limited",
+      "long_position_pct": 73.37,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jing",
+      "long_position_pct": 54.61,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 73.37,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "遼寧實華(集團)房地產開發有限公司",
+      "long_position_pct": 54.61,
+      "relevant_event_date": "2017-09-20",
+      "filing_date": "2017-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

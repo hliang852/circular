@@ -1,7 +1,7 @@
 {
   "code": "02668",
   "name": "PAK TAK INTERNATIONAL LTD.",
-  "last_scraped": "2026-05-19T23:08:12Z",
+  "last_scraped": "2026-05-20T23:15:16Z",
   "shareholders": [
     {
       "name": "SHI Andong",
@@ -173,6 +173,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Han Weining",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 433130000,
+      "long_position_pct": 7.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "HONG KONG ABLE TRILLION GROUP LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -209,6 +222,14 @@
       "relevant_event_date": "2026-04-28",
       "filing_date": "2026-05-19",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Han Weining",
+      "long_position_pct": 7.69,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {
