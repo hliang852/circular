@@ -1,0 +1,804 @@
+{
+  "code": "03919",
+  "name": "GOLDEN POWER GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-05-21T23:07:31Z",
+  "shareholders": [
+    {
+      "name": "Chu King Tien",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 13657500,
+      "long_position_pct": 42.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 13657500,
+      "long_position_pct": 42.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 13657500,
+      "long_position_pct": 42.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "KO KIN HANG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 6480000,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lofty Islet Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5400000,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yang Haobo",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 5400000,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1828000,
+      "long_position_pct": 5.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "KO KIN HANG",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 42.15,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 42.15,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lofty Islet Holding Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 42.15,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Haobo",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-08",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-08",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2025-05-08",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 50.57,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 50.57,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 50.57,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 56.5,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 12.94,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 44.39,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 56.5,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KWAI WAH",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2023-04-24",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KWAI WAH",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2023-04-14",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KWAI WAH",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2023-04-12",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KWAI WAH",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2023-03-20",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 84.75,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 19.0,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 66.58,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 84.75,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 18.17,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 56.5,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 44.38,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 56.5,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 43.88,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 42.88,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 54.0,
+      "relevant_event_date": "2021-08-23",
+      "filing_date": "2021-08-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 41.89,
+      "relevant_event_date": "2021-08-23",
+      "filing_date": "2021-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 54.0,
+      "relevant_event_date": "2021-08-23",
+      "filing_date": "2021-08-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 12.94,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 38.89,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Triumph Treasure Holdings Limited",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 76.5,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 76.5,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 58.33,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2020-08-27",
+      "filing_date": "2020-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2020-08-27",
+      "filing_date": "2020-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2020-08-27",
+      "filing_date": "2020-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-08-26",
+      "filing_date": "2020-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-08-26",
+      "filing_date": "2020-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 57.38,
+      "relevant_event_date": "2020-08-26",
+      "filing_date": "2020-08-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2020-08-25",
+      "filing_date": "2020-08-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2020-08-25",
+      "filing_date": "2020-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2020-08-25",
+      "filing_date": "2020-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 56.62,
+      "relevant_event_date": "2020-08-24",
+      "filing_date": "2020-08-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 56.62,
+      "relevant_event_date": "2020-08-24",
+      "filing_date": "2020-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 56.62,
+      "relevant_event_date": "2020-08-24",
+      "filing_date": "2020-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 56.38,
+      "relevant_event_date": "2020-08-21",
+      "filing_date": "2020-08-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 56.38,
+      "relevant_event_date": "2020-08-21",
+      "filing_date": "2020-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 56.38,
+      "relevant_event_date": "2020-08-21",
+      "filing_date": "2020-08-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2018-11-22",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 54.27,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 54.27,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 54.27,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHU KING TIEN",
+      "long_position_pct": 53.76,
+      "relevant_event_date": "2018-11-19",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 53.76,
+      "relevant_event_date": "2018-11-19",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

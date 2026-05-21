@@ -1,0 +1,564 @@
+{
+  "code": "08637",
+  "name": "METASURFACE TECHNOLOGIES HOLDINGS LTD.",
+  "last_scraped": "2026-05-21T23:08:57Z",
+  "shareholders": [
+    {
+      "name": "Chua Chwee Lee",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 77275814,
+      "long_position_pct": 51.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 77275814,
+      "long_position_pct": 51.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 55120335,
+      "long_position_pct": 36.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baccini Capital Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21123479,
+      "long_position_pct": 14.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 11479000,
+      "long_position_pct": 7.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Soh Cheng Joo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 9905369,
+      "long_position_pct": 6.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 9825000,
+      "long_position_pct": 6.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 7.65,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baccini Capital Holdings Limited",
+      "long_position_pct": 14.08,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 51.52,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 52.35,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 53.18,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 51.52,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 52.35,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 53.18,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "long_position_pct": 36.75,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Soh Cheng Joo",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 53.17,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 53.17,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "long_position_pct": 37.57,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 53.15,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 53.15,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "long_position_pct": 37.55,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Angelling Capital Holdings Limited",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Thng Chong Kim",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angelling Capital Holdings Limited",
+      "long_position_pct": 6.23,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Thng Chong Kim",
+      "long_position_pct": 6.23,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angelling Capital Holdings Limited",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angelling Capital Holdings Limited",
+      "long_position_pct": 6.23,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Thng Chong Kim",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Thng Chong Kim",
+      "long_position_pct": 6.23,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baccini Capital Holdings Limited",
+      "long_position_pct": 14.92,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "long_position_pct": 37.51,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pang Chen May",
+      "long_position_pct": 3.27,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Soh Cheng Joo",
+      "long_position_pct": 3.27,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 56.29,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 56.29,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 56.25,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 56.25,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 56.15,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 56.15,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 56.05,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 56.05,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 55.99,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 55.99,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 55.82,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 55.82,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 55.76,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 55.76,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Angelling Capital Holdings Limited",
+      "long_position_pct": 8.2,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baccini Capital Holdings Limited",
+      "long_position_pct": 16.5,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chua Chwee Lee",
+      "long_position_pct": 55.6,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jee Wee Jene",
+      "long_position_pct": 55.6,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pang Chen May",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SGP Capital Holdings Limited",
+      "long_position_pct": 39.1,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Soh Cheng Joo",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Thng Chong Kim",
+      "long_position_pct": 8.2,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

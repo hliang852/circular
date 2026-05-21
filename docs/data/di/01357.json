@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-20T23:11:04Z",
+  "last_scraped": "2026-05-21T23:02:21Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -111,12 +111,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 274939158,
-      "long_position_pct": 5.99,
-      "short_position_shares": 93290275,
-      "short_position_pct": 2.03,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "long_position_shares": 275534790,
+      "long_position_pct": 6.0,
+      "short_position_shares": 103403553,
+      "short_position_pct": 2.25,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -150,17 +150,33 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 246681144,
-      "long_position_pct": 5.38,
-      "short_position_shares": 9220000,
-      "short_position_pct": 0.2,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "long_position_shares": 237824986,
+      "long_position_pct": 5.19,
+      "short_position_shares": 8615500,
+      "short_position_pct": 0.19,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.99,

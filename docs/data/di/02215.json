@@ -1,0 +1,532 @@
+{
+  "code": "02215",
+  "name": "DEXIN SERVICES GROUP LTD.",
+  "last_scraped": "2026-05-21T23:04:58Z",
+  "shareholders": [
+    {
+      "name": "Shengfu International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 529202279,
+      "long_position_pct": 57.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Smith Philip John",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 529202279,
+      "long_position_pct": 57.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wong Wing Sze Tiffany",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 529202279,
+      "long_position_pct": 57.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105066111,
+      "long_position_pct": 11.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HONG KONG MEI LUN INT'L CO., LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53418803,
+      "long_position_pct": 5.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jin Liang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 53418803,
+      "long_position_pct": 5.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shen Yuehua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 53418803,
+      "long_position_pct": 5.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HU Yiping",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smith Philip John",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Peifen",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Wing Sze Tiffany",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU Yiping",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 11.45,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guotai Junan Securities Co., Ltd.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HuaAn Fund Management Co., Ltd representing HUAAN-HMTZ-QDII-SINGLE ASSET MANAGEMENT PLAN and HUAAN-RY-QDII-SINGLE ASSET MANAGEMENT PLAN",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guotai Junan Securities Co., Ltd.",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2024-04-05",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HuaAn Fund Management Co., Ltd representing HUAAN-HMTZ-QDII-SINGLE ASSET MANAGEMENT PLAN and HUAAN-RY-QDII-SINGLE ASSET MANAGEMENT PLAN",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2024-04-05",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 56.46,
+      "relevant_event_date": "2023-08-17",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2023-08-17",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 56.46,
+      "relevant_event_date": "2023-08-17",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 56.46,
+      "relevant_event_date": "2023-08-17",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2023-07-14",
+      "filing_date": "2023-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 54.06,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HONG KONG MEI LUN INT'L CO., LIMITED",
+      "long_position_pct": 5.4,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Liang",
+      "long_position_pct": 5.4,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 13.1,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Yuehua",
+      "long_position_pct": 5.4,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "华安基金管理有限公司代表华安基金-华媒投资QDII、华安基金-南都物业QDII、华安基金-瑞扬QDII等资产管理计划",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2022-07-21",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "华安基金管理有限公司代表华安基金-华媒投资QDII、华安基金-南都物业QDII、华安基金-瑞扬QDII等资产管理计划",
+      "long_position_pct": 7.39,
+      "relevant_event_date": "2022-03-29",
+      "filing_date": "2022-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "华安基金管理有限公司代表华安基金-华媒投资QDII、华安基金-南都物业QDII、华安基金-瑞扬QDII等资产管理计划",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HONG KONG MEI LUN INT'L CO., LIMITED",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Liang",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 12.75,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Yuehua",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2021-08-11",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 3.62,
+      "relevant_event_date": "2021-08-07",
+      "filing_date": "2021-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 3.62,
+      "relevant_event_date": "2021-08-07",
+      "filing_date": "2021-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2021-08-06",
+      "filing_date": "2021-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2021-08-06",
+      "filing_date": "2021-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HONG KONG MEI LUN INT'L CO., LIMITED",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Yiping",
+      "long_position_pct": 52.92,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Liang",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Yuehua",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shengfu International Limited",
+      "long_position_pct": 52.92,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wei Peifen",
+      "long_position_pct": 52.92,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "code": "01364",
   "name": "GUMING HOLDINGS LTD.",
-  "last_scraped": "2026-05-19T23:03:08Z",
+  "last_scraped": "2026-05-21T23:02:33Z",
   "shareholders": [
     {
       "name": "Pan Pingping",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1776958122,
+      "long_position_shares": 1776938622,
       "long_position_pct": 74.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -20,7 +20,7 @@
       "name": "Qi Xia",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776958122,
+      "long_position_shares": 1776938622,
       "long_position_pct": 74.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -33,7 +33,7 @@
       "name": "Ruan Xiudi",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776958122,
+      "long_position_shares": 1776938622,
       "long_position_pct": 74.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -46,7 +46,7 @@
       "name": "Wang Yunan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776958122,
+      "long_position_shares": 1776938622,
       "long_position_pct": 74.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -257,6 +257,38 @@
       "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Change"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
     },
     {
       "name": "Pan Pingping",

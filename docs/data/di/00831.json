@@ -1,7 +1,7 @@
 {
   "code": "00831",
   "name": "CONVENIENCE RETAIL ASIA LTD.",
-  "last_scraped": "2026-05-20T23:09:52Z",
+  "last_scraped": "2026-05-21T23:00:44Z",
   "shareholders": [
     {
       "name": "Fung Kwok Lun William",
@@ -43,6 +43,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "HSBC Trustee (C.I.) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 311792000,
+      "long_position_pct": 39.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "King Lun Holdings Limited 經綸控股有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -70,6 +83,14 @@
       "long_position_pct": 39.86,
       "relevant_event_date": "2026-05-15",
       "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Trustee (C.I.) Limited",
+      "long_position_pct": 39.86,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

@@ -1,7 +1,7 @@
 {
   "code": "02621",
   "name": "SHOUHUI GROUP LTD.",
-  "last_scraped": "2026-05-20T23:14:57Z",
+  "last_scraped": "2026-05-21T23:06:20Z",
   "shareholders": [
     {
       "name": "Guang Yao",
@@ -498,19 +498,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "嘉兴极地信天壹期投资合伙企业（有限合伙）",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 13526600,
-      "long_position_pct": 5.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-02",
-      "filing_date": "2025-12-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "RAYS Capital Partners Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -553,6 +540,14 @@
       "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "嘉兴极地信天壹期投资合伙企业（有限合伙）",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
     },
     {
       "name": "Guang Yao",

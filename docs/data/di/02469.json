@@ -1,0 +1,1815 @@
+{
+  "code": "02469",
+  "name": "FENBI LTD.",
+  "last_scraped": "2026-05-21T23:05:31Z",
+  "shareholders": [
+    {
+      "name": "LI Yong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 553591000,
+      "long_position_pct": 24.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WEI Liang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 553591000,
+      "long_position_pct": 24.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 553591000,
+      "long_position_pct": 24.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WEI Liang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 293855000,
+      "long_position_pct": 13.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 293855000,
+      "long_position_pct": 13.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 285365000,
+      "long_position_pct": 12.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI Yong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 259736000,
+      "long_position_pct": 11.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liang Ma Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 259736000,
+      "long_position_pct": 11.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 212200000,
+      "long_position_pct": 9.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 212200000,
+      "long_position_pct": 9.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tencent Mobility Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 178736000,
+      "long_position_pct": 8.52,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ark Trust (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 161600169,
+      "long_position_pct": 7.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-04",
+      "filing_date": "2025-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 117674000,
+      "long_position_pct": 5.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-01-25",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 114086620,
+      "long_position_pct": 5.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "LI Yong",
+      "long_position_pct": 11.6,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 13.12,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 13.12,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ark Trust (Hong Kong) Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-12-04",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.71,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.71,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.71,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 4.34,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2025-07-16",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.67,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.67,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.67,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 5.29,
+      "relevant_event_date": "2025-05-16",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2025-05-16",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2025-05-16",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2025-05-16",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 10.82,
+      "relevant_event_date": "2025-02-13",
+      "filing_date": "2025-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 29.99,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 29.99,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 29.99,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 29.99,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 30.03,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 30.03,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 30.03,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 30.03,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 30.07,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 30.07,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 12.8,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 30.07,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 30.07,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 30.81,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 30.83,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 30.81,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 30.83,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 30.81,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 30.83,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 30.81,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 30.83,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2024-11-11",
+      "filing_date": "2025-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 30.75,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 30.75,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 13.5,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 30.75,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 30.75,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 32.54,
+      "relevant_event_date": "2024-08-26",
+      "filing_date": "2024-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 32.54,
+      "relevant_event_date": "2024-08-26",
+      "filing_date": "2024-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 32.54,
+      "relevant_event_date": "2024-08-26",
+      "filing_date": "2024-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 32.54,
+      "relevant_event_date": "2024-08-26",
+      "filing_date": "2024-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 13.11,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 14.93,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-19",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.74,
+      "relevant_event_date": "2024-07-10",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.46,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.46,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 14.94,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.46,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.46,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China II GP GP, Ltd.",
+      "long_position_pct": 4.39,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matrix China Management II, L.P.",
+      "long_position_pct": 4.39,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2024-01-25",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.52,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 14.94,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2024-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III Associates L.P.",
+      "long_position_pct": 4.77,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III L.P.",
+      "long_position_pct": 4.77,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 31.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 32.26,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 32.26,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 32.26,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 32.26,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 32.26,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 33.13,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 33.13,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 33.13,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 33.13,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 7.93,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matrix Partners China II, L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China II GP GP, Ltd.",
+      "long_position_pct": 5.59,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matrix China Management II, L.P.",
+      "long_position_pct": 5.59,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 1.28,
+      "relevant_event_date": "2023-09-22",
+      "filing_date": "2023-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III Associates L.P.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III L.P.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2023-08-16",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2023-08-11",
+      "filing_date": "2023-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 0.03,
+      "relevant_event_date": "2023-08-08",
+      "filing_date": "2023-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2023-08-02",
+      "filing_date": "2023-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2023-08-01",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.95,
+      "relevant_event_date": "2023-07-03",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund IV, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-06-26",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-06-26",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 2.44,
+      "relevant_event_date": "2023-06-19",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARK Trust (Hong Kong) Limited",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 11.41,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 33.79,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 33.79,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liang Ma Limited",
+      "long_position_pct": 11.53,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China II GP GP, Ltd.",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China Management II, L.P.",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix Partners China II, L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 13.97,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 11.41,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 13.02,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 33.79,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 33.79,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 8.8,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 15.01,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 15.01,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chalk Sky Ltd",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund IV, L.P.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 10.68,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund GP III Associates Ltd.",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III Associates L.P",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG-Accel China Growth Fund III L.P.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Xin",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Yong",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liang Ma Limited",
+      "long_position_pct": 12.38,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China II GP GP, Ltd.",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix China Management II, L.P.",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matrix Partners China II, L.P.",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocorian Singapore Trust Company Pte. Ltd.",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sonata (BVI) Limited",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 14.0,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Mobility Limited",
+      "long_position_pct": 8.52,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Liang",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Xiaolong",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 9.46,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

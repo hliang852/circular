@@ -1,7 +1,7 @@
 {
   "code": "01952",
   "name": "EVEREST MEDICINES LTD.",
-  "last_scraped": "2026-05-20T23:12:27Z",
+  "last_scraped": "2026-05-21T23:03:44Z",
   "shareholders": [
     {
       "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
@@ -236,9 +236,30 @@
       "filing_date": "2025-08-01",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Nomura Holdings, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17895000,
+      "long_position_pct": 5.06,
+      "short_position_shares": 12000,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Nomura Holdings, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FU WEI",
       "long_position_pct": 24.52,

@@ -1,7 +1,7 @@
 {
   "code": "02473",
   "name": "XXF GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-18T23:02:27Z",
+  "last_scraped": "2026-05-21T23:05:38Z",
   "shareholders": [
     {
       "name": "Ideal Stand Ventures Management Limited",
@@ -108,6 +108,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Barclays PLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 133914000,
+      "long_position_pct": 7.87,
+      "short_position_shares": 21629000,
+      "short_position_pct": 1.27,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Ma YuTao",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -122,6 +135,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Barclays PLC",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Glorypearl Capital Resources Company Limited",
       "long_position_pct": 2.11,

@@ -1,0 +1,656 @@
+{
+  "code": "01519",
+  "name": "J&T GLOBAL EXPRESS LTD. - W",
+  "last_scraped": "2026-05-21T23:03:01Z",
+  "shareholders": [
+    {
+      "name": "Exceeding Summit Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 978273297,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jumping Summit Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 978273297,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Topping Summit Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 978273297,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 978273297,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Jie",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 971390048,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Wei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 984663763,
+      "long_position_pct": 12.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "深圳明德控股發展有限公司 (Shenzhen Mingde Holding Development Co., Ltd.)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 984663763,
+      "long_position_pct": 12.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "順豐控股股份有限公司 (S.F. Holding Co., Ltd.)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 984663763,
+      "long_position_pct": 12.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Mingyong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 700887980,
+      "long_position_pct": 8.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIANG XIAOJING",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 700887980,
+      "long_position_pct": 8.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kastle Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 607159262,
+      "long_position_pct": 7.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 537194540,
+      "long_position_pct": 6.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Boyu Capital General Partner IV, Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Boyu Capital Group Holdings Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Boyu Group, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tong Xiaomeng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XYXY Holdings Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Boyu Capital Fund IV, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 468009297,
+      "long_position_pct": 5.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 398005310,
+      "long_position_pct": 5.02,
+      "short_position_shares": 61035118,
+      "short_position_pct": 0.77,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.27,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Wei",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳明德控股發展有限公司 (Shenzhen Mingde Holding Development Co., Ltd.)",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "順豐控股股份有限公司 (S.F. Holding Co., Ltd.)",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jie",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jie",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jie",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-12-06",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Exceeding Summit Holding Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jumping Summit Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jie",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Topping Summit Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2024-06-15",
+      "filing_date": "2024-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital Fund IV, L.P.",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital General Partner IV, Ltd",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital Group Holdings Ltd",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Group, LLC",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Xiaomeng",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XYXY Holdings Ltd.",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fast Creative Zone Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-03-19",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Global Express Fund L.P.",
+      "long_position_pct": 4.33,
+      "relevant_event_date": "2024-03-19",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Global Express GP Limited",
+      "long_position_pct": 4.33,
+      "relevant_event_date": "2024-03-19",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital Fund IV, L.P",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital General Partner IV, Ltd",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital Group Holdings Ltd",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Group, LLC",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Mingyong",
+      "long_position_pct": 8.95,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Mingyong",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Exceeding Summit Holding Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fast Creative Zone Limited",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Global Express Fund L.P.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Global Express GP Limited",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jumping Summit Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jie",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIANG XIAOJING",
+      "long_position_pct": 8.95,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 7.36,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Xiaomeng",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Topping Summit Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XYXY Holdings Ltd.",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2023-10-27",
+      "filing_date": "2023-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

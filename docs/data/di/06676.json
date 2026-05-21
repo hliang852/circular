@@ -1,7 +1,7 @@
 {
   "code": "06676",
   "name": "ZG GROUP - W",
-  "last_scraped": "2026-05-20T23:17:28Z",
+  "last_scraped": "2026-05-21T23:07:48Z",
   "shareholders": [
     {
       "name": "Jeremy Global Development Limited",
@@ -306,12 +306,12 @@
       "name": "JLT Trust (Hong Kong) Limited 嘉立信信託(香港)有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 51965437,
-      "long_position_pct": 5.9,
+      "long_position_shares": 52965437,
+      "long_position_pct": 6.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -382,6 +382,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JLT Trust (Hong Kong) Limited 嘉立信信託(香港)有限公司",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "MPC GPGP II Ltd.",
       "long_position_pct": 6.85,
