@@ -1,0 +1,670 @@
+{
+  "code": "01810",
+  "name": "XIAOMI CORPORATION",
+  "programme_active": true,
+  "mandate_pct": 10.0,
+  "mandate_consumed_pct": 1.07,
+  "shares_issued": 21453281502,
+  "shares_bought": 22941800,
+  "pct_issued": 0.1069,
+  "cumulative_notional": 13160104750,
+  "vwap_hkd": 35.6651,
+  "current_price_hkd": 30.0,
+  "buyback_yield_pct": 0.1069,
+  "free_float_pct": 35.0,
+  "consistency_score": 0,
+  "last_filing_date": "2026-05-21",
+  "agm_date": "2026-05-01",
+  "renew_probability": 0,
+  "monthly": [
+    {
+      "period": "2024-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": null,
+      "filing_date": "2024-06-06"
+    },
+    {
+      "period": "2024-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 16.48,
+      "month_volume": 1938261384,
+      "issued_shares": 20485988184,
+      "filing_date": "2024-07-05"
+    },
+    {
+      "period": "2024-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 16.84,
+      "month_volume": 1619217047,
+      "issued_shares": 20492788799,
+      "filing_date": "2024-08-06"
+    },
+    {
+      "period": "2024-08",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 19.5,
+      "month_volume": 2312192012,
+      "issued_shares": 20432603826,
+      "filing_date": "2024-09-05"
+    },
+    {
+      "period": "2024-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 22.5,
+      "month_volume": 2813406833,
+      "issued_shares": 20439008826,
+      "filing_date": "2024-10-07"
+    },
+    {
+      "period": "2024-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 26.7,
+      "month_volume": 3898858044,
+      "issued_shares": 20443708026,
+      "filing_date": "2024-11-06"
+    },
+    {
+      "period": "2024-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 27.75,
+      "month_volume": 3538761336,
+      "issued_shares": 20450006878,
+      "filing_date": "2024-12-05"
+    },
+    {
+      "period": "2024-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 34.65,
+      "month_volume": 2719423754,
+      "issued_shares": 20581641676,
+      "filing_date": "2025-01-07"
+    },
+    {
+      "period": "2025-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 38.15,
+      "month_volume": 3250479096,
+      "issued_shares": 20590618503,
+      "filing_date": "2025-02-06"
+    },
+    {
+      "period": "2025-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 51.85,
+      "month_volume": 6096282737,
+      "issued_shares": 20599776782,
+      "filing_date": "2025-03-06"
+    },
+    {
+      "period": "2025-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 49.2,
+      "month_volume": 7156360852,
+      "issued_shares": 21400689407,
+      "filing_date": "2025-04-07"
+    },
+    {
+      "period": "2025-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 49.95,
+      "month_volume": 7570009916,
+      "issued_shares": 21431099473,
+      "filing_date": "2025-05-08"
+    },
+    {
+      "period": "2025-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 50.95,
+      "month_volume": 3659488980,
+      "issued_shares": 21432887873,
+      "filing_date": "2025-06-05"
+    },
+    {
+      "period": "2025-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 59.95,
+      "month_volume": 3307136878,
+      "issued_shares": 21436609193,
+      "filing_date": "2025-07-07"
+    },
+    {
+      "period": "2025-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 53.15,
+      "month_volume": 2724884027,
+      "issued_shares": 21450624380,
+      "filing_date": "2025-08-06"
+    },
+    {
+      "period": "2025-08",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 52.85,
+      "month_volume": 2807186041,
+      "issued_shares": 21509621943,
+      "filing_date": "2025-09-04"
+    },
+    {
+      "period": "2025-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 54.0,
+      "month_volume": 3799298127,
+      "issued_shares": 21511632943,
+      "filing_date": "2025-10-08"
+    },
+    {
+      "period": "2025-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 43.2,
+      "month_volume": 3495013332,
+      "issued_shares": 21553080969,
+      "filing_date": "2025-11-06"
+    },
+    {
+      "period": "2025-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 41.02,
+      "month_volume": 4247196875,
+      "issued_shares": 21532774834,
+      "filing_date": "2025-12-04"
+    },
+    {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 39.2,
+      "month_volume": 3021814297,
+      "issued_shares": 21535682134,
+      "filing_date": "2026-01-07"
+    },
+    {
+      "period": "2026-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 35.5,
+      "month_volume": 3549839293,
+      "issued_shares": 21538785734,
+      "filing_date": "2026-02-05"
+    },
+    {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 34.9,
+      "month_volume": 2245956456,
+      "issued_shares": 21633942072,
+      "filing_date": "2026-03-05"
+    },
+    {
+      "period": "2026-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 31.76,
+      "month_volume": 4560673769,
+      "issued_shares": 21459758498,
+      "filing_date": "2026-04-09"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 29.02,
+      "month_volume": 2892714731,
+      "issued_shares": 21453281502,
+      "filing_date": "2026-05-07"
+    },
+    {
+      "period": "2026-05",
+      "shares": 22941800,
+      "notional": 699999920,
+      "month_close": 30.0,
+      "month_volume": null,
+      "issued_shares": 21453281502,
+      "filing_date": null,
+      "partial": true
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-11-20",
+      "shares": 13500000,
+      "avg_price_hkd": 37.61
+    },
+    {
+      "date": "2025-11-21",
+      "shares": 8000000,
+      "avg_price_hkd": 37.92
+    },
+    {
+      "date": "2025-11-25",
+      "shares": 2500000,
+      "avg_price_hkd": 40.29
+    },
+    {
+      "date": "2025-11-26",
+      "shares": 7500000,
+      "avg_price_hkd": 40.14
+    },
+    {
+      "date": "2025-11-28",
+      "shares": 7000000,
+      "avg_price_hkd": 41.11
+    },
+    {
+      "date": "2025-12-01",
+      "shares": 10000000,
+      "avg_price_hkd": 40.17
+    },
+    {
+      "date": "2025-12-02",
+      "shares": 2500000,
+      "avg_price_hkd": 40.62
+    },
+    {
+      "date": "2025-12-03",
+      "shares": 7500000,
+      "avg_price_hkd": 40.25
+    },
+    {
+      "date": "2025-12-04",
+      "shares": 2400000,
+      "avg_price_hkd": 41.88
+    },
+    {
+      "date": "2025-12-08",
+      "shares": 4800000,
+      "avg_price_hkd": 42.5
+    },
+    {
+      "date": "2025-12-09",
+      "shares": 7200000,
+      "avg_price_hkd": 41.27
+    },
+    {
+      "date": "2025-12-10",
+      "shares": 2400000,
+      "avg_price_hkd": 41.88
+    },
+    {
+      "date": "2025-12-11",
+      "shares": 2300000,
+      "avg_price_hkd": 42.26
+    },
+    {
+      "date": "2025-12-15",
+      "shares": 7200000,
+      "avg_price_hkd": 41.9
+    },
+    {
+      "date": "2025-12-16",
+      "shares": 7200000,
+      "avg_price_hkd": 40.78
+    },
+    {
+      "date": "2025-12-18",
+      "shares": 3750000,
+      "avg_price_hkd": 40.18
+    },
+    {
+      "date": "2025-12-19",
+      "shares": 3750000,
+      "avg_price_hkd": 40.47
+    },
+    {
+      "date": "2025-12-22",
+      "shares": 3750000,
+      "avg_price_hkd": 39.86
+    },
+    {
+      "date": "2025-12-23",
+      "shares": 3750000,
+      "avg_price_hkd": 39.21
+    },
+    {
+      "date": "2025-12-24",
+      "shares": 3800000,
+      "avg_price_hkd": 39.19
+    },
+    {
+      "date": "2025-12-29",
+      "shares": 3900000,
+      "avg_price_hkd": 38.6
+    },
+    {
+      "date": "2025-12-31",
+      "shares": 3800000,
+      "avg_price_hkd": 39.22
+    },
+    {
+      "date": "2026-01-05",
+      "shares": 3800000,
+      "avg_price_hkd": 39.29
+    },
+    {
+      "date": "2026-01-06",
+      "shares": 3850000,
+      "avg_price_hkd": 38.88
+    },
+    {
+      "date": "2026-01-07",
+      "shares": 3900000,
+      "avg_price_hkd": 38.16
+    },
+    {
+      "date": "2026-01-08",
+      "shares": 5000000,
+      "avg_price_hkd": 38.12
+    },
+    {
+      "date": "2026-01-09",
+      "shares": 4000000,
+      "avg_price_hkd": 37.83
+    },
+    {
+      "date": "2026-01-13",
+      "shares": 4000000,
+      "avg_price_hkd": 38.0
+    },
+    {
+      "date": "2026-01-14",
+      "shares": 4000000,
+      "avg_price_hkd": 37.77
+    },
+    {
+      "date": "2026-01-15",
+      "shares": 3900000,
+      "avg_price_hkd": 37.89
+    },
+    {
+      "date": "2026-01-16",
+      "shares": 5900000,
+      "avg_price_hkd": 37.14
+    },
+    {
+      "date": "2026-01-19",
+      "shares": 4000000,
+      "avg_price_hkd": 36.46
+    },
+    {
+      "date": "2026-01-20",
+      "shares": 5500000,
+      "avg_price_hkd": 35.65
+    },
+    {
+      "date": "2026-01-21",
+      "shares": 7000000,
+      "avg_price_hkd": 35.39
+    },
+    {
+      "date": "2026-01-22",
+      "shares": 5713800,
+      "avg_price_hkd": 35.13
+    },
+    {
+      "date": "2026-01-26",
+      "shares": 3987200,
+      "avg_price_hkd": 35.2
+    },
+    {
+      "date": "2026-01-30",
+      "shares": 4200000,
+      "avg_price_hkd": 35.67
+    },
+    {
+      "date": "2026-02-02",
+      "shares": 6000000,
+      "avg_price_hkd": 34.87
+    },
+    {
+      "date": "2026-02-03",
+      "shares": 3000000,
+      "avg_price_hkd": 34.78
+    },
+    {
+      "date": "2026-02-04",
+      "shares": 4300000,
+      "avg_price_hkd": 33.98
+    },
+    {
+      "date": "2026-02-06",
+      "shares": 750000,
+      "avg_price_hkd": 34.94
+    },
+    {
+      "date": "2026-02-09",
+      "shares": 1500000,
+      "avg_price_hkd": 35.15
+    },
+    {
+      "date": "2026-02-12",
+      "shares": 4050000,
+      "avg_price_hkd": 36.61
+    },
+    {
+      "date": "2026-02-13",
+      "shares": 2700000,
+      "avg_price_hkd": 36.43
+    },
+    {
+      "date": "2026-02-16",
+      "shares": 1500000,
+      "avg_price_hkd": 36.47
+    },
+    {
+      "date": "2026-02-20",
+      "shares": 4282400,
+      "avg_price_hkd": 35.55
+    },
+    {
+      "date": "2026-02-24",
+      "shares": 2794200,
+      "avg_price_hkd": 35.79
+    },
+    {
+      "date": "2026-02-25",
+      "shares": 2809400,
+      "avg_price_hkd": 35.59
+    },
+    {
+      "date": "2026-02-26",
+      "shares": 2832200,
+      "avg_price_hkd": 35.31
+    },
+    {
+      "date": "2026-02-27",
+      "shares": 2858200,
+      "avg_price_hkd": 34.99
+    },
+    {
+      "date": "2026-03-02",
+      "shares": 3022800,
+      "avg_price_hkd": 33.08
+    },
+    {
+      "date": "2026-03-03",
+      "shares": 3156400,
+      "avg_price_hkd": 31.68
+    },
+    {
+      "date": "2026-03-10",
+      "shares": 2977200,
+      "avg_price_hkd": 33.59
+    },
+    {
+      "date": "2026-03-11",
+      "shares": 3005600,
+      "avg_price_hkd": 33.27
+    },
+    {
+      "date": "2026-03-12",
+      "shares": 2307600,
+      "avg_price_hkd": 33.33
+    },
+    {
+      "date": "2026-03-13",
+      "shares": 2029000,
+      "avg_price_hkd": 33.27
+    },
+    {
+      "date": "2026-03-18",
+      "shares": 2850400,
+      "avg_price_hkd": 35.08
+    },
+    {
+      "date": "2026-03-20",
+      "shares": 2975000,
+      "avg_price_hkd": 33.61
+    },
+    {
+      "date": "2026-03-23",
+      "shares": 3129800,
+      "avg_price_hkd": 31.95
+    },
+    {
+      "date": "2026-03-27",
+      "shares": 2200000,
+      "avg_price_hkd": 32.46
+    },
+    {
+      "date": "2026-03-30",
+      "shares": 5000000,
+      "avg_price_hkd": 32.32
+    },
+    {
+      "date": "2026-03-31",
+      "shares": 7850000,
+      "avg_price_hkd": 31.68
+    },
+    {
+      "date": "2026-04-02",
+      "shares": 12823600,
+      "avg_price_hkd": 30.81
+    },
+    {
+      "date": "2026-04-09",
+      "shares": 7819000,
+      "avg_price_hkd": 31.68
+    },
+    {
+      "date": "2026-04-10",
+      "shares": 6000000,
+      "avg_price_hkd": 30.95
+    },
+    {
+      "date": "2026-04-13",
+      "shares": 8100000,
+      "avg_price_hkd": 30.66
+    },
+    {
+      "date": "2026-04-14",
+      "shares": 2790000,
+      "avg_price_hkd": 30.77
+    },
+    {
+      "date": "2026-04-15",
+      "shares": 5720000,
+      "avg_price_hkd": 30.94
+    },
+    {
+      "date": "2026-04-17",
+      "shares": 7500000,
+      "avg_price_hkd": 31.78
+    },
+    {
+      "date": "2026-04-21",
+      "shares": 4500000,
+      "avg_price_hkd": 32.35
+    },
+    {
+      "date": "2026-04-22",
+      "shares": 4500000,
+      "avg_price_hkd": 31.88
+    },
+    {
+      "date": "2026-04-23",
+      "shares": 4700000,
+      "avg_price_hkd": 31.09
+    },
+    {
+      "date": "2026-04-24",
+      "shares": 4500000,
+      "avg_price_hkd": 31.23
+    },
+    {
+      "date": "2026-04-27",
+      "shares": 3211600,
+      "avg_price_hkd": 31.14
+    },
+    {
+      "date": "2026-04-28",
+      "shares": 3329000,
+      "avg_price_hkd": 30.04
+    },
+    {
+      "date": "2026-04-30",
+      "shares": 3425400,
+      "avg_price_hkd": 29.19
+    },
+    {
+      "date": "2026-05-05",
+      "shares": 3290200,
+      "avg_price_hkd": 30.39
+    },
+    {
+      "date": "2026-05-12",
+      "shares": 3172600,
+      "avg_price_hkd": 31.52
+    },
+    {
+      "date": "2026-05-15",
+      "shares": 3256000,
+      "avg_price_hkd": 30.71
+    },
+    {
+      "date": "2026-05-18",
+      "shares": 3265200,
+      "avg_price_hkd": 30.63
+    },
+    {
+      "date": "2026-05-19",
+      "shares": 3264000,
+      "avg_price_hkd": 30.64
+    },
+    {
+      "date": "2026-05-20",
+      "shares": 3318600,
+      "avg_price_hkd": 30.13
+    },
+    {
+      "date": "2026-05-21",
+      "shares": 3375200,
+      "avg_price_hkd": 29.63
+    }
+  ],
+  "last_session": {
+    "date": "2026-05-21",
+    "shares": 3375200,
+    "avg_price_hkd": 29.63
+  },
+  "scraped_at": "2026-05-22T15:36:26.450637Z"
+}
