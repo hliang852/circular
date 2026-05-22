@@ -96,7 +96,7 @@ function renderHeader(module) {
   const base = window.CIRC_ROOT || '../';
   const code = new URLSearchParams(location.search).get('code') || '';
 
-  const diHref  = code ? `${base}di/?code=${code}`  : `${base}di/`;
+  const diHref  = `${base}di/`;
   const caHref  = code ? `${base}ca/?code=${code}`  : `${base}ca/`;
   const hubHref = base;
 
