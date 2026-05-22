@@ -97,6 +97,10 @@ body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px
 .badge-live{font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.25);display:inline-flex;align-items:center;gap:5px}
 .badge-live::before{content:'';width:6px;height:6px;background:var(--green);border-radius:50%;animation:pulse 2s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.badge-inactive{font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;background:var(--sf2);color:var(--tx3);border:1px solid var(--bd)}
+.sv-back-row{margin-bottom:16px}
+.sv-back-btn{display:inline-flex;align-items:center;gap:6px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);color:var(--tx2);font-size:12px;padding:6px 12px;cursor:pointer;font-family:var(--sans);transition:color .12s,border-color .12s}
+.sv-back-btn:hover{color:var(--tx);border-color:var(--bd2)}
 .cs-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:3px 9px;border-radius:20px;cursor:default}
 .cs-4{background:rgba(57,211,83,.12);color:#39d353;border:1px solid rgba(57,211,83,.25)}
 .cs-5{background:rgba(63,185,80,.15);color:#3fb950;border:1px solid rgba(63,185,80,.3)}
@@ -358,7 +362,7 @@ td.num{font-family:var(--mono);font-size:12.5px}
   </div>
   <div class="sw">
     <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
-    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" value="700 HK — Tencent Holdings">
+    <input class="si" id="searchInput" type="text" placeholder="Search stock code or name…" autocomplete="off">
   </div>
 </div>
 
@@ -390,7 +394,7 @@ td.num{font-family:var(--mono);font-size:12.5px}
       <div class="home-search-results" id="homeSearchResults"></div>
     </div>
 
-    <button class="home-cta" onclick="window.location.href='../../buybacks_v10.html?code=00700'">
+    <button class="home-cta" onclick="goToStock('00700','Tencent Holdings')" style="margin-top:24px">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 13L6 7l3 4 2.5-5 2.5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
       Explore Tencent →
     </button>
@@ -423,215 +427,14 @@ td.num{font-family:var(--mono);font-size:12.5px}
 
 <!-- ═══════════════ BY STOCK ═══════════════ -->
 <div id="sv" style="display:none">
-
-  <!-- 1. STOCK HERO -->
-  <div class="stock-hero">
-    <div class="hero-top">
-      <span class="hero-name">Tencent Holdings Ltd.</span>
-      <span class="hero-code">700 HK</span>
-      <span class="badge-live">Active</span>
-      <div class="info-wrap">
-        <span class="cs-badge cs-3" tabindex="0">★★★☆☆ 3</span>
-        <div class="info-popup">
-          <div class="ip-title">Consistency score 3/5</div>
-          <p class="ip-body">9 of the last 13 months had active repurchase activity. Systematic programmes provide a steady bid; erratic ones cluster around price weakness.</p>
-          <div class="ip-rows">
-            <div class="ip-row"><span class="ip-key">5 — Daily</span><span class="ip-val">12/12 months</span></div>
-            <div class="ip-row"><span class="ip-key">4 — Systematic</span><span class="ip-val">10–11/12 months</span></div>
-            <div class="ip-row"><span class="ip-key">3 — Regular</span><span class="ip-val">7–9/12 months</span></div>
-            <div class="ip-row"><span class="ip-key">2 — Opportunistic</span><span class="ip-val">4–6/12 months</span></div>
-            <div class="ip-row"><span class="ip-key">1 — Erratic</span><span class="ip-val">1–3/12 months</span></div>
-          </div>
-        </div>
-      </div>
-      <!-- SIGNAL BADGE -->
-      <div class="info-wrap">
-        <span class="sig-hero-moderate" tabindex="0">● Moderate signal</span>
-        <div class="info-popup" style="left:auto;right:0;transform:none">
-          <div class="ip-title">Why Moderate?</div>
-          <p class="ip-body">Tencent is buying significantly below its mandate-year VWAP: current price (HK$456.4) vs 12-month VWAP paid (HK$565.7), a 19.3% discount. Consistency score 3/5. No concurrent DI accumulation detected yet.</p>
-          <div class="ip-note">This signal is screened in <a href="#" onclick="switchView('ideas',document.querySelectorAll('.vb')[3]);switchIdeasTab('cb',document.querySelectorAll('.ist-btn')[0])">💡 Conviction Buys →</a></div>
-        </div>
-      </div>
-      <div class="uw-badge" style="margin-left:auto">▼ VWAP underwater -19.3%</div>
-    </div>
-    <div class="hero-mandate">
-      <span class="hm-label">Mandate</span>
-      <div class="hm-track"><div class="hm-fill" style="width:16.9%"></div></div>
-      <span class="hm-stat"><span class="ok">16.9%</span> of mandate used · <span class="ok">8.31%</span> remaining · <span class="dim">expires 2027 AGM</span></span>
-    </div>
-    <div class="econ-strip">
-      <div class="es-item"><span class="es-label">Buyback yield</span><span class="es-val pos">1.69%</span></div>
-      <div class="es-sep"></div>
-      <div class="es-item"><span class="es-label">Dividend yield</span><span class="es-val neu">1.1%</span></div>
-      <div class="es-sep"></div>
-      <div class="es-item"><span class="es-label">Total return yield</span><span class="es-val pos">6.0%</span></div>
-      <div class="es-sep"></div>
-      <div class="es-item"><span class="es-label">Net capital return YTD</span><span class="es-val pos">+HK$87.1B</span></div>
-      <div class="es-sep"></div>
-      <div class="es-item"><span class="es-label">Free float</span><span class="es-val neu">57%</span></div>
-      <div class="es-sep"></div>
-      <div class="es-item">
-        <span class="es-label">Float-adj. repurchased</span>
-        <div class="info-wrap" style="gap:4px">
-          <span class="es-val pos">2.96%</span>
-          <button class="info-btn">?</button>
-          <div class="info-popup" style="left:auto;right:-10px;transform:none">
-            <div class="ip-title">Float-adjusted repurchase</div>
-            <p class="ip-body">Issued-capital % ÷ free float %. With 57% float, the 1.69% issued-capital buyback removes 2.96% of publicly tradable shares.</p>
-          </div>
-        </div>
-      </div>
-    </div>
+  <div class="sv-back-row">
+    <button class="sv-back-btn" onclick="svGoBack()">
+      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 3L5 8l5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Back to <span id="svBackLabel">list</span>
+    </button>
   </div>
-
-  <!-- 2. CHART -->
-  <div class="chart-section">
-    <div class="cs-head"><div><div class="cs-title">Price &amp; buyback activity — 12-month view</div><div class="cs-sub">Apr 2025–Apr 2026 · price (left) · buyback HK$B (right) · grey = blackout</div></div></div>
-    <div class="event-pills" id="eventPills"></div>
-    <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
-    <div class="legend">
-      <div class="li"><div class="ld" style="background:#58a6ff"></div>Price (HK$)</div>
-      <div class="li"><div class="lb" style="background:rgba(63,185,80,.55)"></div>Below YTD VWAP HK$565.7</div>
-      <div class="li"><div class="lb" style="background:rgba(88,166,255,.45)"></div>Above YTD VWAP</div>
-      <div class="li"><div class="lb" style="background:rgba(110,118,129,.18);border:1px solid rgba(110,118,129,.4)"></div>Blackout</div>
-      <div class="li"><span class="lm" style="color:#f85149">▼</span>Placing</div>
-      <div class="li"><span class="lm" style="color:#d29922">◆</span>CB</div>
-    </div>
-    <div class="blackout-info">
-      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--amber)"><circle cx="8" cy="8" r="6.5"/><path d="M8 5v4M8 11v.5" stroke-linecap="round"/></svg>
-      Next blackout period starts: <span class="blackout-date">~15 Jul 2026</span>
-      <span>(est. 30 days before interim results · subject to filing)</span>
-    </div>
-  </div>
-
-  <!-- 3. MANDATE (collapsed) -->
-  <details class="mandate-section" id="mandateDetails">
-    <summary>
-      <div class="ms-top-row">
-        <span class="ms-title">
-          <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1.5L10 6h4.5L11 9l1.5 4.5L8 11l-4.5 2.5L5 9 1.5 6H6z" stroke-linejoin="round"/></svg>
-          Repurchase Mandate
-          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
-            <button id="mandateInfoBtn" class="info-btn" tabindex="0" onclick="event.stopPropagation()">?</button>
-            <div id="mandateInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);width:275px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6);pointer-events:auto">
-              <div class="ip-title">What is the repurchase mandate?</div>
-              <p class="ip-body">Under HK Listing Rule 10.06, companies need shareholder approval at each AGM. The mandate caps total repurchases until the next AGM — standard limit is 10% of issued shares.</p>
-              <div class="ip-rows">
-                <div class="ip-row"><span class="ip-key">Authority used</span><span class="ip-val">YTD repurchased ÷ mandate limit × 100</span></div>
-                <div class="ip-row"><span class="ip-key">Expires</span><span class="ip-val">Earlier of next AGM or 12 months</span></div>
-              </div>
-              <div class="ip-note">Source: <a href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">HKEXnews ↗</a></div>
-              <div style="position:absolute;top:100%;left:50%;transform:translateX(-50%);border:6px solid transparent;border-top-color:#384152"></div>
-            </div>
-          </span>
-        </span>
-        <div style="margin-left:auto;display:flex;align-items:center;gap:8px">
-          <a class="ms-link" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank" onclick="event.stopPropagation()">Circular PDF ↗</a>
-          <span class="ms-chevron">▼</span>
-        </div>
-      </div>
-      <div class="ms-prog-row"><div class="mandate-track"><div class="mandate-fill" style="width:16.9%"></div></div></div>
-    </summary>
-    <div class="mandate-body">
-      <div class="mc-stats">
-        <div class="mc-group">
-          <span class="mc-group-label">As % of issued share capital</span>
-          <div class="mcs-item"><span class="mcs-label">Repurchased YTD</span><span class="mcs-value ok">1.69%<span class="mcs-unit">of issued capital</span></span></div>
-          <div class="mcs-item"><span class="mcs-label">AGM mandate limit</span><span class="mcs-value dim">10.00%<span class="mcs-unit">of issued capital</span></span></div>
-          <div class="mcs-item"><span class="mcs-label">Still available</span><span class="mcs-value ok">8.31%<span class="mcs-unit">≈ HK$346B · ~758M shares</span></span></div>
-        </div>
-        <div class="mc-vdivider"></div>
-        <div class="mc-group">
-          <span class="mc-group-label">Progress against mandate authority</span>
-          <div class="mcs-item"><span class="mcs-label">Authority used</span><span class="mcs-value ok">16.9%<span class="mcs-unit">of 10% limit (= 1.69 ÷ 10.00)</span></span></div>
-          <div class="mcs-item"><span class="mcs-label">Mandate expires</span><span class="mcs-value dim">2027 AGM<span class="mcs-unit">≈ 12 months remaining</span></span></div>
-        </div>
-        <div class="mc-vdivider"></div>
-        <div class="mc-group">
-          <span class="mc-group-label">Free float adjustment</span>
-          <div class="mcs-item"><span class="mcs-label">Free float</span><span class="mcs-value dim">~57%<span class="mcs-unit">of issued capital</span></span></div>
-          <div class="mcs-item"><span class="mcs-label">Bought back (float-adj.)</span><span class="mcs-value ok">2.96%<span class="mcs-unit">of free float</span></span></div>
-          <div class="mcs-item"><span class="mcs-label">Mandate limit (float-adj.)</span><span class="mcs-value dim">17.54%<span class="mcs-unit">of free float</span></span></div>
-        </div>
-      </div>
-      <div class="prob-section">
-        <div class="prob-head">
-          <span class="prob-label">Probability of mandate renewal at 2026 AGM</span>
-          <span style="position:relative;display:inline-flex;align-items:center;margin-left:4px">
-            <button id="probInfoBtn" class="info-btn" tabindex="0">?</button>
-            <div id="probInfoPopup" style="display:none;position:absolute;bottom:calc(100% + 10px);right:-10px;width:265px;background:#1c2330;border:1px solid #384152;border-radius:8px;padding:13px 15px;z-index:400;box-shadow:0 8px 24px rgba(0,0,0,.6)">
-              <div class="ip-title">How is this calculated?</div>
-              <p class="ip-body">Four signals scored 0–25 each: programme active this month, consistency score, conviction (buying while underwater), mandate pace vs time elapsed.</p>
-              <div class="ip-note">Analytical estimate only.</div>
-              <div style="position:absolute;top:100%;right:14px;border:6px solid transparent;border-top-color:#384152"></div>
-            </div>
-          </span>
-          <div class="prob-track" style="margin-left:10px"><div class="prob-fill" style="width:70%;background:linear-gradient(90deg,#d29922,#58a6ff)"></div></div>
-          <span class="prob-pct" style="color:var(--amber);margin-left:8px">70%</span>
-        </div>
-        <div class="prob-factors" id="probFactors"></div>
-      </div>
-    </div>
-  </details>
-
-  <!-- 4. METRIC CARDS -->
-  <div class="mg">
-    <div class="mc2">
-      <div class="ml">YTD Consideration</div>
-      <div class="mv" style="font-size:18px">HK$87.1B</div>
-      <div class="ms2">Jun 2025–Apr 2026 · 11 months</div>
-      <div class="md dim">Since May 2025 AGM</div>
-    </div>
-    <div class="mc2">
-      <div class="ml">Shares Bought YTD</div>
-      <div class="mv">153.9M</div>
-      <div class="ms2">1.69% issued · 2.96% float</div>
-      <div class="md dim">9118M shares outstanding</div>
-    </div>
-    <div class="mc2">
-      <div class="ml">YTD VWAP Paid <div class="info-wrap" style="margin-left:2px"><button class="info-btn">?</button><div class="info-popup"><div class="ip-title">YTD VWAP</div><p class="ip-body">Total consideration Jan–May 2025 ÷ shares repurchased. When current price is below this, the programme is "underwater."</p></div></div></div>
-      <div class="mv" style="font-size:18px">HK$565.7</div>
-      <div class="ms2">Jun 2025–Apr 2026 avg cost basis</div>
-      <div class="uw-flag">▼ Underwater vs HK$456.4 (−19.3%) · still buying</div>
-    </div>
-    <div class="mc2">
-      <div class="ml">Avg Monthly Spend</div>
-      <div class="mv" style="font-size:18px">HK$7.9B</div>
-      <div class="ms2">9 of 11 months active</div>
-      <div class="md dim">Annualised est. HK$94.8B</div>
-    </div>
-  </div>
-
-  <!-- 5. INSIGHT + DI -->
-  <div class="insight-box" style="margin-bottom:14px">
-    <div class="ib-head"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1a5 5 0 0 1 2 9.5V12H6v-1.5A5 5 0 0 1 8 1z"/><path d="M6 13h4M7 15h2" stroke-linecap="round"/></svg>Capital return summary &amp; DI context</div>
-    <div class="ib-points">
-      <div class="ib-point"><div class="ib-icon bear">▼</div><span class="ib-text"><strong>Buying underwater:</strong> Mandate-year VWAP paid HK$565.7 vs current HK$456.4 (−19.3%). Recent sessions (Mar–Apr 2026) confirm programme remains active below VWAP.</span></div>
-      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Float impact is material:</strong> 1.69% of issued capital = <strong>2.96% of freely traded shares</strong> absorbed since May 2025 AGM.</span></div>
-      <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Buyback yield 1.69%</strong> (since May 2025 AGM) + est. ~0.9% dividend yield. Annualised pace ~HK$95B/year based on 11-month run rate.</span></div>
-      <div class="ib-point"><div class="ib-icon neutral">→</div><span class="ib-text"><strong>Net capital return HK$87.1B</strong> since May 2025 AGM. No equity issuances detected in scraper window — gross = net.</span></div>
-      <div class="ib-point" style="padding-top:8px;margin-top:4px;border-top:1px solid var(--bd)">
-        <div class="ib-icon di">DI</div>
-        <span class="ib-text"><strong>DI context:</strong> Tencent has repurchased <strong>1.69% of issued capital</strong> since May 2025 AGM. DI cross-reference not yet linked — enable DI module to see phantom threshold crossings. <a href="#">View Tencent DI filings →</a></span>
-      </div>
-    </div>
-  </div>
-
-  <!-- 6. MONTHLY TABLE -->
-  <div class="ts">
-    <div class="th"><span class="ttitle">Monthly return filings</span><span class="tmeta">13 months · Mandate: 10% of 9118M issued shares</span></div>
-    <div class="tscroll">
-      <table>
-        <colgroup><col style="width:85px"><col style="width:65px"><col style="width:100px"><col style="width:130px"><col style="width:130px"><col style="width:90px"><col style="width:90px"><col style="width:82px"><col style="width:52px"></colgroup>
-        <thead><tr>
-          <th>Period</th><th class="num">Days</th><th class="num">Shares</th><th class="num">Price range (HK$)</th><th class="num">Consideration</th>
-          <th class="num">Cum % issued</th><th class="num">% mth vol <span id="volInfoWrap"></span></th><th class="num">vs VWAP</th><th>Filing</th>
-        </tr></thead>
-        <tbody id="mtbody"></tbody>
-      </table>
-    </div>
-  </div>
+  <div id="sv-loading" style="text-align:center;padding:80px 20px;color:var(--tx3);font-size:14px">Loading stock data…</div>
+  <div id="sv-inner" style="display:none"></div>
 </div><!-- /sv -->
 
 <!-- ═══════════════ LEAGUE ═══════════════ -->
@@ -741,39 +544,28 @@ td.num{font-family:var(--mono);font-size:12.5px}
 </main>
 <script>
 /* ── DATA ── */
-const monthly=[
-  {p:"2025-04",sh:14354000,lo:460.6,hi:474.6,cn:6712249059,cum:0.157,d:0,price:467.62,mv:668932076,blackout:false},
-  {p:"2025-05",sh:0,lo:0,hi:0,cn:0,cum:0.157,d:0,price:488.2,mv:414116318,blackout:true},
-  {p:"2025-06",sh:25543000,lo:489.7,hi:504.7,cn:12700160955,cum:0.438,d:0,price:497.21,mv:340066355,blackout:false},
-  {p:"2025-07",sh:11927000,lo:535.5,hi:551.8,cn:6484301997,cum:0.568,d:0,price:543.67,mv:410630030,blackout:false},
-  {p:"2025-08",sh:16936892,lo:580.8,hi:598.5,cn:9986503017,cum:0.754,d:0,price:589.63,mv:419739503,blackout:false},
-  {p:"2025-09",sh:24122000,lo:645.5,hi:665.2,cn:15808700057,cum:1.019,d:0,price:655.36,mv:410673611,blackout:false},
-  {p:"2025-10",sh:9137000,lo:612.4,hi:631.1,cn:5680984572,cum:1.119,d:0,price:621.76,mv:331344027,blackout:false},
-  {p:"2025-11",sh:0,lo:0,hi:0,cn:0,cum:1.119,d:0,price:604.46,mv:309499401,blackout:true},
-  {p:"2025-12",sh:24950000,lo:583.2,hi:601.0,cn:14772929930,cum:1.393,d:0,price:592.1,mv:276457562,blackout:false},
-  {p:"2026-01",sh:16527000,lo:590.0,hi:608.0,cn:9900018414,cum:1.574,d:0,price:599.02,mv:456732414,blackout:false},
-  {p:"2026-02",sh:0,lo:0,hi:0,cn:0,cum:1.574,d:0,price:512.03,mv:574417051,blackout:true},
-  {p:"2026-03",sh:17159141,lo:471.2,hi:485.6,cn:8209377476,cum:1.762,d:0,price:478.43,mv:671000884,blackout:false},
-  {p:"2026-04",sh:7606000,lo:455.5,hi:469.3,cn:3517108714,cum:1.845,d:0,price:462.41,mv:438471867,blackout:false}
-];
-const events=[];
-const league=[
-  {c:"00700",n:"Tencent Holdings",cn:202477830080,sh:459916745,pc:5.04,mc:50.44,act:true,lf:"2026-04-09",ff:57,cs:3,vwap:499.6,curPx:456.4,bbYld:5.04,agm:"2026-05-01",renewProb:60,ld:{date:"2026-04-09",sh:1964000,dv:29460000,hi:512.16,lo:507.07,cn:1000880718}},
-  {c:"01299",n:"AIA Group",cn:50806243971,sh:755560000,pc:7.19,mc:71.9,act:true,lf:"2026-05-15",ff:68,cs:1,vwap:85.2,curPx:87.6,bbYld:7.19,agm:"2026-05-01",renewProb:86,ld:{date:"2026-05-15",sh:1375000,dv:20625000,hi:88.15,lo:87.27,cn:120606069}},
-  {c:"09988",n:"Alibaba Group",cn:36637403154,sh:356989072,pc:1.86,mc:18.6,act:false,lf:"2026-05-06",ff:54,cs:2,vwap:null,curPx:132.3,bbYld:1.86,agm:"2026-05-01",renewProb:14,ld:null},
-  {c:"00011",n:"Hang Seng Bank",cn:2800000000,sh:28600000,pc:1.49,mc:14.9,act:false,lf:"2025-04-08",ff:70,cs:1,vwap:94.8,curPx:98.2,bbYld:1.49,agm:"2025-04-30",renewProb:44,ld:null},
-  {c:"02382",n:"Sunny Optical",cn:991584000,sh:15840000,pc:1.45,mc:14.47,act:true,lf:"2026-05-06",ff:55,cs:1,vwap:null,curPx:64.95,bbYld:1.45,agm:"2026-05-01",renewProb:11,ld:null},
-  {c:"00941",n:"China Mobile",cn:52473002,sh:728000,pc:0.0,mc:0.04,act:false,lf:"2026-05-06",ff:26,cs:0,vwap:null,curPx:86.2,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"00002",n:"CLP Holdings",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-04",ff:63,cs:0,vwap:null,curPx:76.65,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"00005",n:"HSBC Holdings",cn:0,sh:1592963671,pc:9.27,mc:92.7,act:true,lf:"2026-05-07",ff:72,cs:3,vwap:null,curPx:null,bbYld:9.27,agm:"2026-05-01",renewProb:100,ld:null},
-  {c:"00388",n:"HKEX",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-05",ff:65,cs:0,vwap:null,curPx:416.4,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"00939",n:"China Const. Bank",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:31,cs:0,vwap:null,curPx:8.78,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"01398",n:"ICBC",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:33,cs:0,vwap:null,curPx:6.89,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"01876",n:"Budweiser APAC",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-07",ff:51,cs:0,vwap:null,curPx:7.76,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"02318",n:"Ping An Insurance",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-04-30",ff:44,cs:0,vwap:null,curPx:62.45,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"03690",n:"Meituan",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:62,cs:0,vwap:null,curPx:82.7,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null},
-  {c:"06862",n:"Haidilao",cn:0,sh:0,pc:0.0,mc:0.0,act:false,lf:"2026-05-06",ff:52,cs:0,vwap:null,curPx:14.68,bbYld:0.0,agm:"2026-05-01",renewProb:0,ld:null}
-];
+let league=[];
+// Load fresh from ca_index.json
+(async()=>{
+  try{
+    const r=await fetch('../data/ca_index.json');
+    if(!r.ok)return;
+    const idx=await r.json();
+    if(!Array.isArray(idx)||!idx.length)return;
+    league=idx.map(s=>({
+      c:s.code, n:s.name.replace(/\bLIMITED\b/gi,'Ltd.').replace(/\bCORPORATION\b/gi,'Corp.').replace(/\bHOLDINGS\b/gi,'Holdings'),
+      cn:s.cumulative_notional||0, sh:s.shares_bought||0,
+      pc:s.pct_issued||0, mc:s.mandate_consumed_pct||0,
+      act:s.programme_active||false, lf:s.last_filing_date||'',
+      ff:s.free_float_pct||0, cs:s.consistency_score||0,
+      vwap:s.vwap_hkd||null, curPx:s.current_price_hkd||null,
+      bbYld:s.pct_issued||0, agm:s.agm_date||'',
+      renewProb:s.renew_probability||0,
+      ld:s.last_session?{date:s.last_session.date,sh:s.last_session.shares,dv:null,hi:null,lo:null,cn:Math.round(s.last_session.shares*(s.last_session.avg_price_hkd||0))}:null
+    }));
+    renderLeague();renderLastSession();renderConvictionBuys();renderMandateRenewers();
+  }catch(e){console.warn('ca_index load failed',e);}
+})();
 // Calendar events: loaded from calendar.json, fallback to static seed
 let calEvents=[
   {date:"2026-05-01",type:"agm",     name:"Tencent Holdings",   note:"2026 AGM — shareholders vote on repurchase mandate renewal"},
@@ -806,87 +598,276 @@ const fmtCode= c=>`${parseInt(c,10)} HK`;
 const csClass= s=>`cs-${s}`;
 const csStars= s=>'★'.repeat(s)+'☆'.repeat(5-s);
 
-/* ── PROBABILITY FACTORS ── */
-const probFactors=[{label:'Programme active this month',score:25,color:'var(--green)'},{label:'Consistency score 3/5',score:16,color:'var(--amber)'},{label:'Buying significantly underwater (−19%)',score:20,color:'var(--green)'},{label:'Mandate pace on track',score:9,color:'var(--amber)'}];
-const pfEl=document.getElementById('probFactors');
-probFactors.forEach(f=>{const d=document.createElement('div');d.className='pf-item';d.innerHTML=`<span class="pf-dot" style="background:${f.color}"></span>${f.label} <span style="color:var(--tx2);font-family:var(--mono);margin-left:3px">(+${f.score})</span>`;pfEl.appendChild(d);});
+/* ── STOCK VIEW ENGINE ── */
+let stockChart=null, prevView='league', prevViewBtn=null;
 
-/* ── VOL TOOLTIP ── */
-const viW=document.getElementById('volInfoWrap');
-viW.style.cssText='position:relative;display:inline-flex;align-items:center;margin-left:3px;vertical-align:middle';
-viW.innerHTML=`<span tabindex="0" style="width:13px;height:13px;border-radius:50%;background:var(--sf);border:1px solid var(--bd2);color:var(--tx3);font-size:9px;font-weight:600;font-family:var(--mono);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;line-height:1">?</span><div style="display:none;position:absolute;bottom:calc(100% + 8px);right:-10px;width:230px;background:#1c2330;border:1px solid #384152;border-radius:7px;padding:11px 13px;z-index:300;font-size:11px;color:var(--tx2);line-height:1.6;font-weight:400;text-transform:none;letter-spacing:0;box-shadow:0 6px 20px rgba(0,0,0,.5)"><strong style="display:block;color:var(--tx);margin-bottom:4px">% of monthly traded volume</strong>Shares repurchased ÷ total shares traded that month. Above ~5% = company was a meaningful price support factor.<span style="display:block;color:var(--tx3);margin-top:4px">Source: HKEX Securities Statistics / Yahoo Finance</span></div>`;
-const vBtn=viW.querySelector('span'),vTip=viW.querySelector('div');
-vBtn.addEventListener('mouseenter',()=>vTip.style.display='block');
-vBtn.addEventListener('mouseleave',()=>vTip.style.display='none');
-vBtn.addEventListener('focus',()=>vTip.style.display='block');
-vBtn.addEventListener('blur',()=>vTip.style.display='none');
+function buildStockChart(monthly, vwap){
+  const canvas=document.getElementById('mainChart');
+  if(!canvas)return;
+  if(stockChart){stockChart.destroy();stockChart=null;}
+  const labels=monthly.map(d=>pLabel(d.period));
+  const prices=monthly.map(d=>d.month_close!=null?+d.month_close.toFixed(2):null);
+  const bars=monthly.map(d=>+((d.notional||0)/1e9).toFixed(2));
+  const barColors=monthly.map(d=>{
+    if(!(d.notional>0))return'rgba(88,166,255,0.06)';
+    const avg=d.shares>0?d.notional/d.shares:null;
+    return(vwap&&avg&&avg<vwap)?'rgba(63,185,80,0.55)':'rgba(88,166,255,0.45)';
+  });
+  const vwapPlugin={id:'vwapLine',afterDraw(chart){
+    if(!vwap)return;
+    const{ctx,chartArea,scales}=chart;
+    const y=scales.yp.getPixelForValue(vwap);
+    if(y<chartArea.top||y>chartArea.bottom)return;
+    ctx.save();ctx.strokeStyle='rgba(248,81,73,0.45)';ctx.lineWidth=1;ctx.setLineDash([3,3]);
+    ctx.beginPath();ctx.moveTo(chartArea.left,y);ctx.lineTo(chartArea.right,y);ctx.stroke();
+    ctx.fillStyle='rgba(248,81,73,0.65)';ctx.font='9px monospace';ctx.textAlign='left';
+    ctx.fillText(`VWAP $${vwap.toFixed(0)}`,chartArea.left+4,y-3);ctx.restore();
+  }};
+  stockChart=new Chart(canvas.getContext('2d'),{
+    data:{labels,datasets:[
+      {type:'line',data:prices,yAxisID:'yp',borderColor:'#58a6ff',borderWidth:2,pointRadius:3,
+       pointBackgroundColor:'#58a6ff',pointBorderColor:'#0d1117',pointBorderWidth:1.5,tension:0.3,fill:false,order:1,spanGaps:true},
+      {type:'bar',data:bars,yAxisID:'yb',backgroundColor:barColors,
+       borderColor:barColors.map(c=>c.replace(/[\d.]+\)$/,'0.9)')),borderWidth:1,borderRadius:3,order:2}
+    ]},
+    options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
+      plugins:{legend:{display:false},tooltip:{backgroundColor:'#1c2330',borderColor:'#2a3140',borderWidth:1,
+        titleColor:'#e6edf3',bodyColor:'#8b949e',padding:10,callbacks:{
+          label(c){if(c.datasetIndex===0)return c.raw!=null?`  Price: HK$${c.raw}`:'  —';
+            return c.raw>0?`  Buyback: HK$${c.raw.toFixed(1)}B`:'  No repurchase';}}}},
+      scales:{x:{grid:{color:'rgba(255,255,255,.04)'},ticks:{color:'#6e7681',font:{size:11},maxRotation:0}},
+        yp:{position:'left',grid:{color:'rgba(255,255,255,.06)'},ticks:{color:'#58a6ff',font:{size:11},callback:v=>`$${v}`},border:{display:false}},
+        yb:{position:'right',grid:{drawOnChartArea:false},ticks:{color:'#3fb950',font:{size:11},callback:v=>`$${v}B`},border:{display:false}}}},
+    plugins:[vwapPlugin]
+  });
+}
 
-/* ── EVENT PILLS ── */
-events.forEach(ev=>{
-  const p=document.createElement('span');
-  p.className=`ep ep-${ev.type}`;
-  p.innerHTML=`<span style="font-size:13px">${ev.marker}</span> ${pLabel(ev.p)} — ${ev.label}: ${ev.detail}<a href="${ev.pdfUrl}" target="_blank" class="ep-link" onclick="event.stopPropagation()">PDF ↗</a>`;
-  document.getElementById('eventPills').appendChild(p);
-});
+function renderMonthlyTable(monthly, vwap){
+  const tb=document.getElementById('mtbody');if(!tb)return;tb.innerHTML='';
+  const maxCn=Math.max(...monthly.map(d=>d.notional||0),1);
+  let cumShares=0;
+  const lastIssued=monthly.slice().reverse().find(m=>m.issued_shares)?.issued_shares||1;
+  [...monthly].reverse().forEach(row=>{
+    cumShares+=(row.shares||0);
+    const cn=row.notional||0;
+    const pct=maxCn>0?(cn/maxCn)*70:0;
+    const avgPx=row.shares>0?cn/row.shares:0;
+    const vs=avgPx>0&&vwap?((avgPx/vwap-1)*100):null;
+    const vsClass=vs===null?'':(vs<0?'style="color:var(--green)"':'style="color:var(--red)"');
+    const vsTxt=vs===null?'—':`${vs>=0?'+':''}${vs.toFixed(1)}%`;
+    const cumPct=(row.issued_shares||lastIssued)>0?(cumShares/(row.issued_shares||lastIssued)*100):0;
+    const volPct=(row.shares>0&&row.month_volume>0)?(row.shares/row.month_volume*100):null;
+    const volC=volPct===null?'':(volPct>=5?'color:var(--amber)':volPct>=3?'color:var(--tx)':'color:var(--tx2)');
+    const volTxt=volPct===null?'<span style="color:var(--tx3)">—</span>':`<span style="${volC}">${volPct.toFixed(1)}%</span>`;
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td class="bold">${pLabel(row.period)}</td>
+      <td class="num">${row.shares>0?fmtB(row.shares):'<span style="color:var(--tx3)">—</span>'}</td>
+      <td class="num" style="font-family:var(--mono);font-size:12px">${avgPx>0?`HK$${avgPx.toFixed(2)}`:'<span style="color:var(--tx3)">—</span>'}</td>
+      <td class="num"><div class="bc">${cn>0?`<div class="ib2 ${pct>40?'hi2':''}" style="width:${Math.round(pct)}px"></div>`:''} ${cn>0?fmtHKD(cn):`<span style="color:var(--tx3)">No repurchase</span>`}</div></td>
+      <td class="num">${cumPct.toFixed(2)}%</td>
+      <td class="num">${volTxt}</td>
+      <td class="num" ${vsClass}>${vsTxt}</td>
+      <td>${cn>0?`<a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`:'<span style="color:var(--tx3);font-size:11px">—</span>'}</td>`;
+    tb.appendChild(tr);
+  });
+}
 
-/* ── CHART ── */
-const ytdVwap=565.7;
-const barColors=monthly.map(d=>d.cn===0?'rgba(88,166,255,0.08)':(d.cn/d.sh)<ytdVwap?'rgba(63,185,80,0.55)':'rgba(88,166,255,0.45)');
-const blackoutPlugin={id:'blackout',beforeDatasetsDraw(chart){const{ctx,chartArea,scales}=chart;const tw=scales.x.getPixelForTick(1)-scales.x.getPixelForTick(0);monthly.forEach((d,i)=>{if(!d.blackout)return;const x0=scales.x.getPixelForTick(i)-tw/2,x1=x0+tw;ctx.save();ctx.fillStyle='rgba(110,118,129,0.12)';ctx.fillRect(x0,chartArea.top,x1-x0,chartArea.bottom-chartArea.top);ctx.strokeStyle='rgba(110,118,129,0.22)';ctx.lineWidth=0.5;ctx.strokeRect(x0,chartArea.top,x1-x0,chartArea.bottom-chartArea.top);ctx.font='9px sans-serif';ctx.fillStyle='rgba(110,118,129,0.6)';ctx.textAlign='center';ctx.fillText('⛔',(x0+x1)/2,chartArea.top+12);ctx.restore();});}};
-const eventLinesPlugin={id:'eventLines',afterDraw(chart){const{ctx,chartArea,scales}=chart;events.forEach(ev=>{const idx=monthly.findIndex(d=>d.p===ev.p);if(idx<0)return;const x=scales.x.getPixelForTick(idx);ctx.save();ctx.strokeStyle=ev.color;ctx.lineWidth=1.5;ctx.setLineDash([5,4]);ctx.globalAlpha=0.75;ctx.beginPath();ctx.moveTo(x,chartArea.top);ctx.lineTo(x,chartArea.bottom);ctx.stroke();ctx.globalAlpha=0.06;ctx.fillStyle=ev.color;ctx.fillRect(x-10,chartArea.top,20,chartArea.bottom-chartArea.top);ctx.globalAlpha=1;ctx.setLineDash([]);ctx.font=`bold 11px ${getComputedStyle(document.body).fontFamily}`;ctx.fillStyle=ev.color;ctx.textAlign='center';ctx.fillText(ev.marker,x,chartArea.top+14);ctx.restore();});}};
-const vwapLinePlugin={id:'vwapLine',afterDraw(chart){const{ctx,chartArea,scales}=chart;const y=scales.yp.getPixelForValue(ytdVwap);if(y<chartArea.top||y>chartArea.bottom)return;ctx.save();ctx.strokeStyle='rgba(248,81,73,0.45)';ctx.lineWidth=1;ctx.setLineDash([3,3]);ctx.beginPath();ctx.moveTo(chartArea.left,y);ctx.lineTo(chartArea.right,y);ctx.stroke();ctx.fillStyle='rgba(248,81,73,0.65)';ctx.font='9px monospace';ctx.textAlign='left';ctx.fillText(`VWAP $${ytdVwap}`,chartArea.left+4,y-3);ctx.restore();}};
-new Chart(document.getElementById('mainChart').getContext('2d'),{
-  data:{labels:monthly.map(d=>pLabel(d.p)),datasets:[
-    {type:'line',data:monthly.map(d=>d.price),yAxisID:'yp',borderColor:'#58a6ff',borderWidth:2,pointRadius:3,pointBackgroundColor:'#58a6ff',pointBorderColor:'#0d1117',pointBorderWidth:1.5,tension:0.3,fill:false,order:1},
-    {type:'bar',data:monthly.map(d=>+(d.cn/1e9).toFixed(2)),yAxisID:'yb',backgroundColor:barColors,borderColor:barColors.map(c=>c.replace(/[\d.]+\)$/,'0.9)')),borderWidth:1,borderRadius:3,order:2}
-  ]},
-  options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{display:false},tooltip:{backgroundColor:'#1c2330',borderColor:'#2a3140',borderWidth:1,titleColor:'#e6edf3',bodyColor:'#8b949e',padding:10,callbacks:{afterTitle(items){const idx=items[0]?.dataIndex;const ev=events.find(e=>e.p===monthly[idx]?.p);return ev?[`⚡ ${ev.label}: ${ev.detail}`]:[];},label(c){if(c.datasetIndex===0)return`  Price: HK$${c.raw}`;return c.raw>0?`  Buyback: HK$${c.raw.toFixed(1)}B`:'  No repurchase';}}}},scales:{x:{grid:{color:'rgba(255,255,255,.04)'},ticks:{color:'#6e7681',font:{size:11},maxRotation:0}},yp:{position:'left',grid:{color:'rgba(255,255,255,.06)'},ticks:{color:'#58a6ff',font:{size:11},callback:v=>`$${v}`},border:{display:false}},yb:{position:'right',grid:{drawOnChartArea:false},ticks:{color:'#3fb950',font:{size:11},callback:v=>`$${v}B`},border:{display:false}}}},
-  plugins:[blackoutPlugin,eventLinesPlugin,vwapLinePlugin]
-});
+function renderStockView(d){
+  const cs=d.consistency_score||0;
+  const vwap=d.vwap_hkd||null;
+  const curPx=d.current_price_hkd||null;
+  const ff=d.free_float_pct||0;
+  const mandatePct=d.mandate_pct||10;
+  const pctIssued=d.pct_issued||0;
+  const consumed=d.mandate_consumed_pct||0;
+  const notional=d.cumulative_notional||0;
+  const sharesBought=d.shares_bought||0;
+  const sharesIssued=d.shares_issued||0;
+  const bbYld=d.buyback_yield_pct||0;
+  const renewProb=d.renew_probability||0;
+  const agmDate=d.agm_date||'';
+  const monthly=d.monthly||[];
+  const active=d.programme_active;
+  const headroom=(mandatePct-pctIssued).toFixed(2);
+  const uwPct=(vwap&&curPx)?(curPx/vwap-1)*100:null;
+  const isUnderwater=uwPct!==null&&uwPct<0;
+  const floatAdj=ff>0?(pctIssued/ff*100):null;
+  const last12=monthly.slice(-12);
+  const activeMonths=last12.filter(m=>m.shares>0).length;
+  const totalNotional12=last12.reduce((s,m)=>s+(m.notional||0),0);
+  const avgMonthly=activeMonths>0?totalNotional12/activeMonths:0;
+  const sigScore=active&&isUnderwater&&cs>=4?'strong':active&&isUnderwater&&cs>=2?'moderate':active?'watch':'inactive';
+  const sigColors={strong:'var(--green)',moderate:'var(--amber)',watch:'var(--tx2)',inactive:'var(--tx3)'};
+  const sigLabels={strong:'Strong signal',moderate:'Moderate signal',watch:'Watch',inactive:'Inactive'};
 
-/* ── MONTHLY TABLE ── */
-const avg12=565.7,maxCn=Math.max(...monthly.map(d=>d.cn));
-const mtb=document.getElementById('mtbody');
-[...monthly].reverse().forEach(row=>{
-  const pct=maxCn>0?(row.cn/maxCn)*70:0;
-  const vw=row.sh>0?row.cn/row.sh:0;
-  const vs=vw>0?((vw/avg12-1)*100):null;
-  const vsClass=vs===null?'':(vs<0?'style="color:var(--green)"':'style="color:var(--red)"');
-  const vsTxt=vs===null?'—':`${vs>=0?'+':''}${vs.toFixed(1)}%`;
-  const ev=events.find(e=>e.p===row.p);
-  const volPct=(row.sh>0&&row.mv>0)?(row.sh/row.mv*100):null;
-  const volC=volPct===null?'':(volPct>=5?'color:var(--amber)':volPct>=3?'color:var(--tx)':'color:var(--tx2)');
-  const volTxt=volPct===null?'<span style="color:var(--tx3)">—</span>':`<span style="${volC}">${volPct.toFixed(1)}%</span>`;
-  const boStyle=row.blackout?'background:rgba(110,118,129,.07);':'';
-  const boTag=row.blackout?'<span style="font-size:9px;color:var(--tx3);margin-left:4px">⛔</span>':'';
-  const tr=document.createElement('tr');
-  tr.style.cssText=boStyle;
-  tr.innerHTML=`<td class="bold">${pLabel(row.p)}${boTag}${ev?` <span style="font-size:10px;color:${ev.color}">${ev.marker}</span>`:''}</td>
-    <td class="num">${row.d||'—'}</td><td class="num">${row.sh>0?fmtB(row.sh):'—'}</td>
-    <td class="num">${row.sh>0?`<span style="font-family:var(--mono);font-size:12px"><span class="hi">H ${row.hi.toFixed(1)}</span>  <span class="lo">L ${row.lo.toFixed(1)}</span></span>`:'—'}</td>
-    <td class="num"><div class="bc">${row.cn>0?`<div class="ib2 ${pct>40?'hi2':''}" style="width:${pct}px"></div>`:''} ${row.cn>0?fmtHKD(row.cn):`<span style="color:var(--tx3)">${row.blackout?'Blackout period':'No repurchase'}</span>`}</div></td>
-    <td class="num" style="color:var(--tx)">${row.cum.toFixed(2)}%</td>
-    <td class="num">${volTxt}</td>
-    <td class="num" ${vsClass}>${vsTxt}</td>
-    <td>${row.cn>0?`<a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`:'<span style="color:var(--tx3);font-size:11px">—</span>'}</td>`;
-  mtb.appendChild(tr);
-});
+  // Renewal prob bar
+  const rpColor=renewProb>=80?'#3fb950':renewProb>=65?'#d29922':'#8b949e';
+  const rpGrad=renewProb>=80?'linear-gradient(90deg,#3fb950,#58a6ff)':renewProb>=65?'linear-gradient(90deg,#d29922,#e09c00)':'rgba(88,166,255,.5)';
+
+  document.getElementById('sv-inner').innerHTML=`
+    <div class="stock-hero">
+      <div class="hero-top">
+        <span class="hero-name">${d.name}</span>
+        <span class="hero-code">${fmtCode(d.code)}</span>
+        ${active?'<span class="badge-live">Active</span>':'<span class="badge-inactive">Inactive</span>'}
+        <span class="cs-badge ${csClass(cs)}" title="Consistency score ${cs}/5">${csStars(cs)} ${cs}</span>
+        ${sigScore!=='inactive'?`<span style="font-size:12px;font-weight:500;color:${sigColors[sigScore]}">● ${sigLabels[sigScore]}</span>`:''}
+        ${isUnderwater?`<div class="uw-badge" style="margin-left:auto">▼ VWAP underwater ${uwPct.toFixed(1)}%</div>`:''}
+      </div>
+      <div class="hero-mandate">
+        <span class="hm-label">Mandate</span>
+        <div class="hm-track"><div class="hm-fill" style="width:${Math.min(consumed,100).toFixed(1)}%"></div></div>
+        <span class="hm-stat">
+          <span class="${consumed>70?'warn':'ok'}">${consumed.toFixed(1)}%</span> of mandate used ·
+          <span class="ok">${headroom}%</span> remaining ·
+          <span class="dim">expires ${agmDate?agmDate+' AGM':'next AGM'}</span>
+        </span>
+      </div>
+      <div class="econ-strip">
+        <div class="es-item"><span class="es-label">Buyback yield</span><span class="es-val ${bbYld>0?'pos':'neu'}">${bbYld.toFixed(2)}%</span></div>
+        <div class="es-sep"></div>
+        <div class="es-item"><span class="es-label">Free float</span><span class="es-val neu">${ff>0?ff+'%':'—'}</span></div>
+        ${floatAdj?`<div class="es-sep"></div><div class="es-item"><span class="es-label">Float-adj. repurchased</span><span class="es-val pos">${floatAdj.toFixed(2)}%</span></div>`:''}
+        <div class="es-sep"></div>
+        <div class="es-item"><span class="es-label">Shares bought</span><span class="es-val neu">${fmtB(sharesBought)}</span></div>
+        <div class="es-sep"></div>
+        <div class="es-item"><span class="es-label">Total consideration</span><span class="es-val pos">${fmtHKD(notional)}</span></div>
+      </div>
+    </div>
+
+    <div class="chart-section">
+      <div class="cs-head"><div>
+        <div class="cs-title">Price &amp; buyback activity — monthly view</div>
+        <div class="cs-sub">${monthly.length} months · close price (left) · buyback HK$B (right)${vwap?` · VWAP paid HK$${vwap.toFixed(0)}`:''}</div>
+      </div></div>
+      <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
+      <div class="legend">
+        <div class="li"><div class="ld" style="background:#58a6ff"></div>Price (HK$)</div>
+        <div class="li"><div class="lb" style="background:rgba(63,185,80,.55)"></div>Below VWAP paid</div>
+        <div class="li"><div class="lb" style="background:rgba(88,166,255,.45)"></div>Above VWAP / no data</div>
+      </div>
+    </div>
+
+    <div class="mg">
+      <div class="mc2">
+        <div class="ml">Total Consideration</div>
+        <div class="mv" style="font-size:18px">${fmtHKD(notional)}</div>
+        <div class="ms2">${activeMonths} of last 12 months active</div>
+        <div class="md dim">Mandate approved by AGM</div>
+      </div>
+      <div class="mc2">
+        <div class="ml">Shares Bought</div>
+        <div class="mv">${fmtB(sharesBought)}</div>
+        <div class="ms2">${pctIssued.toFixed(2)}% issued${floatAdj?` · ${floatAdj.toFixed(2)}% float`:''}</div>
+        <div class="md dim">${sharesIssued>0?fmtB(sharesIssued)+' shares outstanding':'—'}</div>
+      </div>
+      <div class="mc2">
+        <div class="ml">VWAP Paid</div>
+        <div class="mv" style="font-size:18px">${vwap?`HK$${vwap.toFixed(1)}`:'—'}</div>
+        ${isUnderwater&&curPx?`<div class="uw-flag">▼ Underwater vs HK$${curPx.toFixed(1)} (${uwPct.toFixed(1)}%)</div>`:''}
+        ${!isUnderwater&&curPx&&vwap?`<div class="ms2" style="color:var(--green)">Current: HK$${curPx.toFixed(1)} · above cost basis</div>`:''}
+        ${!vwap?`<div class="ms2" style="color:var(--tx3)">Insufficient buy history</div>`:''}
+      </div>
+      <div class="mc2">
+        <div class="ml">Avg Monthly Spend</div>
+        <div class="mv" style="font-size:18px">${avgMonthly>0?fmtHKD(avgMonthly):'—'}</div>
+        <div class="ms2">${activeMonths} active months (last 12)</div>
+        <div class="md dim">${avgMonthly>0?'Ann. est. '+fmtHKD(avgMonthly*12):'No active months'}</div>
+      </div>
+    </div>
+
+    <div class="insight-box" style="margin-bottom:14px">
+      <div class="ib-head"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 1a5 5 0 0 1 2 9.5V12H6v-1.5A5 5 0 0 1 8 1z"/><path d="M6 13h4M7 15h2" stroke-linecap="round"/></svg>Capital return summary</div>
+      <div class="ib-points">
+        ${isUnderwater?`<div class="ib-point"><div class="ib-icon bear">▼</div><span class="ib-text"><strong>Buying underwater:</strong> VWAP paid HK$${vwap.toFixed(1)} vs current HK$${curPx.toFixed(1)} (${uwPct.toFixed(1)}%). Programme active below its own cost basis.</span></div>`:''}
+        ${floatAdj?`<div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Float impact:</strong> ${pctIssued.toFixed(2)}% of issued capital = <strong>${floatAdj.toFixed(2)}% of freely traded shares</strong> absorbed.</span></div>`:''}
+        <div class="ib-point"><div class="ib-icon bull">↑</div><span class="ib-text"><strong>Buyback yield ${bbYld.toFixed(2)}%</strong>${avgMonthly>0?' · annualised pace ~'+fmtHKD(avgMonthly*12)+'/year':''}</span></div>
+        <div class="ib-point"><div class="ib-icon neutral">→</div><span class="ib-text"><strong>Mandate:</strong> ${consumed.toFixed(1)}% of ${mandatePct}% AGM authority consumed. ${headroom}% headroom remaining.</span></div>
+        ${renewProb>0?`<div class="ib-point"><div class="ib-icon neutral">→</div><span class="ib-text"><strong>Renewal probability ${renewProb}%</strong> at next AGM (${agmDate||'TBD'}).</span></div>`:''}
+        <div class="ib-point" style="padding-top:8px;margin-top:4px;border-top:1px solid var(--bd)">
+          <div class="ib-icon di">DI</div>
+          <span class="ib-text"><strong>DI cross-reference:</strong> <a href="../di/?code=${d.code}" style="color:var(--accent)">View substantial shareholder filings for ${fmtCode(d.code)} →</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="ts">
+      <div class="th">
+        <span class="ttitle">Monthly return filings</span>
+        <span class="tmeta">${monthly.length} months · Mandate: ${mandatePct}%${sharesIssued>0?' of '+fmtB(sharesIssued)+' issued shares':''}</span>
+      </div>
+      <div class="tscroll">
+        <table>
+          <colgroup><col style="width:80px"><col style="width:95px"><col style="width:95px"><col style="width:135px"><col style="width:105px"><col style="width:85px"><col style="width:80px"><col style="width:52px"></colgroup>
+          <thead><tr>
+            <th>Period</th><th class="num">Shares</th><th class="num">Avg price</th><th class="num">Consideration</th>
+            <th class="num">Cum % issued</th><th class="num">% mth vol</th><th class="num">vs VWAP</th><th>Filing</th>
+          </tr></thead>
+          <tbody id="mtbody"></tbody>
+        </table>
+      </div>
+    </div>
+  `;
+  renderMonthlyTable(monthly, vwap);
+  requestAnimationFrame(()=>buildStockChart(monthly.slice(-13), vwap));
+}
+
+async function goToStock(code, name){
+  const activeBtn=document.querySelector('.vb.on');
+  if(activeBtn){
+    prevViewBtn=activeBtn;
+    const k=Object.keys(viewIds).find(k=>{const el=document.getElementById(viewIds[k]);return el&&el.style.display!=='none';});
+    prevView=k||'league';
+  }
+  const backLabel=document.getElementById('svBackLabel');
+  const viewNames={home:'Home',league:'League Table',lastsession:'Last Session',ideas:'Ideas Screen',calendar:'Calendar'};
+  if(backLabel)backLabel.textContent=viewNames[prevView]||'list';
+
+  Object.values(viewIds).forEach(id=>{const el=document.getElementById(id);if(el)el.style.display='none';});
+  const sv=document.getElementById('sv');
+  const loading=document.getElementById('sv-loading');
+  const inner=document.getElementById('sv-inner');
+  sv.style.display='block';
+  if(loading){loading.style.display='block';loading.textContent='Loading stock data…';}
+  if(inner)inner.style.display='none';
+  document.querySelectorAll('.vb').forEach(b=>b.classList.remove('on'));
+  const si=document.getElementById('searchInput');
+  if(si)si.value=`${parseInt(code,10)} HK — ${name}`;
+
+  try{
+    const r=await fetch(`../data/ca/${code}.json`);
+    if(!r.ok)throw new Error('Not found');
+    const d=await r.json();
+    if(loading)loading.style.display='none';
+    if(inner)inner.style.display='block';
+    renderStockView(d);
+  }catch{
+    if(loading){loading.style.display='block';loading.innerHTML='<span style="color:var(--red)">Failed to load data for this stock. Data may not yet be scraped.</span>';}
+  }
+}
+
+function svGoBack(){
+  const sv=document.getElementById('sv');
+  if(sv)sv.style.display='none';
+  if(prevViewBtn)prevViewBtn.click();
+  else document.querySelector('.vtog .vb').click();
+}
 
 /* ── LAST SESSION ── */
 let lastSessionSort='cn';
 function renderLastSession(){
   const tb=document.getElementById('la-tbody');tb.innerHTML='';
-  let rows=league.filter(r=>r.ld).map(r=>({...r,vp:r.ld.sh/r.ld.dv*100}));
+  let rows=league.filter(r=>r.ld).map(r=>({...r,vp:r.ld.dv?r.ld.sh/r.ld.dv*100:null}));
   if(lastSessionSort==='cn') rows.sort((a,b)=>b.ld.cn-a.ld.cn);
   if(lastSessionSort==='sh') rows.sort((a,b)=>b.ld.sh-a.ld.sh);
-  if(lastSessionSort==='vp') rows.sort((a,b)=>b.vp-a.vp);
+  if(lastSessionSort==='vp') rows.sort((a,b)=>(b.vp??-1)-(a.vp??-1));
   rows.forEach(r=>{
-    const d=r.ld,vp=r.vp,vc=vp>=5?'color:var(--amber)':vp>=3?'color:var(--tx)':'color:var(--tx2)';
+    const d=r.ld,vp=r.vp,vc=vp!=null?(vp>=5?'color:var(--amber)':vp>=3?'color:var(--tx)':'color:var(--tx2)'):'color:var(--tx3)';
     const tr=document.createElement('tr');
     tr.innerHTML=`<td><div class="scell-link" onclick="goToStock('${r.c}','${r.n}')" tabindex="0" role="button"><span class="nm">${r.n}</span><span class="cd">${fmtCode(r.c)}</span></div></td>
       <td style="font-family:var(--mono);font-size:12px;color:var(--tx2)">${d.date}</td>
-      <td class="num">${fmtB(d.sh)}</td><td class="num"><span style="${vc}">${vp.toFixed(1)}%</span></td>
-      <td class="num"><span style="font-family:var(--mono);font-size:12px"><span class="hi">H ${d.hi.toFixed(2)}</span>  <span class="lo">L ${d.lo.toFixed(2)}</span></span></td>
+      <td class="num">${fmtB(d.sh)}</td><td class="num">${vp!=null?`<span style="${vc}">${vp.toFixed(1)}%</span>`:'<span style="color:var(--tx3)">—</span>'}</td>
+      <td class="num">${(d.hi&&d.lo)?`<span style="font-family:var(--mono);font-size:12px"><span class="hi">H ${d.hi.toFixed(2)}</span>  <span class="lo">L ${d.lo.toFixed(2)}</span></span>`:'<span style="color:var(--tx3)">—</span>'}</td>
       <td class="num">${fmtHKD(d.cn)}</td>
       <td><a class="fl" href="https://www1.hkexnews.hk/search/titlesearch.xhtml" target="_blank">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a></td>`;
     tb.appendChild(tr);
@@ -920,7 +901,7 @@ function renderLeague(){
   document.getElementById('leagueTitle').textContent=leagueTitleMap[leagueSort];
   ['lh-consideration','lh-pct','lh-mandate','lh-date'].forEach(id=>{const el=document.getElementById(id);if(el)el.style.color='';});
   const activeH=document.getElementById(leagueActiveCol[leagueSort]);if(activeH)activeH.style.color='var(--accent)';
-  const maxC=league[0].cn;
+  const maxC=Math.max(...data.map(d=>d.cn),1);
   data.forEach((r,i)=>{
     const bw=Math.round(r.cn/maxC*80);
     const tr=document.createElement('tr');
@@ -942,7 +923,7 @@ function filterL(f,el){leagueFilter=f;document.querySelectorAll('.chips .chip').
 /* ── IDEAS ── */
 function renderConvictionBuys(){
   const tb=document.getElementById('cb-tbody');tb.innerHTML='';
-  const rows=league.filter(r=>r.act&&r.curPx<r.vwap&&r.cs>=4).sort((a,b)=>(a.curPx/a.vwap)-(b.curPx/b.vwap));
+  const rows=league.filter(r=>r.act&&r.vwap&&r.curPx&&r.curPx<r.vwap&&r.cs>=4).sort((a,b)=>(a.curPx/a.vwap)-(b.curPx/b.vwap));
   rows.forEach(r=>{
     const disc=((r.curPx/r.vwap-1)*100);
     const diActive=r.c==='00700'||r.c==='09988';
@@ -1016,22 +997,6 @@ function calNav(dir){calMonth+=dir;if(calMonth>11){calMonth=0;calYear++;}if(calM
 renderCalendar();
 document.querySelector('.sw').style.display='none';
 
-/* ── MANDATE & PROB TOOLTIPS ── */
-function wireTooltip(btnId,popupId){
-  const btn=document.getElementById(btnId),popup=document.getElementById(popupId);
-  if(!btn||!popup)return;
-  let open=false;
-  const show=()=>{popup.style.display='block';open=true;};
-  const hide=()=>{popup.style.display='none';open=false;};
-  btn.addEventListener('mouseenter',show);
-  btn.addEventListener('mouseleave',e=>{if(!popup.matches(':hover'))hide();});
-  popup.addEventListener('mouseleave',hide);
-  btn.addEventListener('focus',show);btn.addEventListener('blur',()=>setTimeout(hide,100));
-  btn.addEventListener('click',e=>{e.stopPropagation();open?hide():show();});
-}
-wireTooltip('mandateInfoBtn','mandateInfoPopup');
-wireTooltip('probInfoBtn','probInfoPopup');
-
 /* ── IDEAS SUB-TAB ── */
 function switchIdeasTab(tab,btn){
   document.querySelectorAll('.ist-btn').forEach(b=>b.classList.remove('on'));btn.classList.add('on');
@@ -1039,14 +1004,12 @@ function switchIdeasTab(tab,btn){
   document.getElementById(tab+'-pane').classList.add('on');
 }
 
-/* ── GO TO STOCK ── */
-function goToStock(code,name){
-  window.location.href=`../../buybacks_v10.html?code=${code}`;
-}
-
 /* ── VIEW SWITCH ── */
 const viewIds={home:'homev',league:'lv',lastsession:'lastsessionv',ideas:'ideasv',calendar:'calendarv'};
 function switchView(v,btn){
+  // Hide stock view if open
+  const sv=document.getElementById('sv');
+  if(sv)sv.style.display='none';
   document.querySelectorAll('.vb').forEach(b=>b.classList.remove('on'));btn.classList.add('on');
   Object.keys(viewIds).forEach(k=>{
     const el=document.getElementById(viewIds[k]);
@@ -1055,7 +1018,57 @@ function switchView(v,btn){
   });
   const sw=document.querySelector('.sw');
   if(sw) sw.style.display=v==='home'?'none':'flex';
+  prevView=v; prevViewBtn=btn;
 }
+
+/* ── SUB-NAV SEARCH BAR ── */
+(function(){
+  const input=document.getElementById('searchInput');
+  const dropdown=document.createElement('div');
+  dropdown.style.cssText='position:absolute;left:0;right:0;background:var(--sf2);border:1px solid var(--bd2);border-radius:var(--r);z-index:300;max-height:260px;overflow-y:auto;box-shadow:0 8px 24px rgba(0,0,0,.5);display:none;top:calc(100% + 4px)';
+  const sw=input?.closest('.sw');
+  if(!input||!sw)return;
+  sw.style.position='relative';
+  sw.appendChild(dropdown);
+  let universe=null, timer;
+  async function loadUniverse(){
+    if(universe)return universe;
+    try{const r=await fetch('../data/universe.json');if(r.ok)universe=await r.json();}catch{}
+    return universe;
+  }
+  function matchStocks(q,stocks){
+    const ql=q.toLowerCase();
+    return stocks.filter(s=>fmtCode(s.code).toLowerCase().includes(ql)||s.name.toLowerCase().includes(ql)).slice(0,15);
+  }
+  input.addEventListener('input',()=>{
+    clearTimeout(timer);
+    const q=input.value.trim();
+    if(!q){dropdown.style.display='none';return;}
+    timer=setTimeout(async()=>{
+      const stocks=await loadUniverse();if(!stocks){dropdown.style.display='none';return;}
+      const matches=matchStocks(q,stocks);
+      if(!matches.length){dropdown.innerHTML='<div style="padding:12px 16px;color:var(--tx3);font-size:13px">No results</div>';dropdown.style.display='block';return;}
+      dropdown.innerHTML=matches.map(s=>`<div class="hsr-item" data-code="${s.code}" data-name="${s.name.replace(/"/g,'&quot;')}"><span class="hsr-code">${fmtCode(s.code)}</span><span class="hsr-name">${s.name}</span></div>`).join('');
+      dropdown.style.display='block';
+      dropdown.querySelectorAll('.hsr-item').forEach(item=>item.addEventListener('mousedown',e=>{
+        e.preventDefault();
+        goToStock(item.dataset.code, item.dataset.name);
+        dropdown.style.display='none';
+      }));
+    },150);
+  });
+  input.addEventListener('keydown',async e=>{
+    if(e.key==='Enter'){
+      const q=input.value.trim();if(!q)return;
+      const stocks=await loadUniverse();if(!stocks)return;
+      const m=matchStocks(q,stocks);
+      if(m.length)goToStock(m[0].code,m[0].name);
+    }
+    if(e.key==='Escape'){dropdown.style.display='none';input.blur();}
+  });
+  input.addEventListener('blur',()=>setTimeout(()=>{dropdown.style.display='none';},200));
+  input.addEventListener('focus',()=>{if(input.value)input.dispatchEvent(new Event('input'));});
+})();
 
 /* ── HOME SEARCH ── */
 (function(){
@@ -1084,9 +1097,11 @@ function switchView(v,btn){
     const ql=q.toLowerCase();
     return stocks.filter(s=>fmtCode(s.code).toLowerCase().startsWith(ql)||s.code.startsWith(q.padStart(5,'0'))||s.name.toLowerCase().includes(ql)).slice(0,12);
   }
-  function navigate(code){
-    if(dest==='ca') location.href=`../ca/?code=${code}`;
-    else if(dest==='di') location.href=`../di/?code=${code}`;
+  function navigate(code, name){
+    if(dest==='ca'){
+      const u=universe&&universe.find(s=>s.code===code);
+      goToStock(code, name||(u&&u.name)||code);
+    } else if(dest==='di') location.href=`../di/?code=${code}`;
     else location.href='../capital-market/';
   }
   let timer;
@@ -1101,7 +1116,7 @@ function switchView(v,btn){
       if(!matches.length){ results.innerHTML='<div class="hsr-empty">No results</div>'; results.style.display='block'; return; }
       results.innerHTML=matches.map(s=>`<div class="hsr-item" data-code="${s.code}"><span class="hsr-code">${fmtCode(s.code)}</span><span class="hsr-name">${s.name}</span><span class="hsr-dest">${dest.toUpperCase()} →</span></div>`).join('');
       results.style.display='block';
-      results.querySelectorAll('.hsr-item').forEach(item=>item.addEventListener('mousedown',e=>{e.preventDefault();navigate(item.dataset.code);}));
+      results.querySelectorAll('.hsr-item').forEach(item=>item.addEventListener('mousedown',e=>{e.preventDefault();const u=stocks.find(s=>s.code===item.dataset.code);navigate(item.dataset.code,u?.name);}));
     },150);
   });
   input.addEventListener('keydown', async e=>{
@@ -1109,7 +1124,7 @@ function switchView(v,btn){
       const q=input.value.trim(); if(!q) return;
       const stocks=await loadUniverse(); if(!stocks) return;
       const m=matchStocks(q,stocks);
-      if(m.length) navigate(m[0].code);
+      if(m.length) navigate(m[0].code,m[0].name);
     }
     if(e.key==='Escape'){ results.style.display='none'; input.blur(); }
   });
