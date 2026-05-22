@@ -1,7 +1,7 @@
 {
   "code": "00241",
   "name": "ALIBABA HEALTH INFORMATION TECHNOLOGY LTD.",
-  "last_scraped": "2026-05-21T22:59:51Z",
+  "last_scraped": "2026-05-22T22:53:07Z",
   "shareholders": [
     {
       "name": "Alibaba Group Holding Limited",
@@ -69,19 +69,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "UBS Group AG",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1364317379,
-      "long_position_pct": 8.43,
-      "short_position_shares": 1385069540,
-      "short_position_pct": 8.56,
-      "relevant_event_date": "2026-05-07",
-      "filing_date": "2026-05-07",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -93,12 +80,33 @@
       "filing_date": "2026-05-18",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1261585698,
+      "long_position_pct": 7.8,
+      "short_position_shares": 1379309082,
+      "short_position_pct": 8.53,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 8.22,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.8,
       "relevant_event_date": "2026-05-18",
       "filing_date": "2026-05-21",
       "form_type": "Form 2",

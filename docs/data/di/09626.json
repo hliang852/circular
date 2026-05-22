@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-21T23:09:23Z",
+  "last_scraped": "2026-05-22T23:02:48Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -98,12 +98,12 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 20696634,
-      "long_position_pct": 5.99,
-      "short_position_shares": 15373287,
-      "short_position_pct": 4.45,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "long_position_shares": 20023786,
+      "long_position_pct": 5.8,
+      "short_position_shares": 13364504,
+      "short_position_pct": 3.87,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -132,25 +132,28 @@
       "filing_date": "2026-03-19",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 17419264,
-      "long_position_pct": 5.04,
-      "short_position_shares": 142777,
-      "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
     {
       "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.99,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
       "relevant_event_date": "2026-05-18",
       "filing_date": "2026-05-21",
       "form_type": "Form 2",

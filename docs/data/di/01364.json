@@ -1,18 +1,18 @@
 {
   "code": "01364",
   "name": "GUMING HOLDINGS LTD.",
-  "last_scraped": "2026-05-21T23:02:33Z",
+  "last_scraped": "2026-05-22T22:56:51Z",
   "shareholders": [
     {
       "name": "Pan Pingping",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1776938622,
-      "long_position_pct": 74.72,
+      "long_position_shares": 1777738622,
+      "long_position_pct": 74.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Qi Xia",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776938622,
-      "long_position_pct": 74.72,
+      "long_position_shares": 1777738622,
+      "long_position_pct": 74.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Ruan Xiudi",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776938622,
-      "long_position_pct": 74.72,
+      "long_position_shares": 1777738622,
+      "long_position_pct": 74.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Wang Yunan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1776938622,
-      "long_position_pct": 74.72,
+      "long_position_shares": 1777738622,
+      "long_position_pct": 74.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -226,6 +226,38 @@
     }
   ],
   "history": [
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Pan Pingping",
       "long_position_pct": 74.72,

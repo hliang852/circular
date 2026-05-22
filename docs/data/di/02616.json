@@ -1,7 +1,7 @@
 {
   "code": "02616",
   "name": "CSTONE PHARMACEUTICALS - B",
-  "last_scraped": "2026-05-20T23:14:51Z",
+  "last_scraped": "2026-05-22T22:59:44Z",
   "shareholders": [
     {
       "name": "WuXi Healthcare Management, LLC",
@@ -85,17 +85,33 @@
       "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 81964360,
-      "long_position_pct": 5.12,
-      "short_position_shares": 18052571,
+      "long_position_shares": 81456668,
+      "long_position_pct": 5.09,
+      "short_position_shares": 17923079,
       "short_position_pct": 1.12,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.12,
