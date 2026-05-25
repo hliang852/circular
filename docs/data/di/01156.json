@@ -1,0 +1,622 @@
+{
+  "code": "01156",
+  "name": "CHINA NEW ENERGY LTD.",
+  "last_scraped": "2026-05-22T22:56:13Z",
+  "shareholders": [
+    {
+      "name": "Tan Fengqiao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 102082520,
+      "long_position_pct": 17.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yu Weijun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 102082520,
+      "long_position_pct": 17.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tewin Capital Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 99012168,
+      "long_position_pct": 16.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tang Zhaoxing",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 51070352,
+      "long_position_pct": 8.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zeng Fanghua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 51070352,
+      "long_position_pct": 8.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 48000000,
+      "long_position_pct": 8.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 46170352,
+      "long_position_pct": 7.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Best Full Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45444000,
+      "long_position_pct": 7.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Han Jing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 45444000,
+      "long_position_pct": 7.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liang Hongtao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 45444000,
+      "long_position_pct": 7.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Wan Ling",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 44652107,
+      "long_position_pct": 7.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kapok Capital Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44652107,
+      "long_position_pct": 7.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TANG ZHAO XING",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 44100000,
+      "long_position_pct": 7.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44100000,
+      "long_position_pct": 7.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiang Xinchun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 35170352,
+      "long_position_pct": 5.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Yan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 35170352,
+      "long_position_pct": 5.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jojo Global Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 32100000,
+      "long_position_pct": 5.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "TANG ZHAO XING",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG ZHAO XING",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG ZHAO XING",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "long_position_pct": 8.2,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Xinchun",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Yan",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG ZHAO XING",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "long_position_pct": 8.29,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG ZHAO XING",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZENG FANG HUA",
+      "long_position_pct": 8.39,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Xinchun",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JOJO GLOBAL INVESTMENT LIMITED",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Yan",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Best Full Investments Limited",
+      "long_position_pct": 7.71,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Han Jing",
+      "long_position_pct": 7.71,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liang Hongtao",
+      "long_position_pct": 7.71,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tang Zhaoxing",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 8.14,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zeng Fanghua",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Wan Ling",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Xinchun",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kapok Capital Management Limited",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Fengqiao",
+      "long_position_pct": 17.31,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Zhaoxing",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tewin Capital Holding Limited",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yan",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Weijun",
+      "long_position_pct": 17.31,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zeng Fanghua",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Best Full Investments Limited",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Wan Ling",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Han Jing",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Xinchun",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jojo Global Investment Limited",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kapok Capital Management Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liang Hongtao",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Fengqiao",
+      "long_position_pct": 18.53,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Zhaoxing",
+      "long_position_pct": 9.27,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tewin Capital Holding Limited",
+      "long_position_pct": 17.97,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tonzest Capital Holding Limited",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yan",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Weijun",
+      "long_position_pct": 18.53,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zeng Fanghua",
+      "long_position_pct": 9.27,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

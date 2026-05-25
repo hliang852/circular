@@ -1,18 +1,18 @@
 {
   "code": "06681",
   "name": "BRAINAURORA MEDICAL TECHNOLOGY LTD. - B",
-  "last_scraped": "2026-05-20T23:17:34Z",
+  "last_scraped": "2026-05-22T23:01:53Z",
   "shareholders": [
     {
       "name": "TAN Zheng",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 304796000,
-      "long_position_pct": 22.44,
+      "long_position_shares": 307796000,
+      "long_position_pct": 22.66,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -186,19 +186,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Healthblooming Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 69932000,
-      "long_position_pct": 5.15,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-09",
-      "filing_date": "2026-04-09",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Zhao Yujie",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -213,6 +200,22 @@
     }
   ],
   "history": [
+    {
+      "name": "TAN Zheng",
+      "long_position_pct": 22.66,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthblooming Limited",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Wang Xiaoyi",
       "long_position_pct": 12.86,

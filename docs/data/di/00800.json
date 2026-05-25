@@ -1,0 +1,415 @@
+{
+  "code": "00800",
+  "name": "WERIDE INC. - W",
+  "last_scraped": "2026-05-22T22:54:17Z",
+  "shareholders": [
+    {
+      "name": "HAN XU",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 41249590,
+      "long_position_pct": 75.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xu Han Limited (XHL)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 41249590,
+      "long_position_pct": 75.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 700133136,
+      "long_position_pct": 71.99,
+      "short_position_shares": 700022364,
+      "short_position_pct": 71.98,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tonyhan Limited (THL)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16399590,
+      "long_position_pct": 29.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Humber Partners Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 13564833,
+      "long_position_pct": 24.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI YAN",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 13564833,
+      "long_position_pct": 24.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "N/A N/A",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhengzhou Tongtai Hezhi Management Consulting Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhengzhou Tongtai Zhihe Enterprise Management Center (Limited Partnership)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhengzhou Xufeng Jiayuan Intelligent Connected Enterprise Management Centre (LP)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhengzhou Xuxin Enterprise Management Consulting Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhengzhou Yutong Group Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65659592,
+      "long_position_pct": 6.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 50536766,
+      "long_position_pct": 5.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qiming Corporate GP V, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 49269870,
+      "long_position_pct": 5.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 71.99,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.01,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 71.97,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.01,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.03,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.58,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 71.97,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.0,
+      "relevant_event_date": "2026-04-07",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.95,
+      "relevant_event_date": "2026-02-04",
+      "filing_date": "2026-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 73.17,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 72.95,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 73.94,
+      "relevant_event_date": "2025-11-10",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 74.41,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAN XU",
+      "long_position_pct": 75.25,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Humber Partners Limited",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI YAN",
+      "long_position_pct": 24.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "N/A N/A",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP V, Ltd.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tonyhan Limited (THL)",
+      "long_position_pct": 29.92,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Han Limited (XHL)",
+      "long_position_pct": 75.25,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhengzhou Tongtai Hezhi Management Consulting Co., Ltd.",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhengzhou Tongtai Zhihe Enterprise Management Center (Limited Partnership)",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhengzhou Xufeng Jiayuan Intelligent Connected Enterprise Management Centre (LP)",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhengzhou Xuxin Enterprise Management Consulting Co., Ltd.",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhengzhou Yutong Group Co., Ltd.",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,18 +1,31 @@
 {
   "code": "06687",
   "name": "JST GROUP CORPORATION LTD.",
-  "last_scraped": "2026-05-20T23:17:45Z",
+  "last_scraped": "2026-05-22T23:01:57Z",
   "shareholders": [
+    {
+      "name": "Luo Haidong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 175713700,
+      "long_position_pct": 40.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
     {
       "name": "Black Tea Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 172418900,
-      "long_position_pct": 39.52,
+      "long_position_shares": 174648400,
+      "long_position_pct": 40.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -20,26 +33,13 @@
       "name": "HD Luo Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 172418900,
-      "long_position_pct": 39.52,
+      "long_position_shares": 174648400,
+      "long_position_pct": 40.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Luo Haidong",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 172418900,
-      "long_position_pct": 39.52,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
-      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -239,6 +239,46 @@
     }
   ],
   "history": [
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.28,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Black Tea Limited",
+      "long_position_pct": 40.03,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HD Luo Limited",
+      "long_position_pct": 40.03,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.03,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 39.8,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Black Tea Limited",
       "long_position_pct": 39.52,
