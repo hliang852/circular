@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Circular — SG Disclosure of Interests</title>
+<style>
+:root{
+  --bg:#0d1117;--sf:#161b22;--sf2:#1c2330;--bd:#2a3140;--bd2:#384152;
+  --tx:#e6edf3;--tx2:#8b949e;--tx3:#6e7681;
+  --accent:#58a6ff;--green:#3fb950;--gbg:rgba(63,185,80,.13);
+  --amber:#d29922;--abg:rgba(210,153,34,.13);--red:#f85149;--rbg:rgba(248,81,73,.11);
+  --mono:'SFMono-Regular','Consolas',monospace;--sans:-apple-system,'Segoe UI',system-ui,sans-serif;
+  --r:6px;--rl:10px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:14px;line-height:1.6;min-height:100vh}
+a{color:inherit;text-decoration:none}
+
+.nav{background:var(--sf);border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100}
+.navi{max-width:1160px;margin:0 auto;padding:0 20px;display:flex;align-items:center}
+.brand{font-size:15px;font-weight:600;color:var(--tx);letter-spacing:-.3px;padding:14px 0;margin-right:22px;display:flex;align-items:center;gap:8px}
+.brand svg{opacity:.65}
+.navtabs{display:flex;overflow-x:auto;scrollbar-width:none;flex:1}
+.navtabs::-webkit-scrollbar{display:none}
+.tl{display:flex;align-items:center;gap:5px;padding:14px 12px;font-size:13px;color:var(--tx2);border-bottom:2px solid transparent;white-space:nowrap;transition:color .15s,border-color .15s}
+.tl:hover{color:var(--tx)}.tl.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:500}
+.tl svg{width:13px;height:13px;opacity:.7}
+.market-pill{display:flex;align-items:center;gap:5px;margin-left:auto;padding-left:12px;font-size:12px;color:var(--tx3);white-space:nowrap}
+.market-pill .badge{font-size:10px;background:var(--abg);color:var(--amber);border:1px solid rgba(210,153,34,.3);border-radius:10px;padding:1px 6px}
+
+.page{max-width:1160px;margin:0 auto;padding:22px 20px 100px}
+
+/* SUBNAV TABS */
+.di-subnav{display:flex;align-items:center;gap:10px;border-bottom:1px solid var(--bd);margin-bottom:22px;flex-wrap:wrap}
+.di-vtog{display:flex;overflow-x:auto;scrollbar-width:none;flex:1}
+.di-vtog::-webkit-scrollbar{display:none}
+.di-vb{padding:12px 14px;font-size:13px;color:var(--tx2);background:none;border:none;border-bottom:2px solid transparent;cursor:pointer;font-family:var(--sans);white-space:nowrap;transition:color .12s,border-color .12s}
+.di-vb.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:500}
+.di-vb:hover:not(.on){color:var(--tx)}
+.di-subnav-right{display:flex;align-items:center;gap:8px;padding-bottom:4px}
+.di-subnav-input{background:var(--sf);border:1px solid var(--bd2);border-radius:var(--r);color:var(--tx);font-size:12px;padding:6px 10px;font-family:var(--sans);outline:none;width:220px;transition:border-color .15s}
+.di-subnav-input:focus{border-color:var(--accent)}
+.di-subnav-input::placeholder{color:var(--tx3)}
+
+/* HERO */
+.di-home-hero{text-align:center;padding:52px 20px 40px;border-bottom:1px solid var(--bd);margin-bottom:28px}
+.di-page-tag{display:inline-flex;align-items:center;gap:6px;background:var(--sf2);border:1px solid var(--bd);border-radius:20px;font-size:11px;color:var(--tx3);padding:4px 12px;margin-bottom:16px;letter-spacing:.04em}
+.di-home-title{font-size:30px;font-weight:700;color:var(--tx);letter-spacing:-.5px;margin-bottom:10px}
+.di-home-subtitle{font-size:15px;color:var(--tx2);max-width:580px;margin:0 auto 28px;line-height:1.7}
+.di-home-search-block{position:relative;max-width:640px;margin:0 auto 24px}
+.di-home-search-card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:12px 16px}
+.di-home-search-row{display:flex;align-items:center;gap:10px}
+.di-home-search-row svg{color:var(--tx3);flex-shrink:0}
+.di-home-search-input{flex:1;background:transparent;border:none;color:var(--tx);font-size:14px;font-family:var(--sans);outline:none}
+.di-home-search-input::placeholder{color:var(--tx3)}
+.di-home-search-results{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--sf2);border:1px solid var(--bd2);border-radius:var(--rl);z-index:300;max-height:280px;overflow-y:auto;box-shadow:0 8px 24px rgba(0,0,0,.5);display:none}
+.hsr-item{display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--bd);cursor:pointer;transition:background .1s}
+.hsr-item:last-child{border-bottom:none}
+.hsr-item:hover{background:rgba(88,166,255,.07)}
+.hsr-code{font-family:var(--mono);font-size:11px;color:var(--tx3);width:52px;flex-shrink:0}
+.hsr-name{font-size:13px;color:var(--tx);flex:1}
+.hsr-empty{padding:14px 16px;color:var(--tx3);font-size:13px}
+
+.di-home-actions{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin-top:20px}
+.di-action-card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:18px 20px;cursor:pointer;text-align:left;font-family:var(--sans);transition:border-color .15s,background .15s}
+.di-action-card:hover{border-color:var(--bd2);background:var(--sf2)}
+.di-action-icon{font-size:22px;margin-bottom:8px}
+.di-action-title{font-size:13px;font-weight:600;color:var(--tx);margin-bottom:6px}
+.di-action-desc{font-size:12px;color:var(--tx2);line-height:1.6}
+
+/* TABLES */
+.tab-panel{display:none}.tab-panel.active{display:block}
+table{width:100%;border-collapse:collapse;font-size:13px}
+thead th{text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3);font-weight:500;padding:8px 12px;border-bottom:1px solid var(--bd);white-space:nowrap}
+thead th.num{text-align:right}
+tbody td{padding:9px 12px;border-bottom:1px solid var(--bd);vertical-align:middle}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover td{background:rgba(255,255,255,.02)}
+td.num{text-align:right;font-family:var(--mono);font-size:12px}
+.table-shell{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden}
+.table-scroll{overflow-x:auto}
+
+.latest-meta-row{margin-bottom:12px}
+.latest-meta{font-size:12px;color:var(--tx3)}
+
+.fl{display:inline-flex;align-items:center;gap:3px;color:var(--accent);font-size:11px}
+.fl svg{opacity:.7}
+
+/* STOCK VIEW */
+.sv-back-btn{display:inline-flex;align-items:center;gap:6px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);color:var(--tx2);font-size:12px;padding:6px 12px;cursor:pointer;font-family:var(--sans);margin-bottom:16px;transition:color .12s,border-color .12s}
+.sv-back-btn:hover{color:var(--tx);border-color:var(--bd2)}
+.stock-hero{background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);padding:18px 22px;margin-bottom:14px}
+.hero-top{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.hero-name{font-size:22px;font-weight:700;color:var(--tx);letter-spacing:-.3px}
+.hero-code{font-size:13px;font-family:var(--mono);color:var(--tx2);background:var(--sf2);border:1px solid var(--bd);border-radius:4px;padding:2px 8px}
+.badge-unit{font-size:10px;padding:2px 7px;border-radius:10px;background:rgba(163,113,247,.12);color:#a371f7;border:1px solid rgba(163,113,247,.25)}
+
+/* TAGS */
+.ev-initial{font-size:11px;font-weight:500;padding:2px 8px;border-radius:10px;background:var(--gbg);color:var(--green);border:1px solid rgba(63,185,80,.25)}
+.ev-change{font-size:11px;font-weight:500;padding:2px 8px;border-radius:10px;background:var(--abg);color:var(--amber);border:1px solid rgba(210,153,34,.25)}
+.ev-ceased{font-size:11px;font-weight:500;padding:2px 8px;border-radius:10px;background:var(--rbg);color:var(--red);border:1px solid rgba(248,81,73,.22)}
+.ev-unknown{font-size:11px;padding:2px 8px;border-radius:10px;background:var(--sf2);color:var(--tx3);border:1px solid var(--bd)}
+.role-tag{font-size:10px;padding:1px 6px;border-radius:8px;background:var(--sf2);border:1px solid var(--bd);color:var(--tx3);font-family:var(--mono)}
+
+/* SEARCH */
+.search-row{display:flex;align-items:center;gap:10px;margin-bottom:16px;position:relative}
+.search-input-wrap{position:relative;flex:1;max-width:400px}
+.search-input-wrap svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--tx3);pointer-events:none}
+.search-input{width:100%;background:var(--sf);border:1px solid var(--bd2);border-radius:var(--r);color:var(--tx);font-size:13px;padding:8px 12px 8px 32px;font-family:var(--sans);outline:none;transition:border-color .15s}
+.search-input:focus{border-color:var(--accent)}
+.search-input::placeholder{color:var(--tx3)}
+.dropdown{background:var(--sf2);border:1px solid var(--bd2);border-radius:var(--rl);box-shadow:0 8px 24px rgba(0,0,0,.5);max-height:260px;overflow-y:auto;position:absolute;top:calc(100% + 4px);left:0;min-width:340px;z-index:200}
+.dd-item{display:flex;align-items:center;gap:10px;padding:9px 14px;border-bottom:1px solid var(--bd);cursor:pointer;transition:background .1s;font-size:13px}
+.dd-item:last-child{border-bottom:none}
+.dd-item:hover{background:rgba(88,166,255,.07)}
+.dd-code{font-family:var(--mono);font-size:11px;color:var(--tx3);width:48px;flex-shrink:0}
+
+.empty-state{text-align:center;padding:48px 20px;color:var(--tx3);font-size:13px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);margin-top:12px}
+.load-state{text-align:center;padding:60px 20px;color:var(--tx3);font-size:13px}
+
+.section-head{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--tx3);margin:20px 0 10px;display:flex;align-items:center;gap:8px}
+.sh-count{font-size:11px;font-weight:400;color:var(--tx3);background:var(--sf2);border:1px solid var(--bd);border-radius:10px;padding:1px 7px}
+
+.disclaimer{padding:8px 0 4px;margin:32px 0 0;display:flex;gap:14px;align-items:flex-start}
+.disc-icon{width:28px;height:28px;background:var(--abg);border:1px solid rgba(210,153,34,.25);border-radius:6px;display:flex;align-items:center;justify-content:center;color:var(--amber);font-weight:600;font-size:14px;flex-shrink:0}
+.disc-body h3{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--amber);margin-bottom:4px}
+.disc-body p{font-size:12px;color:var(--tx3);line-height:1.6;max-width:800px}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="navi">
+    <a href="../../" class="brand">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 5v3l2 2" stroke-linecap="round"/></svg>
+      Circular
+    </a>
+    <div class="navtabs">
+      <a href="../" class="tl">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 8.5L8 3l6 5.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 7.5V13h8V7.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Singapore
+      </a>
+      <a href="../ca/" class="tl">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v2m0 8v2M2 8h2m8 0h2" stroke-linecap="round"/><circle cx="8" cy="8" r="3"/></svg>
+        Corporate Actions
+      </a>
+      <a href="./" class="tl on">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
+        Disclosure of Interests
+      </a>
+    </div>
+    <div class="market-pill">🇸🇬 SGX <span class="badge">BETA</span></div>
+  </div>
+</nav>
+
+<main class="page">
+
+  <!-- Sub-nav tabs -->
+  <div class="di-subnav">
+    <div class="di-vtog">
+      <button class="di-vb on"  data-tab="home">🏠 Overview</button>
+      <button class="di-vb"     data-tab="latest">📋 Latest Filings</button>
+      <button class="di-vb"     data-tab="by-shareholder">👤 By Shareholder</button>
+      <button class="di-vb"     data-tab="stock">📈 By Stock</button>
+    </div>
+    <div class="di-subnav-right" id="diSubnavRight" hidden>
+      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--tx3);flex-shrink:0"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+      <input id="latest-filter" type="search" class="di-subnav-input" placeholder="Filter by name, stock, shareholder…" autocomplete="off">
+    </div>
+  </div>
+
+  <!-- ── OVERVIEW ── -->
+  <section id="tab-home" class="tab-panel active">
+    <div class="di-home-hero">
+      <div class="di-page-tag">
+        <svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="5.5" r="2.5"/><path d="M2.5 13c0-3.038 2.462-5.5 5.5-5.5s5.5 2.462 5.5 5.5" stroke-linecap="round"/></svg>
+        MAS Form 1/3/4 · Securities and Futures Act · ≥5% threshold · SGXNET
+      </div>
+      <h1 class="di-home-title">Substantial Shareholder Disclosures</h1>
+      <p class="di-home-subtitle">Under the Securities and Futures Act, investors crossing the 5% threshold in an SGX-listed company must file a disclosure. Circular tracks every SGXNET filing — who holds what, who is accumulating, and who is selling down.</p>
+
+      <div class="di-home-search-block">
+        <div class="di-home-search-card">
+          <div class="di-home-search-row">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+            <input id="diHomeSearch" class="di-home-search-input" type="text" placeholder="Search shareholder name or SGX stock code…" autocomplete="off">
+          </div>
+        </div>
+        <div class="di-home-search-results" id="diHomeSearchResults"></div>
+      </div>
+
+      <div class="di-home-actions">
+        <button class="di-action-card" onclick="switchDITab('latest')">
+          <div class="di-action-icon">📋</div>
+          <div class="di-action-title">Explore Latest Filings</div>
+          <div class="di-action-desc">Browse the most recent substantial shareholder disclosures across SGX Mainboard companies, sorted by filing date.</div>
+        </button>
+        <button class="di-action-card" onclick="switchDITab('by-shareholder')">
+          <div class="di-action-icon">🔍</div>
+          <div class="di-action-title">Search by Shareholder</div>
+          <div class="di-action-desc">Find all SGX positions held by a single institutional or individual shareholder — e.g. BlackRock, GIC, Temasek.</div>
+        </button>
+      </div>
+
+      <div class="disclaimer" style="text-align:left;max-width:720px;margin:28px auto 0">
+        <div class="disc-icon">!</div>
+        <div class="disc-body">
+          <h3>For information only — not advice · Source: SGXNET</h3>
+          <p>Circular scrapes MAS Form 1/3/4 filings from SGXNET. Director dealings and substantial shareholder changes share the same SGX filing pipeline. Always verify against the original SGXNET filing.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── LATEST FILINGS ── -->
+  <section id="tab-latest" class="tab-panel" hidden>
+    <div class="latest-meta-row">
+      <div class="latest-meta" id="latest-meta"></div>
+    </div>
+    <div id="latest-loading" class="load-state">Loading latest filings…</div>
+    <div id="latest-result" hidden>
+      <div class="table-shell">
+        <div class="table-scroll">
+          <table id="latest-table">
+            <thead>
+              <tr>
+                <th>Filing date</th>
+                <th>Stock</th>
+                <th>Shareholder</th>
+                <th>Event</th>
+                <th>Role</th>
+                <th class="num">Long %</th>
+                <th>Form</th>
+                <th>Filing</th>
+              </tr>
+            </thead>
+            <tbody id="latest-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div id="latest-empty" class="empty-state" hidden>No filings yet — run the DI scraper to populate.</div>
+  </section>
+
+  <!-- ── BY SHAREHOLDER ── -->
+  <section id="tab-by-shareholder" class="tab-panel" hidden>
+    <div class="search-row">
+      <div class="search-input-wrap">
+        <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+        <input id="sh-search" class="search-input" type="search" placeholder="Search shareholder name…" autocomplete="off">
+      </div>
+      <div id="sh-dropdown" class="dropdown" hidden></div>
+    </div>
+    <div id="sh-result" hidden>
+      <h2 style="font-size:18px;font-weight:600;margin-bottom:14px" id="sh-result-name"></h2>
+      <div class="table-shell"><div class="table-scroll">
+        <table id="sh-holdings-table">
+          <thead><tr>
+            <th>Stock</th><th>Company</th>
+            <th class="num">Long %</th><th class="num">Shares</th>
+            <th>Role</th><th>Last filing</th>
+          </tr></thead>
+          <tbody id="sh-holdings-tbody"></tbody>
+        </table>
+      </div></div>
+    </div>
+    <div id="sh-empty" class="empty-state">Search for a shareholder to view their SGX holdings.</div>
+  </section>
+
+  <!-- ── BY STOCK ── -->
+  <section id="tab-stock" class="tab-panel" hidden>
+    <div id="stock-home">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="4.5"/><path d="M10.5 10.5L14 14" stroke-linecap="round"/></svg>
+          <input id="stock-search" class="search-input" type="search" placeholder="SGX code or company name…" autocomplete="off">
+        </div>
+        <div id="stock-dropdown" class="dropdown" hidden></div>
+      </div>
+      <div id="stock-empty" class="empty-state">Enter a stock code above to see its substantial shareholders.</div>
+    </div>
+    <div id="stock-result" hidden>
+      <button class="sv-back-btn" onclick="clearStockView()">
+        <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 3L5 8l5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Back
+      </button>
+      <div id="stock-hero-inner"></div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+/* ── STATE ── */
+let diIndex = {};       // shareholder name -> [{ code, name, pct, shares, role, date }]
+let universe = [];
+
+const fmtDate = d => d ? new Date(d).toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'2-digit'}) : '—';
+const fmtB    = n => n >= 1e9 ? `${(n/1e9).toFixed(1)}B` : n >= 1e6 ? `${(n/1e6).toFixed(0)}M` : n.toLocaleString();
+
+function evBadge(ev) {
+  if (!ev) return '<span class="ev-unknown">Unknown</span>';
+  const cls = ev === 'Initial' ? 'ev-initial' : ev === 'Ceased' ? 'ev-ceased' : ev === 'Change' ? 'ev-change' : 'ev-unknown';
+  return `<span class="${cls}">${ev}</span>`;
+}
+function roleBadge(role) {
+  if (!role || role === 'unknown') return '';
+  return `<span class="role-tag">${role.replace('_',' ')}</span>`;
+}
+
+/* ── DATA LOAD ── */
+(async () => {
+  try {
+    const r = await fetch('../../data/sg/di_index.json');
+    if (!r.ok) return;
+    diIndex = await r.json();
+    // populate latest filings from index
+    renderLatest();
+  } catch {}
+})();
+
+(async () => {
+  try {
+    const r = await fetch('../../data/sg/universe.json');
+    if (!r.ok) return;
+    const u = await r.json();
+    universe = u.stocks || [];
+  } catch {}
+})();
+
+/* ── TABS ── */
+function switchDITab(name) {
+  document.querySelectorAll('.di-vb').forEach(b => b.classList.toggle('on', b.dataset.tab === name));
+  document.querySelectorAll('.tab-panel').forEach(p => {
+    p.classList.toggle('active', p.id === 'tab-' + name);
+    p.hidden = p.id !== 'tab-' + name;
+  });
+  const hasFilter = ['latest'].includes(name);
+  document.getElementById('diSubnavRight').hidden = !hasFilter;
+}
+
+document.querySelectorAll('.di-vb').forEach(btn => {
+  btn.addEventListener('click', () => switchDITab(btn.dataset.tab));
+});
+
+/* ── LATEST FILINGS (from di_index) ── */
+function renderLatest() {
+  const loading = document.getElementById('latest-loading');
+  const result  = document.getElementById('latest-result');
+  const empty   = document.getElementById('latest-empty');
+
+  // Flatten di_index into filing rows
+  const rows = [];
+  for (const [shName, filings] of Object.entries(diIndex)) {
+    for (const f of filings) {
+      rows.push({ shName, ...f });
+    }
+  }
+  rows.sort((a, b) => (b.filing_date || '').localeCompare(a.filing_date || ''));
+
+  loading.hidden = true;
+  if (!rows.length) { empty.hidden = false; return; }
+
+  document.getElementById('latest-meta').textContent =
+    `${rows.length} total filings · ${Object.keys(diIndex).length} shareholders tracked`;
+
+  const tb = document.getElementById('latest-tbody');
+  tb.innerHTML = rows.slice(0, 200).map(r => `<tr>
+    <td style="font-size:12px;color:var(--tx2)">${fmtDate(r.filing_date)}</td>
+    <td>
+      <span style="font-family:var(--mono);font-size:11px;color:var(--tx3)">${r.code||'—'}</span>
+      ${r.stock_name ? `<span style="font-size:12px;color:var(--tx2);margin-left:6px">${r.stock_name}</span>` : ''}
+    </td>
+    <td style="font-size:13px;color:var(--tx);font-weight:500">${r.shName}</td>
+    <td>${evBadge(r.event_type)}</td>
+    <td>${roleBadge(r.role)}</td>
+    <td class="num">${r.long_position_pct != null ? r.long_position_pct.toFixed(2)+'%' : '—'}</td>
+    <td style="font-size:11px;color:var(--tx3)">${r.filing_form_type||'—'}</td>
+    <td>${r.filing_url
+      ? `<a class="fl" href="${r.filing_url}" target="_blank" rel="noopener">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`
+      : '—'}</td>
+  </tr>`).join('');
+  result.hidden = false;
+
+  // Filter
+  document.getElementById('latest-filter').addEventListener('input', e => {
+    const q = e.target.value.trim().toLowerCase();
+    tb.querySelectorAll('tr').forEach(row => {
+      row.hidden = q ? !row.textContent.toLowerCase().includes(q) : false;
+    });
+  });
+}
+
+/* ── BY SHAREHOLDER ── */
+const shSearch = document.getElementById('sh-search');
+const shDrop   = document.getElementById('sh-dropdown');
+
+shSearch.addEventListener('input', () => {
+  const q = shSearch.value.trim().toLowerCase();
+  shDrop.hidden = true; shDrop.innerHTML = '';
+  if (!q || !Object.keys(diIndex).length) return;
+  const hits = Object.keys(diIndex).filter(n => n.toLowerCase().includes(q)).slice(0, 10);
+  if (!hits.length) return;
+  shDrop.innerHTML = hits.map(n => `<div class="dd-item" data-name="${n}">${n}</div>`).join('');
+  shDrop.hidden = false;
+  shDrop.querySelectorAll('.dd-item').forEach(el =>
+    el.addEventListener('click', () => { shSearch.value = el.dataset.name; shDrop.hidden = true; renderShResult(el.dataset.name); })
+  );
+});
+
+function renderShResult(name) {
+  const filings = diIndex[name];
+  if (!filings || !filings.length) return;
+  document.getElementById('sh-empty').hidden = true;
+  document.getElementById('sh-result-name').textContent = name;
+  const tb = document.getElementById('sh-holdings-tbody');
+  tb.innerHTML = filings.map(f => `<tr>
+    <td style="font-family:var(--mono);font-size:12px;color:var(--tx3)">${f.code||'—'}</td>
+    <td style="font-size:13px;color:var(--tx)">${f.stock_name||f.code||'—'}</td>
+    <td class="num">${f.long_position_pct != null ? f.long_position_pct.toFixed(2)+'%' : '—'}</td>
+    <td class="num">${f.long_position_shares ? fmtB(f.long_position_shares) : '—'}</td>
+    <td>${roleBadge(f.role)}</td>
+    <td style="font-size:12px;color:var(--tx2)">${fmtDate(f.filing_date)}</td>
+  </tr>`).join('');
+  document.getElementById('sh-result').hidden = false;
+}
+
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-row')) { shDrop.hidden = true; document.getElementById('stock-dropdown').hidden = true; }
+});
+
+/* ── BY STOCK ── */
+const stockSearch = document.getElementById('stock-search');
+const stockDrop   = document.getElementById('stock-dropdown');
+
+stockSearch.addEventListener('input', () => {
+  const q = stockSearch.value.trim().toLowerCase();
+  stockDrop.hidden = true; stockDrop.innerHTML = '';
+  if (!q) return;
+  const src = universe.length ? universe : [];
+  const hits = src.filter(s => s.code.toLowerCase().includes(q) || s.name.toLowerCase().includes(q)).slice(0, 8);
+  if (!hits.length) return;
+  stockDrop.innerHTML = hits.map(s => `
+    <div class="dd-item" data-code="${s.code}">
+      <span class="dd-code">${s.code}</span>
+      <span>${s.name}</span>
+    </div>`).join('');
+  stockDrop.hidden = false;
+  stockDrop.querySelectorAll('.dd-item').forEach(el =>
+    el.addEventListener('click', () => { stockSearch.value = ''; stockDrop.hidden = true; loadStockDI(el.dataset.code); })
+  );
+});
+stockSearch.addEventListener('keydown', e => {
+  if (e.key === 'Enter') {
+    const q = stockSearch.value.trim().toLowerCase();
+    const hit = universe.find(s => s.code.toLowerCase() === q);
+    if (hit) { stockDrop.hidden = true; loadStockDI(hit.code); }
+  }
+});
+
+async function loadStockDI(code) {
+  try {
+    const r = await fetch(`../../data/sg/di/${code}.json`);
+    if (!r.ok) { alert(`No DI data for ${code} yet.`); return; }
+    const d = await r.json();
+    renderStockDI(d);
+  } catch(e) { console.error(e); }
+}
+
+function renderStockDI(d) {
+  const unit = d.security_type === 'unit' ? 'units' : 'shares';
+  const history = (d.history || []).slice().reverse();
+  document.getElementById('stock-empty').hidden = true;
+
+  const heroEl = document.getElementById('stock-hero-inner');
+  heroEl.innerHTML = `
+    <div class="stock-hero">
+      <div class="hero-top">
+        <span class="hero-name">${d.name || d.code}</span>
+        <span class="hero-code">${d.code}</span>
+        <span style="font-size:11px;color:var(--tx3);font-family:var(--mono)">SGX</span>
+        ${d.security_type === 'unit' ? '<span class="badge-unit">REIT / Trust</span>' : ''}
+      </div>
+      <div style="font-size:12px;color:var(--tx3);margin-top:2px">
+        ${history.length} filing${history.length !== 1 ? 's' : ''} · Last updated ${d.last_updated ? fmtDate(d.last_updated) : 'never'}
+      </div>
+    </div>
+
+    <div class="section-head">Filing history <span class="sh-count">${history.length}</span></div>
+    <div class="table-shell"><div class="table-scroll">
+      <table>
+        <thead><tr>
+          <th>Filing date</th>
+          <th>Shareholder</th>
+          <th>Event</th>
+          <th>Role</th>
+          <th class="num">Long %</th>
+          <th class="num">${unit.charAt(0).toUpperCase()+unit.slice(1)}</th>
+          <th>Form</th>
+          <th>Filing</th>
+        </tr></thead>
+        <tbody>
+          ${history.map(h => `<tr>
+            <td style="font-size:12px;color:var(--tx2)">${fmtDate(h.filing_date)}</td>
+            <td style="font-size:13px;font-weight:500">${h.name || '—'}</td>
+            <td>${evBadge(h.event_type)}</td>
+            <td>${roleBadge(h.role)}</td>
+            <td class="num">${h.long_position_pct != null ? h.long_position_pct.toFixed(2)+'%' : '—'}</td>
+            <td class="num">${h.long_position_shares ? fmtB(h.long_position_shares) : '—'}</td>
+            <td style="font-size:11px;color:var(--tx3)">${h.filing_form_type||'—'}</td>
+            <td>${h.filing_url
+              ? `<a class="fl" href="${h.filing_url}" target="_blank" rel="noopener">PDF <svg width="9" height="9" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 10L10 2M5 2h5v5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>`
+              : '—'}</td>
+          </tr>`).join('')}
+        </tbody>
+      </table>
+    </div></div>`;
+  document.getElementById('stock-result').hidden = false;
+}
+
+function clearStockView() {
+  document.getElementById('stock-result').hidden = true;
+  document.getElementById('stock-empty').hidden = false;
+}
+
+/* ── HOME SEARCH (search by code or shareholder name) ── */
+const homeSearch = document.getElementById('diHomeSearch');
+const homeResults = document.getElementById('diHomeSearchResults');
+
+homeSearch.addEventListener('input', () => {
+  const q = homeSearch.value.trim().toLowerCase();
+  homeResults.style.display = 'none'; homeResults.innerHTML = '';
+  if (!q) return;
+  const shHits = Object.keys(diIndex).filter(n => n.toLowerCase().includes(q)).slice(0, 4);
+  const stockHits = universe.filter(s => s.code.toLowerCase().includes(q) || s.name.toLowerCase().includes(q)).slice(0, 4);
+  const items = [
+    ...shHits.map(n => ({ type: 'sh', label: n, sub: `${diIndex[n].length} filing(s)` })),
+    ...stockHits.map(s => ({ type: 'stock', label: s.name, sub: s.code, code: s.code })),
+  ].slice(0, 8);
+  if (!items.length) {
+    homeResults.innerHTML = `<div class="hsr-empty">No results for "${q}"</div>`;
+  } else {
+    homeResults.innerHTML = items.map(it => `
+      <div class="hsr-item" data-type="${it.type}" data-val="${it.type==='sh'?it.label:it.code}">
+        <span class="hsr-code">${it.type==='sh'?'👤':'📈'}</span>
+        <span class="hsr-name">${it.label}</span>
+        <span style="font-size:11px;color:var(--tx3)">${it.sub}</span>
+      </div>`).join('');
+    homeResults.querySelectorAll('.hsr-item').forEach(el => el.addEventListener('click', () => {
+      homeResults.style.display = 'none';
+      homeSearch.value = '';
+      if (el.dataset.type === 'sh') {
+        switchDITab('by-shareholder');
+        document.getElementById('sh-search').value = el.dataset.val;
+        renderShResult(el.dataset.val);
+      } else {
+        switchDITab('stock');
+        loadStockDI(el.dataset.val);
+      }
+    }));
+  }
+  homeResults.style.display = 'block';
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.di-home-search-block')) homeResults.style.display = 'none';
+});
+
+/* ── DEEP-LINK ── */
+(function() {
+  const p = new URL(location);
+  const code = p.searchParams.get('code');
+  if (code) { switchDITab('stock'); loadStockDI(code); }
+})();
+</script>
+</body>
+</html>

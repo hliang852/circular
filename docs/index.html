@@ -541,18 +541,22 @@ a{color:inherit;text-decoration:none}
   const regionLabel  = document.getElementById('regionLabel');
   const regionContext = document.getElementById('regionContext');
 
+  let currentMarket = 'HK';
+
   function syncRegion(code, flag, name) {
-    // Sync nav region selector
+    currentMarket = code;
     document.querySelectorAll('.region-item').forEach(i => {
       i.classList.toggle('selected', i.dataset.code === code);
     });
     regionFlag.textContent   = flag;
     regionLabel.textContent  = code;
     regionContext.textContent = name;
-    // Sync hero market dropdown
     document.querySelectorAll('.market-drop-item').forEach(i => {
       i.classList.toggle('selected', i.dataset.code === code);
     });
+    // Navigate to the market's landing page if not HK
+    if (code === 'SG') location.href = 'sg/';
+    if (code === 'JP') location.href = '#';  // JP not yet live
   }
 
   // Nav region selector
@@ -627,6 +631,11 @@ a{color:inherit;text-decoration:none}
   }
 
   function navigate(code) {
+    if (currentMarket === 'SG') {
+      if (searchDest === 'di') location.href = `sg/di/?code=${code}`;
+      else location.href = `sg/ca/?code=${code}`;
+      return;
+    }
     if (searchDest === 'ca') location.href = `ca/?code=${code}`;
     else if (searchDest === 'di') location.href = `di/?code=${code}`;
     else location.href = 'capital-market/';

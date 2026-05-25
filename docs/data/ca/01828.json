@@ -1,0 +1,105 @@
+{
+  "code": "01828",
+  "name": "FWD GROUP HOLDINGS LIMITED",
+  "programme_active": false,
+  "mandate_pct": 10.0,
+  "mandate_consumed_pct": 3.91,
+  "shares_issued": 1279622076,
+  "shares_bought": 5001400,
+  "pct_issued": 0.3908,
+  "cumulative_notional": 220261656,
+  "vwap_hkd": null,
+  "current_price_hkd": 30.0,
+  "buyback_yield_pct": 0.3908,
+  "free_float_pct": 35.0,
+  "consistency_score": 1,
+  "last_filing_date": "2026-05-07",
+  "agm_date": "2026-05-01",
+  "renew_probability": 3,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": 1271003877,
+      "filing_date": "2025-08-06"
+    },
+    {
+      "period": "2025-08",
+      "shares": 5001400,
+      "notional": 220261656,
+      "month_close": 44.04,
+      "month_volume": 9329790,
+      "issued_shares": 1276005277,
+      "filing_date": "2025-09-04"
+    },
+    {
+      "period": "2025-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 47.78,
+      "month_volume": 10838322,
+      "issued_shares": 1276005277,
+      "filing_date": "2025-10-08"
+    },
+    {
+      "period": "2025-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 39.7,
+      "month_volume": 6115609,
+      "issued_shares": 1276005277,
+      "filing_date": "2025-11-06"
+    },
+    {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 38.2,
+      "month_volume": 15137335,
+      "issued_shares": 1276005277,
+      "filing_date": "2026-01-07"
+    },
+    {
+      "period": "2026-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 37.0,
+      "month_volume": 10998527,
+      "issued_shares": 1276005277,
+      "filing_date": "2026-02-05"
+    },
+    {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 37.0,
+      "month_volume": 16652411,
+      "issued_shares": 1276005277,
+      "filing_date": "2026-03-05"
+    },
+    {
+      "period": "2026-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 30.38,
+      "month_volume": 10080107,
+      "issued_shares": 1279622076,
+      "filing_date": "2026-04-09"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 30.28,
+      "month_volume": 3898806,
+      "issued_shares": 1279622076,
+      "filing_date": "2026-05-07"
+    }
+  ],
+  "events": [],
+  "last_session": null,
+  "scraped_at": "2026-05-25T06:49:04.557083Z"
+}

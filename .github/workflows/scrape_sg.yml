@@ -1,0 +1,95 @@
+name: Scrape SG
+
+on:
+  schedule:
+    # Mon-Fri 22:00 UTC (incremental, all sections)
+    - cron: '0 22 * * 1-5'
+    # Sunday 02:00 UTC (full rescrape + universe refresh)
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Scrape mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options: [incremental, full]
+      section:
+        description: 'Section to scrape'
+        required: true
+        default: 'all'
+        type: choice
+        options: [all, di, corp_actions, cap_market]
+      refresh_universe:
+        description: 'Refresh universe.json before scraping'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write  # required to commit scraped data back to the repo
+
+concurrency:
+  group: scrape-sg
+  cancel-in-progress: false  # never cancel a scrape mid-flight
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6h ceiling for full runs
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      # Determine mode + sections based on trigger type.
+      - name: Resolve run parameters
+        id: params
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "0 2 * * 0" ]; then
+              echo "mode=full" >> $GITHUB_OUTPUT
+              echo "section=all" >> $GITHUB_OUTPUT
+              echo "refresh_universe=true" >> $GITHUB_OUTPUT
+            else
+              echo "mode=incremental" >> $GITHUB_OUTPUT
+              echo "section=all" >> $GITHUB_OUTPUT
+              echo "refresh_universe=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+            echo "section=${{ inputs.section }}" >> $GITHUB_OUTPUT
+            echo "refresh_universe=${{ inputs.refresh_universe }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Refresh universe (if requested)
+        if: steps.params.outputs.refresh_universe == 'true'
+        run: python -m scripts.build_sg_universe --market sg
+
+      - name: Scrape DI
+        if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'di'
+        run: python -m scripts.scrape_sg_di --market sg --mode ${{ steps.params.outputs.mode }}
+
+      - name: Scrape Corporate Actions
+        if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'corp_actions'
+        run: python -m scripts.scrape_sg_corp_actions --market sg --mode ${{ steps.params.outputs.mode }}
+
+      - name: Scrape Capital Market
+        if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'cap_market'
+        run: python -m scripts.scrape_sg_cap_market --market sg --mode ${{ steps.params.outputs.mode }}
+
+      - name: Commit data
+        run: |
+          git config user.name  "circular-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data/sg/
+          # Don't commit the PDF cache.
+          git reset docs/data/sg/_pdf_cache/ 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "scrape(sg): ${{ steps.params.outputs.mode }} ${{ steps.params.outputs.section }} [skip ci]"
+          git push
