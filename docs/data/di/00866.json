@@ -1,18 +1,18 @@
 {
   "code": "00866",
   "name": "CHINA QINFA GROUP LTD.",
-  "last_scraped": "2026-05-25T22:56:39Z",
+  "last_scraped": "2026-05-26T23:06:54Z",
   "shareholders": [
     {
       "name": "Xu Jihua",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1734939610,
-      "long_position_pct": 66.03,
+      "long_position_shares": 1739939610,
+      "long_position_pct": 66.22,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -57,6 +57,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Xu Jihua",
+      "long_position_pct": 66.22,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Xu Jihua",
       "long_position_pct": 66.03,

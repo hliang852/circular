@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-25T23:04:37Z",
+  "last_scraped": "2026-05-26T23:17:11Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -95,19 +95,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 20023786,
-      "long_position_pct": 5.8,
-      "short_position_shares": 13364504,
-      "short_position_pct": 3.87,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -117,6 +104,19 @@
       "short_position_pct": 1.2,
       "relevant_event_date": "2026-05-12",
       "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18949000,
+      "long_position_pct": 5.49,
+      "short_position_shares": 14291207,
+      "short_position_pct": 4.14,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -132,9 +132,38 @@
       "filing_date": "2026-03-19",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17654365,
+      "long_position_pct": 5.11,
+      "short_position_shares": 140777,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.8,
@@ -142,6 +171,22 @@
       "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Decrease"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "The Goldman Sachs Group, Inc.",

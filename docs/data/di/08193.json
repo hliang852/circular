@@ -1,7 +1,7 @@
 {
   "code": "08193",
   "name": "ASIA-PAC FINANCIAL INVESTMENT CO. LTD.",
-  "last_scraped": "2026-05-19T23:11:48Z",
+  "last_scraped": "2026-05-26T23:16:37Z",
   "shareholders": [
     {
       "name": "Laberie Holdings Limited",
@@ -69,19 +69,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "RU XIAOGE",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 18560000,
-      "long_position_pct": 6.63,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "Ip Kwok Kwong",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
@@ -92,6 +79,19 @@
       "relevant_event_date": "2019-04-18",
       "filing_date": "2019-04-18",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "RU XIAOGE",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 17080000,
+      "long_position_pct": 6.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -135,6 +135,38 @@
     }
   ],
   "history": [
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 3.71,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "RU XIAOGE",
       "long_position_pct": 6.63,

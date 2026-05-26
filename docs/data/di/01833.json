@@ -1,7 +1,7 @@
 {
   "code": "01833",
   "name": "PING AN HEALTHCARE AND TECHNOLOGY CO. LTD.",
-  "last_scraped": "2026-05-25T22:59:44Z",
+  "last_scraped": "2026-05-26T23:11:20Z",
   "shareholders": [
     {
       "name": "An Ke Technology Company Limited",
@@ -59,17 +59,25 @@
       "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 165143501,
-      "long_position_pct": 7.64,
-      "short_position_shares": 161969535,
-      "short_position_pct": 7.49,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "long_position_shares": 165626956,
+      "long_position_pct": 7.66,
+      "short_position_shares": 162444390,
+      "short_position_pct": 7.51,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 7.64,

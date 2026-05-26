@@ -1,7 +1,7 @@
 {
   "code": "06699",
   "name": "ANGELALIGN TECHNOLOGY INC.",
-  "last_scraped": "2026-05-21T23:08:15Z",
+  "last_scraped": "2026-05-26T23:15:59Z",
   "shareholders": [
     {
       "name": "CareCapital Orthotech Limited",
@@ -121,19 +121,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 18720835,
-      "long_position_pct": 10.95,
-      "short_position_shares": 9981040,
-      "short_position_pct": 5.84,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Li Huamin",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -167,6 +154,19 @@
       "long_position_pct": 10.08,
       "short_position_shares": 10628687,
       "short_position_pct": 6.22,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16282264,
+      "long_position_pct": 9.52,
+      "short_position_shares": 9310291,
+      "short_position_pct": 5.44,
       "relevant_event_date": "2026-05-19",
       "filing_date": "2026-05-19",
       "form_type": "Form 2",
@@ -210,6 +210,14 @@
       "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
     },
     {
       "name": "JPMorgan Chase & Co.",

@@ -1,18 +1,18 @@
 {
   "code": "03919",
   "name": "GOLDEN POWER GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-25T23:03:08Z",
+  "last_scraped": "2026-05-26T23:15:08Z",
   "shareholders": [
     {
       "name": "Chu King Tien",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 13657500,
-      "long_position_pct": 42.15,
+      "long_position_pct": 35.13,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 13657500,
-      "long_position_pct": 42.15,
+      "long_position_pct": 35.13,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,37 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 13657500,
-      "long_position_pct": 42.15,
+      "long_position_pct": 35.13,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Lofty Islet Holding Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 5400000,
-      "long_position_pct": 16.67,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Yang Haobo",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 5400000,
-      "long_position_pct": 16.67,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -72,12 +46,12 @@
       "name": "KO KIN HANG",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 5924000,
-      "long_position_pct": 15.24,
+      "long_position_shares": 5420000,
+      "long_position_pct": 13.94,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -93,19 +67,6 @@
       "filing_date": "2026-05-21",
       "form_type": "Form 1",
       "notice_type": "Current"
-    },
-    {
-      "name": "Chu Shuk Ching",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 1828000,
-      "long_position_pct": 5.64,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-05",
-      "filing_date": "2025-06-05",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
     }
   ],
   "history": [
@@ -116,6 +77,30 @@
       "filing_date": "2026-05-22",
       "form_type": "Form 1",
       "notice_type": "Change"
+    },
+    {
+      "name": "KO KIN HANG",
+      "long_position_pct": 13.94,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lofty Islet Holding Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Haobo",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
     },
     {
       "name": "KO KIN HANG",
@@ -130,6 +115,46 @@
       "long_position_pct": 16.67,
       "relevant_event_date": "2026-05-19",
       "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu King Tien",
+      "long_position_pct": 35.13,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Villa Ltd.",
+      "long_position_pct": 35.13,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lofty Islet Holding Limited",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yuk Ling",
+      "long_position_pct": 35.13,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Haobo",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
       "form_type": "Form 1",
       "notice_type": "Change"
     },
@@ -187,6 +212,14 @@
       "relevant_event_date": "2025-06-05",
       "filing_date": "2025-06-16",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Shuk Ching",
+      "long_position_pct": 4.7,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
       "notice_type": "Change"
     },
     {

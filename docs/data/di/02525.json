@@ -1,18 +1,18 @@
 {
   "code": "02525",
   "name": "HESAI GROUP - W",
-  "last_scraped": "2026-05-25T23:01:25Z",
+  "last_scraped": "2026-05-26T23:13:42Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 69864545,
-      "long_position_pct": 53.68,
-      "short_position_shares": 67630175,
-      "short_position_pct": 51.97,
-      "relevant_event_date": "2026-05-04",
-      "filing_date": "2026-05-04",
+      "long_position_shares": 68761227,
+      "long_position_pct": 52.83,
+      "short_position_shares": 66514657,
+      "short_position_pct": 51.11,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,17 +111,33 @@
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 7033568,
-      "long_position_pct": 5.4,
+      "long_position_shares": 7054169,
+      "long_position_pct": 5.42,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 52.83,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 5.4,

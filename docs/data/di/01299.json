@@ -1,8 +1,21 @@
 {
   "code": "01299",
   "name": "AIA GROUP LTD.",
-  "last_scraped": "2026-05-21T23:02:01Z",
+  "last_scraped": "2026-05-26T23:09:36Z",
   "shareholders": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 956173305,
+      "long_position_pct": 9.14,
+      "short_position_shares": 24345691,
+      "short_position_pct": 0.23,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
     {
       "name": "The Bank of New York Mellon Corporation",
       "capacity": "Beneficial Owner",
@@ -28,22 +41,17 @@
       "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 670128543,
-      "long_position_pct": 6.37,
-      "short_position_shares": 31897854,
-      "short_position_pct": 0.3,
-      "relevant_event_date": "2026-04-20",
-      "filing_date": "2026-04-20",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.14,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.05,

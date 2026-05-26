@@ -1,0 +1,1647 @@
+{
+  "code": "02273",
+  "name": "GUSHENGTANG HOLDINGS LTD.",
+  "last_scraped": "2026-05-26T23:12:38Z",
+  "shareholders": [
+    {
+      "name": "TU Zhiliang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 81984780,
+      "long_position_pct": 34.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 32868605,
+      "long_position_pct": 14.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 30502061,
+      "long_position_pct": 13.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Eight Roads Investments",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26437151,
+      "long_position_pct": 11.47,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "睿远基金管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21219800,
+      "long_position_pct": 9.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Eight Roads GP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18506005,
+      "long_position_pct": 8.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Eight Roads GP Asia Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18506005,
+      "long_position_pct": 8.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dream True Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18733795,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Frandor Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18733795,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (Singapore) Pte. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18733795,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tu Family Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18733795,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Asia Partners III L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17374533,
+      "long_position_pct": 7.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Asia Ventures III L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17374533,
+      "long_position_pct": 7.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JIANG Xiaodong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 13231505,
+      "long_position_pct": 5.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 9.05,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.98,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.95,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 13.01,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.92,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.89,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.87,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.77,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 12.86,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream True Limited",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Frandor Limited",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (Singapore) Pte. Limited",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tu Family Holdings Limited",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.77,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 13.01,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 35.19,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 35.14,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 35.1,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream True Limited",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Frandor Limited",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (Singapore) Pte. Limited",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tu Family Holdings Limited",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.18,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gushengtang Ltd.",
+      "long_position_pct": 4.43,
+      "relevant_event_date": "2025-06-09",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 33.74,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.91,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.89,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 7.45,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2025-02-26",
+      "filing_date": "2025-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.33,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.32,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.3,
+      "relevant_event_date": "2025-01-22",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 12.04,
+      "relevant_event_date": "2024-09-05",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.69,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.08,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 35.58,
+      "relevant_event_date": "2024-05-10",
+      "filing_date": "2024-05-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 34.28,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "long_position_pct": 13.2,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 11.14,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Dream True Limited",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Frandor Limited",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (Singapore) Pte. Limited",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tu Family Holdings Limited",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 35.1,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "long_position_pct": 12.48,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 7.13,
+      "relevant_event_date": "2023-03-24",
+      "filing_date": "2023-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 32.17,
+      "relevant_event_date": "2023-03-24",
+      "filing_date": "2023-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2023-03-24",
+      "filing_date": "2023-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starr International Company, Inc.",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Foundation",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Investments HK V, Limited",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 36.69,
+      "relevant_event_date": "2023-01-13",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 37.27,
+      "relevant_event_date": "2023-01-12",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 37.22,
+      "relevant_event_date": "2023-01-12",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG Xiaodong",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 38.38,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 38.47,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 38.53,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 38.98,
+      "relevant_event_date": "2022-12-28",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 38.57,
+      "relevant_event_date": "2022-12-28",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NEA 14 GP, LTD",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NEA Partners 14, L.P.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "New Enterprise Associates 14, L.P.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starr International Company, Inc.",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Foundation",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Investments HK V, Limited",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NEA 14 GP, LTD",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NEA Partners 14, L.P.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "New Enterprise Associates 14, L.P.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NEA 14 GP, LTD",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NEA Partners 14, L.P.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "New Enterprise Associates 14, L.P.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Company, Inc.",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Foundation",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starr International Investments HK V, Limited",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 39.02,
+      "relevant_event_date": "2022-06-27",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 39.71,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 40.29,
+      "relevant_event_date": "2022-06-23",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 10.86,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 41.18,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Action Thrive Group Limited",
+      "long_position_pct": 11.65,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Partners III L.P.",
+      "long_position_pct": 7.54,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Ventures III L.P.",
+      "long_position_pct": 7.54,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dream True Limited",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads GP",
+      "long_position_pct": 8.03,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads GP Asia Limited",
+      "long_position_pct": 8.03,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads Holdings Limited",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads Investments",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eight Roads Shareholdings Limited",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Frandor Limited",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gushengtang Ltd.",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Fund III Limited Partnership",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Xiaodong",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NEA 14 GP, LTD",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NEA Partners 14, L.P.",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "New Enterprise Associates 14, L.P.",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starr International Company, Inc.",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starr International Foundation",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starr International Investments HK V, Limited",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (Singapore) Pte. Limited",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tu Family Holdings Limited",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TU Zhiliang",
+      "long_position_pct": 41.22,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wumianshan Ltd.",
+      "long_position_pct": 13.04,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

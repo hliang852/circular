@@ -1,0 +1,828 @@
+{
+  "code": "02556",
+  "name": "MARKETINGFORCE MANAGEMENT LTD",
+  "last_scraped": "2026-05-26T23:13:48Z",
+  "shareholders": [
+    {
+      "name": "TCT (BVI) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 146821600,
+      "long_position_pct": 54.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 146821600,
+      "long_position_pct": 54.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Willam Zhao Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 116925000,
+      "long_position_pct": 43.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhao Xulong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 116925000,
+      "long_position_pct": 43.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhu Shuina",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 116925000,
+      "long_position_pct": 43.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Seraphic Ventures Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 114088000,
+      "long_position_pct": 42.47,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shuina Zhu Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 114088000,
+      "long_position_pct": 42.47,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Precious Sight Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 59680400,
+      "long_position_pct": 22.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Real Force Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 54407600,
+      "long_position_pct": 20.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "DRIVING FORCE DEVELOPMENTS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19251800,
+      "long_position_pct": 7.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ROWLAND GLOBAL HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19251800,
+      "long_position_pct": 7.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Hongyu Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19251800,
+      "long_position_pct": 7.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xu Jiankang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 19251800,
+      "long_position_pct": 7.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fangqi Zhao Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15401000,
+      "long_position_pct": 6.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhao Fangqi",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 15401000,
+      "long_position_pct": 6.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Precious Sight Limited",
+      "long_position_pct": 22.21,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Real Force Limited",
+      "long_position_pct": 20.25,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seraphic Ventures Limited",
+      "long_position_pct": 42.47,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shuina Zhu Limited",
+      "long_position_pct": 42.47,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 54.66,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 54.66,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Willam Zhao Limited",
+      "long_position_pct": 43.53,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jiankang",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Xulong",
+      "long_position_pct": 43.53,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Shuina",
+      "long_position_pct": 43.53,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jiankang",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 4.7,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 4.7,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Balmy Days Limited",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rosy Maple Limited",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 62.63,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 62.63,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhao Fangqi",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 63.96,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 63.96,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2025-06-25",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-06-25",
+      "filing_date": "2025-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 64.82,
+      "relevant_event_date": "2025-06-09",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 64.82,
+      "relevant_event_date": "2025-06-09",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DRIVING FORCE DEVELOPMENTS LIMITED",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Precious Sight Limited",
+      "long_position_pct": 23.28,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Real Force Limited",
+      "long_position_pct": 21.23,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ROWLAND GLOBAL HOLDINGS LIMITED",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seraphic Ventures Limited",
+      "long_position_pct": 44.51,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Hongyu Limited",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shuina Zhu Limited",
+      "long_position_pct": 44.52,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 65.2,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 65.2,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Willam Zhao Limited",
+      "long_position_pct": 45.63,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jiankang",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Fangqi",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Xulong",
+      "long_position_pct": 45.63,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Shuina",
+      "long_position_pct": 45.63,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 68.93,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 68.93,
+      "relevant_event_date": "2025-02-21",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 69.28,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2025-02-19",
+      "filing_date": "2025-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 70.97,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 70.97,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jiankang",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Fangqi",
+      "long_position_pct": 6.52,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Xulong",
+      "long_position_pct": 49.51,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Balmy Days Limited",
+      "long_position_pct": 6.54,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DRIVING FORCE DEVELOPMENTS LIMITED",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fangqi Zhao Limited",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NB DIGITAL Evergreen Investment Limited Partnership",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Precious Sight Limited",
+      "long_position_pct": 25.37,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Real Force Limited",
+      "long_position_pct": 23.13,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rosy Maple Limited",
+      "long_position_pct": 6.54,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ROWLAND GLOBAL HOLDINGS LIMITED",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seraphic Ventures Limited",
+      "long_position_pct": 48.51,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Hongyu Limited",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shuina Zhu Limited",
+      "long_position_pct": 48.51,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 71.28,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 71.28,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Willam Zhao Limited",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jiankang",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Fangqi",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Xulong",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Shuina",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Zhengguo",
+      "long_position_pct": 10.54,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

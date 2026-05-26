@@ -1,7 +1,7 @@
 {
   "code": "01952",
   "name": "EVEREST MEDICINES LTD.",
-  "last_scraped": "2026-05-21T23:03:44Z",
+  "last_scraped": "2026-05-26T23:11:36Z",
   "shareholders": [
     {
       "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
@@ -17,29 +17,29 @@
       "notice_type": "Current"
     },
     {
-      "name": "FU WEI",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 86742427,
-      "long_position_pct": 24.52,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "Nova Aqua Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 86742427,
-      "long_position_pct": 24.52,
+      "long_position_shares": 87342927,
+      "long_position_pct": 24.69,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FU WEI",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 87118927,
+      "long_position_pct": 24.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -252,6 +252,30 @@
     }
   ],
   "history": [
+    {
+      "name": "Nova Aqua Limited",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FU WEI",
+      "long_position_pct": 24.63,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nova Aqua Limited",
+      "long_position_pct": 24.63,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Nomura Holdings, Inc.",
       "long_position_pct": 5.06,

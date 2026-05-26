@@ -1,0 +1,617 @@
+{
+  "code": "09606",
+  "name": "DUALITY BIOTHERAPEUTICS, INC. - B",
+  "last_scraped": "2026-05-26T23:16:48Z",
+  "shareholders": [
+    {
+      "name": "朱忠远",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 15985523,
+      "long_position_pct": 17.89,
+      "short_position_shares": 2599800,
+      "short_position_pct": 2.9,
+      "relevant_event_date": "2025-12-17",
+      "filing_date": "2025-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 11757921,
+      "long_position_pct": 13.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shi Yi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 11757921,
+      "long_position_pct": 13.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LAV Corporate VI GP, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7873521,
+      "long_position_pct": 8.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LAV Fund VI, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7873521,
+      "long_position_pct": 8.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LAV GP VI, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7873521,
+      "long_position_pct": 8.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "DualityBio Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 6500000,
+      "long_position_pct": 7.38,
+      "short_position_shares": 2599800,
+      "short_position_pct": 2.95,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海楹伽企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 6387649,
+      "long_position_pct": 7.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 13.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 13.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "King Star Med LP",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2026-01-31",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 12.93,
+      "relevant_event_date": "2026-01-31",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2025-12-17",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 17.86,
+      "relevant_event_date": "2025-12-17",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2025-12-16",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2025-12-16",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 17.9,
+      "relevant_event_date": "2025-12-16",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2025-12-15",
+      "filing_date": "2025-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "King Star Med LP",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2025-11-10",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DualityBio Ltd.",
+      "long_position_pct": 7.38,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 18.2,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 13.24,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV Corporate VI GP Opportunities, Ltd.",
+      "long_position_pct": 4.29,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV Corporate VI GP, Ltd.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV Fund VI Opportunities, L.P.",
+      "long_position_pct": 4.29,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV Fund VI, L.P.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV GP VI Opportunities, L.P.",
+      "long_position_pct": 4.29,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAV GP VI, L.P.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 2.29,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 13.24,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "King Star Med LP",
+      "long_position_pct": 6.52,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DualityBio Ltd.",
+      "long_position_pct": 7.38,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 18.95,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Corporate VI GP, Ltd.",
+      "long_position_pct": 12.8,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Fund VI, L.P.",
+      "long_position_pct": 12.8,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV GP VI, L.P.",
+      "long_position_pct": 12.8,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 18.95,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 18.2,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DualityBio Ltd.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "King Star Med LP",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 19.52,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Corporate VI GP Opportunities, Ltd.",
+      "long_position_pct": 6.33,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Corporate VI GP, Ltd.",
+      "long_position_pct": 13.19,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Fund VI Opportunities, L.P.",
+      "long_position_pct": 6.33,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV Fund VI, L.P.",
+      "long_position_pct": 13.19,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV GP VI Opportunities, L.P.",
+      "long_position_pct": 6.33,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAV GP VI, L.P.",
+      "long_position_pct": 13.19,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 19.52,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海楹伽企业管理合伙企业（有限合伙）",
+      "long_position_pct": 7.26,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 18.76,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

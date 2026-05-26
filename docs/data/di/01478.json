@@ -1,7 +1,7 @@
 {
   "code": "01478",
   "name": "Q TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-05-25T22:59:01Z",
+  "last_scraped": "2026-05-26T23:10:13Z",
   "shareholders": [
     {
       "name": "HE NINGNING",
@@ -28,9 +28,30 @@
       "filing_date": "2026-04-01",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60325640,
+      "long_position_pct": 5.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.58,
