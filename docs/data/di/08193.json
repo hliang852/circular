@@ -1,7 +1,7 @@
 {
   "code": "08193",
   "name": "ASIA-PAC FINANCIAL INVESTMENT CO. LTD.",
-  "last_scraped": "2026-05-26T23:16:37Z",
+  "last_scraped": "2026-05-27T23:25:12Z",
   "shareholders": [
     {
       "name": "Laberie Holdings Limited",
@@ -82,19 +82,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "RU XIAOGE",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 17080000,
-      "long_position_pct": 6.1,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "中欧盛世资产管理（上海）有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -153,6 +140,14 @@
     },
     {
       "name": "RU XIAOGE",
+      "long_position_pct": 3.81,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "RU XIAOGE",
       "long_position_pct": 5.42,
       "relevant_event_date": "2026-05-21",
       "filing_date": "2026-05-26",
@@ -162,6 +157,22 @@
     {
       "name": "RU XIAOGE",
       "long_position_pct": 6.01,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "RU XIAOGE",
+      "long_position_pct": 6.05,
       "relevant_event_date": "2026-05-21",
       "filing_date": "2026-05-26",
       "form_type": "Form 1",

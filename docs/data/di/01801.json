@@ -1,7 +1,7 @@
 {
   "code": "01801",
   "name": "INNOVENT BIOLOGICS, INC.",
-  "last_scraped": "2026-05-19T23:04:35Z",
+  "last_scraped": "2026-05-27T23:18:21Z",
   "shareholders": [
     {
       "name": "Yu De-Chao Michael",
@@ -67,9 +67,30 @@
       "filing_date": "2019-05-24",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 87280888,
+      "long_position_pct": 5.02,
+      "short_position_shares": 72500,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.93,

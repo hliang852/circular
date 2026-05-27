@@ -1,7 +1,7 @@
 {
   "code": "02057",
   "name": "ZTO EXPRESS (CAYMAN) INC. - W",
-  "last_scraped": "2026-05-26T23:12:16Z",
+  "last_scraped": "2026-05-27T23:20:03Z",
   "shareholders": [
     {
       "name": "LMS Holding Limited",
@@ -189,17 +189,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 39379014,
-      "long_position_pct": 6.98,
-      "short_position_shares": 21628685,
-      "short_position_pct": 3.83,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "long_position_shares": 39654512,
+      "long_position_pct": 7.03,
+      "short_position_shares": 21920425,
+      "short_position_pct": 3.88,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.98,

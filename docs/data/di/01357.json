@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-26T23:10:01Z",
+  "last_scraped": "2026-05-27T23:17:00Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -108,6 +108,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 279525558,
+      "long_position_pct": 6.09,
+      "short_position_shares": 102836453,
+      "short_position_pct": 2.24,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Longlink Capital Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -134,20 +147,36 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
+      "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 272283332,
-      "long_position_pct": 5.93,
-      "short_position_shares": 99109285,
-      "short_position_pct": 2.16,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "long_position_shares": 245787807,
+      "long_position_pct": 5.36,
+      "short_position_shares": 5923500,
+      "short_position_pct": 0.13,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.93,

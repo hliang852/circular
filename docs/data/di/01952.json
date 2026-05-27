@@ -1,7 +1,7 @@
 {
   "code": "01952",
   "name": "EVEREST MEDICINES LTD.",
-  "last_scraped": "2026-05-26T23:11:36Z",
+  "last_scraped": "2026-05-27T23:19:17Z",
   "shareholders": [
     {
       "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
@@ -17,6 +17,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "FU WEI",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 87342927,
+      "long_position_pct": 24.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
       "name": "Nova Aqua Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -27,19 +40,6 @@
       "relevant_event_date": "2026-05-21",
       "filing_date": "2026-05-21",
       "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "FU WEI",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 87118927,
-      "long_position_pct": 24.63,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
-      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -85,12 +85,12 @@
       "name": "C-Bridge Capital GP, Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 40468000,
-      "long_position_pct": 11.53,
+      "long_position_shares": 41068500,
+      "long_position_pct": 11.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-01",
-      "filing_date": "2025-08-01",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "C-Bridge Healthcare Fund GP II, L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 40468000,
-      "long_position_pct": 11.53,
+      "long_position_shares": 41068500,
+      "long_position_pct": 11.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-01",
-      "filing_date": "2025-08-01",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,30 +111,30 @@
       "name": "C-Bridge Healthcare Fund II, L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 40468000,
-      "long_position_pct": 11.53,
+      "long_position_shares": 41068500,
+      "long_position_pct": 11.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-01",
-      "filing_date": "2025-08-01",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "C-Bridge Investment Everest Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 40468000,
-      "long_position_pct": 11.53,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-01",
-      "filing_date": "2025-08-01",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
       "name": "TF Capital II Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 41068500,
+      "long_position_pct": 11.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "C-Bridge Investment Everest Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 40468000,
@@ -261,6 +261,46 @@
       "notice_type": "Change"
     },
     {
+      "name": "C-Bridge Capital GP, Ltd.",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Bridge Healthcare Fund GP II, L.P.",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Bridge Healthcare Fund II, L.P.",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FU WEI",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TF Capital II Ltd.",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "FU WEI",
       "long_position_pct": 24.63,
       "relevant_event_date": "2026-05-20",
@@ -271,6 +311,38 @@
     {
       "name": "Nova Aqua Limited",
       "long_position_pct": 24.63,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Bridge Capital GP, Ltd.",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Bridge Healthcare Fund GP II, L.P.",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Bridge Healthcare Fund II, L.P.",
+      "long_position_pct": 11.55,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TF Capital II Ltd.",
+      "long_position_pct": 11.55,
       "relevant_event_date": "2026-05-20",
       "filing_date": "2026-05-26",
       "form_type": "Form 2",

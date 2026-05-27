@@ -1,7 +1,7 @@
 {
   "code": "02022",
   "name": "DIGITAL HOLLYWOOD INTERACTIVE LTD.",
-  "last_scraped": "2026-05-26T23:12:05Z",
+  "last_scraped": "2026-05-27T23:19:52Z",
   "shareholders": [
     {
       "name": "Angel Age Limited",
@@ -82,19 +82,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Luo Simin",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 994494387,
-      "long_position_pct": 49.72,
-      "short_position_shares": 46536000,
-      "short_position_pct": 2.33,
-      "relevant_event_date": "2023-12-15",
-      "filing_date": "2023-12-15",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "LXT Digital Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -122,6 +109,19 @@
     },
     {
       "name": "陆源峰",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 792857347,
+      "long_position_pct": 39.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "骆思敏",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 792857347,
@@ -186,6 +186,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Angel Age Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 239997365,
+      "long_position_pct": 12.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Epic City Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -209,6 +222,32 @@
       "relevant_event_date": "2017-12-15",
       "filing_date": "2017-12-15",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LXT Digital Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103452520,
+      "long_position_pct": 5.17,
+      "short_position_shares": 46536000,
+      "short_position_pct": 2.33,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "黄国湛",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 103452520,
+      "long_position_pct": 5.17,
+      "short_position_shares": 46536000,
+      "short_position_pct": 2.33,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     }
   ],
@@ -240,6 +279,38 @@
     {
       "name": "黄德强",
       "long_position_pct": 4.91,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Angel Age Limited",
+      "long_position_pct": 12.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LXT Digital Holdings Limited",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "骆思敏",
+      "long_position_pct": 39.64,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "黄国湛",
+      "long_position_pct": 5.17,
       "relevant_event_date": "2026-05-20",
       "filing_date": "2026-05-26",
       "form_type": "Form 3A",

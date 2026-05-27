@@ -1,7 +1,7 @@
 {
   "code": "06699",
   "name": "ANGELALIGN TECHNOLOGY INC.",
-  "last_scraped": "2026-05-26T23:15:59Z",
+  "last_scraped": "2026-05-27T23:24:35Z",
   "shareholders": [
     {
       "name": "CareCapital Orthotech Limited",
@@ -163,12 +163,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 16282264,
-      "long_position_pct": 9.52,
-      "short_position_shares": 9310291,
-      "short_position_pct": 5.44,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "long_position_shares": 15127701,
+      "long_position_pct": 8.85,
+      "short_position_shares": 9241430,
+      "short_position_pct": 5.4,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -187,6 +187,22 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.84,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Li Huamin",
       "long_position_pct": 10.08,

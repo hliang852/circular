@@ -1,7 +1,7 @@
 {
   "code": "01638",
   "name": "KAISA GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-26T23:10:26Z",
+  "last_scraped": "2026-05-27T23:17:35Z",
   "shareholders": [
     {
       "name": "Chan Nog",
@@ -329,6 +329,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 666643057,
+      "long_position_pct": 6.52,
+      "short_position_shares": 118575826,
+      "short_position_pct": 1.16,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Amundi Asset Management",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -343,6 +356,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.52,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 3.08,

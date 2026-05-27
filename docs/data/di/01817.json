@@ -1,0 +1,862 @@
+{
+  "code": "01817",
+  "name": "MULSANNE GROUP HOLDING LTD.",
+  "last_scraped": "2026-05-27T23:18:41Z",
+  "shareholders": [
+    {
+      "name": "Catterton Holdings, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chu James Michael",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dahnke Scott Arnold",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Great World Glory Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Capital Asia 2 GP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Capital Asia 2 LP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Capital Asia 2 Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Capital Asia 2 Sing GP Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Capital Asia 2 Sing LP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Catterton Asia Advisors",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Catterton Asia Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Catterton GP, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Catterton Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "L Catterton, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 363579785,
+      "long_position_pct": 38.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YU Yong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 215751500,
+      "long_position_pct": 22.71,
+      "short_position_shares": 156037500,
+      "short_position_pct": 16.43,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GXG Trading Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 213750000,
+      "long_position_pct": 22.5,
+      "short_position_shares": 156037500,
+      "short_position_pct": 16.43,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Madison International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 213750000,
+      "long_position_pct": 22.5,
+      "short_position_shares": 156037500,
+      "short_position_pct": 16.43,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YANG Herong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 213750000,
+      "long_position_pct": 22.5,
+      "short_position_shares": 156037500,
+      "short_position_pct": 16.43,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Holdings L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Management Asia Holdings, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Management Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Partners Holdco LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent Capital Investments Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent Glory Singapore Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ressler Antony Peter",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 134474715,
+      "long_position_pct": 14.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Catterton Holdings, LLC",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu James Michael",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dahnke Scott Arnold",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great World Glory Pte. Ltd.",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 GP",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 LP",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Pte. Ltd.",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing GP Pte. Ltd.",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing LP",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Advisors",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Holdings Limited",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton GP, LLC",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Management Limited",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton, L.P.",
+      "long_position_pct": 38.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Holdings L.P.",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Management Asia Holdings, L.P.",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Management Corporation",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Partners Holdco LLC",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Capital Investments Ltd.",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Glory Singapore Pte. Ltd.",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GXG Trading Limited",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Madison International Limited",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ressler Antony Peter",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Herong",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YU Yong",
+      "long_position_pct": 22.71,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent GP Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-11-01",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAND David McKee",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-11-01",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YU Yong",
+      "long_position_pct": 22.71,
+      "relevant_event_date": "2021-02-17",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YU Yong",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2021-02-17",
+      "filing_date": "2021-02-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Catterton Holdings, LLC",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Catterton Holdings, LLC",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu J. Michael",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu James Michael",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Capital Investments Ltd.",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Glory Singapore Pte. Ltd.",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent GP Ltd.",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dahnke Scott A.",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dahnke Scott Arnold",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great World Glory Pte. Ltd.",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great World Glory Pte. Ltd.",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GXG Trading Limited",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 GP",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 GP",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 LP",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 LP",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Pte. Ltd.",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Pte. Ltd.",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing GP Pte. Ltd.",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing GP Pte. Ltd.",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing LP",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Capital Asia 2 Sing LP",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Advisors",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Advisors",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Holdings Limited",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Asia Holdings Limited",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton GP, LLC",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton GP, LLC",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Management Limited",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton Management Limited",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton, L.P.",
+      "long_position_pct": 54.75,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "L Catterton, L.P.",
+      "long_position_pct": 38.33,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Madison International Limited",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McKee Hand David",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Herong",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YU Yong",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YU Yong",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2019-05-27",
+      "filing_date": "2019-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

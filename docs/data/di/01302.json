@@ -1,0 +1,928 @@
+{
+  "code": "01302",
+  "name": "LIFETECH SCIENTIFIC CORPORATION",
+  "last_scraped": "2026-05-27T23:16:40Z",
+  "shareholders": [
+    {
+      "name": "Xie Yuehui",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 468794928,
+      "long_position_pct": 10.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xianjian Advanced Technology Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 464194928,
+      "long_position_pct": 10.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 416737668,
+      "long_position_pct": 8.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xianjian Advanced Technology Limited",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xie Yuehui",
+      "long_position_pct": 10.12,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2025-12-09",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 4.58,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xie Yuehui",
+      "long_position_pct": 15.09,
+      "relevant_event_date": "2025-05-05",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Fund, L.P.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Fund, L.P.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xianjian Advanced Technology Limited",
+      "long_position_pct": 14.99,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xie Yuehui",
+      "long_position_pct": 15.51,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xianjian Advanced Technology Limited",
+      "long_position_pct": 16.42,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xie Yuehui",
+      "long_position_pct": 16.94,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xie Yuehui",
+      "long_position_pct": 17.41,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2022-10-13",
+      "filing_date": "2022-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2021-10-20",
+      "filing_date": "2021-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Assicurazioni Generali SpA",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-06-02",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Zhenfu",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-06-02",
+      "filing_date": "2021-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Fund, L.P.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2020-12-11",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Yuehui",
+      "long_position_pct": 17.33,
+      "relevant_event_date": "2020-12-11",
+      "filing_date": "2020-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2020-12-10",
+      "filing_date": "2020-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gaoling Fund, L.P.",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Advisors, Ltd.",
+      "long_position_pct": 9.88,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Assicurazioni Generali SpA",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2020-11-30",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Zhenfu",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2020-11-30",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2020-11-25",
+      "filing_date": "2020-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Assicurazioni Generali SpA",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaoling Fund, L.P.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Advisors, Ltd.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Zhenfu",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海睿因惠醫投資中心(有限合伙)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海翊診投資中心(有限合伙)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京光控安雅投資中心(有限合伙)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "首譽光控資產管理有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2020-09-30",
+      "filing_date": "2020-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2020-08-17",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 10.8,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 10.8,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 10.8,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 10.8,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 6.14,
+      "relevant_event_date": "2020-03-27",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Yuehui",
+      "long_position_pct": 18.55,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2019-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海睿因惠醫投資中心(有限合伙)",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海翊診投資中心(有限合伙)",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京光控安雅投資中心(有限合伙)",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "首譽光控資產管理有限公司",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2019-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2019-05-29",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 14.37,
+      "relevant_event_date": "2019-05-29",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 14.37,
+      "relevant_event_date": "2019-05-29",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 14.37,
+      "relevant_event_date": "2019-05-29",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 14.37,
+      "relevant_event_date": "2019-05-29",
+      "filing_date": "2019-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eternal Space Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Core Trust Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 21.26,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 21.26,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 21.26,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 21.26,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eternal Space Limited",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Core Trust Company Limited",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic Holding Switzerland G.m.b.H",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic Holding Switzerland G.m.b.H",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Medtronic International Technology, Inc.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic International Technology, Inc.",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Medtronic KL Holdings LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic KL Holdings LLC",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Medtronic plc",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic plc",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Medtronic, Inc.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic, Inc.",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE Yuehui",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Group Ltd. 中國光大集團股份公司",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Holdings Company Limited",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Everbright Limited",
+      "long_position_pct": 22.44,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic Holding Switzerland G.m.b.H",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic Holding Switzerland G.m.b.H",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic Holding Switzerland G.m.b.H",
+      "long_position_pct": 84.96,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic International Technology, Inc.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic International Technology, Inc.",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic International Technology, Inc.",
+      "long_position_pct": 84.96,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic KL Holdings LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic KL Holdings LLC",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic KL Holdings LLC",
+      "long_position_pct": 84.96,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic plc",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic plc",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic plc",
+      "long_position_pct": 84.96,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic, Inc.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic, Inc.",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medtronic, Inc.",
+      "long_position_pct": 84.96,
+      "relevant_event_date": "2018-05-05",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GE ASIA PACIFIC INVESTMENTS LTD.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Jianhui",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GE ASIA PACIFIC INVESTMENTS LTD.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Jianhui",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wellington Management Group LLP",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2017-09-26",
+      "filing_date": "2017-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

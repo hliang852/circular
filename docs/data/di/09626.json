@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-26T23:17:11Z",
+  "last_scraped": "2026-05-27T23:25:54Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -33,12 +33,12 @@
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 61772994,
-      "long_position_pct": 17.89,
-      "short_position_shares": 61030534,
-      "short_position_pct": 17.67,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "long_position_shares": 62190788,
+      "long_position_pct": 18.01,
+      "short_position_shares": 61450628,
+      "short_position_pct": 17.79,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -121,6 +121,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18202491,
+      "long_position_pct": 5.27,
+      "short_position_shares": 140417,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Norges Bank",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -132,22 +145,25 @@
       "filing_date": "2026-03-19",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 17654365,
-      "long_position_pct": 5.11,
-      "short_position_shares": 140777,
-      "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 18.01,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.11,
