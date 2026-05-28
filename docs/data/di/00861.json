@@ -1,21 +1,8 @@
 {
   "code": "00861",
   "name": "DIGITAL CHINA HOLDINGS LTD.",
-  "last_scraped": "2026-05-18T22:56:44Z",
+  "last_scraped": "2026-05-28T23:11:16Z",
   "shareholders": [
-    {
-      "name": "Guo Wei",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 345781564,
-      "long_position_pct": 20.66,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-01-25",
-      "filing_date": "2025-01-25",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
     {
       "name": "广州市城市建设投资集团有限公司",
       "capacity": "Beneficial Owner",
@@ -72,13 +59,26 @@
       "name": "神州数码集团股份有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 219331000,
-      "long_position_pct": 13.11,
+      "long_position_shares": 255352000,
+      "long_position_pct": 15.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Guo Wei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 250873564,
+      "long_position_pct": 14.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -186,19 +186,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Kosalaki Investments Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 100778857,
-      "long_position_pct": 6.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2022-04-25",
-      "filing_date": "2022-04-25",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Allianz SE",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -208,6 +195,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2019-06-17",
       "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kosalaki Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 88876857,
+      "long_position_pct": 5.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,30 @@
     }
   ],
   "history": [
+    {
+      "name": "Guo Wei",
+      "long_position_pct": 14.99,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kosalaki Investments Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "神州数码集团股份有限公司",
+      "long_position_pct": 15.26,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "神州数码集团股份有限公司",
       "long_position_pct": 13.11,

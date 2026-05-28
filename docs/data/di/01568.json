@@ -1,7 +1,7 @@
 {
   "code": "01568",
   "name": "SUNDART HOLDINGS LTD.",
-  "last_scraped": "2026-05-27T23:17:28Z",
+  "last_scraped": "2026-05-28T23:13:34Z",
   "shareholders": [
     {
       "name": "Fu Haixia",
@@ -40,6 +40,19 @@
       "relevant_event_date": "2021-01-21",
       "filing_date": "2021-01-21",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fu Haixia",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1281516117,
+      "long_position_pct": 58.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -149,6 +162,14 @@
       "relevant_event_date": "2026-05-21",
       "filing_date": "2026-05-27",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Haixia",
+      "long_position_pct": 58.78,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

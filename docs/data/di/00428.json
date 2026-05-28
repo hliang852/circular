@@ -1,18 +1,18 @@
 {
   "code": "00428",
   "name": "COCOON HOLDINGS LTD.",
-  "last_scraped": "2026-05-21T23:00:21Z",
+  "last_scraped": "2026-05-28T23:10:41Z",
   "shareholders": [
     {
       "name": "YU PO KWAN",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 21929400,
-      "long_position_pct": 17.05,
+      "long_position_shares": 23489400,
+      "long_position_pct": 18.27,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -57,6 +57,14 @@
     }
   ],
   "history": [
+    {
+      "name": "YU PO KWAN",
+      "long_position_pct": 18.27,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "YU PO KWAN",
       "long_position_pct": 17.05,

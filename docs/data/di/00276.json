@@ -1,0 +1,822 @@
+{
+  "code": "00276",
+  "name": "MONGOLIA ENERGY CORPORATION LTD.",
+  "last_scraped": "2026-05-28T23:10:19Z",
+  "shareholders": [
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5455984723,
+      "long_position_pct": 900.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5455984723,
+      "long_position_pct": 900.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5455984723,
+      "long_position_pct": 900.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5455984723,
+      "long_position_pct": 900.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 5455984723,
+      "long_position_pct": 900.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1249329229,
+      "long_position_pct": 664.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-18",
+      "filing_date": "2026-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1249329229,
+      "long_position_pct": 664.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-18",
+      "filing_date": "2026-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1249161479,
+      "long_position_pct": 664.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dashdemberel Bat-Erdene",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 15167850,
+      "long_position_pct": 8.06,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Dashdemberel Bat-Erdene",
+      "long_position_pct": 8.06,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dashdemberel Bat-Erdene",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dashdemberel Bat-Erdene",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-03-04",
+      "filing_date": "2026-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 664.09,
+      "relevant_event_date": "2026-01-18",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 664.09,
+      "relevant_event_date": "2026-01-18",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Dashdemberel Bat-Erdene",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 900.18,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 900.18,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 900.18,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 900.18,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 900.18,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 664.0,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 665.05,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 665.05,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 900.59,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 900.59,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 900.59,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 900.59,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 900.59,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 664.1,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 16.03,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 665.14,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 17.07,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 665.14,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 17.07,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 337.18,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 337.18,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 338.14,
+      "relevant_event_date": "2021-01-18",
+      "filing_date": "2021-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 338.14,
+      "relevant_event_date": "2021-01-18",
+      "filing_date": "2021-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 337.18,
+      "relevant_event_date": "2020-09-09",
+      "filing_date": "2020-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 337.18,
+      "relevant_event_date": "2020-09-09",
+      "filing_date": "2020-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 434.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 434.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 434.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 434.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 434.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 336.14,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 338.08,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 338.08,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 442.02,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 442.02,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 442.02,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 442.02,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 442.02,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 337.88,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 339.83,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 339.83,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Varga Zoltan",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-11-22",
+      "filing_date": "2019-11-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings II) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Cheng Yu Tung Family (Holdings) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook (Holding) Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook Capital Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chow Tai Fook Nominee Limited",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "GOLDEN INFINITY CO., LTD.",
+      "long_position_pct": 16.03,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2019-11-21",
+      "filing_date": "2019-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Varga Zoltan",
+      "long_position_pct": 35.0,
+      "relevant_event_date": "2019-10-01",
+      "filing_date": "2019-10-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och Daniel Saul",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och Daniel Saul",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och-Ziff Capital Management Group LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och-Ziff Capital Management Group LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZ Management LP",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZ Management LP",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZMD IR, LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZMD IR, LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sculptor Finance (MD) Ireland Designated Activity Company",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sculptor Finance (MD) Ireland Designated Activity Company",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Varga Zoltan",
+      "long_position_pct": 34.31,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZAS IR, LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZMD IR, LLC",
+      "long_position_pct": 33.27,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sculptor Finance (AS) Ireland Designated Activity Company",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sculptor Finance (MD) Ireland Designated Activity Company",
+      "long_position_pct": 33.27,
+      "relevant_event_date": "2018-12-21",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och Daniel Saul",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och-Ziff Capital Management Group LLC",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZ Management LP",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ku Ming Mei Rouisa",
+      "long_position_pct": 56.08,
+      "relevant_event_date": "2018-04-08",
+      "filing_date": "2018-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Lin Shing Simon",
+      "long_position_pct": 56.08,
+      "relevant_event_date": "2018-04-08",
+      "filing_date": "2018-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "OZMD IR, LLC",
+      "long_position_pct": 22.0,
+      "relevant_event_date": "2017-08-11",
+      "filing_date": "2017-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sculptor Finance (MD) Ireland Designated Activity Company",
+      "long_position_pct": 22.0,
+      "relevant_event_date": "2017-08-11",
+      "filing_date": "2017-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och Daniel Saul",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Och-Ziff Capital Management Group LLC",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OZ Management LP",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "code": "01762",
   "name": "WANKA ONLINE INC.",
-  "last_scraped": "2026-05-27T23:17:50Z",
+  "last_scraped": "2026-05-28T23:13:48Z",
   "shareholders": [
     {
       "name": "GAO Dinan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 477527300,
-      "long_position_pct": 24.05,
+      "long_position_shares": 478027300,
+      "long_position_pct": 24.07,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "LU Haiyan",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 477527300,
-      "long_position_pct": 24.05,
+      "long_position_shares": 478027300,
+      "long_position_pct": 24.07,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -115,6 +115,22 @@
       "relevant_event_date": "2026-05-27",
       "filing_date": "2026-05-27",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 24.07,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 24.07,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

@@ -1,7 +1,7 @@
 {
   "code": "00869",
   "name": "PLAYMATES TOYS LTD.",
-  "last_scraped": "2026-05-26T23:06:59Z",
+  "last_scraped": "2026-05-28T23:11:21Z",
   "shareholders": [
     {
       "name": "CHAN CHUN HOO, THOMAS",
@@ -34,11 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 600000000,
-      "long_position_pct": 51.02,
+      "long_position_pct": 52.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-09",
-      "filing_date": "2026-04-09",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Playmates Holdings Ltd.",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "CHAN CHUN HOO, THOMAS",
       "long_position_pct": 57.0,

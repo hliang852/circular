@@ -1,0 +1,1554 @@
+{
+  "code": "09885",
+  "name": "YSB INC.",
+  "last_scraped": "2026-05-28T23:19:56Z",
+  "shareholders": [
+    {
+      "name": "Zhang Buzhen",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 157219997,
+      "long_position_pct": 22.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MIYT Worldwide Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 125316184,
+      "long_position_pct": 18.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 125316184,
+      "long_position_pct": 18.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 125778784,
+      "long_position_pct": 18.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Million Surplus Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81938584,
+      "long_position_pct": 12.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sounda Hopson Investment Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81938584,
+      "long_position_pct": 12.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sounda Hopson Technology Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81938584,
+      "long_position_pct": 12.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sounda Hopson Technology Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81938584,
+      "long_position_pct": 12.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 75624784,
+      "long_position_pct": 10.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 75624784,
+      "long_position_pct": 10.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Xiaohong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 55831444,
+      "long_position_pct": 8.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "H Capital V GP, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 55831444,
+      "long_position_pct": 8.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "H Capital V GP, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 55831444,
+      "long_position_pct": 8.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "H Capital V, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 55831444,
+      "long_position_pct": 8.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Meta Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 54603184,
+      "long_position_pct": 7.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Coleman III Charles",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 53497200,
+      "long_position_pct": 7.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 10.99,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 10.99,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 11.3,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.28,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 11.3,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.85,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.34,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.93,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.32,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.9,
+      "relevant_event_date": "2026-03-26",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.29,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.88,
+      "relevant_event_date": "2026-03-25",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.87,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-06",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2025-08-28",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shleifer Scott",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical Industrial Development Co., Ltd.",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investment Management IX, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investments (DE 5), LLC",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX International Ltd",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investment Management IX, L.P.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investments (DE 5), LLC",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX International Ltd",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX, L.P.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investment Management IX, L.P.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM Investments (DE 5), LLC",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX International Ltd",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DCM IX, L.P.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 19.17,
+      "relevant_event_date": "2025-04-11",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shleifer Scott",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Xiaohong",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM Investment Management IX, L.P.",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM Investments (DE 5), LLC",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM IX International Ltd",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM IX, L.P.",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V GP, L.P.",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V GP, Ltd.",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V, L.P.",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 9.37,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.54,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Worldwide Limited",
+      "long_position_pct": 18.54,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical Industrial Development Co., Ltd.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 18.54,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 19.34,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 20.3,
+      "relevant_event_date": "2024-11-06",
+      "filing_date": "2024-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical Industrial Development Co., Ltd.",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Fei",
+      "long_position_pct": 4.66,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 12.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 12.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Fei",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2024-07-23",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shenzhen Songhe International Capital Management Partnership (Limited Partnership)",
+      "long_position_pct": 4.51,
+      "relevant_event_date": "2024-07-23",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GENIUS II FOUND LIMITED",
+      "long_position_pct": 4.8,
+      "relevant_event_date": "2024-06-12",
+      "filing_date": "2024-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shenzhen Songhe Growth No.1 Equity Investment Partnership (Limited Partnership)",
+      "long_position_pct": 4.8,
+      "relevant_event_date": "2024-06-12",
+      "filing_date": "2024-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 12.78,
+      "relevant_event_date": "2024-05-13",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 10.23,
+      "relevant_event_date": "2024-05-13",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 12.78,
+      "relevant_event_date": "2024-05-13",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shenzhen Songhe International Capital Management Partnership (Limited Partnership)",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Xiaohong",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "H Capital V GP, L.P.",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "H Capital V GP, Ltd.",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical Industrial Development Co., Ltd.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 19.77,
+      "relevant_event_date": "2023-07-25",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Xiaohong",
+      "long_position_pct": 9.42,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coleman III Charles",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM Investment Management IX, L.P.",
+      "long_position_pct": 8.43,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM Investments (DE 5), LLC",
+      "long_position_pct": 8.43,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM IX International Ltd",
+      "long_position_pct": 8.43,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DCM IX, L.P.",
+      "long_position_pct": 8.43,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GENIUS II FOUND LIMITED",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V GP, L.P.",
+      "long_position_pct": 9.42,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V GP, Ltd.",
+      "long_position_pct": 9.42,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H Capital V, L.P.",
+      "long_position_pct": 9.42,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Internet Fund Holding V. Ltd.",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Internet Fund V Pte. Ltd.",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Fei",
+      "long_position_pct": 6.83,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Million Surplus Developments Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 19.82,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MIYT Worldwide Limited",
+      "long_position_pct": 19.82,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Pharmaceutical Industrial Development Co., Ltd.",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shenzhen Songhe Growth No.1 Equity Investment Partnership (Limited Partnership)",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shenzhen Songhe International Capital Management Partnership (Limited Partnership)",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shleifer Scott",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Hopson Investment Holdings Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Hopson Technology Holdings Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Hopson Technology Investment Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global Management, LLC",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global PIP Performance XI, L.P.",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Global Private Investment Partners XI, L.P.",
+      "long_position_pct": 12.65,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 19.82,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 20.58,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 20.58,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

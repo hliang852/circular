@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-27T23:17:00Z",
+  "last_scraped": "2026-05-28T23:13:18Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -150,20 +150,36 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 245787807,
-      "long_position_pct": 5.36,
+      "long_position_shares": 260021708,
+      "long_position_pct": 5.67,
       "short_position_shares": 5923500,
       "short_position_pct": 0.13,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
     {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.09,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.44,
       "relevant_event_date": "2026-05-22",
       "filing_date": "2026-05-27",
       "form_type": "Form 2",

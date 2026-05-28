@@ -1,7 +1,7 @@
 {
   "code": "02331",
   "name": "LI NING CO. LTD.",
-  "last_scraped": "2026-05-19T23:06:09Z",
+  "last_scraped": "2026-05-28T23:15:33Z",
   "shareholders": [
     {
       "name": "Li Ning",
@@ -56,6 +56,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 194070108,
+      "long_position_pct": 7.51,
+      "short_position_shares": 172000,
+      "short_position_pct": 0.01,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -65,19 +78,6 @@
       "short_position_pct": 1.42,
       "relevant_event_date": "2026-04-29",
       "filing_date": "2026-04-29",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 174682921,
-      "long_position_pct": 6.76,
-      "short_position_shares": 172000,
-      "short_position_pct": 0.01,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "ARGA Investment Management, LP",
       "long_position_pct": 4.94,

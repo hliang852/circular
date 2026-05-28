@@ -1,0 +1,3074 @@
+{
+  "code": "03662",
+  "name": "STARJOY WELLNESS AND TRAVEL CO. LTD.",
+  "last_scraped": "2026-05-28T23:17:50Z",
+  "shareholders": [
+    {
+      "name": "Sturgeon Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 400535000,
+      "long_position_pct": 55.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Bao Yi LPF",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Best Discovery International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHEN XIA",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jin Yi Financial Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jin Yi Holding Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jin Ying Hong Kong Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Rosy Beauty Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 217148750,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SONG HAODONG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 65211000,
+      "long_position_pct": 8.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Infini Capital Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 64395000,
+      "long_position_pct": 8.87,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Infini Global Master Fund",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 64395000,
+      "long_position_pct": 8.87,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Infini Master Fund",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 58043000,
+      "long_position_pct": 8.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Infini Capital Management Limited",
+      "long_position_pct": 8.87,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Infini Global Master Fund",
+      "long_position_pct": 8.87,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Infini Capital Management Limited",
+      "long_position_pct": 17.49,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Global Master Fund",
+      "long_position_pct": 17.49,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Capital Management Limited",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Global Master Fund",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 1.21,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-12-08",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-11-14",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SONG HAODONG",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-10-01",
+      "filing_date": "2025-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-04",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-02",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-08-29",
+      "filing_date": "2025-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-08-11",
+      "filing_date": "2025-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-07-08",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-13",
+      "filing_date": "2025-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.84,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 3.17,
+      "relevant_event_date": "2025-05-27",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-05-06",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-05-01",
+      "filing_date": "2025-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-04-17",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-04-16",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-04-10",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-20",
+      "filing_date": "2025-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-01-15",
+      "filing_date": "2025-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2024-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-12-17",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 4.35,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 4.35,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 4.35,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2024-12-03",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2024-12-03",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2024-12-03",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2024-12-02",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2024-12-02",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2024-12-02",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2024-11-28",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2024-11-28",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2024-11-28",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2024-11-26",
+      "filing_date": "2024-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-22",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-22",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-22",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 8.78,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 8.78,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 8.78,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 8.88,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 8.88,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 8.88,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 10.88,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 10.88,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 10.88,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 11.46,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 11.46,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 11.46,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 11.62,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 11.62,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 11.62,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 12.04,
+      "relevant_event_date": "2024-10-14",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 12.04,
+      "relevant_event_date": "2024-10-14",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 12.04,
+      "relevant_event_date": "2024-10-14",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 12.76,
+      "relevant_event_date": "2024-10-10",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 12.76,
+      "relevant_event_date": "2024-10-10",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 12.76,
+      "relevant_event_date": "2024-10-10",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 13.66,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 13.66,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 13.66,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 15.27,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 15.27,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 15.27,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 17.27,
+      "relevant_event_date": "2024-10-02",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 17.27,
+      "relevant_event_date": "2024-10-02",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 17.27,
+      "relevant_event_date": "2024-10-02",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 21.54,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 21.54,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 21.54,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 23.37,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 23.37,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 23.37,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-09-02",
+      "filing_date": "2024-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-08-29",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-08-08",
+      "filing_date": "2024-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bao Yi LPF",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Best Discovery International Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN XIA",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Yi Financial Group Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Yi Holding Company Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Ying Hong Kong Group Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NanYue StarBridge LPF",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rosy Beauty Global Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "StarBridge Hong Kong Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhong Xin Global Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-06-26",
+      "filing_date": "2024-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-29",
+      "filing_date": "2024-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-28",
+      "filing_date": "2024-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-24",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-22",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-21",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-20",
+      "filing_date": "2024-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-17",
+      "filing_date": "2024-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-14",
+      "filing_date": "2024-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-13",
+      "filing_date": "2024-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2024-05-03",
+      "filing_date": "2024-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-04-02",
+      "filing_date": "2024-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-03-26",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-03-15",
+      "filing_date": "2024-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-03-13",
+      "filing_date": "2024-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 0.23,
+      "relevant_event_date": "2024-03-12",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2024-03-12",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.55,
+      "relevant_event_date": "2024-03-01",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.11,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2024-02-26",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2024-02-14",
+      "filing_date": "2024-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.14,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 0.41,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2023-11-03",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 0.44,
+      "relevant_event_date": "2023-10-31",
+      "filing_date": "2023-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2023-10-30",
+      "filing_date": "2023-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2023-10-20",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Yi Financial Group Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2023-10-18",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DL Capital (HK) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2023-09-14",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-08-28",
+      "filing_date": "2023-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2023-08-18",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2023-08-07",
+      "filing_date": "2023-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-07-26",
+      "filing_date": "2023-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-07-17",
+      "filing_date": "2023-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-07-05",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-06-12",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DL Capital (HK) Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hui Qiang",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 24.68,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 25.25,
+      "relevant_event_date": "2023-02-16",
+      "filing_date": "2023-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2022-08-23",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-08-23",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2022-08-23",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-08-23",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Master Fund",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Best Discovery International Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2022-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NanYue StarBridge LPF",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2022-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "StarBridge Hong Kong Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2022-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhong Xin Global Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2022-02-16",
+      "filing_date": "2023-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Master Fund",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2021-12-15",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Dawn Agile Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Dawn Agile Limited",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2021-11-11",
+      "filing_date": "2021-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Infini Master Fund",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2021-11-09",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Master Fund",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Infini Master Fund",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2021-11-03",
+      "filing_date": "2021-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Image Development Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2021-02-19",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 55.01,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 55.15,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 55.06,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 54.92,
+      "relevant_event_date": "2020-09-21",
+      "filing_date": "2020-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DAWN AGILE LIMITED",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DAWN AGILE LIMITED",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 54.72,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DAWN AGILE LIMITED",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Winfield Capital Partners LP",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield GP Ltd",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield Investment Ltd",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DAWN AGILE LIMITED",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 54.58,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield Capital Partners LP",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield GP Ltd",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield Investment Ltd",
+      "long_position_pct": 17.71,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ACE RISE PROFITS LIMITED",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Square Holdings Ltd",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Aoyuan Group Limited",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chiu Man Wai",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DAWN AGILE LIMITED",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GUO ZIWEN",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "J. Safra Sarasin Trust Company (Singapore) Limited",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Miner",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOY PACIFIC GROUP LIMITED",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Sze Teresa Francesca",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Main Trend Limited",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pine Capital Partners LP",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pine General Partners Limited",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 56.63,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield Capital Partners LP",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield GP Ltd",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winfield Investment Ltd",
+      "long_position_pct": 18.38,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

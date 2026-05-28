@@ -1,7 +1,7 @@
 {
   "code": "00006",
   "name": "POWER ASSETS HOLDINGS LTD.",
-  "last_scraped": "2026-05-21T22:59:37Z",
+  "last_scraped": "2026-05-28T23:09:44Z",
   "shareholders": [
     {
       "name": "CK Hutchison Holdings Limited",
@@ -31,6 +31,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.93,

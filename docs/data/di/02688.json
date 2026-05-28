@@ -1,7 +1,7 @@
 {
   "code": "02688",
   "name": "ENN ENERGY HOLDINGS LTD.",
-  "last_scraped": "2026-05-27T23:21:58Z",
+  "last_scraped": "2026-05-28T23:16:55Z",
   "shareholders": [
     {
       "name": "ENN Capital Management Co., Ltd.",
@@ -124,12 +124,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 81491755,
-      "long_position_pct": 7.2,
+      "long_position_shares": 91948661,
+      "long_position_pct": 8.12,
       "short_position_shares": 6500,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -148,6 +148,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.12,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.2,

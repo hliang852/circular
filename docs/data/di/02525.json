@@ -1,7 +1,7 @@
 {
   "code": "02525",
   "name": "HESAI GROUP - W",
-  "last_scraped": "2026-05-27T23:21:13Z",
+  "last_scraped": "2026-05-28T23:16:10Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
@@ -111,12 +111,12 @@
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 7062126,
+      "long_position_shares": 7067710,
       "long_position_pct": 5.43,
-      "short_position_shares": 115,
+      "short_position_shares": 372,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -140,6 +140,14 @@
       "long_position_pct": 5.14,
       "relevant_event_date": "2026-05-22",
       "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

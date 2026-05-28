@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-27T23:25:54Z",
+  "last_scraped": "2026-05-28T23:19:13Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -124,12 +124,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18202491,
+      "long_position_shares": 18200529,
       "long_position_pct": 5.27,
-      "short_position_shares": 140417,
+      "short_position_shares": 139877,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -148,6 +148,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.27,

@@ -1,0 +1,814 @@
+{
+  "code": "01751",
+  "name": "AI ENERGY ENGINEERING HOLDINGS LTD.",
+  "last_scraped": "2026-05-28T23:13:40Z",
+  "shareholders": [
+    {
+      "name": "Applewood Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 126000000,
+      "long_position_pct": 18.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 126000000,
+      "long_position_pct": 18.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Applewood Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 37800000,
+      "long_position_pct": 12.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 37800000,
+      "long_position_pct": 12.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 37800000,
+      "long_position_pct": 12.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CAO YIFAN",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 33900000,
+      "long_position_pct": 11.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "He Guangping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 24000000,
+      "long_position_pct": 8.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "景逸投資有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 24000000,
+      "long_position_pct": 8.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 24190000,
+      "long_position_pct": 6.25,
+      "short_position_shares": 24190000,
+      "short_position_pct": 6.25,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Applewood Developments Limited",
+      "long_position_pct": 12.98,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 12.98,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "long_position_pct": 12.98,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO YIFAN",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 6.25,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Applewood Developments Limited",
+      "long_position_pct": 13.02,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO YIFAN",
+      "long_position_pct": 11.68,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "He Guangping",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 13.02,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "long_position_pct": 13.02,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "景逸投資有限公司",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO YIFAN",
+      "long_position_pct": 14.01,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 1.57,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "He Guangping",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 1.57,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 1.57,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "景逸投資有限公司",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 12.44,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 12.44,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 12.44,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 13.26,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 13.26,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 13.26,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAO YIFAN",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO YIFAN",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Shek On",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luk Pui Kei Peggy",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sino Continent Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN Wing Yu",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yuk Sing",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cho Bik Nung",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ip Vincent",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Supreme Voyage Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wealth Maker Investment Holdings Limited",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Investment and Finance Group Limited",
+      "long_position_pct": 4.01,
+      "relevant_event_date": "2025-06-19",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "New Express Investment Limited",
+      "long_position_pct": 4.01,
+      "relevant_event_date": "2025-06-19",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Investment and Finance Group Limited",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "New Express Investment Limited",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 15.63,
+      "relevant_event_date": "2023-12-31",
+      "filing_date": "2024-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Applewood Developments Limited",
+      "long_position_pct": 15.63,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yuk Sing",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Shek On",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cho Bik Nung",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 15.63,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luk Pui Kei Peggy",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino Continent Holdings Limited",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Supreme Voyage Limited",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "long_position_pct": 15.63,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China New Economy Fund Limited",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2022-07-29",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China New Economy Fund Limited",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2022-07-18",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 15.62,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China New Economy Fund Limited",
+      "long_position_pct": 7.43,
+      "relevant_event_date": "2022-06-02",
+      "filing_date": "2022-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China New Economy Fund Limited",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2022-04-19",
+      "filing_date": "2022-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yuk Sing",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cheung Shek On",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cho Bik Nung",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luk Pui Kei Peggy",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sino Continent Holdings Limited",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Supreme Voyage Limited",
+      "long_position_pct": 16.23,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China New Economy Fund Limited",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2021-12-16",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Applewood Developments Limited",
+      "long_position_pct": 15.62,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yuk Sing",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Shek On",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cho Bik Nung",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 15.62,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luk Pui Kei Peggy",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino Continent Holdings Limited",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Supreme Voyage Limited",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "long_position_pct": 15.62,
+      "relevant_event_date": "2021-06-25",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Applewood Developments Limited",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yuk Sing",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Shek On",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cho Bik Nung",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Shun Tim",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luk Pui Kei Peggy",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino Continent Holdings Limited",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Supreme Voyage Limited",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yip Nga Wan",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

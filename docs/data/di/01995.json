@@ -1,7 +1,7 @@
 {
   "code": "01995",
   "name": "EVER SUNSHINE SERVICES GROUP LTD.",
-  "last_scraped": "2026-05-27T23:19:46Z",
+  "last_scraped": "2026-05-28T23:14:49Z",
   "shareholders": [
     {
       "name": "Lin Feng",
@@ -132,22 +132,17 @@
       "filing_date": "2025-12-12",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "The Bank of New York Mellon Corporation",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 122388970,
-      "long_position_pct": 7.1,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 1.55,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Bank of New York Mellon Corporation",
       "long_position_pct": 7.1,
