@@ -1,7 +1,7 @@
 {
   "code": "08079",
   "name": "WISDOMCOME GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-27T23:25:07Z",
+  "last_scraped": "2026-05-29T23:33:24Z",
   "shareholders": [
     {
       "name": "Best Richest Management Company Limited",
@@ -125,11 +125,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 6092343,
-      "long_position_pct": 19.58,
+      "long_position_pct": 16.63,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-10",
-      "filing_date": "2026-03-10",
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -242,6 +242,14 @@
       "long_position_pct": 22.75,
       "relevant_event_date": "2026-05-27",
       "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tsz Hong",
+      "long_position_pct": 16.63,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Change"
     },

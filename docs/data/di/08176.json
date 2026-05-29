@@ -1,7 +1,7 @@
 {
   "code": "08176",
   "name": "SUPERROBOTICS HOLDINGS LTD.",
-  "last_scraped": "2026-05-25T23:04:13Z",
+  "last_scraped": "2026-05-29T23:33:37Z",
   "shareholders": [
     {
       "name": "SU ZHITUAN",
@@ -52,19 +52,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2019-12-06",
       "filing_date": "2019-12-06",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Renco Holdings Group Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 88546009,
-      "long_position_pct": 12.38,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-27",
-      "filing_date": "2026-03-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -174,6 +161,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Renco Holdings Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Tai Dong Holding Limited",
       "long_position_pct": 0.0,

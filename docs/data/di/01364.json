@@ -1,7 +1,7 @@
 {
   "code": "01364",
   "name": "GUMING HOLDINGS LTD.",
-  "last_scraped": "2026-05-25T22:58:56Z",
+  "last_scraped": "2026-05-29T23:17:33Z",
   "shareholders": [
     {
       "name": "Pan Pingping",
@@ -20,12 +20,12 @@
       "name": "Qi Xia",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1777738622,
-      "long_position_pct": 74.75,
+      "long_position_shares": 1777471315,
+      "long_position_pct": 74.74,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Ruan Xiudi",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1777738622,
-      "long_position_pct": 74.75,
+      "long_position_shares": 1777471315,
+      "long_position_pct": 74.74,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Wang Yunan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1777738622,
-      "long_position_pct": 74.75,
+      "long_position_shares": 1777471315,
+      "long_position_pct": 74.74,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -227,6 +227,54 @@
   ],
   "history": [
     {
+      "name": "Qi Xia",
+      "long_position_pct": 74.74,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.74,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.74,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.75,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
       "name": "Pan Pingping",
       "long_position_pct": 74.75,
       "relevant_event_date": "2026-05-21",
@@ -324,6 +372,38 @@
     },
     {
       "name": "Pan Pingping",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
       "long_position_pct": 74.7,
       "relevant_event_date": "2026-05-14",
       "filing_date": "2026-05-15",
@@ -351,6 +431,38 @@
       "long_position_pct": 74.7,
       "relevant_event_date": "2026-05-14",
       "filing_date": "2026-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pan Pingping",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Qi Xia",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Ruan Xiudi",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Yunan",
+      "long_position_pct": 74.7,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-29",
       "form_type": "Form 3A",
       "notice_type": "Decrease"
     },

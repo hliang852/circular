@@ -1,0 +1,606 @@
+{
+  "code": "00365",
+  "name": "SINO ICT HOLDINGS LTD.",
+  "last_scraped": "2026-05-29T23:10:17Z",
+  "shareholders": [
+    {
+      "name": "Gao Shan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Bin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tsinghua Unigroup Co., Ltd 紫光集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-05-30",
+      "filing_date": "2021-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京启平科技有限责任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京广大融信科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京智广芯控股有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京智路资产管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "广大融信（珠海横琴）控股有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 987176230,
+      "long_position_pct": 67.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Qingxin Enterprise Management Consulting Co., Ltd. 上海青芯企業管理諮詢有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sino IC Leasing Co., Ltd. 芯鑫融資租賃有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sino Xin Ding Limited 芯鼎有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UNIC Capital Management Co., Ltd. 中青芯鑫(蘇州工業園區)資產管理有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中青信投控股有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "招商銀行股份有限公司上海張江支行 China Merchants Bank Shanghai Zhangjiang Branch",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "chen ping",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 99000000,
+      "long_position_pct": 6.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WU XIN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 84270000,
+      "long_position_pct": 5.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "达广国际有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 84270000,
+      "long_position_pct": 5.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "chen ping",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Jiankun Investment Group Co., Ltd. 北京健坤投資集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gao Shan",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Bin",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Holdings Co., Ltd. 清華控股有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua University 清華大學",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Weiguo",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京启平科技有限责任公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京广大融信科技有限公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京智广芯控股有限公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京智路资产管理有限公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "广大融信（珠海横琴）控股有限公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Unigroup Capital Management Co., Ltd 北京紫光資本管理有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-30",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Tsinghua Unigroup Co., Ltd 紫光集團有限公司",
+      "long_position_pct": 67.85,
+      "relevant_event_date": "2021-05-30",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Unis Technology Strategy Investment Limited 紫光科技戰略投資有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-30",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "WU XIN",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "达广国际有限公司",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "达广国际有限公司",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Qingxin Enterprise Management Consulting Co., Ltd. 上海青芯企業管理諮詢有限公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino IC Leasing Co., Ltd. 芯鑫融資租賃有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino Xin Ding Limited 芯鼎有限公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UNIC Capital Management Co., Ltd. 中青芯鑫(蘇州工業園區)資產管理有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "招商銀行股份有限公司上海張江支行 China Merchants Bank Shanghai Zhangjiang Branch",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Jiankun Investment Group Co., Ltd. 北京健坤投資集團有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tsinghua Holdings Co., Ltd. 清華控股有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tsinghua Unigroup Capital Management Co., Ltd 北京紫光資本管理有限公司",
+      "long_position_pct": 25.43,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tsinghua Unigroup Co., Ltd 紫光集團有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Unigroup Co., Ltd 紫光集團有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tsinghua University 清華大學",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Unis Technology Strategy Investment Limited 紫光科技戰略投資有限公司",
+      "long_position_pct": 25.43,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhao Weiguo",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Jiankun Investment Group Co., Ltd. 北京健坤投資集團有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Qingxin Enterprise Management Consulting Co., Ltd. 上海青芯企業管理諮詢有限公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino IC Leasing Co., Ltd. 芯鑫融資租賃有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sino Xin Ding Limited 芯鼎有限公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Holdings Co., Ltd. 清華控股有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Unigroup Co., Ltd 紫光集團有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua University 清華大學",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UNIC Capital Management Co., Ltd. 中青芯鑫(蘇州工業園區)資產管理有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Unis Technology Strategy Investment Limited 紫光科技戰略投資有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Weiguo",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中青信投控股有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京紫光資本管理有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Holdings Co., Ltd. 清華控股有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua University 清華大學",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua Holdings Co., Ltd. 清華控股有限公司",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsinghua University 清華大學",
+      "long_position_pct": 93.25,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

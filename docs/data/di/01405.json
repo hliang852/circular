@@ -1,7 +1,7 @@
 {
   "code": "01405",
   "name": "DPC DASH LTD",
-  "last_scraped": "2026-05-27T23:17:13Z",
+  "last_scraped": "2026-05-29T23:17:51Z",
   "shareholders": [
     {
       "name": "Marshall Michele Li-Ming",
@@ -20,12 +20,12 @@
       "name": "Marshall James Leslie",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 43608229,
-      "long_position_pct": 33.13,
+      "long_position_shares": 43658229,
+      "long_position_pct": 33.17,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Good Taste Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 43577347,
-      "long_position_pct": 33.11,
+      "long_position_shares": 43627347,
+      "long_position_pct": 33.15,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Ocean Investments Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 43577347,
-      "long_position_pct": 33.11,
+      "long_position_shares": 43627347,
+      "long_position_pct": 33.15,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,17 +59,49 @@
       "name": "Wakatipu PTC Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 43577347,
-      "long_position_pct": 33.11,
+      "long_position_shares": 43627347,
+      "long_position_pct": 33.15,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Good Taste Limited",
+      "long_position_pct": 33.15,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Marshall James Leslie",
+      "long_position_pct": 33.17,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ocean Investments Limited",
+      "long_position_pct": 33.15,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wakatipu PTC Limited",
+      "long_position_pct": 33.15,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Good Taste Limited",
       "long_position_pct": 33.11,

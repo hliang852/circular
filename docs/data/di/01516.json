@@ -1,0 +1,556 @@
+{
+  "code": "01516",
+  "name": "SUNAC SERVICES HOLDINGS LTD.",
+  "last_scraped": "2026-05-29T23:18:04Z",
+  "shareholders": [
+    {
+      "name": "Sunac China Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1519203766,
+      "long_position_pct": 49.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sunac Services Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1090644516,
+      "long_position_pct": 36.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 418654750,
+      "long_position_pct": 13.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-29",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morgan Stanley International Holdings Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211292779,
+      "long_position_pct": 7.04,
+      "short_position_shares": 103501347,
+      "short_position_pct": 3.45,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morgan Stanley International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211292779,
+      "long_position_pct": 7.04,
+      "short_position_shares": 103501347,
+      "short_position_pct": 3.45,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morgan Stanley Investments (UK)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211292779,
+      "long_position_pct": 7.04,
+      "short_position_shares": 103501336,
+      "short_position_pct": 3.45,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morgan Stanley & Co. International plc",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211289245,
+      "long_position_pct": 7.04,
+      "short_position_shares": 103501336,
+      "short_position_pct": 3.45,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Sunac Services Investment Limited",
+      "long_position_pct": 36.02,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 13.7,
+      "relevant_event_date": "2024-05-29",
+      "filing_date": "2024-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Dakota Trust Company LLC（该公司为孙宏斌先生家族信托的受托人）",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Holdings LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac International Investment Holdings Ltd",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Dakota Trust Company LLC（该公司为孙宏斌先生家族信托的受托人）",
+      "long_position_pct": 51.85,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 51.95,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac China Holdings Limited",
+      "long_position_pct": 49.7,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Holdings LLC",
+      "long_position_pct": 51.85,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac International Investment Holdings Ltd",
+      "long_position_pct": 51.85,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Services Investment Limited",
+      "long_position_pct": 35.68,
+      "relevant_event_date": "2023-11-20",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 14.02,
+      "relevant_event_date": "2023-06-30",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 66.61,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 13.99,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 67.05,
+      "relevant_event_date": "2022-06-10",
+      "filing_date": "2022-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 14.32,
+      "relevant_event_date": "2022-06-08",
+      "filing_date": "2022-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 1.24,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Dakota Trust Company LLC（该公司为孙宏斌先生家族信托的受托人）",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 66.36,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sunac China Holdings Limited",
+      "long_position_pct": 64.14,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sunac Holdings LLC",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sunac International Investment Holdings Ltd",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sunac Services Investment Limited",
+      "long_position_pct": 49.67,
+      "relevant_event_date": "2021-11-17",
+      "filing_date": "2021-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2021-11-16",
+      "filing_date": "2021-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2021-11-15",
+      "filing_date": "2021-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 14.48,
+      "relevant_event_date": "2021-09-24",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.33,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Dakota Trust Company LLC（该公司为孙宏斌先生家族信托的受托人）",
+      "long_position_pct": 71.72,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 71.78,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac China Holdings Limited",
+      "long_position_pct": 69.6,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Holdings LLC",
+      "long_position_pct": 71.72,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac International Investment Holdings Ltd",
+      "long_position_pct": 71.72,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Services Investment Limited",
+      "long_position_pct": 54.71,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 14.89,
+      "relevant_event_date": "2020-12-16",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2020-12-12",
+      "filing_date": "2020-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2020-11-30",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2020-11-25",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2020-11-25",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2020-11-24",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2020-11-23",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley & Co. International plc",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley International Holdings Inc.",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley International Limited",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley Investments (UK)",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Dakota Trust Company LLC（该公司为孙宏斌先生家族信托的受托人）",
+      "long_position_pct": 74.19,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Hongbin",
+      "long_position_pct": 74.26,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac China Holdings Limited",
+      "long_position_pct": 72.0,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Holdings LLC",
+      "long_position_pct": 74.19,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac International Investment Holdings Ltd",
+      "long_position_pct": 74.19,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Services Investment Limited",
+      "long_position_pct": 56.6,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sunac Shine (PTC) Limited",
+      "long_position_pct": 15.4,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

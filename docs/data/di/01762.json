@@ -1,18 +1,18 @@
 {
   "code": "01762",
   "name": "WANKA ONLINE INC.",
-  "last_scraped": "2026-05-28T23:13:48Z",
+  "last_scraped": "2026-05-29T23:19:19Z",
   "shareholders": [
     {
       "name": "GAO Dinan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 478027300,
-      "long_position_pct": 24.07,
+      "long_position_shares": 478727300,
+      "long_position_pct": 24.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "LU Haiyan",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 478027300,
-      "long_position_pct": 24.07,
+      "long_position_shares": 478727300,
+      "long_position_pct": 24.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Wanka Media Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 428027300,
-      "long_position_pct": 21.56,
+      "long_position_shares": 428727300,
+      "long_position_pct": 21.59,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -109,6 +109,30 @@
     }
   ],
   "history": [
+    {
+      "name": "GAO Dinan",
+      "long_position_pct": 24.11,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LU Haiyan",
+      "long_position_pct": 24.11,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wanka Media Limited",
+      "long_position_pct": 21.59,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Wanka Media Limited",
       "long_position_pct": 21.56,

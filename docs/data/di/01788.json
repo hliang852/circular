@@ -1,0 +1,536 @@
+{
+  "code": "01788",
+  "name": "GUOTAI JUNAN INTERNATIONAL HOLDINGS LTD.",
+  "last_scraped": "2026-05-29T23:19:42Z",
+  "shareholders": [
+    {
+      "name": "國泰海通證券股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7044877066,
+      "long_position_pct": 73.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海國際集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4527057800,
+      "long_position_pct": 58.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-06",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 715748545,
+      "long_position_pct": 7.51,
+      "short_position_shares": 777924344,
+      "short_position_pct": 8.16,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.78,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.25,
+      "relevant_event_date": "2026-04-10",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.79,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2026-03-03",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.03,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-02-23",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.05,
+      "relevant_event_date": "2026-01-23",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.06,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2026-01-21",
+      "filing_date": "2026-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.33,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.34,
+      "relevant_event_date": "2026-01-19",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2026-01-14",
+      "filing_date": "2026-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 4.69,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2026-01-09",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.58,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.9,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2025-12-09",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2025-12-05",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.58,
+      "relevant_event_date": "2025-12-04",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.84,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2025-11-20",
+      "filing_date": "2025-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.5,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.59,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.88,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰海通證券股份有限公司",
+      "long_position_pct": 73.92,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰海通證券股份有限公司",
+      "long_position_pct": 67.73,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰海通證券股份有限公司",
+      "long_position_pct": 73.98,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰海通證券股份有限公司",
+      "long_position_pct": 74.02,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 73.12,
+      "relevant_event_date": "2020-03-17",
+      "filing_date": "2020-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 91.31,
+      "relevant_event_date": "2020-01-14",
+      "filing_date": "2020-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 68.1,
+      "relevant_event_date": "2019-05-06",
+      "filing_date": "2019-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 67.0,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 66.01,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 65.01,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 64.52,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 63.19,
+      "relevant_event_date": "2018-07-16",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 62.05,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 61.26,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 61.0,
+      "relevant_event_date": "2018-05-29",
+      "filing_date": "2018-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 61.03,
+      "relevant_event_date": "2018-04-12",
+      "filing_date": "2018-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 60.22,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 59.09,
+      "relevant_event_date": "2018-03-27",
+      "filing_date": "2018-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海國際集團有限公司",
+      "long_position_pct": 58.74,
+      "relevant_event_date": "2018-02-06",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 58.74,
+      "relevant_event_date": "2018-02-06",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "上海國際集團有限公司",
+      "long_position_pct": 54.62,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國泰君安証券股份有限公司",
+      "long_position_pct": 54.62,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

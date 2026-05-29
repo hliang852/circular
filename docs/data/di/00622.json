@@ -1,0 +1,624 @@
+{
+  "code": "00622",
+  "name": "OSHIDORI INTERNATIONAL HOLDINGS LTD.",
+  "last_scraped": "2026-05-29T23:11:52Z",
+  "shareholders": [
+    {
+      "name": "Lo Ki Yan Karen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1332387187,
+      "long_position_pct": 19.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SHOG Creation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1100606600,
+      "long_position_pct": 15.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1079070187,
+      "long_position_pct": 15.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "SHOG Creation Limited",
+      "long_position_pct": 15.85,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SHOG Creation Limited",
+      "long_position_pct": 16.85,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hope Securities Limited",
+      "long_position_pct": 4.72,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zaotos Capital Limited",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hope Securities Limited",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Ki Yan Karen",
+      "long_position_pct": 19.19,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "long_position_pct": 15.54,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHOG Creation Limited",
+      "long_position_pct": 17.5,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zaotos Capital Limited",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Ki Yan Karen",
+      "long_position_pct": 21.55,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "long_position_pct": 17.45,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hope Securities Limited",
+      "long_position_pct": 6.03,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zaotos Capital Limited",
+      "long_position_pct": 6.12,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue River Holdings Limited",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Blue River Treasury Group Limited",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Nation Cheer Investment Limited",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 3.45,
+      "relevant_event_date": "2024-05-03",
+      "filing_date": "2024-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 3.45,
+      "relevant_event_date": "2024-05-03",
+      "filing_date": "2024-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Green River Associates Limited",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lo Ki Yan Karen",
+      "long_position_pct": 9.37,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Limited",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue River Holdings Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue River Treasury Group Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nation Cheer Investment Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seekers Partners Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seekers Creation Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seekers Partners Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peak Trust Company - NV",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-06-23",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seekers Partners Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2022-06-23",
+      "filing_date": "2022-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peak Trust Company - NV",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2021-11-03",
+      "filing_date": "2021-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peak Trust Company - NV",
+      "long_position_pct": 18.84,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peak Trust Company - NV",
+      "long_position_pct": 19.82,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 16.21,
+      "relevant_event_date": "2019-11-07",
+      "filing_date": "2019-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 14.51,
+      "relevant_event_date": "2019-11-06",
+      "filing_date": "2019-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 12.8,
+      "relevant_event_date": "2019-11-05",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2019-11-04",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 10.07,
+      "relevant_event_date": "2019-10-16",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2019-10-04",
+      "filing_date": "2019-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 10.32,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 10.32,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Markets Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 0.67,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 4.44,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 13.77,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 13.77,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 4.57,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 13.77,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Markets Limited",
+      "long_position_pct": 40.64,
+      "relevant_event_date": "2018-03-28",
+      "filing_date": "2018-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 41.31,
+      "relevant_event_date": "2018-03-28",
+      "filing_date": "2018-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 18.21,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 18.21,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 18.33,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-04-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 18.33,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "State Street Corporation",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-11-10",
+      "filing_date": "2017-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 26.81,
+      "relevant_event_date": "2017-11-07",
+      "filing_date": "2017-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 26.94,
+      "relevant_event_date": "2017-11-07",
+      "filing_date": "2017-11-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 26.83,
+      "relevant_event_date": "2017-07-26",
+      "filing_date": "2017-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 26.95,
+      "relevant_event_date": "2017-07-26",
+      "filing_date": "2017-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 31.71,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dai Gor Capital Ltd.",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Divine Kings Limited",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Imagi International Holdings Limited",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 31.86,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Unimagi Investment Limited",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2017-07-11",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

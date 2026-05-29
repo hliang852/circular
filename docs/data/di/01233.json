@@ -1,7 +1,7 @@
 {
   "code": "01233",
   "name": "TIMES CHINA HOLDINGS LTD.",
-  "last_scraped": "2026-05-28T23:12:58Z",
+  "last_scraped": "2026-05-29T23:15:31Z",
   "shareholders": [
     {
       "name": "Asiaciti Enterprises Ltd. 豐亞企業有限公司",
@@ -108,32 +108,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Pacific Alliance Group Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 207507312,
-      "long_position_pct": 7.44,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-06",
-      "filing_date": "2026-01-06",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "PAG AR Opportunistic Strategies Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 207507312,
-      "long_position_pct": 7.44,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-06",
-      "filing_date": "2026-01-06",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "PAG-P Asia Fund L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -147,15 +121,54 @@
       "notice_type": "Current"
     },
     {
+      "name": "Pacific Alliance Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 207507312,
+      "long_position_pct": 6.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PAG AR Opportunistic Strategies Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 207507312,
+      "long_position_pct": 6.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PAG-P Asia Fund L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 207507312,
+      "long_position_pct": 6.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "PAG-P Management Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 207507312,
-      "long_position_pct": 7.44,
+      "long_position_pct": 6.95,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-06",
-      "filing_date": "2026-01-06",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -206,6 +219,38 @@
       "long_position_pct": 41.72,
       "relevant_event_date": "2026-05-27",
       "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Group Limited",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG AR Opportunistic Strategies Limited",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG-P Asia Fund L.P.",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG-P Management Limited",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

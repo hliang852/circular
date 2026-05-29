@@ -1,0 +1,861 @@
+{
+  "code": "00264",
+  "name": "CHINA INTERNATIONAL DEVELOPMENT CORPORATION LTD.",
+  "last_scraped": "2026-05-29T23:08:17Z",
+  "shareholders": [
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 210096406,
+      "long_position_pct": 44.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 210096406,
+      "long_position_pct": 44.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 208744406,
+      "long_position_pct": 43.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 208744406,
+      "long_position_pct": 43.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 43.98,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 43.98,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 44.02,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 44.02,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 44.26,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 44.26,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 48.9,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 48.9,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 50.27,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 50.27,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 50.47,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 50.47,
+      "relevant_event_date": "2025-12-29",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 50.91,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 50.91,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 50.91,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 50.91,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 50.91,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 55.25,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 55.25,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 55.25,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 55.45,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 55.45,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO TIAN LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NVTSH Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO Jiangong",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO TIAN LIMITED",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NVTSH Limited",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 57.31,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO Jiangong",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 57.31,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO TIAN LIMITED",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO TIAN LIMITED",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NVTSH Limited",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NVTSH Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO Jiangong",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO Jiangong",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 59.3,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 59.3,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 60.57,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 60.57,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 62.04,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 62.04,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 66.9,
+      "relevant_event_date": "2022-11-14",
+      "filing_date": "2022-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 66.9,
+      "relevant_event_date": "2022-11-14",
+      "filing_date": "2022-11-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 67.42,
+      "relevant_event_date": "2022-01-21",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 67.42,
+      "relevant_event_date": "2022-01-21",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 71.47,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 71.47,
+      "relevant_event_date": "2021-06-09",
+      "filing_date": "2021-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 71.86,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 71.86,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Group Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Securities Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Waterfront Holding Group Co., Ltd.",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Jingfei",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Group Holdings Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Securities Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mason Group Holdings Limited",
+      "long_position_pct": 90.87,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Securities Limited",
+      "long_position_pct": 90.87,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 90.87,
+      "relevant_event_date": "2018-07-25",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 90.87,
+      "relevant_event_date": "2018-07-25",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 63.79,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 63.79,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 62.99,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 62.99,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 62.96,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 62.96,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 62.45,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 62.45,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 3.14,
+      "relevant_event_date": "2018-05-31",
+      "filing_date": "2018-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2018-05-30",
+      "filing_date": "2018-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 6.14,
+      "relevant_event_date": "2018-05-29",
+      "filing_date": "2018-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2018-05-24",
+      "filing_date": "2018-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 7.53,
+      "relevant_event_date": "2018-05-23",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2018-05-21",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twinkle Link Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG YONG HONG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Hongwei",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhonghong Holding Co., Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhurong Global Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Group Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Resources Finance Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG YONG HONG",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhonghong Holding Co., Ltd.",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhurong Global Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Group Holdings Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mason Resources Finance Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yong Hong",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhonghong Holding Co., Ltd.",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhurong Global Limited",
+      "long_position_pct": 60.09,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fang Cheng Yu",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2017-11-08",
+      "filing_date": "2017-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

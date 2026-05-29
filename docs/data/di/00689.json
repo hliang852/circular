@@ -1,0 +1,780 @@
+{
+  "code": "00689",
+  "name": "EPI (HOLDINGS) LTD.",
+  "last_scraped": "2026-05-29T23:12:25Z",
+  "shareholders": [
+    {
+      "name": "SHUM KA KAM",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 336025686,
+      "long_position_pct": 18.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "VCYBER Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 336025686,
+      "long_position_pct": 18.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 264438483,
+      "long_position_pct": 14.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liaw Lin Hsiang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 261093000,
+      "long_position_pct": 14.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 700170000,
+      "long_position_pct": 13.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中国船舶集团有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 700170000,
+      "long_position_pct": 13.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-10-21",
+      "filing_date": "2021-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Create Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 357705000,
+      "long_position_pct": 6.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liaw Lin Hsiang",
+      "long_position_pct": 14.05,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liaw Lin Hsiang",
+      "long_position_pct": 13.42,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 15.66,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHUM KA KAM",
+      "long_position_pct": 18.09,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VCYBER Holdings Limited",
+      "long_position_pct": 18.09,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 11.24,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 12.28,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SHUM KA KAM",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "VCYBER Holdings Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-09-19",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VCYBER Holdings Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 11.06,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 10.34,
+      "relevant_event_date": "2025-07-08",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2025-06-17",
+      "filing_date": "2025-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2025-02-24",
+      "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2025-02-12",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SURICH REAL ESTATE OPPORTUNITY FUND SPC - SURICH GRE FUND SP",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2025-01-15",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国船舶集团有限公司",
+      "long_position_pct": 13.36,
+      "relevant_event_date": "2021-10-21",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 16.45,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-05-19",
+      "filing_date": "2020-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-05-19",
+      "filing_date": "2020-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 19.07,
+      "relevant_event_date": "2020-05-03",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 19.07,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 16.45,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 16.45,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 16.45,
+      "relevant_event_date": "2018-11-07",
+      "filing_date": "2018-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Create Capital Limited",
+      "long_position_pct": 6.83,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 13.36,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 19.91,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 20.35,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 19.53,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 20.38,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 20.35,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 20.35,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 20.47,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 20.47,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 20.47,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 13.75,
+      "relevant_event_date": "2018-05-03",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 23.42,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 19.65,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Create Capital Limited",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 20.5,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 23.42,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 23.42,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Create Capital Limited",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 13.96,
+      "relevant_event_date": "2018-02-09",
+      "filing_date": "2018-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 12.5,
+      "relevant_event_date": "2018-02-08",
+      "filing_date": "2018-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 10.58,
+      "relevant_event_date": "2018-02-07",
+      "filing_date": "2018-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 8.77,
+      "relevant_event_date": "2018-02-02",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2018-02-01",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2018-01-31",
+      "filing_date": "2018-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 23.76,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 43.68,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BJHK Company Limited",
+      "long_position_pct": 19.93,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Zhiyi",
+      "long_position_pct": 20.79,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 23.76,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 43.68,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 23.76,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 43.68,
+      "relevant_event_date": "2018-01-26",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 44.54,
+      "relevant_event_date": "2018-01-25",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Shipbuilding Capital Limited",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2018-01-25",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 44.54,
+      "relevant_event_date": "2018-01-25",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 44.54,
+      "relevant_event_date": "2018-01-25",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 46.0,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 46.0,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 46.0,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 47.41,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 47.41,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 47.41,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Expo International Limited",
+      "long_position_pct": 49.03,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Premier United Group Limited",
+      "long_position_pct": 49.03,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suen Cho Hung, Paul",
+      "long_position_pct": 49.03,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    }
+  ]
+}
