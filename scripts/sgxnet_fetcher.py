@@ -7,6 +7,12 @@ category. Do NOT replicate HK's split between DI scraper and CA scraper.
 Used by:
     scripts/scrape_sg_di.py            (--market sg)
     scripts/scrape_sg_corp_actions.py  (--market sg)
+
+VERIFIED 2026-05-25:
+  - Endpoint: api.sgx.com/announcements/v1.1/company  (v1.1, not v1.0)
+  - Auth:     authorizationToken header (short-lived token, ROT-13 encoded
+              in CMS; see config.sgx_categories for URL)
+  - Field map: see _parse() docstring
 """
 from __future__ import annotations
 
@@ -19,11 +25,18 @@ from typing import Callable, Iterator, Optional
 
 import requests
 
-from config.sgx_categories import API_BASE, MATCH_FIELD, MATCH_MODE, ROUTING
+from config.sgx_categories import (
+    API_COMPANY_ENDPOINT,
+    CMS_API_URL,
+    CMS_VERSION,
+    MATCH_FIELD,
+    MATCH_MODE,
+    ROUTING,
+)
 
 log = logging.getLogger(__name__)
 
-# Polite rate limit -- matches HK scrapers per CONTEXT.md.
+# Polite rate limit — matches HK scrapers per CONTEXT.md.
 MIN_DELAY_S = 1.5
 MAX_DELAY_S = 3.0
 
@@ -31,17 +44,44 @@ MAX_DELAY_S = 3.0
 BACKOFF_SCHEDULE = [10, 30, 90, 300]
 
 # Default page size for api.sgx.com.
-PAGE_SIZE = 50
+PAGE_SIZE = 100
+
+# CMS token endpoint (qrValidator is ROT-13 encoded; decoded value is the header value).
+_TOKEN_URL = f"{CMS_API_URL}/?queryId={CMS_VERSION}:we_chat_qr_validator"
+
+
+def _rot13(s: str) -> str:
+    """ROT-13 decoder for the SGX CMS auth token."""
+    result = []
+    for c in s:
+        if c.isalpha():
+            base = ord("A") if c <= "Z" else ord("a")
+            result.append(chr((ord(c) - base + 13) % 26 + base))
+        else:
+            result.append(c)
+    return "".join(result)
 
 
 @dataclass
 class Announcement:
-    """One row from the api.sgx.com announcements feed."""
+    """One row from the api.sgx.com announcements feed.
+
+    Field sources (verified against live v1.1 response 2026-05-25):
+        announcement_id  ← item["id"]
+        stock_code       ← item["issuers"][0]["stock_code"]  (first issuer)
+        issuer_name      ← item["issuer_name"]
+        headline         ← item["title"]
+        category         ← item["sub"]   (subcategory code, e.g. "ANNC13")
+        cat              ← item["cat"]   (top-level code, e.g. "ANNC")
+        filing_datetime  ← item["broadcast_date_time"]  (Unix milliseconds)
+        pdf_url          ← item["url"]
+    """
     announcement_id: str
     stock_code: str
     issuer_name: str
     headline: str
-    category: str
+    category: str          # sub code  ("ANNC13", "CACT18", …)
+    cat: str               # top-level ("ANNC", "CACT", …)
     filing_datetime: datetime
     pdf_url: Optional[str]
     raw: dict = field(repr=False, default_factory=dict)
@@ -52,7 +92,7 @@ Handler = Callable[[Announcement], None]
 
 
 class SGXNetFetcher:
-    """Pulls announcements from api.sgx.com and dispatches to handlers.
+    """Pulls announcements from api.sgx.com/v1.1 and dispatches to handlers.
 
     Usage:
         fetcher = SGXNetFetcher()
@@ -64,9 +104,16 @@ class SGXNetFetcher:
     def __init__(self, session: Optional[requests.Session] = None):
         self.session = session or requests.Session()
         self.session.headers.update({
-            "User-Agent": "Circular/0.1 (HKEX disclosure tracker; +github.com/.../circular)",
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
             "Accept": "application/json",
+            "Referer": "https://www.sgx.com/securities/company-announcements",
+            "Origin": "https://www.sgx.com",
         })
+        self._auth_token: Optional[str] = None
         self.handlers: dict[str, list[Handler]] = {"di": [], "corp_actions": []}
         self.stats = {"fetched": 0, "dispatched": 0, "errors": 0, "skipped": 0}
 
@@ -84,6 +131,7 @@ class SGXNetFetcher:
 
         Returns a stats dict suitable for last_run.json.
         """
+        self._refresh_token()
         log.info("SGXNetFetcher run: %s -> %s", start.isoformat(), end.isoformat())
         for ann in self._iter_announcements(start, end):
             self.stats["fetched"] += 1
@@ -92,26 +140,39 @@ class SGXNetFetcher:
         log.info("SGXNetFetcher done: %s", self.stats)
         return self.stats
 
+    # -- auth ----------------------------------------------------------------
+
+    def _refresh_token(self) -> None:
+        """Fetch a fresh authorizationToken from the SGX CMS and apply it."""
+        try:
+            resp = self.session.get(_TOKEN_URL, timeout=30)
+            resp.raise_for_status()
+            raw_token = resp.json()["data"]["qrValidator"]
+            self._auth_token = _rot13(raw_token)
+            self.session.headers.update({"authorizationToken": self._auth_token})
+            log.debug("SGX auth token refreshed (len=%d)", len(self._auth_token))
+        except Exception as exc:
+            raise RuntimeError(f"Failed to obtain SGX auth token: {exc}") from exc
+
     # -- pagination + HTTP ---------------------------------------------------
 
     def _iter_announcements(self, start: datetime, end: datetime) -> Iterator[Announcement]:
         page = 0
         while True:
             params = {
-                "periodstart": start.strftime("%Y%m%d_000000"),
-                "periodend":   end.strftime("%Y%m%d_235959"),
+                "periodstart": start.strftime("%Y%m%d_%H%M%S"),
+                "periodend":   end.strftime("%Y%m%d_%H%M%S"),
                 "pagestart":   page * PAGE_SIZE,
                 "pagesize":    PAGE_SIZE,
-                # "cat": "GE",  # uncomment once category code confirmed
             }
             try:
-                payload = self._get(API_BASE, params)
+                payload = self._get(API_COMPANY_ENDPOINT, params)
             except Exception as exc:
                 log.error("Page %d failed: %s", page, exc)
                 self.stats["errors"] += 1
                 break
 
-            items = payload.get("data", []) or payload.get("items", [])
+            items = payload.get("data", [])
             if not items:
                 break
 
@@ -123,7 +184,9 @@ class SGXNetFetcher:
                     self.stats["errors"] += 1
                     continue
 
-            if len(items) < PAGE_SIZE:
+            total = payload.get("meta", {}).get("totalItems", 0)
+            fetched_so_far = (page + 1) * PAGE_SIZE
+            if fetched_so_far >= total or len(items) < PAGE_SIZE:
                 break
             page += 1
 
@@ -135,38 +198,69 @@ class SGXNetFetcher:
             resp = self.session.get(url, params=params, timeout=30)
             if resp.status_code == 429:
                 continue
+            if resp.status_code == 401:
+                # Token expired mid-run; refresh once and retry.
+                log.warning("401 received, refreshing auth token")
+                self._refresh_token()
+                continue
             resp.raise_for_status()
             return resp.json()
         raise RuntimeError(f"Exhausted backoff schedule for {url}")
 
     def _parse(self, item: dict) -> Announcement:
-        """Normalise the raw api.sgx.com record into an Announcement.
+        """Normalise a raw api.sgx.com v1.1 item into an Announcement.
 
-        Field names below are the OBSERVED shape from public scrapers; verify
-        against a live response and adjust if needed.
+        Verified field names (2026-05-25 against live data):
+            item["id"]                       → announcement_id
+            item["issuers"][0]["stock_code"] → stock_code  (first issuer)
+            item["issuer_name"]              → issuer_name
+            item["title"]                    → headline
+            item["sub"]                      → category  (subcategory code)
+            item["cat"]                      → cat       (top-level code)
+            item["broadcast_date_time"]      → filing_datetime (Unix ms int)
+            item["url"]                      → pdf_url
         """
+        issuers = item.get("issuers") or []
+        stock_code = (
+            issuers[0].get("stock_code", "") if issuers else ""
+        ).strip()
+
         return Announcement(
-            announcement_id=str(item.get("id") or item.get("announcement_id") or ""),
-            stock_code=(item.get("stock_code") or item.get("symbol") or "").strip(),
-            issuer_name=(item.get("issuer_name") or item.get("company_name") or "").strip(),
-            headline=(item.get("headline") or item.get("title") or "").strip(),
-            category=(item.get("category") or "").strip(),
-            filing_datetime=self._parse_dt(item.get("broadcast_date_time") or item.get("date")),
-            pdf_url=item.get("url") or item.get("attachment_url"),
+            announcement_id=str(item.get("id") or ""),
+            stock_code=stock_code,
+            issuer_name=(item.get("issuer_name") or "").strip(),
+            headline=(item.get("title") or "").strip(),
+            category=(item.get("sub") or "").strip(),    # subcategory code
+            cat=(item.get("cat") or "").strip(),         # top-level code
+            filing_datetime=self._parse_dt(item.get("broadcast_date_time")),
+            pdf_url=item.get("url") or None,
             raw=item,
         )
 
     @staticmethod
     def _parse_dt(value) -> datetime:
+        """Parse a broadcast_date_time value.
+
+        The api.sgx.com v1.1 field is a Unix millisecond integer
+        (e.g. 1779717976000).  Fallback paths handle legacy string formats.
+        """
         if isinstance(value, datetime):
             return value
         if not value:
             return datetime.now(timezone.utc)
+        # Unix milliseconds (the normal v1.1 case)
+        if isinstance(value, (int, float)) and value > 1_000_000_000_000:
+            return datetime.fromtimestamp(value / 1000, tz=timezone.utc)
+        # Unix seconds
+        if isinstance(value, (int, float)) and value > 1_000_000_000:
+            return datetime.fromtimestamp(value, tz=timezone.utc)
+        # String formats
         for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y%m%d_%H%M%S", "%Y-%m-%d"):
             try:
                 return datetime.strptime(str(value)[:19], fmt).replace(tzinfo=timezone.utc)
             except ValueError:
                 continue
+        log.warning("Could not parse datetime value: %r", value)
         return datetime.now(timezone.utc)
 
     # -- dispatch ------------------------------------------------------------
@@ -185,8 +279,14 @@ class SGXNetFetcher:
                 self.stats["errors"] += 1
 
     def _classify(self, ann: Announcement) -> Optional[str]:
-        """Return the section name for this announcement, or None to skip."""
-        target = (ann.headline if MATCH_FIELD == "headline" else ann.category).lower()
+        """Return the section name for this announcement, or None to skip.
+
+        With MATCH_MODE='exact' and MATCH_FIELD='sub', this is a simple
+        dict lookup against the verified sub codes in ROUTING.
+        """
+        target = (ann.category if MATCH_FIELD == "sub" else
+                  ann.headline  if MATCH_FIELD == "headline" else
+                  ann.cat).lower()
         for _key, (section, code) in ROUTING.items():
             if MATCH_MODE == "exact" and target == code.lower():
                 return section

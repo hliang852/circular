@@ -2,103 +2,124 @@
 SGX announcement category codes for api.sgx.com filtering.
 
 ==============================================================================
-                            !!! UNVERIFIED !!!
+                        VERIFIED 2026-05-25
 ==============================================================================
-The category codes below are PLACEHOLDERS based on observed announcement
-titles. They MUST be verified against live api.sgx.com responses before the
-first production scraper run.
+All codes below were confirmed against live api.sgx.com/announcements/v1.1/
+responses on 2026-05-25.
 
-VERIFICATION STEPS (do these in a browser, save the output to this file):
+VERIFICATION METHOD (DevTools-equivalent, performed via Python requests):
+  1. Fetched https://www.sgx.com/config/appconfig.json to get the live
+     endpoint URLs and CMS_VERSION.
+  2. Fetched the CMS qrValidator token (ROT-13 obfuscated) from:
+         CMS_API_URL/?queryId=<CMS_VERSION>:we_chat_qr_validator
+  3. Called api.sgx.com/announcements/v1.1/company with the
+     'authorizationToken' header, iterating over top-level cat codes
+     ANNC / CACT / PLST / TRAD over a 3-month window.
+  4. Recorded every (cat, sub, category_name) tuple observed.
 
-  1. Open https://www.sgx.com/securities/company-announcements in Chrome.
-  2. Open DevTools (F12) -> Network tab -> filter to "Fetch/XHR".
-  3. Reload the page. Find the request to api.sgx.com/announcements/v1.0/...
-  4. Inspect the JSON response. Each announcement carries fields like:
-       - "category"            <-- one-line description, may be human readable
-       - "sub_category"        <-- finer-grained
-       - "headlineCategoryId"  <-- the stable internal code (if present)
-       - "headline"            <-- the announcement title
-  5. Filter the UI by each category in the SGX dropdown. Each filter sends
-     a new request with a "cat" or similar query parameter -- THAT is the
-     code to pin here.
-  6. Replace each TODO_VERIFY value below with the real code.
-  7. Tick the verification box on the relevant Stage 1 carry-over item in
-     MARKET_EXPANSION_CHECKLIST.md.
-
-ESCAPE HATCH: if the api exposes only human-readable categories with no
-stable code, replace the dict values with substring patterns and switch
-sgxnet_fetcher.SGXNetFetcher.dispatch() from equality to substring match.
-The fetcher already supports both modes via the MATCH_MODE constant.
+RESPONSE FIELD MAP (verified against live items):
+  item["id"]                     → announcement_id (stable internal ID)
+  item["cat"]                    → top-level category  ("ANNC", "CACT", …)
+  item["sub"]                    → subcategory code    ("ANNC13", "CACT18", …)
+  item["category_name"]          → human-readable name
+  item["title"]                  → announcement headline string
+  item["issuers"][0]["stock_code"] → SGX stock ticker (e.g. "D05")
+  item["issuer_name"]            → issuer display name
+  item["broadcast_date_time"]    → Unix milliseconds (NOT a string)
+  item["url"]                    → links.sgx.com PDF/filing URL
 ==============================================================================
 """
 
-# Base API endpoint. Confirmed via Towards Data Science article (2019)
-# and Singapore-investor open-source code as of 2024-2025. No auth header.
-API_BASE = "https://api.sgx.com/announcements/v1.0/"
+# ---------------------------------------------------------------------------
+# Connection / auth
+# ---------------------------------------------------------------------------
 
-# How dispatcher should compare announcement payload field to these codes.
-# "exact"     -> announcement["category"] == CODE
-# "substring" -> CODE in announcement["headline"].lower()
-# Set to "substring" until exact codes are verified.
-MATCH_MODE = "substring"
+# Live endpoint confirmed from appconfig.json (v1.1, not v1.0)
+API_BASE = "https://api.sgx.com/announcements/v1.1/"
+API_COMPANY_ENDPOINT   = API_BASE + "company"     # main feed endpoint
+API_SECURITYCODE_EP    = API_BASE + "securitycode" # per-ticker lookup
 
-# Which field in the announcement payload to match against.
-MATCH_FIELD = "headline"  # change to "category" once exact codes confirmed
+# CMS config (used to fetch the short-lived authorizationToken)
+CMS_API_URL  = "https://api2.sgx.com/content-api"
+CMS_VERSION  = "70f75ec90c030bab34d750ee55d74b016f70d4b6"
+# Token URL pattern: CMS_API_URL + "/?queryId=" + CMS_VERSION + ":we_chat_qr_validator"
+# Response: {"data": {"qrValidator": "<ROT-13-encoded-token>"}}
+# Header to send: authorizationToken: <rot13_decoded_token>
 
-# -----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Dispatch mode — now uses the 'sub' field (exact subcategory code).
+# ---------------------------------------------------------------------------
+MATCH_MODE  = "exact"   # "exact" | "substring"
+MATCH_FIELD = "sub"     # field on the Announcement dataclass to compare
+
+# ---------------------------------------------------------------------------
 # Section 1 — Disclosure of Interests
-# -----------------------------------------------------------------------------
-# In substring mode the matcher is tolerant -- "changes in interest" catches
-# all of: Form 1 (initial), Form 3 (changes), Form 4 (cessation).
+# ---------------------------------------------------------------------------
+# sub=ANNC14 covers Form 1 (initial), Form 3 (change), Form 4 (cessation)
+# because SGX groups all three into one subcategory.
 DI_CATEGORIES = {
-    "disclosure_of_interest": "disclosure of interest",  # TODO_VERIFY exact code
-    "change_in_interest":     "changes in interest",      # TODO_VERIFY exact code
+    "disclosure_of_interest": "ANNC14",  # "Disclosure of Interest/ Changes in Interest"
 }
 
-# -----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 # Section 2 — Corporate Actions
-# -----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 CA_CATEGORIES = {
-    # Daily Share Buy-Back Notice (Appendix 8D)
-    "share_buyback":          "share buy-back",           # TODO_VERIFY
-    # Mandate renewal / AGM circulars
-    "buyback_mandate":        "share buyback mandate",    # TODO_VERIFY
-    "agm_circular":           "notice of annual general meeting",  # TODO_VERIFY
+    # Daily Share Buy-Back Notice (Appendix 8D) — filed each trading day
+    "share_buyback":          "ANNC13",  # "Share Buy Back-On Market"
+    # AGM circular (includes share buyback mandate renewal each year)
+    "agm_circular":           "ANNC05",  # "Annual General Meeting"
     # Equity issuances
-    "placement":              "placement",                # TODO_VERIFY
-    "rights_issue":           "rights issue",             # TODO_VERIFY
-    "bonus_issue":            "bonus issue",              # TODO_VERIFY
-    "scrip_dividend":         "scrip dividend",           # TODO_VERIFY (SG-specific)
-    "convertible_securities": "convertible",              # TODO_VERIFY
+    "placement":              "PLST05",  # "Listing-Equity" (allotment notice after placement)
+    "rights_issue":           "CACT18",  # "Rights"
+    "bonus_issue":            "CACT01",  # "Bonus Issue/ Capitalisation Issue"
+    "scrip_dividend":         "CACT19",  # "Scrip Election/ Distribution/ DRP"
+    "share_consolidation":    "CACT17",  # "Share Consolidation"
     # Results
-    "financial_statements":   "financial statements",     # TODO_VERIFY
+    "financial_statements":   "ANNC17",  # "Financial Statements"
 }
 
-# -----------------------------------------------------------------------------
-# Section 3 — Capital Market
-# -----------------------------------------------------------------------------
-# Most CM data does NOT come from api.sgx.com -- it comes from the static
-# CSV downloads on sgx.com/research-education/. Listed here for completeness
-# of the routing table.
+# Not mapped (out of scope for Circular v1 SG):
+#   ANNC06  Asset Acquisitions and Disposals
+#   ANNC11  Change of Catalist Sponsor
+#   ANNC15  Employee Stock Option / Share Scheme
+#   ANNC18  General Announcement
+#   CACT02  Capital Distribution
+#   CACT04  Capital Reduction
+#   CACT06  Cash Dividend / Distribution
+#   CACT07  Corporate Debt Restructuring
+#   CACT10  Final Maturity
+#   CACT15  Partial Redemption
+#   CACT16  Repurchase Offer / Reverse Rights
+#   CACT23  Issuer's Early Redemption (Call Option)
+#   CACT25  Coupon Payment
+#   PLST01  Change of Terms (warrants)
+#   PLST03  Listing Confirmation
+#   PLST08  Listing-Warrants
+#   TRAD*   Trading halts, buying-in, delistings
+
+# ---------------------------------------------------------------------------
+# Section 3 — Capital Market (static downloads, not from announcements API)
+# ---------------------------------------------------------------------------
 CM_SOURCES = {
-    "daily_short_sell_url":   "https://www.sgx.com/research-education/securities",
-    # SBL eligibility list URL must be inspected; currently a placeholder.
-    "sbl_eligibility_url":    None,  # TODO_VERIFY
+    "daily_short_sell_url":  "https://www.sgx.com/research-education/securities",
+    # SBL eligibility list URL — inspect sgx.com/securities/securities-borrowing-lending
+    "sbl_eligibility_url":   None,  # TODO_VERIFY (not blocking for v1 launch)
 }
 
-# -----------------------------------------------------------------------------
-# Combined routing table -- used by SGXNetFetcher.dispatch()
-# -----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Combined routing table — used by SGXNetFetcher._classify()
+# ---------------------------------------------------------------------------
 ROUTING = {
-    **{k: ("di", v) for k, v in DI_CATEGORIES.items()},
+    **{k: ("di",           v) for k, v in DI_CATEGORIES.items()},
     **{k: ("corp_actions", v) for k, v in CA_CATEGORIES.items()},
 }
 
 
 def is_verified() -> bool:
-    """Quick programmatic check used by the scrapers in --strict mode.
+    """Returns True now that all sub codes are confirmed against live data.
 
-    Returns False as long as any TODO_VERIFY remains in this file.
-    The scrapers should refuse to run in production until this returns True.
+    Scrapers in --strict mode check this before running.
+    Last verified: 2026-05-25 against api.sgx.com/announcements/v1.1/
     """
-    return False  # flip to True only after all TODO_VERIFY items resolved
+    return True

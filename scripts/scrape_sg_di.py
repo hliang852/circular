@@ -169,6 +169,15 @@ def handle_di_filing(ann: Announcement) -> None:
 
 
 def _download_pdf(url: str, ann_id: str) -> Optional[Path]:
+    """Download the MAS form PDF for a DI announcement.
+
+    links.sgx.com URLs (the 'url' field in the API) return an HTML viewer
+    page, not the PDF directly.  The actual PDF links appear in the HTML as:
+        <a href="/1.0.0/corporate-announcements/{ID}/{filename}.pdf"
+           class="announcement-attachment">
+    We follow one level of indirection to extract and download the first
+    matching attachment.  The result is cached by announcement ID.
+    """
     cache_dir = Path("docs/data/sg/_pdf_cache")
     cache_dir.mkdir(parents=True, exist_ok=True)
     target = cache_dir / f"{ann_id}.pdf"
@@ -177,11 +186,43 @@ def _download_pdf(url: str, ann_id: str) -> Optional[Path]:
     try:
         resp = requests.get(url, timeout=30)
         resp.raise_for_status()
+
+        content_type = resp.headers.get("content-type", "")
+        if "html" in content_type or resp.content[:5] in (b"<html", b"<!DOC", b"\r\n\r\n<", b"\r\n<!"):
+            # It's the HTML viewer page — extract attachment links.
+            pdf_url = _extract_first_pdf_link(resp.text, url)
+            if pdf_url is None:
+                log.warning("No PDF attachment found in viewer page (%s)", url)
+                return None
+            resp = requests.get(pdf_url, timeout=30)
+            resp.raise_for_status()
+
         target.write_bytes(resp.content)
         return target
     except Exception as exc:
         log.warning("PDF download failed (%s): %s", url, exc)
         return None
+
+
+def _extract_first_pdf_link(html: str, page_url: str) -> Optional[str]:
+    """Pull the first announcement-attachment PDF href from the viewer page HTML."""
+    import re
+    from urllib.parse import urljoin
+    # Pattern: <a href="...pdf" ... class="announcement-attachment">
+    pat = re.compile(
+        r'<a\s+href="(/[^"]+\.pdf)"[^>]*class="announcement-attachment"',
+        re.IGNORECASE,
+    )
+    m = pat.search(html)
+    if m:
+        # href is relative to links.sgx.com
+        return "https://links.sgx.com" + m.group(1)
+    # Fallback: any .pdf href under /1.0.0/corporate-announcements/
+    pat2 = re.compile(r'href="(/1\.0\.0/corporate-announcements/[^"]+\.pdf)"', re.IGNORECASE)
+    m2 = pat2.search(html)
+    if m2:
+        return "https://links.sgx.com" + m2.group(1)
+    return None
 
 
 # --- CLI ---------------------------------------------------------------------
