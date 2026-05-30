@@ -1,7 +1,7 @@
 {
   "code": "06681",
   "name": "BRAINAURORA MEDICAL TECHNOLOGY LTD. - B",
-  "last_scraped": "2026-05-22T23:01:53Z",
+  "last_scraped": "2026-05-26T23:15:38Z",
   "shareholders": [
     {
       "name": "TAN Zheng",
@@ -184,19 +184,6 @@
       "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Zhao Yujie",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 69932000,
-      "long_position_pct": 5.15,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-09",
-      "filing_date": "2026-04-09",
-      "form_type": "Form 1",
-      "notice_type": "Current"
     }
   ],
   "history": [
@@ -206,6 +193,30 @@
       "relevant_event_date": "2026-05-21",
       "filing_date": "2026-05-22",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Yujie",
+      "long_position_pct": 4.75,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Yujie",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhao Yujie",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

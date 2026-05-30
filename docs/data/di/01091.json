@@ -1,7 +1,7 @@
 {
   "code": "01091",
   "name": "SOUTH MANGANESE INVESTMENT LTD.",
-  "last_scraped": "2026-05-22T22:55:13Z",
+  "last_scraped": "2026-05-27T23:16:07Z",
   "shareholders": [
     {
       "name": "Youfu Investment Co., Ltd",
@@ -43,19 +43,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Chen Xuming",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 822830160,
-      "long_position_pct": 16.67,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-01",
-      "filing_date": "2025-08-01",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "HONOR AIM LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -66,6 +53,19 @@
       "relevant_event_date": "2025-08-01",
       "filing_date": "2025-08-01",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Chunlan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 822830160,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -109,6 +109,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Chen Xuming",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Chunlan",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "桂南大锰国际资源有限公司",
       "long_position_pct": 15.52,

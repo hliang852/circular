@@ -1,7 +1,7 @@
 {
   "code": "08395",
   "name": "ZXZN QI-HOUSE HOLDINGS LTD.",
-  "last_scraped": "2026-05-19T23:11:55Z",
+  "last_scraped": "2026-05-27T23:25:19Z",
   "shareholders": [
     {
       "name": "SHUM YUET WAH ANNA",
@@ -95,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Chan Pui Yee",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 122536000,
+      "long_position_pct": 7.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "Li Zuozhen",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -132,22 +145,25 @@
       "filing_date": "2026-05-04",
       "form_type": "Form 1",
       "notice_type": "Current"
-    },
-    {
-      "name": "Xu Qiang",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 89820000,
-      "long_position_pct": 5.67,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
-      "form_type": "Form 1",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Xu Qiang",
+      "long_position_pct": 2.92,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Pui Yee",
+      "long_position_pct": 7.74,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Yang Songmei",
       "long_position_pct": 0.0,

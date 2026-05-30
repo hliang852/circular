@@ -1,0 +1,1564 @@
+{
+  "code": "01739",
+  "name": "QEEKA HOME (CAYMAN) INC.",
+  "last_scraped": "2026-05-27T23:17:42Z",
+  "shareholders": [
+    {
+      "name": "孙杰",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 308377140,
+      "long_position_pct": 26.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-17",
+      "filing_date": "2024-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "邓华金",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 308377140,
+      "long_position_pct": 25.68,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qeeka Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 294789530,
+      "long_position_pct": 24.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州元禾控股股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 185246080,
+      "long_position_pct": 15.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区国有资产控股发展有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 185246080,
+      "long_position_pct": 15.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区经济发展有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 185246080,
+      "long_position_pct": 15.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区管理委员会",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 185246080,
+      "long_position_pct": 15.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baidu (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 139333330,
+      "long_position_pct": 11.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baidu Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 139333330,
+      "long_position_pct": 11.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baidu, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 139333330,
+      "long_position_pct": 11.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Tao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Teng Yue Partners GP, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Teng Yue Partners Holdings GP, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Teng Yue Partners Holdings, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Teng Yue Partners Master Fund, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Teng Yue Partners, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105186500,
+      "long_position_pct": 9.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中新苏州工业园区创业投资有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 101912750,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "华圆管理咨询（香港）有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 101912750,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yao Hua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 83333330,
+      "long_position_pct": 6.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区元禾重元股权投资基金管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83333330,
+      "long_position_pct": 6.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区重元景风股权投资管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83333330,
+      "long_position_pct": 6.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州工业园区重元齐家股权投资企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83333330,
+      "long_position_pct": 6.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 71777558,
+      "long_position_pct": 6.27,
+      "short_position_shares": 71777459,
+      "short_position_pct": 6.27,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 7.52,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SIP ORIZA QIJIA PE ENTERPRISE (LIMITED PARTNERSHIP)",
+      "long_position_pct": 4.74,
+      "relevant_event_date": "2024-10-10",
+      "filing_date": "2025-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "孙杰",
+      "long_position_pct": 26.93,
+      "relevant_event_date": "2024-06-17",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 1.28,
+      "relevant_event_date": "2022-04-28",
+      "filing_date": "2022-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2021-12-15",
+      "filing_date": "2021-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 1.27,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2021-06-07",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Tao",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners GP, LLC",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings GP, LLC",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings, LLC",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Master Fund, L.P.",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners, L.P.",
+      "long_position_pct": 9.08,
+      "relevant_event_date": "2021-02-25",
+      "filing_date": "2021-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qeeka Holding Limited",
+      "long_position_pct": 24.55,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "孙杰",
+      "long_position_pct": 25.68,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "邓华金",
+      "long_position_pct": 25.68,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qeeka Holding Limited",
+      "long_position_pct": 25.18,
+      "relevant_event_date": "2020-01-10",
+      "filing_date": "2020-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "孙杰",
+      "long_position_pct": 26.31,
+      "relevant_event_date": "2020-01-10",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "邓华金",
+      "long_position_pct": 26.31,
+      "relevant_event_date": "2020-01-10",
+      "filing_date": "2020-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Karst Peak Capital Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leitzes Adam Gregory",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Karst Peak Capital Limited",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leitzes Adam Gregory",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Tao",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners GP, LLC",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings GP, LLC",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings, LLC",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Master Fund, L.P.",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners, L.P.",
+      "long_position_pct": 8.69,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Karst Peak Capital Limited",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-06-19",
+      "filing_date": "2019-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leitzes Adam Gregory",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-06-19",
+      "filing_date": "2019-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qeeka Holding Limited",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2018-08-02",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "孙杰",
+      "long_position_pct": 26.1,
+      "relevant_event_date": "2018-08-02",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "邓华金",
+      "long_position_pct": 26.1,
+      "relevant_event_date": "2018-08-02",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.53,
+      "relevant_event_date": "2018-07-16",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2018-07-13",
+      "filing_date": "2018-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AREO HOLDINGS LIMITED",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baidu (Hong Kong) Limited",
+      "long_position_pct": 11.51,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baidu Holdings Limited",
+      "long_position_pct": 11.51,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baidu, Inc.",
+      "long_position_pct": 11.51,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLINTON GLOBAL LIMITED",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Karst Peak Capital Limited",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM LAI MING",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leitzes Adam Gregory",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI GABRIEL",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Tao",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OAVI HOLDINGS, L.P.",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP MANAGEMENT, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA V GROUP, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI GP, LIMITED",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ORCHID ASIA VI, L.P.",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qeeka Holding Limited",
+      "long_position_pct": 24.99,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners GP, LLC",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings GP, LLC",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Holdings, LLC",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners Master Fund, L.P.",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Teng Yue Partners, L.P.",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Hua",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中新苏州工业园区创业投资有限公司",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "华圆管理咨询（香港）有限公司",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "孙杰",
+      "long_position_pct": 26.11,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州元禾控股股份有限公司",
+      "long_position_pct": 15.31,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区元禾重元股权投资基金管理有限公司",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区国有资产控股发展有限公司",
+      "long_position_pct": 15.31,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区管理委员会",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区经济发展有限公司",
+      "long_position_pct": 15.31,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区重元景风股权投资管理有限公司",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州工业园区重元齐家股权投资企业（有限合伙）",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華園管理諮詢",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "蘇州元禾控股股份有限公司",
+      "long_position_pct": 15.31,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "邓华金",
+      "long_position_pct": 26.11,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

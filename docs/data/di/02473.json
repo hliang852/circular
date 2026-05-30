@@ -1,8 +1,21 @@
 {
   "code": "02473",
   "name": "XXF GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-22T22:59:09Z",
+  "last_scraped": "2026-05-26T23:13:28Z",
   "shareholders": [
+    {
+      "name": "Huang Wei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 293815762,
+      "long_position_pct": 15.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
     {
       "name": "Ideal Stand Ventures Management Limited",
       "capacity": "Beneficial Owner",
@@ -56,16 +69,16 @@
       "notice_type": "Current"
     },
     {
-      "name": "Huang Wei",
-      "capacity": "Associated Entity",
+      "name": "Glorypearl Capital Resources Company Limited",
+      "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 139128262,
-      "long_position_pct": 8.18,
+      "long_position_shares": 190629882,
+      "long_position_pct": 10.27,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
-      "form_type": "Form 3A",
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -137,6 +150,22 @@
       "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "Glorypearl Capital Resources Company Limited",
+      "long_position_pct": 10.27,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Huang Wei",
+      "long_position_pct": 15.83,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
     },
     {
       "name": "Barclays PLC",

@@ -1,18 +1,18 @@
 {
   "code": "09939",
   "name": "KINTOR PHARMACEUTICAL LTD. - B",
-  "last_scraped": "2026-05-22T23:03:22Z",
+  "last_scraped": "2026-05-28T23:20:06Z",
   "shareholders": [
     {
       "name": "Tong Youzhi",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 57020770,
-      "long_position_pct": 11.43,
+      "long_position_shares": 57362770,
+      "long_position_pct": 11.5,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "KT International Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 54520770,
-      "long_position_pct": 10.93,
+      "long_position_shares": 54862770,
+      "long_position_pct": 11.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,46 @@
     }
   ],
   "history": [
+    {
+      "name": "KT International Investment Limited",
+      "long_position_pct": 11.0,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Youzhi",
+      "long_position_pct": 11.5,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KT International Investment Limited",
+      "long_position_pct": 10.96,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Youzhi",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tong Youzhi",
+      "long_position_pct": 11.46,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "KT International Investment Limited",
       "long_position_pct": 10.93,

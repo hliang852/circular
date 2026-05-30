@@ -1,7 +1,7 @@
 {
   "code": "06699",
   "name": "ANGELALIGN TECHNOLOGY INC.",
-  "last_scraped": "2026-05-21T23:08:15Z",
+  "last_scraped": "2026-05-27T23:24:35Z",
   "shareholders": [
     {
       "name": "CareCapital Orthotech Limited",
@@ -121,19 +121,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 18720835,
-      "long_position_pct": 10.95,
-      "short_position_shares": 9981040,
-      "short_position_pct": 5.84,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Li Huamin",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -173,6 +160,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15127701,
+      "long_position_pct": 8.85,
+      "short_position_shares": 9241430,
+      "short_position_pct": 5.4,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "上海睿郡资产管理有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -187,6 +187,22 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.84,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Li Huamin",
       "long_position_pct": 10.08,
@@ -210,6 +226,14 @@
       "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
     },
     {
       "name": "JPMorgan Chase & Co.",

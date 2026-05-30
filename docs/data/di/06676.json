@@ -1,7 +1,7 @@
 {
   "code": "06676",
   "name": "ZG GROUP - W",
-  "last_scraped": "2026-05-21T23:07:48Z",
+  "last_scraped": "2026-05-27T23:24:14Z",
   "shareholders": [
     {
       "name": "Jeremy Global Development Limited",
@@ -251,19 +251,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "MPC II L.P.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 61472038,
-      "long_position_pct": 6.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-27",
-      "filing_date": "2026-04-27",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "MPC GPGP II Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -312,6 +299,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-05-20",
       "filing_date": "2026-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MPC II L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 52553038,
+      "long_position_pct": 5.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -382,6 +382,14 @@
     }
   ],
   "history": [
+    {
+      "name": "MPC II L.P.",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "JLT Trust (Hong Kong) Limited 嘉立信信託(香港)有限公司",
       "long_position_pct": 6.01,

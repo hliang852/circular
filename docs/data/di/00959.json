@@ -1,0 +1,705 @@
+{
+  "code": "00959",
+  "name": "CENTURY ENTERTAINMENT INTERNATIONAL HOLDINGS LTD.",
+  "last_scraped": "2026-05-29T23:13:57Z",
+  "shareholders": [
+    {
+      "name": "Able Harvest Asia Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 141730913,
+      "long_position_pct": 110.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wai King Ho",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 85038548,
+      "long_position_pct": 66.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ho Chi Kai",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 56692365,
+      "long_position_pct": 44.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ng Man Sun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 358721959,
+      "long_position_pct": 27.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-01-06",
+      "filing_date": "2021-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JINGHENG HOLDING LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16730913,
+      "long_position_pct": 13.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XIAO WEIZHEN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 16730913,
+      "long_position_pct": 13.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Weiqiang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 86900000,
+      "long_position_pct": 10.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-11-21",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cheng Wai Man",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 75000000,
+      "long_position_pct": 9.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-10-18",
+      "filing_date": "2017-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Able Harvest Asia Limited",
+      "long_position_pct": 110.51,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Kai",
+      "long_position_pct": 44.21,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ho tsz ying",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wai King Ho",
+      "long_position_pct": 66.31,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Able Harvest Asia Limited",
+      "long_position_pct": 13.05,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Kai",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ho tsz ying",
+      "long_position_pct": 97.46,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JINGHENG HOLDING LIMITED",
+      "long_position_pct": 13.0,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wai King Ho",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIAO WEIZHEN",
+      "long_position_pct": 13.0,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 0.57,
+      "relevant_event_date": "2024-12-27",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 4.66,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ho Tsz Ying",
+      "long_position_pct": 125.5,
+      "relevant_event_date": "2024-11-11",
+      "filing_date": "2024-11-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 49.85,
+      "relevant_event_date": "2024-11-11",
+      "filing_date": "2024-11-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ho Tsz Ying",
+      "long_position_pct": 97.46,
+      "relevant_event_date": "2024-11-04",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 77.9,
+      "relevant_event_date": "2024-11-04",
+      "filing_date": "2024-11-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 27.97,
+      "relevant_event_date": "2021-01-06",
+      "filing_date": "2021-01-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2019-03-04",
+      "filing_date": "2019-03-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2019-02-19",
+      "filing_date": "2019-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 21.3,
+      "relevant_event_date": "2019-02-04",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2019-02-04",
+      "filing_date": "2019-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2018-11-14",
+      "filing_date": "2018-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2018-11-06",
+      "filing_date": "2018-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.59,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 8.52,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 9.48,
+      "relevant_event_date": "2018-10-02",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2018-10-02",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 10.84,
+      "relevant_event_date": "2018-09-27",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.49,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2018-09-06",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 7.18,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2018-08-31",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 12.27,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.87,
+      "relevant_event_date": "2018-08-28",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.71,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.47,
+      "relevant_event_date": "2018-08-24",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 12.05,
+      "relevant_event_date": "2018-08-23",
+      "filing_date": "2018-08-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 11.37,
+      "relevant_event_date": "2018-08-22",
+      "filing_date": "2018-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2018-08-21",
+      "filing_date": "2018-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2018-02-01",
+      "filing_date": "2018-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2018-01-02",
+      "filing_date": "2018-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2018-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2017-12-20",
+      "filing_date": "2018-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Weiqiang",
+      "long_position_pct": 10.66,
+      "relevant_event_date": "2017-11-21",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2017-10-26",
+      "filing_date": "2017-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.47,
+      "relevant_event_date": "2017-10-25",
+      "filing_date": "2017-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2017-10-23",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2017-10-20",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Weiqiang",
+      "long_position_pct": 12.18,
+      "relevant_event_date": "2017-10-19",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2017-10-19",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheng Wai Man",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2017-10-18",
+      "filing_date": "2017-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KAM WAH",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2017-10-18",
+      "filing_date": "2017-10-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Ting",
+      "long_position_pct": 3.98,
+      "relevant_event_date": "2017-10-18",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Weiqiang",
+      "long_position_pct": 16.68,
+      "relevant_event_date": "2017-10-06",
+      "filing_date": "2017-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Ting",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2017-10-06",
+      "filing_date": "2017-10-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "申楠（澳门）投资有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-10-06",
+      "filing_date": "2017-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "申楠建材有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-10-06",
+      "filing_date": "2017-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2017-09-12",
+      "filing_date": "2017-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2017-09-11",
+      "filing_date": "2017-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 8.12,
+      "relevant_event_date": "2017-09-08",
+      "filing_date": "2017-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2017-09-07",
+      "filing_date": "2017-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Man Sun",
+      "long_position_pct": 7.74,
+      "relevant_event_date": "2017-08-18",
+      "filing_date": "2017-08-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

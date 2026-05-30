@@ -1,0 +1,958 @@
+{
+  "code": "00780",
+  "name": "TONGCHENG TRAVEL HOLDINGS LTD.",
+  "last_scraped": "2026-05-27T23:14:06Z",
+  "shareholders": [
+    {
+      "name": "Ctrip.com International, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 560234960,
+      "long_position_pct": 26.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trip.com Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 560234960,
+      "long_position_pct": 23.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-31",
+      "filing_date": "2025-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 476215740,
+      "long_position_pct": 20.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-04-03",
+      "filing_date": "2024-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "C-Travel International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 411268370,
+      "long_position_pct": 19.81,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TCH Sapphire Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 310899020,
+      "long_position_pct": 14.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 208879985,
+      "long_position_pct": 8.87,
+      "short_position_shares": 10961179,
+      "short_position_pct": 0.46,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 189390800,
+      "long_position_pct": 8.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Image Frame Investment (HK) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 158365730,
+      "long_position_pct": 7.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ctrip.com (Hong Kong) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 148966590,
+      "long_position_pct": 7.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.87,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2026-03-10",
+      "filing_date": "2026-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.07,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.25,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.32,
+      "relevant_event_date": "2025-07-29",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.29,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.35,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trip.com Group Limited",
+      "long_position_pct": 23.97,
+      "relevant_event_date": "2025-05-31",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.13,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2025-04-30",
+      "filing_date": "2025-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2025-04-29",
+      "filing_date": "2025-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2025-04-28",
+      "filing_date": "2025-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.07,
+      "relevant_event_date": "2025-04-08",
+      "filing_date": "2025-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-02-04",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2024-10-28",
+      "filing_date": "2024-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2024-10-23",
+      "filing_date": "2024-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2024-10-08",
+      "filing_date": "2024-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-10-07",
+      "filing_date": "2024-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-10-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-08-15",
+      "filing_date": "2024-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2024-08-12",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2024-04-03",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2023-03-01",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trip.com Group Limited",
+      "long_position_pct": 24.99,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2022-11-16",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2022-08-22",
+      "filing_date": "2022-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2022-06-15",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2021-09-02",
+      "filing_date": "2021-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Huafan Runhe Venture Capital Partnership (Limited Partnership)",
+      "long_position_pct": 4.83,
+      "relevant_event_date": "2021-02-26",
+      "filing_date": "2021-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Industrial Park Tiancheng Jiahua Investment Management Co., Ltd.",
+      "long_position_pct": 4.83,
+      "relevant_event_date": "2021-02-26",
+      "filing_date": "2021-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Huafan Runhe Venture Capital Partnership (Limited Partnership)",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2021-02-24",
+      "filing_date": "2021-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suzhou Industrial Park Tiancheng Jiahua Investment Management Co., Ltd.",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2021-02-24",
+      "filing_date": "2021-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 21.98,
+      "relevant_event_date": "2020-10-07",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Huafan Runhe Venture Capital Partnership (Limited Partnership)",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suzhou Industrial Park Tiancheng Jiahua Investment Management Co., Ltd.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Trip.com Group Limited",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2020-07-23",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2020-07-10",
+      "filing_date": "2020-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.81,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-11-20",
+      "filing_date": "2019-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Overseas Chinese Town (HK) Company Limited 香港華僑城有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Climax Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳華僑城股份有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城(亞洲)控股有限公司 Overseas Chinese Town (Asia) Holdings Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城集團有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華昌國際有限公司 City Legend International Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華秦發展有限公司 Phoenix Ocean Developments Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-09-26",
+      "filing_date": "2020-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Huafan Runhe Venture Capital Partnership (Limited Partnership)",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Suzhou Industrial Park Tiancheng Jiahua Investment Management Co., Ltd.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2019-05-10",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-05-08",
+      "filing_date": "2019-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2019-05-06",
+      "filing_date": "2019-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2019-03-06",
+      "filing_date": "2019-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Travel International Limited",
+      "long_position_pct": 19.81,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ctrip.com International, Ltd.",
+      "long_position_pct": 26.98,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Image Frame Investment (HK) Limited",
+      "long_position_pct": 7.63,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCH Sapphire Limited",
+      "long_position_pct": 14.97,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 22.93,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2018-12-19",
+      "filing_date": "2018-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-Travel International Limited",
+      "long_position_pct": 20.01,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ctrip.com (Hong Kong) Limited",
+      "long_position_pct": 7.25,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ctrip.com International, Ltd.",
+      "long_position_pct": 27.26,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Image Frame Investment (HK) Limited",
+      "long_position_pct": 7.71,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Overseas Chinese Town (HK) Company Limited 香港華僑城有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Climax Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Huafan Runhe Venture Capital Partnership (Limited Partnership)",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suzhou Industrial Park Tiancheng Jiahua Investment Management Co., Ltd.",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCH Sapphire Limited",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 23.18,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "华秦发展有限公司Phoenix Ocean Developments Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳華僑城股份有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城(亞洲)控股有限公司 Overseas Chinese Town (Asia) Holdings Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城集團有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華昌國際有限公司 City Legend International Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

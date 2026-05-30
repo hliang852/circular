@@ -1,7 +1,7 @@
 {
   "code": "01910",
   "name": "SAMSONITE GROUP S.A.",
-  "last_scraped": "2026-05-18T23:00:12Z",
+  "last_scraped": "2026-05-29T23:21:41Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -209,6 +209,14 @@
       "long_position_pct": 7.95,
       "relevant_event_date": "2025-12-19",
       "filing_date": "2025-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Janus Henderson Group PLC",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Increase"
     },

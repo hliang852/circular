@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-05-22T23:02:48Z",
+  "last_scraped": "2026-05-29T23:35:31Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -33,12 +33,12 @@
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 61772994,
-      "long_position_pct": 17.89,
-      "short_position_shares": 61030534,
-      "short_position_pct": 17.67,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "long_position_shares": 62129876,
+      "long_position_pct": 17.99,
+      "short_position_shares": 61398628,
+      "short_position_pct": 17.78,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 50578836,
-      "long_position_pct": 14.64,
-      "short_position_shares": 31766586,
-      "short_position_pct": 9.19,
-      "relevant_event_date": "2026-05-06",
-      "filing_date": "2026-05-06",
+      "long_position_shares": 41116374,
+      "long_position_pct": 11.9,
+      "short_position_shares": 31248582,
+      "short_position_pct": 9.04,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 20023786,
-      "long_position_pct": 5.8,
-      "short_position_shares": 13364504,
-      "short_position_pct": 3.87,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "long_position_shares": 20896189,
+      "long_position_pct": 6.05,
+      "short_position_shares": 15694014,
+      "short_position_pct": 4.54,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -117,6 +117,19 @@
       "short_position_pct": 1.2,
       "relevant_event_date": "2026-05-12",
       "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18200529,
+      "long_position_pct": 5.27,
+      "short_position_shares": 139877,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -136,12 +149,92 @@
   ],
   "history": [
     {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.9,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 18.01,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.8,
       "relevant_event_date": "2026-05-19",
       "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Decrease"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "The Goldman Sachs Group, Inc.",

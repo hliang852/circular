@@ -1,7 +1,7 @@
 {
   "code": "01796",
   "name": "METASPACEX LTD.",
-  "last_scraped": "2026-05-21T23:03:26Z",
+  "last_scraped": "2026-05-27T23:18:06Z",
   "shareholders": [
     {
       "name": "Chen Yidong",
@@ -111,12 +111,12 @@
       "name": "TSE SHIU HOI",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 164937150,
-      "long_position_pct": 34.36,
+      "long_position_shares": 180408790,
+      "long_position_pct": 37.59,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
@@ -124,9 +124,25 @@
   "history": [
     {
       "name": "TSE SHIU HOI",
+      "long_position_pct": 37.59,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE SHIU HOI",
       "long_position_pct": 34.36,
       "relevant_event_date": "2026-05-19",
       "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE SHIU HOI",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-27",
       "form_type": "Form 1",
       "notice_type": "Change"
     },
@@ -140,9 +156,25 @@
     },
     {
       "name": "TSE SHIU HOI",
+      "long_position_pct": 35.99,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE SHIU HOI",
       "long_position_pct": 32.92,
       "relevant_event_date": "2026-05-15",
       "filing_date": "2026-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE SHIU HOI",
+      "long_position_pct": 35.87,
+      "relevant_event_date": "2026-05-15",
+      "filing_date": "2026-05-27",
       "form_type": "Form 1",
       "notice_type": "Change"
     },

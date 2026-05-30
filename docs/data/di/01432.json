@@ -1,0 +1,743 @@
+{
+  "code": "01432",
+  "name": "CHINA SHENGMU ORGANIC MILK LTD.",
+  "last_scraped": "2026-05-26T23:10:07Z",
+  "shareholders": [
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2513178555,
+      "long_position_pct": 29.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Modern Dairy Holdings Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2194142512,
+      "long_position_pct": 26.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beijing Zhi Nong Investment Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1301651000,
+      "long_position_pct": 15.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Nong You Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1301651000,
+      "long_position_pct": 15.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shao Genhuo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1301651000,
+      "long_position_pct": 15.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-08-06",
+      "filing_date": "2020-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "DBN Global Investment (H.K.) Limited 大北農環球投資香港有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 554851769,
+      "long_position_pct": 6.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京大北农科技集团股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 554851769,
+      "long_position_pct": 6.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京科高大北农生物科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 554851769,
+      "long_position_pct": 6.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BPEA EQT Holdings AB",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BPEA Private Equity Fund V, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BPEA Private Equity GP V Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BPEA Private Equity GP V, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "EQT AB",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Greenbelt Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 536097305,
+      "long_position_pct": 6.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "China Modern Dairy Holdings Ltd.",
+      "long_position_pct": 26.18,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Modern Dairy Holdings Ltd.",
+      "long_position_pct": 26.18,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA EQT Holdings AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA Private Equity Fund V, L.P.",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA Private Equity GP V Limited",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA Private Equity GP V, L.P.",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DBN Global Investment (H.K.) Limited 大北農環球投資香港有限公司",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EQT AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greenbelt Global Limited",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京大北农科技集团股份有限公司",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京科高大北农生物科技有限公司",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA EQT Holdings AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA EQT Holdings AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EQT AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EQT AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Salata Jean Eric",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BPEA EQT Holdings AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-03-16",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "EQT AB",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-03-16",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Salata Jean Eric",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2022-03-16",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "long_position_pct": 29.99,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shao Genhuo",
+      "long_position_pct": 15.53,
+      "relevant_event_date": "2020-08-06",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V Limited",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V, L.P.",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Zhi Nong Investment Co., Ltd.",
+      "long_position_pct": 15.8,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "long_position_pct": 17.8,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greenbelt Global Limited",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nong You Co., Ltd.",
+      "long_position_pct": 15.8,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Salata Jean Eric",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SC China Growth 2010 Management, L.P.",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SC China Holding Limited",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sequoia Capital 2010 CGF Holdco, Ltd.",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sequoia Capital China Growth 2010 Fund, L.P.",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shao Genhuo",
+      "long_position_pct": 15.8,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Nan Peng",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SNP China Enterprises Limited",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Baring Asia Private Equity Fund V, L.P.",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 4.82,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Tongshan",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Junli",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2020-07-31",
+      "filing_date": "2020-08-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "long_position_pct": 20.83,
+      "relevant_event_date": "2020-07-28",
+      "filing_date": "2020-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2020-06-01",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V, L.P.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Zhi Nong Investment Co., Ltd.",
+      "long_position_pct": 18.48,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "long_position_pct": 20.83,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greenbelt Global Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nong You Co., Ltd.",
+      "long_position_pct": 18.48,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Salata Rothleder Jean Eric",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shao Genhuo",
+      "long_position_pct": 18.48,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Baring Asia Private Equity Fund V, L.P.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Tongshan",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Junli",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V Limited",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baring Private Equity Asia GP V, L.P.",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mengniu Dairy Company Limited",
+      "long_position_pct": 23.09,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greenbelt Global Limited",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Salata Jean Eric",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Baring Asia Private Equity Fund V, L.P.",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-12-23",
+      "filing_date": "2018-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Tongshan",
+      "long_position_pct": 6.44,
+      "relevant_event_date": "2018-12-11",
+      "filing_date": "2018-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Tongshan",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Junli",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2017-09-14",
+      "filing_date": "2017-09-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2017-09-13",
+      "filing_date": "2017-09-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2017-09-12",
+      "filing_date": "2017-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2017-09-08",
+      "filing_date": "2017-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2017-09-07",
+      "filing_date": "2017-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAO Tongshan",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2017-07-28",
+      "filing_date": "2017-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Tongshan",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2017-05-04",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Zhang Junli",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2017-05-04",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    }
+  ]
+}

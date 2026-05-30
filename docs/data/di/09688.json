@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-05-22T23:03:03Z",
+  "last_scraped": "2026-05-28T23:19:30Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -13,32 +13,6 @@
       "short_position_pct": 4.73,
       "relevant_event_date": "2026-04-30",
       "filing_date": "2026-04-30",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 70981158,
-      "long_position_pct": 6.26,
-      "short_position_shares": 24561896,
-      "short_position_pct": 2.17,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "FMR LLC",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 70421694,
-      "long_position_pct": 6.21,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -108,6 +82,32 @@
       "notice_type": "Current"
     },
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 64455238,
+      "long_position_pct": 5.68,
+      "short_position_shares": 28018927,
+      "short_position_pct": 2.47,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FMR LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 63724874,
+      "long_position_pct": 5.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Kolchinsky Anna Inge Leonore Haas",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -174,6 +174,46 @@
     }
   ],
   "history": [
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 4.62,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 6.21,

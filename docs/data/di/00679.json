@@ -1,18 +1,18 @@
 {
   "code": "00679",
   "name": "ASIA TELE-NET AND TECHNOLOGY CORPORATION LTD.",
-  "last_scraped": "2026-05-20T23:09:34Z",
+  "last_scraped": "2026-05-26T23:06:14Z",
   "shareholders": [
     {
       "name": "Lam Kwok Hing",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 241441167,
-      "long_position_pct": 63.22,
+      "long_position_pct": 63.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 202245834,
-      "long_position_pct": 52.95,
+      "long_position_pct": 53.4,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 201995834,
-      "long_position_pct": 52.89,
+      "long_position_pct": 53.33,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-07-03",
-      "filing_date": "2025-07-03",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -73,16 +73,48 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 35720666,
-      "long_position_pct": 9.35,
+      "long_position_pct": 9.43,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "J&A Investment Limited",
+      "long_position_pct": 53.4,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Karfun Investments Limited",
+      "long_position_pct": 53.33,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hing",
+      "long_position_pct": 63.75,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medusa Group Limited",
+      "long_position_pct": 9.43,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Anatole Investment Management Limited",
       "long_position_pct": 10.57,

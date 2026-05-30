@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-22T22:56:38Z",
+  "last_scraped": "2026-05-29T23:16:53Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -108,19 +108,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 275534790,
-      "long_position_pct": 6.0,
-      "short_position_shares": 103403553,
-      "short_position_pct": 2.25,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Longlink Capital Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -145,9 +132,83 @@
       "filing_date": "2025-07-11",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 271560383,
+      "long_position_pct": 5.92,
+      "short_position_shares": 98671153,
+      "short_position_pct": 2.15,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 260021708,
+      "long_position_pct": 5.67,
+      "short_position_shares": 5923500,
+      "short_position_pct": 0.13,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.0,

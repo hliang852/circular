@@ -1,0 +1,570 @@
+{
+  "code": "00808",
+  "name": "PROSPERITY REAL ESTATE INVESTMENT TRUST",
+  "last_scraped": "2026-05-27T23:14:21Z",
+  "shareholders": [
+    {
+      "name": "CK Asset Holdings LImited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 275211688,
+      "long_position_pct": 17.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 275211688,
+      "long_position_pct": 17.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 121331251,
+      "long_position_pct": 7.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ESR Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 115546884,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MEGA EquityCo",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 115546884,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.6,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.69,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2026-05-18",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.79,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2026-05-11",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.45,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2025-11-10",
+      "filing_date": "2025-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.16,
+      "relevant_event_date": "2025-11-06",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.23,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.24,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Group Limited",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MEGA EquityCo",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MEGA EquityCo",
+      "long_position_pct": 6.42,
+      "relevant_event_date": "2025-07-01",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 6.42,
+      "relevant_event_date": "2025-04-30",
+      "filing_date": "2025-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Group Limited",
+      "long_position_pct": 6.42,
+      "relevant_event_date": "2025-04-30",
+      "filing_date": "2025-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2024-12-06",
+      "filing_date": "2024-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.33,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2024-12-03",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2024-12-02",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2024-11-29",
+      "filing_date": "2024-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2024-11-28",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2024-11-22",
+      "filing_date": "2024-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2024-10-31",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Group Limited",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2024-10-31",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-10-07",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Group Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-10-07",
+      "filing_date": "2024-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ESR Asset Management (Prosperity) Limited",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ESR Group Limited",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CK Asset Holdings LImited",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CK Asset Holdings Limited",
+      "long_position_pct": 18.13,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 18.13,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-10-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CK Asset Holdings Limited",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2021-07-30",
+      "filing_date": "2021-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2021-07-30",
+      "filing_date": "2021-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CK Asset Holdings Limited",
+      "long_position_pct": 18.0,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 18.0,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CK Asset Holdings Limited",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2021-01-29",
+      "filing_date": "2021-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2021-01-29",
+      "filing_date": "2021-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Ka-Shing",
+      "long_position_pct": 18.52,
+      "relevant_event_date": "2019-01-02",
+      "filing_date": "2019-01-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

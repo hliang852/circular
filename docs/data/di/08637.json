@@ -1,7 +1,7 @@
 {
   "code": "08637",
   "name": "METASURFACE TECHNOLOGIES HOLDINGS LTD.",
-  "last_scraped": "2026-05-21T23:08:57Z",
+  "last_scraped": "2026-05-29T23:34:06Z",
   "shareholders": [
     {
       "name": "Chua Chwee Lee",
@@ -85,17 +85,25 @@
       "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 9825000,
-      "long_position_pct": 6.55,
+      "long_position_shares": 8855000,
+      "long_position_pct": 5.9,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-25",
-      "filing_date": "2026-03-25",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Asian Equity Special Opportunities Portfolio Master Fund Limited",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "RAYS Capital Partners Limited",
       "long_position_pct": 7.65,

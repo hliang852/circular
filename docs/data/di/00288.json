@@ -1,7 +1,7 @@
 {
   "code": "00288",
   "name": "WH GROUP LTD.",
-  "last_scraped": "2026-05-16T07:48:23Z",
+  "last_scraped": "2026-05-28T23:10:29Z",
   "shareholders": [
     {
       "name": "Ma Xiangjie",
@@ -137,12 +137,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 756223885,
-      "long_position_pct": 5.89,
-      "short_position_shares": 5210000,
+      "long_position_shares": 775877183,
+      "long_position_pct": 6.05,
+      "short_position_shares": 4993500,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -161,6 +161,30 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.89,

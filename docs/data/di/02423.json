@@ -1,7 +1,7 @@
 {
   "code": "02423",
   "name": "KE HOLDINGS INC. - W",
-  "last_scraped": "2026-05-20T23:14:04Z",
+  "last_scraped": "2026-05-28T23:15:54Z",
   "shareholders": [
     {
       "name": "ARK Trust (Hong Kong) Limited",
@@ -189,12 +189,12 @@
       "name": "The Bank of New York Mellon Corporation",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 618983342,
-      "long_position_pct": 18.44,
-      "short_position_shares": 611135316,
-      "short_position_pct": 18.21,
-      "relevant_event_date": "2026-04-13",
-      "filing_date": "2026-04-13",
+      "long_position_shares": 639932923,
+      "long_position_pct": 19.06,
+      "short_position_shares": 631879779,
+      "short_position_pct": 18.83,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -228,17 +228,41 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 169936019,
-      "long_position_pct": 5.06,
-      "short_position_shares": 53828259,
-      "short_position_pct": 1.6,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "long_position_shares": 171950087,
+      "long_position_pct": 5.12,
+      "short_position_shares": 50142609,
+      "short_position_pct": 1.49,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 19.06,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.06,

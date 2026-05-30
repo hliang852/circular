@@ -1,18 +1,18 @@
 {
   "code": "02525",
   "name": "HESAI GROUP - W",
-  "last_scraped": "2026-05-22T22:59:26Z",
+  "last_scraped": "2026-05-29T23:26:34Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 69864545,
-      "long_position_pct": 53.68,
-      "short_position_shares": 67630175,
-      "short_position_pct": 51.97,
-      "relevant_event_date": "2026-05-04",
-      "filing_date": "2026-05-04",
+      "long_position_shares": 68428635,
+      "long_position_pct": 52.58,
+      "short_position_shares": 66182065,
+      "short_position_pct": 50.85,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,17 +111,78 @@
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 7033568,
-      "long_position_pct": 5.4,
-      "short_position_shares": 0,
+      "long_position_shares": 7067710,
+      "long_position_pct": 5.43,
+      "short_position_shares": 372,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 6691691,
+      "long_position_pct": 5.14,
+      "short_position_shares": 3131332,
+      "short_position_pct": 2.4,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 52.58,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 52.83,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 5.4,

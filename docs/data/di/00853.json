@@ -1,0 +1,2895 @@
+{
+  "code": "00853",
+  "name": "MICROPORT SCIENTIFIC CORPORATION",
+  "last_scraped": "2026-05-29T23:13:44Z",
+  "shareholders": [
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 501815117,
+      "long_position_pct": 26.23,
+      "short_position_shares": 90000000,
+      "short_position_pct": 4.7,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 498531883,
+      "long_position_pct": 26.06,
+      "short_position_shares": 90000000,
+      "short_position_pct": 4.7,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 382994120,
+      "long_position_pct": 20.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 382994120,
+      "long_position_pct": 20.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 207951646,
+      "long_position_pct": 10.84,
+      "short_position_shares": 152972800,
+      "short_position_pct": 7.97,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JIANG JUNHANG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIU DAWEI",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海上实生物医药管理咨询有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海国投先导生物医药私募投资基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海市国有资产监督管理委员会",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海市浦东新区国有资产监督管理委员会",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海市财政局",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海生物医药并购私募基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海迈泰克医疗器械合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海鹭布卡企业管理咨询合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 135335204,
+      "long_position_pct": 7.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 114748050,
+      "long_position_pct": 6.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 56221900,
+      "short_position_pct": 2.93,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 56989500,
+      "short_position_pct": 2.97,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 56221900,
+      "short_position_pct": 2.93,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 56989500,
+      "short_position_pct": 2.97,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 55849600,
+      "short_position_pct": 2.91,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 109218063,
+      "long_position_pct": 5.7,
+      "short_position_shares": 56989500,
+      "short_position_pct": 2.97,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.84,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.71,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.68,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.05,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2026-04-17",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.88,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.15,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.39,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.19,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2026-02-23",
+      "filing_date": "2026-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2026-02-19",
+      "filing_date": "2026-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.87,
+      "relevant_event_date": "2026-02-17",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.14,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.11,
+      "relevant_event_date": "2026-02-10",
+      "filing_date": "2026-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.31,
+      "relevant_event_date": "2026-01-22",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.82,
+      "relevant_event_date": "2026-01-12",
+      "filing_date": "2026-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2026-01-09",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.38,
+      "relevant_event_date": "2026-01-08",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.32,
+      "relevant_event_date": "2025-12-26",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2025-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.09,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2025-12-18",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2025-12-17",
+      "filing_date": "2025-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.06,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.12,
+      "relevant_event_date": "2025-12-09",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.22,
+      "relevant_event_date": "2025-12-04",
+      "filing_date": "2025-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.51,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.77,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.48,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.44,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.84,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 26.23,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 26.06,
+      "relevant_event_date": "2025-11-13",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.11,
+      "relevant_event_date": "2025-11-11",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2025-10-10",
+      "filing_date": "2025-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.75,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.31,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.66,
+      "relevant_event_date": "2025-09-01",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2025-08-15",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "上海市浦东新区国有资产监督管理委员会",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.13,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.87,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG JUNHANG",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU DAWEI",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 25.81,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海上实生物医药管理咨询有限公司",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海国投先导生物医药私募投资基金合伙企业（有限合伙）",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海市国有资产监督管理委员会",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海市财政局",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海生物医药并购私募基金合伙企业（有限合伙）",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海迈泰克医疗器械合伙企业（有限合伙）",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海鹭布卡企业管理咨询合伙企业（有限合伙）",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 6.2,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.33,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.76,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.62,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.38,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.66,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.59,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-19",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.61,
+      "relevant_event_date": "2025-06-17",
+      "filing_date": "2025-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.74,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.23,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2025-06-10",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2025-06-09",
+      "filing_date": "2025-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.4,
+      "relevant_event_date": "2025-05-23",
+      "filing_date": "2025-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.31,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.33,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.14,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.16,
+      "relevant_event_date": "2025-05-14",
+      "filing_date": "2025-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.1,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.16,
+      "relevant_event_date": "2025-04-17",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.14,
+      "relevant_event_date": "2025-04-16",
+      "filing_date": "2025-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.51,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2025-01-20",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2025-01-16",
+      "filing_date": "2025-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.88,
+      "relevant_event_date": "2024-12-16",
+      "filing_date": "2024-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.17,
+      "relevant_event_date": "2024-12-12",
+      "filing_date": "2024-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co. II, Inc.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., Inc.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.L.C.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw & Co., L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "D. E. Shaw Valence Portfolios, L.L.C.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.84,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shaw David Elliot",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2024-12-11",
+      "filing_date": "2024-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.55,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.93,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.38,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2024-10-16",
+      "filing_date": "2024-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.99,
+      "relevant_event_date": "2024-10-09",
+      "filing_date": "2024-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.17,
+      "relevant_event_date": "2024-10-07",
+      "filing_date": "2024-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.49,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2024-10-02",
+      "filing_date": "2024-10-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.13,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-10-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Fund, L.P.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.43,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HHLR Fund, L.P.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.73,
+      "relevant_event_date": "2024-08-29",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.73,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2024-08-27",
+      "filing_date": "2024-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.48,
+      "relevant_event_date": "2024-08-20",
+      "filing_date": "2024-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.75,
+      "relevant_event_date": "2024-08-12",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.03,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.34,
+      "relevant_event_date": "2024-07-30",
+      "filing_date": "2024-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.22,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.03,
+      "relevant_event_date": "2024-07-23",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.06,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.99,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.13,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.07,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fischer Seth Hillel",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Oasis Investments II Master Fund Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Oasis Investments II Offshore Feeder Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Oasis Management Company Ltd.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fischer Seth Hillel",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oasis Investments II Master Fund Ltd.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oasis Investments II Offshore Feeder Ltd.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oasis Management Company Ltd.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2024-06-27",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.97,
+      "relevant_event_date": "2024-06-11",
+      "filing_date": "2024-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.08,
+      "relevant_event_date": "2024-06-05",
+      "filing_date": "2024-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.02,
+      "relevant_event_date": "2024-05-30",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 1.43,
+      "relevant_event_date": "2024-05-29",
+      "filing_date": "2024-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 8.58,
+      "relevant_event_date": "2024-05-28",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2024-05-25",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.91,
+      "relevant_event_date": "2024-05-24",
+      "filing_date": "2024-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.91,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 8.27,
+      "relevant_event_date": "2024-05-20",
+      "filing_date": "2024-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2024-05-02",
+      "filing_date": "2024-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.02,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.8,
+      "relevant_event_date": "2024-04-29",
+      "filing_date": "2024-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.08,
+      "relevant_event_date": "2024-04-25",
+      "filing_date": "2024-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2024-04-17",
+      "filing_date": "2024-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.75,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.37,
+      "relevant_event_date": "2024-04-11",
+      "filing_date": "2024-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 19.01,
+      "relevant_event_date": "2024-04-10",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 18.83,
+      "relevant_event_date": "2024-04-10",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.97,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.13,
+      "relevant_event_date": "2024-04-08",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HFTY I Holdings Pte. Ltd.",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2024-04-05",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 10.3,
+      "relevant_event_date": "2024-04-05",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.41,
+      "relevant_event_date": "2024-04-05",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.94,
+      "relevant_event_date": "2024-04-02",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.8,
+      "relevant_event_date": "2024-03-25",
+      "filing_date": "2024-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.41,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.0,
+      "relevant_event_date": "2024-03-20",
+      "filing_date": "2024-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.88,
+      "relevant_event_date": "2024-03-18",
+      "filing_date": "2024-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.07,
+      "relevant_event_date": "2024-03-12",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.86,
+      "relevant_event_date": "2024-03-08",
+      "filing_date": "2024-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.27,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.67,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.04,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.1,
+      "relevant_event_date": "2024-01-16",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.61,
+      "relevant_event_date": "2023-12-27",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.86,
+      "relevant_event_date": "2023-12-22",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 13.58,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.18,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 15.76,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 15.93,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 16.57,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 16.45,
+      "relevant_event_date": "2023-12-07",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 14.77,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 18.7,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 18.82,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 18.77,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 9.4,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 10.94,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 11.27,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 20.99,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 20.99,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Zhaohua",
+      "long_position_pct": 1.64,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-10-01",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-10-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-10-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Holdings Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "East Image Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "East Mega Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Eternity Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Helix Capital Partners",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Starwick Investments Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHANG JUNJIE",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chang Zhaohua",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 14.65,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 14.6,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 14.6,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 21.25,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 21.25,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaoling Fund, L.P.",
+      "long_position_pct": 8.47,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Advisors, Ltd.",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 2.61,
+      "relevant_event_date": "2020-03-23",
+      "filing_date": "2020-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2020-03-11",
+      "filing_date": "2020-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV General Partner, L.P.",
+      "long_position_pct": 2.16,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAP IV, L.L.C.",
+      "long_position_pct": 2.16,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carlyle Asia Partners, IV L.P.",
+      "long_position_pct": 2.16,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Erudite Holdings Limited",
+      "long_position_pct": 2.16,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gaoling Fund, L.P.",
+      "long_position_pct": 6.61,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Advisors, Ltd.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 13.94,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Holdings Co., Ltd.",
+      "long_position_pct": 22.2,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Otsuka Medical Devices Co., Ltd.",
+      "long_position_pct": 22.2,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海張江(集團)有限公司",
+      "long_position_pct": 12.85,
+      "relevant_event_date": "2020-02-24",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Holdings Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "East Image Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "East Mega Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Eternity Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Helix Capital Partners",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starwick Investments Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG JUNJIE",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAP IV General Partner, L.P.",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV, L.L.C.",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carlyle Asia Partners, IV L.P.",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Erudite Holdings Limited",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 14.63,
+      "relevant_event_date": "2018-11-14",
+      "filing_date": "2018-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 14.63,
+      "relevant_event_date": "2018-11-14",
+      "filing_date": "2018-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 14.63,
+      "relevant_event_date": "2018-11-14",
+      "filing_date": "2018-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "East Image Limited",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "East Mega Limited",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Eternity Limited",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Helix Capital Partners",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 14.78,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 14.78,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starwick Investments Limited",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 14.78,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAP IV General Partner, L.P.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAP IV, L.L.C.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carlyle Asia Partners, IV L.P.",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Erudite Holdings Limited",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Maxwell Maxcare Science Foundation Limited",
+      "long_position_pct": 14.93,
+      "relevant_event_date": "2018-08-16",
+      "filing_date": "2018-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai We'Tron Capital Corp.",
+      "long_position_pct": 14.93,
+      "relevant_event_date": "2018-08-16",
+      "filing_date": "2018-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "We'Tron Capital Limited",
+      "long_position_pct": 14.93,
+      "relevant_event_date": "2018-08-16",
+      "filing_date": "2018-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC (Ventures) Pte. Ltd.",
+      "long_position_pct": 1.76,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 1.76,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Special Investments Private Limited",
+      "long_position_pct": 1.76,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Owap Investment Pte Ltd",
+      "long_position_pct": 1.76,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "East Image Limited",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "East Mega Limited",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC (Ventures) Pte. Ltd.",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Special Investments Private Limited",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Eternity Limited",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Helix Capital Partners",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Owap Investment Pte Ltd",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Starwick Investments Limited",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2018-07-26",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mondrian Investment Partners Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2018-06-28",
+      "filing_date": "2018-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV General Partner, L.P.",
+      "long_position_pct": 10.91,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV, L.L.C.",
+      "long_position_pct": 10.91,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carlyle Asia Partners, IV L.P.",
+      "long_position_pct": 10.91,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Erudite Holdings Limited",
+      "long_position_pct": 10.91,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV General Partner, L.P.",
+      "long_position_pct": 11.08,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAP IV, L.L.C.",
+      "long_position_pct": 11.08,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carlyle Asia Partners, IV L.P.",
+      "long_position_pct": 11.08,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Erudite Holdings Limited",
+      "long_position_pct": 11.08,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mondrian Investment Partners Limited",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2017-08-03",
+      "filing_date": "2017-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    }
+  ]
+}

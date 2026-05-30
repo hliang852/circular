@@ -1,7 +1,7 @@
 {
   "code": "00425",
   "name": "MINTH GROUP LTD.",
-  "last_scraped": "2026-05-16T07:48:37Z",
+  "last_scraped": "2026-05-26T23:05:41Z",
   "shareholders": [
     {
       "name": "Chin Jong-Hwa",
@@ -46,17 +46,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 70936122,
-      "long_position_pct": 5.99,
-      "short_position_shares": 14796251,
-      "short_position_pct": 1.25,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 67210325,
+      "long_position_pct": 5.67,
+      "short_position_shares": 11044615,
+      "short_position_pct": 0.93,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-20",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.99,

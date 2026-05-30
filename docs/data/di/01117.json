@@ -1,7 +1,7 @@
 {
   "code": "01117",
   "name": "CHINA MODERN DAIRY HOLDINGS LTD.",
-  "last_scraped": "2026-05-22T22:56:03Z",
+  "last_scraped": "2026-05-29T23:14:51Z",
   "shareholders": [
     {
       "name": "China Mengniu Dairy Company Limited",
@@ -98,12 +98,12 @@
       "name": "BNP PARIBAS SA",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 559179403,
-      "long_position_pct": 7.06,
-      "short_position_shares": 364162473,
-      "short_position_pct": 4.6,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
+      "long_position_shares": 514137773,
+      "long_position_pct": 6.5,
+      "short_position_shares": 319115843,
+      "short_position_pct": 4.03,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BNP PARIBAS SA",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2026-05-20",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BNP PARIBAS SA",
       "long_position_pct": 7.06,

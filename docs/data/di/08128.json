@@ -1,7 +1,7 @@
 {
   "code": "08128",
   "name": "CHYY DEVELOPMENT GROUP LTD.",
-  "last_scraped": "2026-05-19T23:11:43Z",
+  "last_scraped": "2026-05-26T23:16:33Z",
   "shareholders": [
     {
       "name": "中国节能环保（香港）投资有限公司",
@@ -33,7 +33,7 @@
       "name": "Luk Hoi Man",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 724071601,
+      "long_position_shares": 724054401,
       "long_position_pct": 15.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -46,7 +46,7 @@
       "name": "XU SHENGHENG",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 724071601,
+      "long_position_shares": 724054401,
       "long_position_pct": 15.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
@@ -176,6 +176,22 @@
       "long_position_pct": 15.99,
       "relevant_event_date": "2026-04-24",
       "filing_date": "2026-05-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luk Hoi Man",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU SHENGHENG",
+      "long_position_pct": 15.99,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-05-24",
       "form_type": "Form 3A",
       "notice_type": "Change"
     },

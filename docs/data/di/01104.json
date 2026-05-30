@@ -1,21 +1,8 @@
 {
   "code": "01104",
   "name": "APAC RESOURCES LTD.",
-  "last_scraped": "2026-05-22T22:55:45Z",
+  "last_scraped": "2026-05-26T23:08:47Z",
   "shareholders": [
-    {
-      "name": "Lee Seng Huang",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 738597154,
-      "long_position_pct": 49.45,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-10",
-      "filing_date": "2026-04-10",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
     {
       "name": "Allied Group Limited",
       "capacity": "Beneficial Owner",
@@ -27,6 +14,19 @@
       "relevant_event_date": "2026-05-22",
       "filing_date": "2026-05-22",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 738597154,
+      "long_position_pct": 49.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -153,6 +153,14 @@
     },
     {
       "name": "Lee Su Hwei",
+      "long_position_pct": 49.44,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
       "long_position_pct": 49.44,
       "relevant_event_date": "2026-05-22",
       "filing_date": "2026-05-22",
