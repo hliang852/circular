@@ -1,18 +1,18 @@
 {
   "code": "00608",
   "name": "HIGH FASHION INTERNATIONAL LTD.",
-  "last_scraped": "2026-05-29T23:11:37Z",
+  "last_scraped": "2026-06-01T23:27:37Z",
   "shareholders": [
     {
       "name": "Lam Foo Wah",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 224287361,
+      "long_position_shares": 224293361,
       "long_position_pct": 73.39,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Leung Shuk Bing",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 224287361,
+      "long_position_shares": 224293361,
       "long_position_pct": 73.39,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Hinton Company Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 171295620,
+      "long_position_shares": 171301620,
       "long_position_pct": 56.05,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -57,6 +57,30 @@
     }
   ],
   "history": [
+    {
+      "name": "Hinton Company Limited",
+      "long_position_pct": 56.05,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Foo Wah",
+      "long_position_pct": 73.39,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung Shuk Bing",
+      "long_position_pct": 73.39,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Hinton Company Limited",
       "long_position_pct": 56.05,

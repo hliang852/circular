@@ -1,0 +1,4221 @@
+{
+  "code": "00595",
+  "name": "AV CONCEPT HOLDINGS LTD.",
+  "last_scraped": "2026-06-01T23:26:42Z",
+  "shareholders": [
+    {
+      "name": "So Yuk Kwan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 587755868,
+      "long_position_pct": 65.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 587755868,
+      "long_position_pct": 65.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 423529602,
+      "long_position_pct": 47.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 112167866,
+      "long_position_pct": 12.49,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 47.16,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.49,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 65.45,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 65.45,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.77,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.39,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.91,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.91,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.61,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.68,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.68,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.59,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.66,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.66,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.58,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.65,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.65,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.57,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.64,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.64,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.56,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.63,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.63,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.55,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.62,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.62,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.51,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.58,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.58,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.49,
+      "relevant_event_date": "2024-04-19",
+      "filing_date": "2024-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.57,
+      "relevant_event_date": "2024-04-19",
+      "filing_date": "2024-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.57,
+      "relevant_event_date": "2024-04-19",
+      "filing_date": "2024-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.39,
+      "relevant_event_date": "2024-04-18",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.47,
+      "relevant_event_date": "2024-04-18",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.47,
+      "relevant_event_date": "2024-04-18",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.32,
+      "relevant_event_date": "2024-04-17",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.39,
+      "relevant_event_date": "2024-04-17",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.39,
+      "relevant_event_date": "2024-04-17",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.3,
+      "relevant_event_date": "2024-04-16",
+      "filing_date": "2024-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.37,
+      "relevant_event_date": "2024-04-16",
+      "filing_date": "2024-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.37,
+      "relevant_event_date": "2024-04-16",
+      "filing_date": "2024-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.29,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.36,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.36,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.26,
+      "relevant_event_date": "2024-04-11",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.34,
+      "relevant_event_date": "2024-04-11",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.34,
+      "relevant_event_date": "2024-04-11",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.26,
+      "relevant_event_date": "2024-04-10",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.33,
+      "relevant_event_date": "2024-04-10",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.33,
+      "relevant_event_date": "2024-04-10",
+      "filing_date": "2024-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.26,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.33,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.33,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.2,
+      "relevant_event_date": "2024-03-15",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.27,
+      "relevant_event_date": "2024-03-15",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.27,
+      "relevant_event_date": "2024-03-15",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.18,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2024-03-14",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.17,
+      "relevant_event_date": "2024-03-13",
+      "filing_date": "2024-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2024-03-13",
+      "filing_date": "2024-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.25,
+      "relevant_event_date": "2024-03-13",
+      "filing_date": "2024-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.16,
+      "relevant_event_date": "2024-03-11",
+      "filing_date": "2024-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.24,
+      "relevant_event_date": "2024-03-11",
+      "filing_date": "2024-03-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.24,
+      "relevant_event_date": "2024-03-11",
+      "filing_date": "2024-03-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.15,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.23,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.23,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.13,
+      "relevant_event_date": "2024-03-06",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.21,
+      "relevant_event_date": "2024-03-06",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.21,
+      "relevant_event_date": "2024-03-06",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.07,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.14,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.14,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.06,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.14,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.14,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.06,
+      "relevant_event_date": "2024-02-28",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.13,
+      "relevant_event_date": "2024-02-28",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.13,
+      "relevant_event_date": "2024-02-28",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.05,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.05,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.04,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.11,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.11,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.03,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.1,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.1,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.02,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.1,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.1,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 46.0,
+      "relevant_event_date": "2024-02-19",
+      "filing_date": "2024-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.07,
+      "relevant_event_date": "2024-02-19",
+      "filing_date": "2024-02-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.07,
+      "relevant_event_date": "2024-02-19",
+      "filing_date": "2024-02-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.98,
+      "relevant_event_date": "2024-02-16",
+      "filing_date": "2024-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.06,
+      "relevant_event_date": "2024-02-16",
+      "filing_date": "2024-02-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.06,
+      "relevant_event_date": "2024-02-16",
+      "filing_date": "2024-02-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.95,
+      "relevant_event_date": "2024-02-15",
+      "filing_date": "2024-02-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 64.02,
+      "relevant_event_date": "2024-02-15",
+      "filing_date": "2024-02-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 64.02,
+      "relevant_event_date": "2024-02-15",
+      "filing_date": "2024-02-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.92,
+      "relevant_event_date": "2024-02-14",
+      "filing_date": "2024-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.99,
+      "relevant_event_date": "2024-02-14",
+      "filing_date": "2024-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.99,
+      "relevant_event_date": "2024-02-14",
+      "filing_date": "2024-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.83,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.91,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.91,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.83,
+      "relevant_event_date": "2024-02-07",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2024-02-07",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2024-02-07",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.8,
+      "relevant_event_date": "2024-02-06",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.87,
+      "relevant_event_date": "2024-02-06",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.87,
+      "relevant_event_date": "2024-02-06",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.87,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.87,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.86,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-01-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.86,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-01-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.76,
+      "relevant_event_date": "2024-01-25",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.83,
+      "relevant_event_date": "2024-01-25",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.83,
+      "relevant_event_date": "2024-01-25",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.75,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.83,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.83,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.75,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.82,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.82,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.72,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.79,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.79,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.71,
+      "relevant_event_date": "2024-01-19",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.78,
+      "relevant_event_date": "2024-01-19",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.78,
+      "relevant_event_date": "2024-01-19",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.7,
+      "relevant_event_date": "2024-01-16",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.78,
+      "relevant_event_date": "2024-01-16",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.78,
+      "relevant_event_date": "2024-01-16",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.7,
+      "relevant_event_date": "2024-01-15",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.77,
+      "relevant_event_date": "2024-01-15",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.77,
+      "relevant_event_date": "2024-01-15",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.68,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.75,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.75,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.66,
+      "relevant_event_date": "2024-01-10",
+      "filing_date": "2024-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.73,
+      "relevant_event_date": "2024-01-10",
+      "filing_date": "2024-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.73,
+      "relevant_event_date": "2024-01-10",
+      "filing_date": "2024-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.65,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.64,
+      "relevant_event_date": "2024-01-05",
+      "filing_date": "2024-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.71,
+      "relevant_event_date": "2024-01-05",
+      "filing_date": "2024-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.71,
+      "relevant_event_date": "2024-01-05",
+      "filing_date": "2024-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.61,
+      "relevant_event_date": "2024-01-03",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.69,
+      "relevant_event_date": "2024-01-03",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.69,
+      "relevant_event_date": "2024-01-03",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.61,
+      "relevant_event_date": "2024-01-02",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.69,
+      "relevant_event_date": "2024-01-02",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.69,
+      "relevant_event_date": "2024-01-02",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.58,
+      "relevant_event_date": "2023-12-29",
+      "filing_date": "2023-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.66,
+      "relevant_event_date": "2023-12-29",
+      "filing_date": "2023-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.66,
+      "relevant_event_date": "2023-12-29",
+      "filing_date": "2023-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.56,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.64,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.64,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2023-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.56,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.64,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.64,
+      "relevant_event_date": "2023-12-21",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.55,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.63,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.63,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.54,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.62,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.62,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.54,
+      "relevant_event_date": "2023-12-15",
+      "filing_date": "2023-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.61,
+      "relevant_event_date": "2023-12-15",
+      "filing_date": "2023-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.61,
+      "relevant_event_date": "2023-12-15",
+      "filing_date": "2023-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.53,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.6,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.6,
+      "relevant_event_date": "2023-12-13",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.52,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.59,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.59,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.52,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.59,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.59,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.51,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.58,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.58,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.5,
+      "relevant_event_date": "2023-11-30",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.34,
+      "relevant_event_date": "2023-11-30",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.57,
+      "relevant_event_date": "2023-11-30",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.57,
+      "relevant_event_date": "2023-11-30",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.48,
+      "relevant_event_date": "2023-11-29",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.52,
+      "relevant_event_date": "2023-11-29",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.52,
+      "relevant_event_date": "2023-11-29",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.48,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.52,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.52,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.42,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.47,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.47,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.41,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.38,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.42,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.42,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.37,
+      "relevant_event_date": "2023-10-12",
+      "filing_date": "2023-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.42,
+      "relevant_event_date": "2023-10-12",
+      "filing_date": "2023-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.42,
+      "relevant_event_date": "2023-10-12",
+      "filing_date": "2023-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.37,
+      "relevant_event_date": "2023-10-05",
+      "filing_date": "2023-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.41,
+      "relevant_event_date": "2023-10-05",
+      "filing_date": "2023-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.41,
+      "relevant_event_date": "2023-10-05",
+      "filing_date": "2023-10-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.36,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.4,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.4,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.35,
+      "relevant_event_date": "2023-09-27",
+      "filing_date": "2023-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.4,
+      "relevant_event_date": "2023-09-27",
+      "filing_date": "2023-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.4,
+      "relevant_event_date": "2023-09-27",
+      "filing_date": "2023-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.34,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.33,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.33,
+      "relevant_event_date": "2023-09-12",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-12",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.38,
+      "relevant_event_date": "2023-09-12",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.32,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.36,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.36,
+      "relevant_event_date": "2023-09-04",
+      "filing_date": "2023-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.28,
+      "relevant_event_date": "2023-08-30",
+      "filing_date": "2023-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.32,
+      "relevant_event_date": "2023-08-30",
+      "filing_date": "2023-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.32,
+      "relevant_event_date": "2023-08-30",
+      "filing_date": "2023-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.27,
+      "relevant_event_date": "2023-08-29",
+      "filing_date": "2023-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.32,
+      "relevant_event_date": "2023-08-29",
+      "filing_date": "2023-08-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.32,
+      "relevant_event_date": "2023-08-29",
+      "filing_date": "2023-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.27,
+      "relevant_event_date": "2023-08-24",
+      "filing_date": "2023-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.31,
+      "relevant_event_date": "2023-08-24",
+      "filing_date": "2023-08-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.31,
+      "relevant_event_date": "2023-08-24",
+      "filing_date": "2023-08-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.26,
+      "relevant_event_date": "2023-08-23",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.3,
+      "relevant_event_date": "2023-08-23",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.3,
+      "relevant_event_date": "2023-08-23",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.25,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.31,
+      "relevant_event_date": "2023-08-14",
+      "filing_date": "2023-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-14",
+      "filing_date": "2023-08-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-14",
+      "filing_date": "2023-08-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.24,
+      "relevant_event_date": "2023-08-07",
+      "filing_date": "2023-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-07",
+      "filing_date": "2023-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.29,
+      "relevant_event_date": "2023-08-07",
+      "filing_date": "2023-08-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.23,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.28,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.28,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.23,
+      "relevant_event_date": "2023-07-31",
+      "filing_date": "2023-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.27,
+      "relevant_event_date": "2023-07-31",
+      "filing_date": "2023-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.27,
+      "relevant_event_date": "2023-07-31",
+      "filing_date": "2023-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.22,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.26,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.26,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.22,
+      "relevant_event_date": "2023-07-25",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.31,
+      "relevant_event_date": "2023-07-25",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.26,
+      "relevant_event_date": "2023-07-25",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.26,
+      "relevant_event_date": "2023-07-25",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.19,
+      "relevant_event_date": "2023-07-24",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2023-07-24",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.22,
+      "relevant_event_date": "2023-07-24",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.22,
+      "relevant_event_date": "2023-07-24",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.29,
+      "relevant_event_date": "2023-07-20",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.2,
+      "relevant_event_date": "2023-07-20",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.2,
+      "relevant_event_date": "2023-07-20",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.29,
+      "relevant_event_date": "2023-04-20",
+      "filing_date": "2023-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.19,
+      "relevant_event_date": "2023-04-20",
+      "filing_date": "2023-04-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.19,
+      "relevant_event_date": "2023-04-20",
+      "filing_date": "2023-04-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.28,
+      "relevant_event_date": "2023-04-03",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.19,
+      "relevant_event_date": "2023-04-03",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.19,
+      "relevant_event_date": "2023-04-03",
+      "filing_date": "2023-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.16,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.16,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.24,
+      "relevant_event_date": "2023-03-23",
+      "filing_date": "2023-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.14,
+      "relevant_event_date": "2023-03-23",
+      "filing_date": "2023-03-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.14,
+      "relevant_event_date": "2023-03-23",
+      "filing_date": "2023-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.23,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.14,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.14,
+      "relevant_event_date": "2023-03-22",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.23,
+      "relevant_event_date": "2023-03-21",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.13,
+      "relevant_event_date": "2023-03-21",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.13,
+      "relevant_event_date": "2023-03-21",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.22,
+      "relevant_event_date": "2023-03-14",
+      "filing_date": "2023-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.12,
+      "relevant_event_date": "2023-03-14",
+      "filing_date": "2023-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.12,
+      "relevant_event_date": "2023-03-14",
+      "filing_date": "2023-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.21,
+      "relevant_event_date": "2023-03-10",
+      "filing_date": "2023-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.12,
+      "relevant_event_date": "2023-03-10",
+      "filing_date": "2023-03-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.12,
+      "relevant_event_date": "2023-03-10",
+      "filing_date": "2023-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.21,
+      "relevant_event_date": "2023-03-09",
+      "filing_date": "2023-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2023-03-09",
+      "filing_date": "2023-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2023-03-09",
+      "filing_date": "2023-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.2,
+      "relevant_event_date": "2023-02-27",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2023-02-27",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.11,
+      "relevant_event_date": "2023-02-27",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.2,
+      "relevant_event_date": "2023-02-24",
+      "filing_date": "2023-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.1,
+      "relevant_event_date": "2023-02-24",
+      "filing_date": "2023-02-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.1,
+      "relevant_event_date": "2023-02-24",
+      "filing_date": "2023-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.16,
+      "relevant_event_date": "2023-02-21",
+      "filing_date": "2023-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2023-02-21",
+      "filing_date": "2023-02-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2023-02-21",
+      "filing_date": "2023-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2023-02-13",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2023-02-13",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.06,
+      "relevant_event_date": "2023-02-13",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2023-02-10",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.05,
+      "relevant_event_date": "2023-02-10",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.05,
+      "relevant_event_date": "2023-02-10",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.14,
+      "relevant_event_date": "2023-02-09",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.05,
+      "relevant_event_date": "2023-02-09",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.05,
+      "relevant_event_date": "2023-02-09",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.14,
+      "relevant_event_date": "2023-02-07",
+      "filing_date": "2023-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.04,
+      "relevant_event_date": "2023-02-07",
+      "filing_date": "2023-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.04,
+      "relevant_event_date": "2023-02-07",
+      "filing_date": "2023-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.13,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.04,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.04,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.12,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 63.02,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 63.02,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.07,
+      "relevant_event_date": "2023-01-27",
+      "filing_date": "2023-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.98,
+      "relevant_event_date": "2023-01-27",
+      "filing_date": "2023-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.98,
+      "relevant_event_date": "2023-01-27",
+      "filing_date": "2023-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 12.07,
+      "relevant_event_date": "2023-01-26",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.97,
+      "relevant_event_date": "2023-01-26",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.97,
+      "relevant_event_date": "2023-01-26",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.99,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.9,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.9,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.99,
+      "relevant_event_date": "2023-01-06",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.89,
+      "relevant_event_date": "2023-01-06",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.89,
+      "relevant_event_date": "2023-01-06",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.98,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.89,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.89,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.85,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.85,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.84,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.84,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.9,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2022-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.8,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2022-12-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.8,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2022-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.89,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.8,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.8,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.88,
+      "relevant_event_date": "2022-12-23",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.78,
+      "relevant_event_date": "2022-12-23",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.78,
+      "relevant_event_date": "2022-12-23",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.87,
+      "relevant_event_date": "2022-12-22",
+      "filing_date": "2022-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.77,
+      "relevant_event_date": "2022-12-22",
+      "filing_date": "2022-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.77,
+      "relevant_event_date": "2022-12-22",
+      "filing_date": "2022-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.82,
+      "relevant_event_date": "2022-12-21",
+      "filing_date": "2022-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.73,
+      "relevant_event_date": "2022-12-21",
+      "filing_date": "2022-12-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.73,
+      "relevant_event_date": "2022-12-21",
+      "filing_date": "2022-12-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.81,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.71,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.71,
+      "relevant_event_date": "2022-12-20",
+      "filing_date": "2022-12-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2022-12-19",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.68,
+      "relevant_event_date": "2022-12-19",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.68,
+      "relevant_event_date": "2022-12-19",
+      "filing_date": "2022-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.67,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.67,
+      "relevant_event_date": "2022-12-14",
+      "filing_date": "2022-12-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.75,
+      "relevant_event_date": "2022-12-12",
+      "filing_date": "2022-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.65,
+      "relevant_event_date": "2022-12-12",
+      "filing_date": "2022-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.65,
+      "relevant_event_date": "2022-12-12",
+      "filing_date": "2022-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.73,
+      "relevant_event_date": "2022-12-09",
+      "filing_date": "2022-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.64,
+      "relevant_event_date": "2022-12-09",
+      "filing_date": "2022-12-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.64,
+      "relevant_event_date": "2022-12-09",
+      "filing_date": "2022-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.72,
+      "relevant_event_date": "2022-12-08",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.63,
+      "relevant_event_date": "2022-12-08",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.63,
+      "relevant_event_date": "2022-12-08",
+      "filing_date": "2022-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.65,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.56,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.56,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.65,
+      "relevant_event_date": "2022-12-06",
+      "filing_date": "2022-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.55,
+      "relevant_event_date": "2022-12-06",
+      "filing_date": "2022-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.55,
+      "relevant_event_date": "2022-12-06",
+      "filing_date": "2022-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.61,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.52,
+      "relevant_event_date": "2022-10-28",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.48,
+      "relevant_event_date": "2022-10-27",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.38,
+      "relevant_event_date": "2022-10-27",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.38,
+      "relevant_event_date": "2022-10-27",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.45,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.36,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.36,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.31,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.31,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.34,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.24,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.24,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.18,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.18,
+      "relevant_event_date": "2022-10-21",
+      "filing_date": "2022-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 11.09,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 10.93,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 10.77,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.68,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.68,
+      "relevant_event_date": "2022-10-18",
+      "filing_date": "2022-10-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jade Concept Limited",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.56,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.18,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.56,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.56,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 45.04,
+      "relevant_event_date": "2020-03-23",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.42,
+      "relevant_event_date": "2020-03-23",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.42,
+      "relevant_event_date": "2020-03-23",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 44.93,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.3,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.3,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 44.89,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 61.27,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 61.27,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 40.13,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 37.85,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 56.51,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 54.23,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 56.51,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 54.23,
+      "relevant_event_date": "2020-03-18",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 37.81,
+      "relevant_event_date": "2020-03-17",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 54.18,
+      "relevant_event_date": "2020-03-17",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 54.18,
+      "relevant_event_date": "2020-03-17",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 37.7,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 54.07,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 54.07,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 37.46,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 53.84,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 53.84,
+      "relevant_event_date": "2020-03-10",
+      "filing_date": "2020-03-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 34.21,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 50.58,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KOH Kai Boo",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 24.3,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 37.38,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2019-12-30",
+      "filing_date": "2020-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.98,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 37.06,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 37.06,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.61,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.61,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.61,
+      "relevant_event_date": "2018-04-24",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-24",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.48,
+      "relevant_event_date": "2018-04-24",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.56,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.43,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.43,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-04-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.43,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.23,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.23,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.64,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.44,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.44,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KOH Kai Boo",
+      "long_position_pct": 8.05,
+      "relevant_event_date": "2018-02-20",
+      "filing_date": "2018-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KOH Kai Boo",
+      "long_position_pct": 7.13,
+      "relevant_event_date": "2018-02-09",
+      "filing_date": "2018-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KOH Kai Boo",
+      "long_position_pct": 6.55,
+      "relevant_event_date": "2018-02-08",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KOH Kai Boo",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2018-02-02",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.64,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.44,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.44,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.62,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.42,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.42,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.51,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.31,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.4,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.21,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.21,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.39,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.2,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.2,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.29,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 36.09,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 36.09,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 23.12,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.93,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.93,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 22.91,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.71,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.71,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 22.69,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.49,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.57,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.49,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.57,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.37,
+      "relevant_event_date": "2017-11-29",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.45,
+      "relevant_event_date": "2017-11-29",
+      "filing_date": "2017-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.37,
+      "relevant_event_date": "2017-11-29",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.45,
+      "relevant_event_date": "2017-11-29",
+      "filing_date": "2017-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 22.59,
+      "relevant_event_date": "2017-10-27",
+      "filing_date": "2017-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.4,
+      "relevant_event_date": "2017-10-27",
+      "filing_date": "2017-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.4,
+      "relevant_event_date": "2017-10-27",
+      "filing_date": "2017-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "B.K.S. Company Limited",
+      "long_position_pct": 22.53,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.34,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yeung Kit Ling",
+      "long_position_pct": 35.34,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "So Yuk Kwan",
+      "long_position_pct": 35.29,
+      "relevant_event_date": "2017-09-19",
+      "filing_date": "2017-10-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

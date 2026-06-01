@@ -1,7 +1,7 @@
 {
   "code": "02096",
   "name": "SIMCERE PHARMACEUTICAL GROUP LTD.",
-  "last_scraped": "2026-05-29T23:24:03Z",
+  "last_scraped": "2026-06-01T23:40:44Z",
   "shareholders": [
     {
       "name": "REN Jinsheng",
@@ -44,6 +44,19 @@
     },
     {
       "name": "Excel Investments Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1731048815,
+      "long_position_pct": 66.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fortune Fountain Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 1731048815,
@@ -182,19 +195,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-05-26",
       "filing_date": "2026-05-26",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Fortune Fountain Investment Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1730948815,
-      "long_position_pct": 66.69,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -310,6 +310,14 @@
       "relevant_event_date": "2026-05-26",
       "filing_date": "2026-05-29",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fortune Fountain Investment Limited",
+      "long_position_pct": 66.69,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

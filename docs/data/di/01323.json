@@ -1,0 +1,2157 @@
+{
+  "code": "01323",
+  "name": "HUASHENG INTERNATIONAL HOLDING LTD.",
+  "last_scraped": "2026-06-01T23:34:34Z",
+  "shareholders": [
+    {
+      "name": "Capital Wealth Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 160058100,
+      "long_position_pct": 21.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-01",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 160058100,
+      "long_position_pct": 21.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-01",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 50693800,
+      "long_position_pct": 6.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 49600000,
+      "long_position_pct": 6.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 21.18,
+      "relevant_event_date": "2024-11-01",
+      "filing_date": "2024-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 21.18,
+      "relevant_event_date": "2024-11-01",
+      "filing_date": "2024-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 20.35,
+      "relevant_event_date": "2024-10-31",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 20.35,
+      "relevant_event_date": "2024-10-31",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 18.19,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 18.19,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 17.92,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 17.92,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsang ngai chun",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2024-02-21",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Wealth Global Limited",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Chia-Hsiang",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2024-02-20",
+      "filing_date": "2024-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "long_position_pct": 10.06,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsang ngai chun",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2023-12-15",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "long_position_pct": 9.22,
+      "relevant_event_date": "2023-12-05",
+      "filing_date": "2023-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2023-11-24",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2023-11-23",
+      "filing_date": "2023-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Hon Kwong",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 6.67,
+      "relevant_event_date": "2023-11-03",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 4.84,
+      "relevant_event_date": "2023-11-03",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 4.84,
+      "relevant_event_date": "2023-11-03",
+      "filing_date": "2023-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Development Financial Holding Corporation",
+      "long_position_pct": 0.62,
+      "relevant_event_date": "2023-10-03",
+      "filing_date": "2023-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huatai Securities Co., Ltd.",
+      "long_position_pct": 3.33,
+      "relevant_event_date": "2023-10-03",
+      "filing_date": "2023-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KGI Asia Limited",
+      "long_position_pct": 0.62,
+      "relevant_event_date": "2023-10-03",
+      "filing_date": "2023-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KGI Securities Co. Ltd.",
+      "long_position_pct": 0.62,
+      "relevant_event_date": "2023-10-03",
+      "filing_date": "2023-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huatai Securities Co., Ltd.",
+      "long_position_pct": 5.36,
+      "relevant_event_date": "2023-09-29",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Development Financial Holding Corporation",
+      "long_position_pct": 22.3,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KGI Asia Limited",
+      "long_position_pct": 22.3,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KGI Securities Co. Ltd.",
+      "long_position_pct": 22.3,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 22.32,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 25.79,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 22.52,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.4,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.6,
+      "relevant_event_date": "2023-02-01",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.38,
+      "relevant_event_date": "2023-01-31",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.58,
+      "relevant_event_date": "2023-01-31",
+      "filing_date": "2023-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.38,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.58,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.35,
+      "relevant_event_date": "2023-01-19",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.55,
+      "relevant_event_date": "2023-01-19",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.32,
+      "relevant_event_date": "2023-01-18",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.52,
+      "relevant_event_date": "2023-01-18",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.3,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.5,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.26,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.46,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.2,
+      "relevant_event_date": "2023-01-13",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.4,
+      "relevant_event_date": "2023-01-13",
+      "filing_date": "2023-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.14,
+      "relevant_event_date": "2023-01-12",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.34,
+      "relevant_event_date": "2023-01-12",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.25,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.43,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.63,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.42,
+      "relevant_event_date": "2022-09-22",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.62,
+      "relevant_event_date": "2022-09-22",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.41,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.61,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.39,
+      "relevant_event_date": "2022-09-20",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.59,
+      "relevant_event_date": "2022-09-20",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.38,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.33,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.53,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.29,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.49,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.26,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.9,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 16.14,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.68,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.92,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.62,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.86,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.56,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.8,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.49,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.73,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.43,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.67,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2022-02-10",
+      "filing_date": "2022-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.58,
+      "relevant_event_date": "2022-02-10",
+      "filing_date": "2022-02-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.33,
+      "relevant_event_date": "2022-02-04",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.57,
+      "relevant_event_date": "2022-02-04",
+      "filing_date": "2022-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.31,
+      "relevant_event_date": "2022-01-31",
+      "filing_date": "2022-02-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 11.53,
+      "relevant_event_date": "2022-01-31",
+      "filing_date": "2022-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.55,
+      "relevant_event_date": "2022-01-31",
+      "filing_date": "2022-02-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2022-01-31",
+      "filing_date": "2022-01-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 11.38,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 11.62,
+      "relevant_event_date": "2022-01-28",
+      "filing_date": "2022-01-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 11.04,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.81,
+      "relevant_event_date": "2022-01-26",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 11.05,
+      "relevant_event_date": "2022-01-26",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.74,
+      "relevant_event_date": "2022-01-25",
+      "filing_date": "2022-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.98,
+      "relevant_event_date": "2022-01-25",
+      "filing_date": "2022-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.59,
+      "relevant_event_date": "2022-01-24",
+      "filing_date": "2022-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2022-01-24",
+      "filing_date": "2022-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.31,
+      "relevant_event_date": "2022-01-21",
+      "filing_date": "2022-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.55,
+      "relevant_event_date": "2022-01-21",
+      "filing_date": "2022-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2022-01-20",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.48,
+      "relevant_event_date": "2022-01-20",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2022-01-19",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.45,
+      "relevant_event_date": "2022-01-19",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.1,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.34,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 10.04,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.79,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.54,
+      "relevant_event_date": "2021-12-14",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2021-12-14",
+      "filing_date": "2021-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.43,
+      "relevant_event_date": "2021-12-01",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 14.08,
+      "relevant_event_date": "2021-12-01",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.28,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2021-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.93,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2021-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.11,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 3.27,
+      "relevant_event_date": "2020-11-03",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 14.57,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2020-02-11",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 14.01,
+      "relevant_event_date": "2020-02-11",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 14.7,
+      "relevant_event_date": "2020-02-11",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 9.77,
+      "relevant_event_date": "2020-02-11",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 14.59,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 15.32,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 14.38,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.38,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 16.14,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 15.15,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.23,
+      "relevant_event_date": "2019-12-06",
+      "filing_date": "2019-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.08,
+      "relevant_event_date": "2019-12-06",
+      "filing_date": "2019-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2019-11-14",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2019-11-14",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 7.89,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.3,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.15,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 16.97,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Feng Tang",
+      "long_position_pct": 18.01,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 8.38,
+      "relevant_event_date": "2019-08-27",
+      "filing_date": "2019-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2019-08-27",
+      "filing_date": "2019-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 9.38,
+      "relevant_event_date": "2019-08-09",
+      "filing_date": "2019-08-13",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2019-08-09",
+      "filing_date": "2019-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 10.25,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 10.4,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 11.98,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 11.26,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 12.85,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 12.13,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 13.71,
+      "relevant_event_date": "2019-04-29",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.37,
+      "relevant_event_date": "2019-04-29",
+      "filing_date": "2019-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.27,
+      "relevant_event_date": "2019-04-29",
+      "filing_date": "2019-05-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 13.45,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.01,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.94,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lead Thrive Investments Limited",
+      "long_position_pct": 17.94,
+      "relevant_event_date": "2018-10-24",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.93,
+      "relevant_event_date": "2018-10-24",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.86,
+      "relevant_event_date": "2018-10-24",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.17,
+      "relevant_event_date": "2018-10-23",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.11,
+      "relevant_event_date": "2018-10-23",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.03,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.98,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fu Sze Shing",
+      "long_position_pct": 18.91,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.86,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.81,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.98,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.93,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.82,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.78,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.39,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.31,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.35,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.27,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.94,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.88,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.15,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.08,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.19,
+      "relevant_event_date": "2018-10-02",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.12,
+      "relevant_event_date": "2018-10-02",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.96,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.62,
+      "relevant_event_date": "2018-09-27",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.56,
+      "relevant_event_date": "2018-09-27",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.72,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.66,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.88,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.94,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.28,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.7,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.21,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.97,
+      "relevant_event_date": "2018-09-03",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.92,
+      "relevant_event_date": "2018-08-31",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.68,
+      "relevant_event_date": "2018-08-31",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 20.09,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.85,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 20.48,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 22.24,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 20.25,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 22.01,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.96,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.72,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.54,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.3,
+      "relevant_event_date": "2018-02-22",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.34,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 21.1,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 19.16,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.92,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.53,
+      "relevant_event_date": "2018-02-07",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.29,
+      "relevant_event_date": "2018-02-07",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.5,
+      "relevant_event_date": "2018-02-02",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 20.26,
+      "relevant_event_date": "2018-02-02",
+      "filing_date": "2018-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 18.1,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.86,
+      "relevant_event_date": "2018-01-23",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.95,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.71,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.83,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.59,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.74,
+      "relevant_event_date": "2018-01-04",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.5,
+      "relevant_event_date": "2018-01-04",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.65,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.42,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.52,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 19.28,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 17.18,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.94,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2017-10-25",
+      "filing_date": "2017-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 16.97,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.39,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.55,
+      "relevant_event_date": "2017-10-24",
+      "filing_date": "2017-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 18.05,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 17.82,
+      "relevant_event_date": "2017-10-10",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 16.63,
+      "relevant_event_date": "2017-10-03",
+      "filing_date": "2017-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 17.57,
+      "relevant_event_date": "2017-10-03",
+      "filing_date": "2017-10-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 16.53,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 17.46,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 16.24,
+      "relevant_event_date": "2017-09-26",
+      "filing_date": "2017-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 17.18,
+      "relevant_event_date": "2017-09-26",
+      "filing_date": "2017-09-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Star Global Limited 雙星環球有限公司",
+      "long_position_pct": 15.85,
+      "relevant_event_date": "2017-09-22",
+      "filing_date": "2017-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WAI SING",
+      "long_position_pct": 16.79,
+      "relevant_event_date": "2017-09-22",
+      "filing_date": "2017-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

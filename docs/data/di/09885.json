@@ -1,18 +1,18 @@
 {
   "code": "09885",
   "name": "YSB INC.",
-  "last_scraped": "2026-05-28T23:19:56Z",
+  "last_scraped": "2026-06-01T23:55:36Z",
   "shareholders": [
     {
       "name": "Zhang Buzhen",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 157219997,
-      "long_position_pct": 22.85,
+      "long_position_shares": 157719997,
+      "long_position_pct": 22.92,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "MIYT Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 125778784,
-      "long_position_pct": 18.28,
+      "long_position_shares": 126278784,
+      "long_position_pct": 18.35,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -275,9 +275,38 @@
       "filing_date": "2025-10-06",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 34564815,
+      "long_position_pct": 5.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "MIYT Holdings Limited",
+      "long_position_pct": 18.35,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Buzhen",
+      "long_position_pct": 22.92,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Meta Group Limited",
       "long_position_pct": 7.94,
@@ -285,6 +314,14 @@
       "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "Chu Mang Yee",

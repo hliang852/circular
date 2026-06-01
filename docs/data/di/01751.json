@@ -1,7 +1,7 @@
 {
   "code": "01751",
   "name": "AI ENERGY ENGINEERING HOLDINGS LTD.",
-  "last_scraped": "2026-05-28T23:13:40Z",
+  "last_scraped": "2026-06-01T23:36:29Z",
   "shareholders": [
     {
       "name": "Applewood Developments Limited",
@@ -82,6 +82,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "CITIC Securities Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 24190000,
+      "long_position_pct": 8.31,
+      "short_position_shares": 24190000,
+      "short_position_pct": 8.31,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "He Guangping",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -104,19 +117,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-01-02",
       "filing_date": "2026-01-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "CITIC Securities Company Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 24190000,
-      "long_position_pct": 6.25,
-      "short_position_shares": 24190000,
-      "short_position_pct": 6.25,
-      "relevant_event_date": "2026-05-07",
-      "filing_date": "2026-05-07",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -144,6 +144,14 @@
       "relevant_event_date": "2026-05-26",
       "filing_date": "2026-05-28",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

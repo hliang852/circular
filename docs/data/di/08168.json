@@ -1,0 +1,445 @@
+{
+  "code": "08168",
+  "name": "AMASSE CAPITAL HOLDINGS LTD.",
+  "last_scraped": "2026-06-01T23:50:56Z",
+  "shareholders": [
+    {
+      "name": "China Real Estate Enterprise (Hong Kong) Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 120000000,
+      "long_position_pct": 9.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XIE LEI",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 120000000,
+      "long_position_pct": 9.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Luo Lei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 91497640,
+      "long_position_pct": 8.32,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-08-30",
+      "filing_date": "2023-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wu Peisheng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 72000000,
+      "long_position_pct": 5.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "WEN WENYA",
+      "long_position_pct": 2.76,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEN WENYA",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Real Estate Enterprise (Hong Kong) Holdings Limited",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 0.08,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 0.08,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEN WENYA",
+      "long_position_pct": 12.04,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Peisheng",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE LEI",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2026-01-30",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 42.03,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 42.11,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 42.11,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 46.65,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 46.73,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 46.73,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 51.18,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 51.18,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Lei",
+      "long_position_pct": 8.32,
+      "relevant_event_date": "2023-08-30",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Lei",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Lei",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2023-05-25",
+      "filing_date": "2023-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 51.09,
+      "relevant_event_date": "2023-05-22",
+      "filing_date": "2023-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 51.09,
+      "relevant_event_date": "2023-05-22",
+      "filing_date": "2023-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 51.09,
+      "relevant_event_date": "2023-05-22",
+      "filing_date": "2023-05-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 52.91,
+      "relevant_event_date": "2023-04-06",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 52.91,
+      "relevant_event_date": "2023-04-06",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 52.91,
+      "relevant_event_date": "2023-04-06",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Build Rise Capital Group Limited",
+      "long_position_pct": 4.55,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Special Economic Zone Development Limited",
+      "long_position_pct": 4.55,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Lei",
+      "long_position_pct": 10.73,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Fai",
+      "long_position_pct": 4.55,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Lei",
+      "long_position_pct": 6.18,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 62.0,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 68.18,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Build Rise Capital Group Limited",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Special Economic Zone Development Limited",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 68.18,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Ma Fai",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 68.18,
+      "relevant_event_date": "2022-12-05",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "JASON CHAN WA CHIANG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-12-02",
+      "filing_date": "2022-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-11-21",
+      "filing_date": "2022-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JASON CHAN WA CHIANG",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2022-11-21",
+      "filing_date": "2022-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-11-21",
+      "filing_date": "2022-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 55.0,
+      "relevant_event_date": "2022-11-21",
+      "filing_date": "2022-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Access Cheer Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ting Lok",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tse Fung Sum Flora",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

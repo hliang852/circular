@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-05-29T23:16:53Z",
+  "last_scraped": "2026-06-01T23:35:14Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -150,12 +150,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 260021708,
-      "long_position_pct": 5.67,
-      "short_position_shares": 5923500,
+      "long_position_shares": 244909783,
+      "long_position_pct": 5.34,
+      "short_position_shares": 5905000,
       "short_position_pct": 0.13,
-      "relevant_event_date": "2026-05-25",
-      "filing_date": "2026-05-25",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -168,6 +168,14 @@
       "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "BlackRock, Inc.",

@@ -1,7 +1,7 @@
 {
   "code": "00875",
   "name": "CONGYU INTELLIGENT AGRICULTURAL HOLDINGS LTD.",
-  "last_scraped": "2026-05-28T23:11:26Z",
+  "last_scraped": "2026-06-01T23:28:58Z",
   "shareholders": [
     {
       "name": "Lin Yuhao",
@@ -59,17 +59,25 @@
       "name": "Jin Lijun",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 40404000,
-      "long_position_pct": 7.39,
+      "long_position_shares": 36664000,
+      "long_position_pct": 6.71,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Jin Lijun",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Jin Lijun",
       "long_position_pct": 7.39,

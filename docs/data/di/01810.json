@@ -1,7 +1,7 @@
 {
   "code": "01810",
   "name": "XIAOMI CORPORATION - W",
-  "last_scraped": "2026-05-27T23:18:31Z",
+  "last_scraped": "2026-06-01T23:37:20Z",
   "shareholders": [
     {
       "name": "Lei Jun",
@@ -163,17 +163,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1101725599,
-      "long_position_pct": 5.15,
-      "short_position_shares": 23423400,
+      "long_position_shares": 1092541192,
+      "long_position_pct": 5.11,
+      "short_position_shares": 23549000,
       "short_position_pct": 0.11,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.15,
