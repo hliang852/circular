@@ -1,18 +1,18 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-01T23:31:07Z",
+  "last_scraped": "2026-06-02T23:38:11Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 5920721271,
-      "long_position_pct": 47.73,
+      "long_position_shares": 5859271271,
+      "long_position_pct": 47.23,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -410,17 +410,49 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 686932217,
-      "long_position_pct": 5.54,
-      "short_position_shares": 7968000,
-      "short_position_pct": 0.06,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "long_position_shares": 674699149,
+      "long_position_pct": 5.44,
+      "short_position_shares": 6378000,
+      "short_position_pct": 0.05,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Yang Yuanqing",
+      "long_position_pct": 47.23,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Yuanqing",
+      "long_position_pct": 47.73,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Yang Yuanqing",
+      "long_position_pct": 47.29,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.54,

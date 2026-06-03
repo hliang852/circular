@@ -1,7 +1,7 @@
 {
   "code": "09885",
   "name": "YSB INC.",
-  "last_scraped": "2026-06-01T23:55:36Z",
+  "last_scraped": "2026-06-03T00:00:14Z",
   "shareholders": [
     {
       "name": "Zhang Buzhen",
@@ -111,12 +111,12 @@
       "name": "Chu Mang Yee",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 75624784,
-      "long_position_pct": 10.99,
+      "long_position_shares": 68497584,
+      "long_position_pct": 9.95,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-24",
-      "filing_date": "2026-04-24",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -124,12 +124,12 @@
       "name": "Sounda Properties Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 75624784,
-      "long_position_pct": 10.99,
+      "long_position_shares": 68497584,
+      "long_position_pct": 9.95,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-24",
-      "filing_date": "2026-04-24",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -291,6 +291,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 9.95,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 9.95,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "MIYT Holdings Limited",
       "long_position_pct": 18.35,

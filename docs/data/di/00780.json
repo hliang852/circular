@@ -1,7 +1,7 @@
 {
   "code": "00780",
   "name": "TONGCHENG TRAVEL HOLDINGS LTD.",
-  "last_scraped": "2026-05-27T23:14:06Z",
+  "last_scraped": "2026-06-02T23:35:42Z",
   "shareholders": [
     {
       "name": "Ctrip.com International, Ltd.",
@@ -85,12 +85,12 @@
       "name": "T. Rowe Price Associates, Inc. and its Affiliates",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 189390800,
-      "long_position_pct": 8.04,
+      "long_position_shares": 186550400,
+      "long_position_pct": 7.92,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-10",
-      "filing_date": "2026-03-10",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,14 @@
     }
   ],
   "history": [
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 8.87,

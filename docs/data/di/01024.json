@@ -1,7 +1,7 @@
 {
   "code": "01024",
   "name": "KUAISHOU TECHNOLOGY - W",
-  "last_scraped": "2026-06-01T23:31:49Z",
+  "last_scraped": "2026-06-02T23:38:48Z",
   "shareholders": [
     {
       "name": "CHENG YIXIAO",
@@ -171,22 +171,17 @@
       "filing_date": "2026-05-12",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 184754469,
-      "long_position_pct": 5.04,
-      "short_position_shares": 1503900,
-      "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.04,

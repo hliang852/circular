@@ -1,7 +1,7 @@
 {
   "code": "01432",
   "name": "CHINA SHENGMU ORGANIC MILK LTD.",
-  "last_scraped": "2026-05-26T23:10:07Z",
+  "last_scraped": "2026-06-02T23:41:55Z",
   "shareholders": [
     {
       "name": "China Mengniu Dairy Company Limited",
@@ -56,16 +56,16 @@
       "notice_type": "Current"
     },
     {
-      "name": "Shao Genhuo",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
+      "name": "Mo Yun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
       "long_position_shares": 1301651000,
       "long_position_pct": 15.53,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2020-08-06",
-      "filing_date": "2020-08-06",
-      "form_type": "Form 3A",
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -193,6 +193,22 @@
       "relevant_event_date": "2026-05-22",
       "filing_date": "2026-05-26",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mo Yun",
+      "long_position_pct": 15.53,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shao Genhuo",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-21",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

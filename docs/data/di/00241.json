@@ -1,7 +1,7 @@
 {
   "code": "00241",
   "name": "ALIBABA HEALTH INFORMATION TECHNOLOGY LTD.",
-  "last_scraped": "2026-05-27T23:13:10Z",
+  "last_scraped": "2026-06-02T23:31:11Z",
   "shareholders": [
     {
       "name": "Alibaba Group Holding Limited",
@@ -72,12 +72,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1289857750,
-      "long_position_pct": 7.97,
-      "short_position_shares": 977430487,
-      "short_position_pct": 6.04,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 1278379218,
+      "long_position_pct": 7.9,
+      "short_position_shares": 966350857,
+      "short_position_pct": 5.97,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.97,

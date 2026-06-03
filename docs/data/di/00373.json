@@ -1,0 +1,598 @@
+{
+  "code": "00373",
+  "name": "ALLIED GROUP LTD.",
+  "last_scraped": "2026-06-02T23:33:24Z",
+  "shareholders": [
+    {
+      "name": "Lee Seng Hui",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 2635241180,
+      "long_position_pct": 74.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 2634782760,
+      "long_position_pct": 74.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 2634782760,
+      "long_position_pct": 74.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1517413000,
+      "long_position_pct": 43.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1117369760,
+      "long_position_pct": 31.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1117369760,
+      "long_position_pct": 31.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chong Sok Un",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 317063100,
+      "long_position_pct": 9.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Spirit Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 235023100,
+      "long_position_pct": 6.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 235023100,
+      "long_position_pct": 6.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.8,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.98,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.98,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.8,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Spirit Limited",
+      "long_position_pct": 6.69,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Sok Un",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "long_position_pct": 6.69,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Spirit Limited",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2024-12-13",
+      "filing_date": "2024-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Sok Un",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2024-12-13",
+      "filing_date": "2024-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2024-12-13",
+      "filing_date": "2024-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.79,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.98,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.98,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 43.18,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.79,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.95,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.96,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.95,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 43.16,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.78,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Spirit Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Sok Un",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.93,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.95,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.93,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 43.15,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2021-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.78,
+      "relevant_event_date": "2020-09-07",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Spirit Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Sok Un",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dalton Investments LLC",
+      "long_position_pct": 0.2,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2019-10-14",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dalton Investments LLC",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.78,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.93,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.95,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.93,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 43.15,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.78,
+      "relevant_event_date": "2017-07-07",
+      "filing_date": "2017-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.63,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.59,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 42.94,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.63,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.62,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.58,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 42.94,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.62,
+      "relevant_event_date": "2017-07-05",
+      "filing_date": "2017-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 31.6,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Minty Hongkong Limited",
+      "long_position_pct": 42.91,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 31.6,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

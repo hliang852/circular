@@ -1,7 +1,7 @@
 {
   "code": "01860",
   "name": "MOBVISTA INC.",
-  "last_scraped": "2026-05-26T23:11:26Z",
+  "last_scraped": "2026-06-02T23:44:00Z",
   "shareholders": [
     {
       "name": "Mobvista Co., Ltd",
@@ -20,12 +20,12 @@
       "name": "DUAN Wei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 476075677,
-      "long_position_pct": 30.24,
-      "short_position_shares": 224912959,
-      "short_position_pct": 14.29,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 341693895,
+      "long_position_pct": 21.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Mobvista Co., Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 474237677,
-      "long_position_pct": 30.13,
-      "short_position_shares": 224912959,
-      "short_position_pct": 14.29,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 339855895,
+      "long_position_pct": 21.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Seamless Technology Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 474237677,
-      "long_position_pct": 30.13,
-      "short_position_shares": 224912959,
-      "short_position_pct": 14.29,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 339855895,
+      "long_position_pct": 21.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -135,6 +135,62 @@
     }
   ],
   "history": [
+    {
+      "name": "DUAN Wei",
+      "long_position_pct": 21.71,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mobvista Co., Ltd",
+      "long_position_pct": 21.59,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Seamless Technology Limited",
+      "long_position_pct": 21.59,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DUAN Wei",
+      "long_position_pct": 25.12,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mobvista Co., Ltd",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Seamless Technology Limited",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DUAN Wei",
+      "long_position_pct": 29.8,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
     {
       "name": "DUAN Wei",
       "long_position_pct": 30.24,

@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-01T23:55:16Z",
+  "last_scraped": "2026-06-02T23:59:58Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 109432994,
-      "long_position_pct": 6.98,
-      "short_position_shares": 91806336,
+      "long_position_shares": 111649518,
+      "long_position_pct": 7.13,
+      "short_position_shares": 91852360,
       "short_position_pct": 5.86,
-      "relevant_event_date": "2026-04-29",
-      "filing_date": "2026-04-29",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 83553621,
-      "long_position_pct": 5.34,
+      "long_position_shares": 84829190,
+      "long_position_pct": 5.42,
       "short_position_shares": 690700,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.13,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.34,

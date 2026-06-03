@@ -1,7 +1,7 @@
 {
   "code": "02319",
   "name": "CHINA MENGNIU DAIRY CO. LTD.",
-  "last_scraped": "2026-06-01T23:42:48Z",
+  "last_scraped": "2026-06-02T23:47:42Z",
   "shareholders": [
     {
       "name": "COFCO CORPORATION",
@@ -124,12 +124,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 232886184,
-      "long_position_pct": 6.0,
+      "long_position_shares": 229856140,
+      "long_position_pct": 5.93,
       "short_position_shares": 351000,
       "short_position_pct": 0.01,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -187,6 +187,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.0,

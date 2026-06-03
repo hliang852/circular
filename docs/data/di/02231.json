@@ -1,7 +1,7 @@
 {
   "code": "02231",
   "name": "JY GRANDMARK HOLDINGS LTD.",
-  "last_scraped": "2026-05-25T23:00:28Z",
+  "last_scraped": "2026-06-02T23:46:21Z",
   "shareholders": [
     {
       "name": "IQ EQ (BVI) Limited",
@@ -20,12 +20,12 @@
       "name": "Chan Sze Ming Michael",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1135795000,
-      "long_position_pct": 69.0,
+      "long_position_shares": 1118844000,
+      "long_position_pct": 67.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Shum Wing Yin",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 1135795000,
-      "long_position_pct": 69.0,
+      "long_position_shares": 1118844000,
+      "long_position_pct": 67.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Sze Ming Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1135795000,
-      "long_position_pct": 69.0,
+      "long_position_shares": 1118844000,
+      "long_position_pct": 67.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,17 +59,49 @@
       "name": "The Bank of East Asia, Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 213908000,
-      "long_position_pct": 12.99,
+      "long_position_shares": 196922000,
+      "long_position_pct": 11.96,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "The Bank of East Asia, Limited",
+      "long_position_pct": 11.96,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Sze Ming Michael",
+      "long_position_pct": 67.97,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shum Wing Yin",
+      "long_position_pct": 67.97,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sze Ming Limited",
+      "long_position_pct": 67.97,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Chan Sze Ming Michael",
       "long_position_pct": 69.0,

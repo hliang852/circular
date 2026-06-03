@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-01T23:52:55Z",
+  "last_scraped": "2026-06-02T23:58:00Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -111,12 +111,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18312523,
-      "long_position_pct": 5.3,
+      "long_position_shares": 18384043,
+      "long_position_pct": 5.32,
       "short_position_shares": 139877,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -155,6 +155,14 @@
       "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Decrease"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",

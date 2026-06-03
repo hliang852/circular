@@ -1,18 +1,18 @@
 {
   "code": "06616",
   "name": "GLOBAL NEW MATERIAL INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-06-01T23:49:26Z",
+  "last_scraped": "2026-06-02T23:55:56Z",
   "shareholders": [
     {
       "name": "SU ERTIAN",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 453369597,
-      "long_position_pct": 36.31,
+      "long_position_shares": 453772597,
+      "long_position_pct": 36.34,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "WANG Huan",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 453369597,
-      "long_position_pct": 36.31,
+      "long_position_shares": 453772597,
+      "long_position_pct": 36.34,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -109,6 +109,22 @@
     }
   ],
   "history": [
+    {
+      "name": "SU ERTIAN",
+      "long_position_pct": 36.34,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Huan",
+      "long_position_pct": 36.34,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "SU ERTIAN",
       "long_position_pct": 36.31,

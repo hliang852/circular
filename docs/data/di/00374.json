@@ -1,7 +1,7 @@
 {
   "code": "00374",
   "name": "FOUR SEAS MERCANTILE HOLDINGS LTD.",
-  "last_scraped": "2026-06-01T23:25:52Z",
+  "last_scraped": "2026-06-02T23:33:37Z",
   "shareholders": [
     {
       "name": "Tai Tak Fung",
@@ -91,6 +91,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-03-25",
       "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GDH Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 32366000,
+      "long_position_pct": 8.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2003-04-01",
+      "filing_date": "2003-04-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -688,6 +701,14 @@
     },
     {
       "name": "广东粤海控股集团有限公司 (Guangdong Holdings Limited)",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2003-04-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GDH Limited",
       "long_position_pct": 8.1,
       "relevant_event_date": "2003-04-01",
       "filing_date": "2026-06-01",

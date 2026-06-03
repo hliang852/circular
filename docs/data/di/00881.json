@@ -1,0 +1,5646 @@
+{
+  "code": "00881",
+  "name": "ZHONGSHENG GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-06-02T23:36:32Z",
+  "shareholders": [
+    {
+      "name": "Mountain Bright Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1308019876,
+      "long_position_pct": 57.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1308019876,
+      "long_position_pct": 57.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1308019876,
+      "long_position_pct": 57.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HUANG YI",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Guoqiang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1184817374,
+      "long_position_pct": 49.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jardine Strategic Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 453412844,
+      "long_position_pct": 19.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 341311116,
+      "long_position_pct": 14.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jardine Strategic Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 341311116,
+      "long_position_pct": 14.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JMH Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 341311116,
+      "long_position_pct": 14.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 341311116,
+      "long_position_pct": 14.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pzena Investment Management, LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 163031110,
+      "long_position_pct": 6.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "long_position_pct": 14.31,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jardine Strategic Limited",
+      "long_position_pct": 14.31,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JMH Investments Limited",
+      "long_position_pct": 14.31,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "long_position_pct": 14.31,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pzena Investment Management, LLC",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jardine Strategic Limited",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JMH Investments Limited",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "long_position_pct": 19.25,
+      "relevant_event_date": "2026-04-24",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pzena Investment Management, LLC",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.66,
+      "relevant_event_date": "2024-09-16",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.59,
+      "relevant_event_date": "2024-09-04",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.54,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.54,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.54,
+      "relevant_event_date": "2024-07-25",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.41,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.3,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 48.5,
+      "relevant_event_date": "2023-07-21",
+      "filing_date": "2023-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 48.47,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 48.44,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.89,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.72,
+      "relevant_event_date": "2023-05-25",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.62,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Strategic Limited",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JMH Investments Limited",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 50.05,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2023-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 49.84,
+      "relevant_event_date": "2022-11-03",
+      "filing_date": "2022-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.59,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 51.03,
+      "relevant_event_date": "2022-10-03",
+      "filing_date": "2022-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.12,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2022-09-29",
+      "filing_date": "2022-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2022-09-27",
+      "filing_date": "2022-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.1,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.09,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2022-09-08",
+      "filing_date": "2022-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 52.01,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.73,
+      "relevant_event_date": "2022-08-26",
+      "filing_date": "2022-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2022-08-16",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 54.42,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 54.42,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.61,
+      "relevant_event_date": "2022-05-27",
+      "filing_date": "2022-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.54,
+      "relevant_event_date": "2022-05-26",
+      "filing_date": "2022-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2022-05-20",
+      "filing_date": "2022-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2022-05-18",
+      "filing_date": "2022-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 54.39,
+      "relevant_event_date": "2022-01-11",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 54.38,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "long_position_pct": 20.94,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Strategic Limited",
+      "long_position_pct": 20.94,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JMH Investments Limited",
+      "long_position_pct": 20.94,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "long_position_pct": 20.94,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 54.37,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 55.58,
+      "relevant_event_date": "2021-09-23",
+      "filing_date": "2021-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-09-20",
+      "filing_date": "2021-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.22,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 55.57,
+      "relevant_event_date": "2021-07-12",
+      "filing_date": "2021-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 3.81,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Strategic Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Strategic Limited (as successor entity following the amalgamation of Jardine Strategic Holdings Limited and JMH Bermuda Limited)",
+      "long_position_pct": 19.58,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 56.79,
+      "relevant_event_date": "2021-04-08",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2021-01-08",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.52,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2020-11-17",
+      "filing_date": "2020-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2020-11-13",
+      "filing_date": "2020-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2020-11-09",
+      "filing_date": "2020-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2020-11-06",
+      "filing_date": "2020-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-10-21",
+      "filing_date": "2020-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2020-09-29",
+      "filing_date": "2020-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2020-09-25",
+      "filing_date": "2020-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2020-09-03",
+      "filing_date": "2020-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.2,
+      "relevant_event_date": "2020-09-01",
+      "filing_date": "2020-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2020-08-25",
+      "filing_date": "2020-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-08-18",
+      "filing_date": "2020-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-08-18",
+      "filing_date": "2020-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-08-18",
+      "filing_date": "2020-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2020-08-13",
+      "filing_date": "2020-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.22,
+      "relevant_event_date": "2020-08-11",
+      "filing_date": "2020-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2020-07-27",
+      "filing_date": "2020-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.88,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2020-07-14",
+      "filing_date": "2020-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2020-07-13",
+      "filing_date": "2020-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2020-07-09",
+      "filing_date": "2020-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-02",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2020-05-27",
+      "filing_date": "2020-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2020-03-06",
+      "filing_date": "2020-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2020-02-19",
+      "filing_date": "2020-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2020-02-18",
+      "filing_date": "2020-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2020-02-14",
+      "filing_date": "2020-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2020-02-07",
+      "filing_date": "2020-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2020-02-06",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2020-01-13",
+      "filing_date": "2020-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.96,
+      "relevant_event_date": "2020-01-10",
+      "filing_date": "2020-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.38,
+      "relevant_event_date": "2019-12-02",
+      "filing_date": "2019-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.77,
+      "relevant_event_date": "2019-10-21",
+      "filing_date": "2019-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.55,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 12.21,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-07-03",
+      "filing_date": "2019-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2019-05-23",
+      "filing_date": "2019-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.75,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.75,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.75,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.75,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.75,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2019-05-03",
+      "filing_date": "2019-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2019-05-03",
+      "filing_date": "2019-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2019-05-03",
+      "filing_date": "2019-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2019-03-15",
+      "filing_date": "2019-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2019-03-15",
+      "filing_date": "2019-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2019-03-15",
+      "filing_date": "2019-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2019-03-12",
+      "filing_date": "2019-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2019-03-12",
+      "filing_date": "2019-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2019-03-12",
+      "filing_date": "2019-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.37,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.37,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.37,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2019-03-01",
+      "filing_date": "2019-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2019-03-01",
+      "filing_date": "2019-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2019-03-01",
+      "filing_date": "2019-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-20",
+      "filing_date": "2019-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-20",
+      "filing_date": "2019-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2019-02-20",
+      "filing_date": "2019-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-18",
+      "filing_date": "2019-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-18",
+      "filing_date": "2019-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-18",
+      "filing_date": "2019-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-15",
+      "filing_date": "2019-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-15",
+      "filing_date": "2019-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2019-02-15",
+      "filing_date": "2019-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-11",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-11",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-11",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-08",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-08",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2019-02-08",
+      "filing_date": "2019-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-24",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-24",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-24",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-08",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-08",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2019-01-08",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2018-12-20",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2018-12-20",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2018-12-20",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-14",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-14",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-12-14",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-10",
+      "filing_date": "2018-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-10",
+      "filing_date": "2018-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-10",
+      "filing_date": "2018-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-04",
+      "filing_date": "2018-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-04",
+      "filing_date": "2018-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2018-12-04",
+      "filing_date": "2018-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2018-12-03",
+      "filing_date": "2018-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2018-12-03",
+      "filing_date": "2018-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.76,
+      "relevant_event_date": "2018-12-03",
+      "filing_date": "2018-12-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2018-11-28",
+      "filing_date": "2018-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-26",
+      "filing_date": "2018-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-19",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-19",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-19",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-16",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-16",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2018-11-16",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2018-11-01",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2018-11-01",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2018-11-01",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.74,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.74,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.74,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.74,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.74,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.72,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.72,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.72,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.72,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.72,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-24",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-23",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.71,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.69,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.69,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.69,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.69,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.69,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-15",
+      "filing_date": "2018-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.7,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-10-10",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-09-27",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2018-09-19",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.49,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2018-09-14",
+      "filing_date": "2018-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2018-09-12",
+      "filing_date": "2018-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2018-08-28",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.41,
+      "relevant_event_date": "2018-08-24",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2018-08-20",
+      "filing_date": "2018-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2018-08-17",
+      "filing_date": "2018-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2018-08-16",
+      "filing_date": "2018-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.67,
+      "relevant_event_date": "2018-08-15",
+      "filing_date": "2018-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.65,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.6,
+      "relevant_event_date": "2018-08-13",
+      "filing_date": "2018-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Matheson Holdings Limited",
+      "long_position_pct": 19.98,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jardine Strategic Holdings Limited",
+      "long_position_pct": 19.98,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JSH Investment Holdings Limited",
+      "long_position_pct": 19.98,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2018-05-17",
+      "filing_date": "2018-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.7,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blue Natural Development Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG YI",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Guoqiang",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Light Yield Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mountain Bright Limited",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS TC (Jersey) Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vest Sun Ltd.",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vintage Star Limited",
+      "long_position_pct": 57.68,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

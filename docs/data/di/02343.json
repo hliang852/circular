@@ -1,7 +1,7 @@
 {
   "code": "02343",
   "name": "PACIFIC BASIN SHIPPING LTD.",
-  "last_scraped": "2026-05-19T23:06:38Z",
+  "last_scraped": "2026-06-02T23:49:21Z",
   "shareholders": [
     {
       "name": "Banga Harindarpal Singh",
@@ -59,12 +59,12 @@
       "name": "M&G Plc",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 602948000,
-      "long_position_pct": 11.67,
+      "long_position_shares": 620261000,
+      "long_position_pct": 12.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,14 @@
     }
   ],
   "history": [
+    {
+      "name": "M&G Plc",
+      "long_position_pct": 12.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "M&G Plc",
       "long_position_pct": 11.67,

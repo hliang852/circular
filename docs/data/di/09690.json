@@ -1,7 +1,7 @@
 {
   "code": "09690",
   "name": "TUHU CAR INC. - W",
-  "last_scraped": "2026-06-01T23:54:06Z",
+  "last_scraped": "2026-06-02T23:59:03Z",
   "shareholders": [
     {
       "name": "Ilnewgnay Investment Limited",
@@ -56,6 +56,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 68565563,
+      "long_position_pct": 9.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Eminent Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -78,19 +91,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-05-28",
       "filing_date": "2026-05-28",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "THE CORE TRUST COMPANY LIMITED",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 60827463,
-      "long_position_pct": 8.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -265,6 +265,14 @@
     }
   ],
   "history": [
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 9.02,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Eminent Investment Limited",
       "long_position_pct": 8.04,
