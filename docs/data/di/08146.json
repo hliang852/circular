@@ -1,0 +1,529 @@
+{
+  "code": "08146",
+  "name": "GRACE WINE HOLDINGS LTD.",
+  "last_scraped": "2026-06-03T23:53:30Z",
+  "shareholders": [
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 589480000,
+      "long_position_pct": 72.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "曲琳",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 589480000,
+      "long_position_pct": 72.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "杨陵江",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 589480000,
+      "long_position_pct": 72.51,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Judy",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 295945000,
+      "long_position_pct": 36.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 177640000,
+      "long_position_pct": 22.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 124691000,
+      "long_position_pct": 15.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 121226000,
+      "long_position_pct": 15.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TING Tan Ming",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 48030000,
+      "long_position_pct": 6.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Ting Tan Ming",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "曲琳",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "杨陵江",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "曲琳",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "杨陵江",
+      "long_position_pct": 72.51,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 36.4,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ting Tan Ming",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 35.97,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 1.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hill Valley Investment Co Ltd",
+      "long_position_pct": 76.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 35.97,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "long_position_pct": 15.14,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 15.57,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "曲琳",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "曲琳",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "杨陵江",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "杨陵江",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 22.21,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 22.21,
+      "relevant_event_date": "2021-05-27",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 52.42,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 51.42,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 51.6,
+      "relevant_event_date": "2021-05-17",
+      "filing_date": "2021-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TING Tan Ming",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 23.04,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 23.04,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TING Tan Ming",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2020-03-02",
+      "filing_date": "2020-03-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 21.73,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 50.6,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 50.6,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "long_position_pct": 21.65,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 21.73,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 21.73,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 21.96,
+      "relevant_event_date": "2019-03-28",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 21.96,
+      "relevant_event_date": "2019-03-28",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 21.88,
+      "relevant_event_date": "2019-03-26",
+      "filing_date": "2019-03-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 51.98,
+      "relevant_event_date": "2019-03-26",
+      "filing_date": "2019-03-29",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 51.98,
+      "relevant_event_date": "2019-03-26",
+      "filing_date": "2019-03-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "long_position_pct": 21.88,
+      "relevant_event_date": "2019-03-26",
+      "filing_date": "2019-03-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 21.88,
+      "relevant_event_date": "2019-03-26",
+      "filing_date": "2019-03-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Chun Keung",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Judy",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Macmillan Equity Limited",
+      "long_position_pct": 52.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Palgrave Enterprises Limited",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Shu Ying",
+      "long_position_pct": 22.5,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

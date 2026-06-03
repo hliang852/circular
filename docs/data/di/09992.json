@@ -1,7 +1,7 @@
 {
   "code": "09992",
   "name": "POP MART INTERNATIONAL GROUP LTD.",
-  "last_scraped": "2026-05-27T23:27:03Z",
+  "last_scraped": "2026-06-03T23:57:50Z",
   "shareholders": [
     {
       "name": "Wang Ning",
@@ -46,12 +46,12 @@
       "name": "Duan Yong Ping",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 76371600,
-      "long_position_pct": 5.69,
+      "long_position_shares": 81031600,
+      "long_position_pct": 6.04,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-25",
-      "filing_date": "2026-05-25",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -59,17 +59,33 @@
       "name": "H&H International Investment, LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 76371600,
-      "long_position_pct": 5.69,
+      "long_position_shares": 81031600,
+      "long_position_pct": 6.04,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-25",
-      "filing_date": "2026-05-25",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Duan Yong Ping",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "H&H International Investment, LLC",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Duan Yong Ping",
       "long_position_pct": 5.69,

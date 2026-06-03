@@ -1,7 +1,7 @@
 {
   "code": "03919",
   "name": "GOLDEN POWER GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-06-01T23:48:19Z",
+  "last_scraped": "2026-06-03T23:51:00Z",
   "shareholders": [
     {
       "name": "Chu King Tien",
@@ -59,17 +59,25 @@
       "name": "KO KIN HANG",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 4904000,
-      "long_position_pct": 12.61,
+      "long_position_shares": 4536000,
+      "long_position_pct": 11.67,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "KO KIN HANG",
+      "long_position_pct": 11.67,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "KO KIN HANG",
       "long_position_pct": 12.61,

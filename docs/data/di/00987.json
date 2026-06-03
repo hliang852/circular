@@ -1,0 +1,2044 @@
+{
+  "code": "00987",
+  "name": "CHINA RENEWABLE ENERGY INVESTMENT LTD.",
+  "last_scraped": "2026-06-03T23:34:45Z",
+  "shareholders": [
+    {
+      "name": "CORDOBA HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LYNNFIELD CAPITAL LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1875358376,
+      "long_position_pct": 74.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Genesis Capital Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 276065897,
+      "long_position_pct": 11.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CORDOBA HOLDINGS LIMITED",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LYNNFIELD CAPITAL LIMITED",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CORDOBA HOLDINGS LIMITED",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CREATOR HOLDINGS LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GENESIS CAPITAL GROUP LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LYNNFIELD CAPITAL LIMITED",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2024-05-31",
+      "filing_date": "2024-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.17,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.83,
+      "relevant_event_date": "2020-10-16",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.15,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.98,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.98,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.82,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.82,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.82,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.82,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.13,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.96,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.79,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.79,
+      "relevant_event_date": "2020-10-09",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.01,
+      "relevant_event_date": "2020-07-03",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.84,
+      "relevant_event_date": "2020-07-03",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2020-07-03",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2020-07-03",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.01,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.84,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.67,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.83,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.83,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-26",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 73.0,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.83,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.66,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.99,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.82,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.65,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.65,
+      "relevant_event_date": "2020-06-15",
+      "filing_date": "2020-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.99,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.82,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.65,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.65,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.98,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.81,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.64,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.64,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.96,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.62,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.91,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.74,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.57,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.9,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.56,
+      "relevant_event_date": "2020-05-26",
+      "filing_date": "2020-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.89,
+      "relevant_event_date": "2020-05-15",
+      "filing_date": "2020-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.72,
+      "relevant_event_date": "2020-05-15",
+      "filing_date": "2020-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-15",
+      "filing_date": "2020-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-15",
+      "filing_date": "2020-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.89,
+      "relevant_event_date": "2020-05-12",
+      "filing_date": "2020-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.72,
+      "relevant_event_date": "2020-05-12",
+      "filing_date": "2020-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-12",
+      "filing_date": "2020-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-12",
+      "filing_date": "2020-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.89,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.72,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.55,
+      "relevant_event_date": "2020-05-11",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.88,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.88,
+      "relevant_event_date": "2020-05-05",
+      "filing_date": "2020-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-05-05",
+      "filing_date": "2020-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-05",
+      "filing_date": "2020-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-05",
+      "filing_date": "2020-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-05-04",
+      "filing_date": "2020-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-05-04",
+      "filing_date": "2020-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-04",
+      "filing_date": "2020-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-05-04",
+      "filing_date": "2020-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-29",
+      "filing_date": "2020-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-28",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-28",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-28",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-28",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.54,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-23",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-23",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-23",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-23",
+      "filing_date": "2020-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-22",
+      "filing_date": "2020-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-22",
+      "filing_date": "2020-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-22",
+      "filing_date": "2020-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-22",
+      "filing_date": "2020-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-21",
+      "filing_date": "2020-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-21",
+      "filing_date": "2020-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-21",
+      "filing_date": "2020-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-21",
+      "filing_date": "2020-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.87,
+      "relevant_event_date": "2020-04-15",
+      "filing_date": "2020-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.7,
+      "relevant_event_date": "2020-04-15",
+      "filing_date": "2020-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-15",
+      "filing_date": "2020-04-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-15",
+      "filing_date": "2020-04-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2020-04-14",
+      "filing_date": "2020-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2020-04-14",
+      "filing_date": "2020-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-14",
+      "filing_date": "2020-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-14",
+      "filing_date": "2020-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2020-04-07",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2018-12-10",
+      "filing_date": "2018-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.52,
+      "relevant_event_date": "2018-12-10",
+      "filing_date": "2018-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.49,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.49,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2018-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.47,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.47,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.46,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.45,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.45,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.45,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.45,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.42,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.42,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.41,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.41,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.4,
+      "relevant_event_date": "2018-08-31",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.4,
+      "relevant_event_date": "2018-08-31",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.4,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.4,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.39,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.39,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.38,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.38,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.35,
+      "relevant_event_date": "2018-07-05",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.35,
+      "relevant_event_date": "2018-07-05",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2018-05-23",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 55.69,
+      "relevant_event_date": "2018-05-23",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 74.31,
+      "relevant_event_date": "2018-05-23",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 74.31,
+      "relevant_event_date": "2018-05-23",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 76.91,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 86.19,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CREATOR HOLDINGS LIMITED",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Genesis Capital Group Limited",
+      "long_position_pct": 11.63,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Genesis Capital Group Limited",
+      "long_position_pct": 13.95,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 58.79,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 78.44,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.95,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 78.44,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.95,
+      "relevant_event_date": "2018-05-18",
+      "filing_date": "2018-05-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 86.53,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 64.72,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-14",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-14",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.29,
+      "relevant_event_date": "2018-05-10",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.17,
+      "relevant_event_date": "2018-05-08",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.17,
+      "relevant_event_date": "2018-05-08",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.16,
+      "relevant_event_date": "2018-05-07",
+      "filing_date": "2018-05-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.16,
+      "relevant_event_date": "2018-05-07",
+      "filing_date": "2018-05-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.15,
+      "relevant_event_date": "2018-05-04",
+      "filing_date": "2018-05-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.15,
+      "relevant_event_date": "2018-05-04",
+      "filing_date": "2018-05-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.14,
+      "relevant_event_date": "2018-05-03",
+      "filing_date": "2018-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.14,
+      "relevant_event_date": "2018-05-03",
+      "filing_date": "2018-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.12,
+      "relevant_event_date": "2018-04-20",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.12,
+      "relevant_event_date": "2018-04-20",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.11,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.11,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.07,
+      "relevant_event_date": "2018-04-18",
+      "filing_date": "2018-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.07,
+      "relevant_event_date": "2018-04-18",
+      "filing_date": "2018-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.06,
+      "relevant_event_date": "2018-04-17",
+      "filing_date": "2018-04-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.06,
+      "relevant_event_date": "2018-04-17",
+      "filing_date": "2018-04-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.04,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.04,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 88.02,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 88.02,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.99,
+      "relevant_event_date": "2018-04-11",
+      "filing_date": "2018-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.99,
+      "relevant_event_date": "2018-04-11",
+      "filing_date": "2018-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.99,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.99,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.98,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.98,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.98,
+      "relevant_event_date": "2018-04-04",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.98,
+      "relevant_event_date": "2018-04-04",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.93,
+      "relevant_event_date": "2018-03-29",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.93,
+      "relevant_event_date": "2018-03-29",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.92,
+      "relevant_event_date": "2018-03-27",
+      "filing_date": "2018-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.92,
+      "relevant_event_date": "2018-03-27",
+      "filing_date": "2018-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 86.55,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HKC (HOLDINGS) LIMITED",
+      "long_position_pct": 64.73,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.91,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.91,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG, ERIC",
+      "long_position_pct": 87.95,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 87.95,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

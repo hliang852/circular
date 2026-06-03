@@ -1,7 +1,7 @@
 {
   "code": "00268",
   "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP CO. LTD.",
-  "last_scraped": "2026-06-02T23:32:12Z",
+  "last_scraped": "2026-06-03T23:31:03Z",
   "shareholders": [
     {
       "name": "XU SHAOCHUN",
@@ -59,12 +59,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 230762417,
-      "long_position_pct": 6.5,
-      "short_position_shares": 4344000,
+      "long_position_shares": 233879914,
+      "long_position_pct": 6.59,
+      "short_position_shares": 4117000,
       "short_position_pct": 0.12,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,12 +72,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 215041268,
+      "long_position_shares": 214862033,
       "long_position_pct": 6.05,
-      "short_position_shares": 64189565,
-      "short_position_pct": 1.8,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "short_position_shares": 65672482,
+      "short_position_pct": 1.85,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.5,

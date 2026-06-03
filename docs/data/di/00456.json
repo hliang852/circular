@@ -1,7 +1,7 @@
 {
   "code": "00456",
   "name": "NEW CITY DEVELOPMENT GROUP LTD.",
-  "last_scraped": "2026-05-27T23:13:55Z",
+  "last_scraped": "2026-06-03T23:31:53Z",
   "shareholders": [
     {
       "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
@@ -27,19 +27,6 @@
       "relevant_event_date": "2019-07-29",
       "filing_date": "2019-07-29",
       "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "HAN JUNRAN",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 101589850,
-      "long_position_pct": 59.91,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-07-31",
-      "filing_date": "2025-07-31",
-      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -92,6 +79,19 @@
       "relevant_event_date": "2020-05-07",
       "filing_date": "2020-05-07",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HAN Junran",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 86485742,
+      "long_position_pct": 40.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -148,6 +148,14 @@
     }
   ],
   "history": [
+    {
+      "name": "HAN Junran",
+      "long_position_pct": 40.37,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
     {
       "name": "ZHANG XI",
       "long_position_pct": 12.91,

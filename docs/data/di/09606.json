@@ -1,7 +1,7 @@
 {
   "code": "09606",
   "name": "DUALITY BIOTHERAPEUTICS, INC. - B",
-  "last_scraped": "2026-05-27T23:25:25Z",
+  "last_scraped": "2026-06-03T23:53:42Z",
   "shareholders": [
     {
       "name": "朱忠远",
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 11757921,
-      "long_position_pct": 13.0,
+      "long_position_pct": 12.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 11757921,
-      "long_position_pct": 13.0,
+      "long_position_pct": 12.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-26",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -109,6 +109,22 @@
     }
   ],
   "history": [
+    {
+      "name": "LAV Asset Management (Hong Kong) Limited",
+      "long_position_pct": 12.98,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shi Yi",
+      "long_position_pct": 12.98,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "DualityBio Ltd.",
       "long_position_pct": 7.2,

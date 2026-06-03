@@ -1,7 +1,7 @@
 {
   "code": "00679",
   "name": "ASIA TELE-NET AND TECHNOLOGY CORPORATION LTD.",
-  "last_scraped": "2026-05-26T23:06:14Z",
+  "last_scraped": "2026-06-03T23:33:27Z",
   "shareholders": [
     {
       "name": "Lam Kwok Hing",
@@ -43,32 +43,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Anatole Investment Management Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 40360000,
-      "long_position_pct": 10.57,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Yang Xiaofan",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 40360000,
-      "long_position_pct": 10.57,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "Medusa Group Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -80,9 +54,51 @@
       "filing_date": "2026-05-22",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Anatole Investment Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 34130000,
+      "long_position_pct": 9.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yang Xiaofan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 34130000,
+      "long_position_pct": 9.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Anatole Investment Management Limited",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Xiaofan",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "J&A Investment Limited",
       "long_position_pct": 53.4,

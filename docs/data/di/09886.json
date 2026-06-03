@@ -1,7 +1,7 @@
 {
   "code": "09886",
   "name": "DINGDANG HEALTH TECHNOLOGY GROUP LTD.",
-  "last_scraped": "2026-06-01T23:55:48Z",
+  "last_scraped": "2026-06-03T23:57:27Z",
   "shareholders": [
     {
       "name": "DELIGHT FAITH LIMITED 興信有限公司",
@@ -134,6 +134,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "天津山海壹号企业管理咨询合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 91216123,
+      "long_position_pct": 7.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "China Merchants Bank Co., Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -247,19 +260,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2024-12-13",
       "filing_date": "2024-12-13",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "天津山海壹号企业管理咨询合伙企业（有限合伙）",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 92198123,
-      "long_position_pct": 6.99,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -694,6 +694,14 @@
       "relevant_event_date": "2026-05-28",
       "filing_date": "2026-05-29",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津山海壹号企业管理咨询合伙企业（有限合伙）",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

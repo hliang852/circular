@@ -1,0 +1,1546 @@
+{
+  "code": "00480",
+  "name": "HKR INTERNATIONAL LTD.",
+  "last_scraped": "2026-06-03T23:32:10Z",
+  "shareholders": [
+    {
+      "name": "CHA Victor Mou Zing",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 820841173,
+      "long_position_pct": 55.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 810901804,
+      "long_position_pct": 54.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 799654882,
+      "long_position_pct": 53.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 798239647,
+      "long_position_pct": 53.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHA Yiu Chung Benjamin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 782633599,
+      "long_position_pct": 52.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 715617969,
+      "long_position_pct": 48.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-05",
+      "filing_date": "2022-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mingly Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 144606568,
+      "long_position_pct": 9.73,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-05",
+      "filing_date": "2022-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LBJ Regents Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 101084280,
+      "long_position_pct": 6.81,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI KANG ERIC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 90405600,
+      "long_position_pct": 6.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI KANG ERIC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 90405600,
+      "long_position_pct": 6.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 90405600,
+      "long_position_pct": 6.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83500800,
+      "long_position_pct": 5.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83500800,
+      "long_position_pct": 5.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG ERIC",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI VALONIA LAU",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG ERIC",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2024-02-27",
+      "filing_date": "2024-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.74,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 55.26,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Yiu Chung Benjamin",
+      "long_position_pct": 52.69,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.84,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 48.17,
+      "relevant_event_date": "2022-07-05",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mingly Corporation",
+      "long_position_pct": 9.73,
+      "relevant_event_date": "2022-07-05",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Yiu Chung Benjamin",
+      "long_position_pct": 52.53,
+      "relevant_event_date": "2022-07-04",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.58,
+      "relevant_event_date": "2021-11-24",
+      "filing_date": "2021-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 54.62,
+      "relevant_event_date": "2021-11-24",
+      "filing_date": "2021-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2021-11-24",
+      "filing_date": "2021-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 48.17,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.41,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mingly Corporation",
+      "long_position_pct": 9.73,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.36,
+      "relevant_event_date": "2021-07-06",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.41,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.36,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CLAUDIO HOLDINGS LIMITED",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OEI KANG ERIC",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2021-05-12",
+      "filing_date": "2021-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 48.17,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.41,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 54.59,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mingly Corporation",
+      "long_position_pct": 9.73,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.36,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.41,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 54.59,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.36,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 48.17,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 53.41,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 54.59,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mingly Corporation",
+      "long_position_pct": 9.73,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 53.36,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2020-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.17,
+      "relevant_event_date": "2019-08-05",
+      "filing_date": "2019-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.41,
+      "relevant_event_date": "2019-08-05",
+      "filing_date": "2019-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.58,
+      "relevant_event_date": "2019-08-05",
+      "filing_date": "2019-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.97,
+      "relevant_event_date": "2019-08-05",
+      "filing_date": "2019-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.35,
+      "relevant_event_date": "2019-08-05",
+      "filing_date": "2019-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.15,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.39,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.57,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.96,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.1,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.51,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.9,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.29,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.06,
+      "relevant_event_date": "2019-07-30",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.3,
+      "relevant_event_date": "2019-07-30",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.48,
+      "relevant_event_date": "2019-07-30",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.87,
+      "relevant_event_date": "2019-07-30",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.25,
+      "relevant_event_date": "2019-07-30",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.05,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.29,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.47,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.86,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.24,
+      "relevant_event_date": "2019-07-29",
+      "filing_date": "2019-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.05,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.29,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.47,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.86,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.24,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.04,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.27,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.45,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.84,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.22,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 43.02,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.43,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.82,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.21,
+      "relevant_event_date": "2019-07-24",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.96,
+      "relevant_event_date": "2019-07-23",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.2,
+      "relevant_event_date": "2019-07-23",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.37,
+      "relevant_event_date": "2019-07-23",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.76,
+      "relevant_event_date": "2019-07-23",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.14,
+      "relevant_event_date": "2019-07-23",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.92,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.16,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.33,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.72,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.1,
+      "relevant_event_date": "2019-07-22",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.87,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.11,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.29,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.68,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 48.06,
+      "relevant_event_date": "2019-07-19",
+      "filing_date": "2019-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.79,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.21,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.6,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.98,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.74,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.98,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.54,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.92,
+      "relevant_event_date": "2019-07-17",
+      "filing_date": "2019-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.7,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.94,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.12,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.51,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.89,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.65,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.89,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.07,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.46,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.84,
+      "relevant_event_date": "2019-07-15",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.59,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.83,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 49.01,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.4,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.78,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.55,
+      "relevant_event_date": "2019-07-11",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.79,
+      "relevant_event_date": "2019-07-11",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.97,
+      "relevant_event_date": "2019-07-11",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.36,
+      "relevant_event_date": "2019-07-11",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.74,
+      "relevant_event_date": "2019-07-11",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.53,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.77,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.94,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.33,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.71,
+      "relevant_event_date": "2019-07-10",
+      "filing_date": "2019-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.49,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.73,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.9,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.29,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.67,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.47,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.71,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.89,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.28,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.66,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.35,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.59,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.77,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 48.16,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.54,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 42.09,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 47.33,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 48.51,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 47.9,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 47.28,
+      "relevant_event_date": "2019-03-22",
+      "filing_date": "2019-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 41.54,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 46.78,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 47.35,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 46.73,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 41.5,
+      "relevant_event_date": "2019-03-20",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 46.74,
+      "relevant_event_date": "2019-03-20",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 47.92,
+      "relevant_event_date": "2019-03-20",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 47.31,
+      "relevant_event_date": "2019-03-20",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 46.69,
+      "relevant_event_date": "2019-03-20",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCM Trust (Cayman) Limited",
+      "long_position_pct": 41.48,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 46.72,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 47.89,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 47.28,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LBJ Regents Limited",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 46.67,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Daid Johnson",
+      "long_position_pct": 46.72,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Mou Sing Payson",
+      "long_position_pct": 47.89,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHA Victor Mou Zing",
+      "long_position_pct": 47.28,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHA May Lung Madeline",
+      "long_position_pct": 46.67,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

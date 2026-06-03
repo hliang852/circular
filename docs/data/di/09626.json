@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-02T23:58:00Z",
+  "last_scraped": "2026-06-03T23:55:14Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -43,19 +43,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 41116374,
-      "long_position_pct": 11.9,
-      "short_position_shares": 31248582,
-      "short_position_pct": 9.04,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Tencent Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -65,6 +52,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-05-15",
       "filing_date": "2026-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 40212951,
+      "long_position_pct": 11.64,
+      "short_position_shares": 30925612,
+      "short_position_pct": 8.95,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -108,19 +108,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 18384043,
-      "long_position_pct": 5.32,
-      "short_position_shares": 139877,
-      "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -130,6 +117,19 @@
       "short_position_pct": 3.97,
       "relevant_event_date": "2026-05-27",
       "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18071255,
+      "long_position_pct": 5.23,
+      "short_position_shares": 139877,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -148,6 +148,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.64,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.27,

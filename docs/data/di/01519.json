@@ -1,7 +1,7 @@
 {
   "code": "01519",
   "name": "J&T GLOBAL EXPRESS LTD. - W",
-  "last_scraped": "2026-05-26T23:10:19Z",
+  "last_scraped": "2026-06-03T23:39:51Z",
   "shareholders": [
     {
       "name": "Exceeding Summit Holding Limited",
@@ -225,6 +225,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 465500658,
+      "long_position_pct": 5.84,
+      "short_position_shares": 64270631,
+      "short_position_pct": 0.8,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Boyu Capital Fund IV, L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -239,6 +252,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 4.77,

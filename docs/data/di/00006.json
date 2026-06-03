@@ -1,7 +1,7 @@
 {
   "code": "00006",
   "name": "POWER ASSETS HOLDINGS LTD.",
-  "last_scraped": "2026-05-28T23:09:44Z",
+  "last_scraped": "2026-06-03T23:29:10Z",
   "shareholders": [
     {
       "name": "CK Hutchison Holdings Limited",
@@ -28,9 +28,30 @@
       "filing_date": "2022-11-15",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 107795567,
+      "long_position_pct": 5.06,
+      "short_position_shares": 2154000,
+      "short_position_pct": 0.1,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.99,

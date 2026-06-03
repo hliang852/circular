@@ -1,7 +1,7 @@
 {
   "code": "00620",
   "name": "DTXS SILK ROAD INVESTMENT HOLDINGS CO. LTD.",
-  "last_scraped": "2026-06-02T23:34:34Z",
+  "last_scraped": "2026-06-03T23:33:14Z",
   "shareholders": [
     {
       "name": "LU JIANZHONG",
@@ -117,32 +117,6 @@
       "short_position_pct": 46.26,
       "relevant_event_date": "2025-09-25",
       "filing_date": "2025-09-25",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "CHINA CITIC FINANCIAL AMC INTERNATIONAL HOLDINGS LIMITED",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 408525032,
-      "long_position_pct": 51.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-10-24",
-      "filing_date": "2025-10-24",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "中國中信金融資產管理股份有限公司",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 408525032,
-      "long_position_pct": 51.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-10-24",
-      "filing_date": "2025-10-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -280,6 +254,14 @@
   "history": [
     {
       "name": "中国中信金融资产管理股份有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHINA CITIC FINANCIAL AMC INTERNATIONAL HOLDINGS LIMITED",
       "long_position_pct": 0.0,
       "relevant_event_date": "2026-05-29",
       "filing_date": "2026-06-02",

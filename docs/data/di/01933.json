@@ -1,0 +1,812 @@
+{
+  "code": "01933",
+  "name": "ONEFORCE HOLDINGS LTD.",
+  "last_scraped": "2026-06-03T23:42:56Z",
+  "shareholders": [
+    {
+      "name": "GREAT ATTAIN INTERNATIONAL LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 124191177,
+      "long_position_pct": 24.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MAIN WEALTH DEVELOPMENT LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 15.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UNION SINO HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 15.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "An Ning",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cao Mingda",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Kangying",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LONG EAGLE INTERNATIONAL LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pang Ziqian",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Toplight Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Dongbin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wu Zhanjiang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhang Jianhua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SMART EAST LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60000000,
+      "long_position_pct": 11.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CCB Financial Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45072000,
+      "long_position_pct": 11.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CCB INTERNATIONAL (HOLDINGS) LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45072000,
+      "long_position_pct": 11.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CCB International Group Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45072000,
+      "long_position_pct": 11.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CCBI Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45072000,
+      "long_position_pct": 11.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chance Talent Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45072000,
+      "long_position_pct": 11.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 30188000,
+      "long_position_pct": 5.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 30188000,
+      "long_position_pct": 5.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2026-03-03",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2026-03-03",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cao Mingda",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (Cayman) Limited",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cao Mingda",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cao Wei",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LONG EAGLE INTERNATIONAL LIMITED",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pang Ziqian",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Toplight Management Limited",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Jiangping",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "An Ning",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kangying",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Dongbin",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wu Zhanjiang",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Jianhua",
+      "long_position_pct": 11.91,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Wei",
+      "long_position_pct": 11.88,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 8.92,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 8.92,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GREAT ATTAIN INTERNATIONAL LIMITED",
+      "long_position_pct": 24.58,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LONG EAGLE INTERNATIONAL LIMITED",
+      "long_position_pct": 11.88,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SMART EAST LIMITED",
+      "long_position_pct": 11.88,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Dongbin",
+      "long_position_pct": 12.07,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Jiangping",
+      "long_position_pct": 11.88,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "long_position_pct": 12.07,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Wei",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GREAT ATTAIN INTERNATIONAL LIMITED",
+      "long_position_pct": 32.59,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LONG EAGLE INTERNATIONAL LIMITED",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SMART EAST LIMITED",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Dongbin",
+      "long_position_pct": 48.6,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Jiangping",
+      "long_position_pct": 48.34,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "long_position_pct": 48.6,
+      "relevant_event_date": "2018-11-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "An Ning",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kangying",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Dongbin",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zhanjiang",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Jianhua",
+      "long_position_pct": 16.01,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Kangying",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Zhanjiang",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-07-24",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AN Ning",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Wei",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCB Financial Holdings Limited",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCB INTERNATIONAL (HOLDINGS) LIMITED",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCB International Group Holdings Limited",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CCBI Investments Limited",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chance Talent Management Limited",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI KANGYING",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LONG EAGLE INTERNATIONAL LIMITED",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAIN WEALTH DEVELOPMENT LIMITED",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SMART EAST LIMITED",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UNION SINO HOLDINGS LIMITED",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Dongbin",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Jiangping",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU Zhanjiang",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiong Weiqin",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHANG Jianhua",
+      "long_position_pct": 15.75,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-02T23:59:58Z",
+  "last_scraped": "2026-06-03T23:57:13Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 111649518,
-      "long_position_pct": 7.13,
-      "short_position_shares": 91852360,
-      "short_position_pct": 5.86,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "long_position_shares": 109208041,
+      "long_position_pct": 6.97,
+      "short_position_shares": 92493392,
+      "short_position_pct": 5.9,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 84829190,
-      "long_position_pct": 5.42,
-      "short_position_shares": 690700,
+      "long_position_shares": 85157130,
+      "long_position_pct": 5.44,
+      "short_position_shares": 682900,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.42,
