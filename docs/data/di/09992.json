@@ -1,18 +1,18 @@
 {
   "code": "09992",
   "name": "POP MART INTERNATIONAL GROUP LTD.",
-  "last_scraped": "2026-06-03T23:57:50Z",
+  "last_scraped": "2026-06-04T23:40:00Z",
   "shareholders": [
     {
       "name": "Wang Ning",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 654381407,
-      "long_position_pct": 48.73,
+      "long_position_pct": 49.14,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-10-24",
-      "filing_date": "2024-10-24",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 561131960,
-      "long_position_pct": 41.78,
+      "long_position_pct": 42.14,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-10-24",
-      "filing_date": "2024-10-24",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 561131960,
-      "long_position_pct": 41.78,
+      "long_position_pct": 42.14,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-10-24",
-      "filing_date": "2024-10-24",
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-05-14",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -100,6 +100,30 @@
       "relevant_event_date": "2026-05-25",
       "filing_date": "2026-05-27",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GWF Holding Limited",
+      "long_position_pct": 42.14,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Trustees (B.V.I.) Limited",
+      "long_position_pct": 42.14,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ning",
+      "long_position_pct": 49.14,
+      "relevant_event_date": "2026-05-14",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 3A",
       "notice_type": "Change"
     },
     {

@@ -1,7 +1,7 @@
 {
   "code": "02525",
   "name": "HESAI GROUP - W",
-  "last_scraped": "2026-06-01T23:44:10Z",
+  "last_scraped": "2026-06-04T23:25:57Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
@@ -95,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 7884867,
+      "long_position_pct": 6.05,
+      "short_position_shares": 3460882,
+      "short_position_pct": 2.65,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Fidelity Management & Research Company LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -106,22 +119,17 @@
       "filing_date": "2025-09-16",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 6691691,
-      "long_position_pct": 5.14,
-      "short_position_shares": 3131332,
-      "short_position_pct": 2.4,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 4.96,

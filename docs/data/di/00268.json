@@ -1,7 +1,7 @@
 {
   "code": "00268",
   "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP CO. LTD.",
-  "last_scraped": "2026-06-03T23:31:03Z",
+  "last_scraped": "2026-06-04T23:07:58Z",
   "shareholders": [
     {
       "name": "XU SHAOCHUN",
@@ -59,12 +59,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 233879914,
-      "long_position_pct": 6.59,
-      "short_position_shares": 4117000,
-      "short_position_pct": 0.12,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "long_position_shares": 255399547,
+      "long_position_pct": 7.2,
+      "short_position_shares": 5448000,
+      "short_position_pct": 0.15,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,12 +72,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 214862033,
-      "long_position_pct": 6.05,
-      "short_position_shares": 65672482,
-      "short_position_pct": 1.85,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "long_position_shares": 226042109,
+      "long_position_pct": 6.36,
+      "short_position_shares": 75943107,
+      "short_position_pct": 2.13,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.36,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.59,

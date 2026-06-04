@@ -1,7 +1,7 @@
 {
   "code": "01638",
   "name": "KAISA GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-29T23:18:36Z",
+  "last_scraped": "2026-06-04T23:18:47Z",
   "shareholders": [
     {
       "name": "Chan Nog",
@@ -343,6 +343,22 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 3.01,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 3.04,

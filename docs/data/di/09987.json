@@ -1,18 +1,18 @@
 {
   "code": "09987",
   "name": "YUM CHINA HOLDINGS, INC.",
-  "last_scraped": "2026-05-29T23:36:09Z",
+  "last_scraped": "2026-06-04T23:39:49Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 37917815,
-      "long_position_pct": 10.88,
-      "short_position_shares": 3544784,
-      "short_position_pct": 1.01,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "long_position_shares": 38620123,
+      "long_position_pct": 11.09,
+      "short_position_shares": 3306832,
+      "short_position_pct": 0.95,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -44,6 +44,22 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.09,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 11.05,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 10.88,

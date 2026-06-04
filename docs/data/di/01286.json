@@ -1,7 +1,7 @@
 {
   "code": "01286",
   "name": "IMPRO PRECISION INDUSTRIES LTD.",
-  "last_scraped": "2026-06-01T23:34:05Z",
+  "last_scraped": "2026-06-04T23:16:45Z",
   "shareholders": [
     {
       "name": "WANG Hui Ina",
@@ -20,12 +20,12 @@
       "name": "LU Ruibo",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 1297657787,
-      "long_position_pct": 68.76,
+      "long_position_shares": 1357657787,
+      "long_position_pct": 69.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,17 +33,33 @@
       "name": "Impro Development Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1288118787,
-      "long_position_pct": 68.25,
+      "long_position_shares": 1348118787,
+      "long_position_pct": 69.23,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Impro Development Limited",
+      "long_position_pct": 69.23,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "LU Ruibo",
+      "long_position_pct": 69.72,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Impro Development Limited",
       "long_position_pct": 68.25,

@@ -1,0 +1,696 @@
+{
+  "code": "01872",
+  "name": "GUAN CHAO HOLDINGS LTD.",
+  "last_scraped": "2026-06-04T23:21:11Z",
+  "shareholders": [
+    {
+      "name": "Beng Lee Ser Marisa",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 99480000,
+      "long_position_pct": 15.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 99480000,
+      "long_position_pct": 15.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 97680000,
+      "long_position_pct": 14.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 15.26,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 14.99,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 15.26,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 15.06,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 15.34,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ang De Yu",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-14",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ang De Yu",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 17.8,
+      "relevant_event_date": "2025-04-08",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 17.48,
+      "relevant_event_date": "2025-04-08",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 17.8,
+      "relevant_event_date": "2025-04-08",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chunda International Capital Management Co., Limited",
+      "long_position_pct": 4.05,
+      "relevant_event_date": "2025-03-03",
+      "filing_date": "2025-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LIU Zhiwei",
+      "long_position_pct": 4.05,
+      "relevant_event_date": "2025-03-03",
+      "filing_date": "2025-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Trenda Group Holdings Limited",
+      "long_position_pct": 4.05,
+      "relevant_event_date": "2025-03-03",
+      "filing_date": "2025-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chunda International Capital Management Co., Limited",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2025-02-20",
+      "filing_date": "2025-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LIU Zhiwei",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2025-02-20",
+      "filing_date": "2025-03-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Trenda Group Holdings Limited",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2025-02-20",
+      "filing_date": "2025-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 18.51,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chunda International Capital Management Co., Limited",
+      "long_position_pct": 6.11,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 18.18,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU Zhiwei",
+      "long_position_pct": 6.11,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Show Achieve Limited",
+      "long_position_pct": 2.09,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Jun Wei Ethan",
+      "long_position_pct": 1.17,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 18.51,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trenda Group Holdings Limited",
+      "long_position_pct": 6.11,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Bin",
+      "long_position_pct": 2.09,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Jun Wei Ethan",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2024-11-05",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Jun Wei Ethan",
+      "long_position_pct": 5.85,
+      "relevant_event_date": "2024-10-31",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Show Achieve Limited",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Bin",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Show Achieve Limited",
+      "long_position_pct": 12.61,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Bin",
+      "long_position_pct": 12.61,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Show Achieve Limited",
+      "long_position_pct": 14.11,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wu Bin",
+      "long_position_pct": 14.11,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 36.98,
+      "relevant_event_date": "2024-06-07",
+      "filing_date": "2024-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 35.31,
+      "relevant_event_date": "2024-06-07",
+      "filing_date": "2024-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Show Achieve Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2024-06-07",
+      "filing_date": "2024-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 36.98,
+      "relevant_event_date": "2024-06-07",
+      "filing_date": "2024-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Bin",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2024-06-07",
+      "filing_date": "2024-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ang De Yu",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2022-03-16",
+      "filing_date": "2022-03-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gifted Ally Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-01-15",
+      "filing_date": "2021-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ng Tat Po",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-01-15",
+      "filing_date": "2021-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sham Wai Shan Suzanne",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-01-15",
+      "filing_date": "2021-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 44.38,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 44.38,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 44.38,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 42.38,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 42.38,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 42.38,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 43.08,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 43.08,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 43.08,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 44.5,
+      "relevant_event_date": "2019-09-10",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 44.5,
+      "relevant_event_date": "2019-09-10",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 44.5,
+      "relevant_event_date": "2019-09-10",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 55.09,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 55.09,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 55.09,
+      "relevant_event_date": "2019-09-05",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 56.4,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 56.4,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 56.4,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 58.41,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 58.41,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 58.41,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 60.33,
+      "relevant_event_date": "2019-09-02",
+      "filing_date": "2019-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 60.33,
+      "relevant_event_date": "2019-09-02",
+      "filing_date": "2019-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 60.33,
+      "relevant_event_date": "2019-09-02",
+      "filing_date": "2019-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2019-08-30",
+      "filing_date": "2019-09-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2019-08-30",
+      "filing_date": "2019-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 64.12,
+      "relevant_event_date": "2019-08-30",
+      "filing_date": "2019-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 67.28,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 67.28,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gifted Ally Limited",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ng Tat Po",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sham Wai Shan Suzanne",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 67.28,
+      "relevant_event_date": "2019-02-28",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

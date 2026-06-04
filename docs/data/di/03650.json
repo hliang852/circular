@@ -1,7 +1,7 @@
 {
   "code": "03650",
   "name": "KEEP INC.",
-  "last_scraped": "2026-06-02T23:54:29Z",
+  "last_scraped": "2026-06-04T23:31:10Z",
   "shareholders": [
     {
       "name": "Wang Ning",
@@ -316,32 +316,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Liu Qin",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 31519442,
-      "long_position_pct": 6.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-26",
-      "filing_date": "2025-11-26",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Ni Yuanyuan",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 31519442,
-      "long_position_pct": 6.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-26",
-      "filing_date": "2025-11-26",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "Chang Jimmy Ching-Hsin",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -525,6 +499,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Liu Qin",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ni Yuanyuan",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Futu Trustee Limited",
       "long_position_pct": 10.0,

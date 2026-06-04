@@ -1,7 +1,7 @@
 {
   "code": "08187",
   "name": "JIMU GROUP LTD.",
-  "last_scraped": "2026-05-20T23:18:36Z",
+  "last_scraped": "2026-06-04T23:35:17Z",
   "shareholders": [
     {
       "name": "CHOW NGAI FUNG",
@@ -15,22 +15,17 @@
       "filing_date": "2025-12-08",
       "form_type": "Form 1",
       "notice_type": "Current"
-    },
-    {
-      "name": "Sharp Ally International Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 20284939,
-      "long_position_pct": 13.37,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-19",
-      "filing_date": "2026-05-19",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Sharp Ally International Limited",
+      "long_position_pct": 4.14,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Sharp Ally International Limited",
       "long_position_pct": 13.37,

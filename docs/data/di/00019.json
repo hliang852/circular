@@ -1,0 +1,635 @@
+{
+  "code": "00019",
+  "name": "SWIRE PACIFIC LTD. 'A'",
+  "last_scraped": "2026-06-04T23:05:11Z",
+  "shareholders": [
+    {
+      "name": "John Swire & Sons Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 442879720,
+      "long_position_pct": 56.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39117681,
+      "long_position_pct": 5.02,
+      "short_position_shares": 1420500,
+      "short_position_pct": 0.18,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-05-26",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 56.67,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 56.1,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 55.28,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 54.98,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 54.64,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 54.21,
+      "relevant_event_date": "2024-10-14",
+      "filing_date": "2024-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 53.82,
+      "relevant_event_date": "2024-09-03",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 53.52,
+      "relevant_event_date": "2024-07-22",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 53.37,
+      "relevant_event_date": "2024-06-30",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 53.37,
+      "relevant_event_date": "2024-06-25",
+      "filing_date": "2024-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 52.93,
+      "relevant_event_date": "2024-05-16",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2024-04-23",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 52.31,
+      "relevant_event_date": "2024-03-19",
+      "filing_date": "2024-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 52.11,
+      "relevant_event_date": "2024-02-29",
+      "filing_date": "2024-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.69,
+      "relevant_event_date": "2023-12-31",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.69,
+      "relevant_event_date": "2023-06-30",
+      "filing_date": "2023-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.69,
+      "relevant_event_date": "2023-05-18",
+      "filing_date": "2023-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.62,
+      "relevant_event_date": "2023-04-28",
+      "filing_date": "2023-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2023-03-02",
+      "filing_date": "2023-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.15,
+      "relevant_event_date": "2022-12-31",
+      "filing_date": "2023-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 51.15,
+      "relevant_event_date": "2022-12-23",
+      "filing_date": "2022-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 50.66,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 49.92,
+      "relevant_event_date": "2022-10-14",
+      "filing_date": "2022-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 48.92,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-03-08",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2022-03-07",
+      "filing_date": "2022-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2022-03-03",
+      "filing_date": "2022-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2022-02-28",
+      "filing_date": "2022-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2022-02-25",
+      "filing_date": "2022-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 48.92,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 48.92,
+      "relevant_event_date": "2021-06-30",
+      "filing_date": "2021-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 48.0,
+      "relevant_event_date": "2021-04-29",
+      "filing_date": "2021-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 47.09,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 46.02,
+      "relevant_event_date": "2021-03-25",
+      "filing_date": "2021-03-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2021-03-23",
+      "filing_date": "2021-03-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2021-03-19",
+      "filing_date": "2021-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-03-18",
+      "filing_date": "2021-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2021-02-01",
+      "filing_date": "2021-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2021-02-01",
+      "filing_date": "2021-02-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2021-01-29",
+      "filing_date": "2021-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2021-01-15",
+      "filing_date": "2021-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2021-01-14",
+      "filing_date": "2021-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-01-13",
+      "filing_date": "2021-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.45,
+      "relevant_event_date": "2020-12-31",
+      "filing_date": "2021-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2020-09-01",
+      "filing_date": "2020-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2020-07-02",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.45,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.62,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2020-03-09",
+      "filing_date": "2020-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-03-05",
+      "filing_date": "2020-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2020-03-04",
+      "filing_date": "2020-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2020-02-26",
+      "filing_date": "2020-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2020-02-07",
+      "filing_date": "2020-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2020-02-04",
+      "filing_date": "2020-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.45,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2019-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.45,
+      "relevant_event_date": "2019-06-30",
+      "filing_date": "2019-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.58,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.58,
+      "relevant_event_date": "2018-06-30",
+      "filing_date": "2018-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "John Swire & Sons Limited",
+      "long_position_pct": 45.58,
+      "relevant_event_date": "2017-12-31",
+      "filing_date": "2018-01-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "code": "00655",
+  "name": "HONGKONG CHINESE LTD.",
+  "last_scraped": "2026-06-04T23:09:54Z",
+  "shareholders": [
+    {
+      "name": "Hambali Aileen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Riady Stephen",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1179199264,
+      "long_position_pct": 59.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 284282735,
+      "long_position_pct": 14.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 14.23,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 59.01,
+      "relevant_event_date": "2025-01-24",
+      "filing_date": "2025-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huge Success Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huge Success Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2023-02-14",
+      "filing_date": "2023-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prime Success Limited",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 73.95,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.65,
+      "relevant_event_date": "2019-01-24",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.64,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.64,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.63,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.63,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.62,
+      "relevant_event_date": "2019-01-17",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2019-01-16",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2019-01-15",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.59,
+      "relevant_event_date": "2019-01-14",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.58,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2019-01-10",
+      "filing_date": "2019-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Farallon Capital Management, L.L.C.",
+      "long_position_pct": 4.25,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hennessy Holdings Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prime Success Limited",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 71.57,
+      "relevant_event_date": "2017-12-19",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lanius Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Mochtar",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 65.84,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Suryawaty Lidya",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

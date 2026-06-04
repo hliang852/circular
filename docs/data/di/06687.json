@@ -1,18 +1,18 @@
 {
   "code": "06687",
   "name": "JST GROUP CORPORATION LTD.",
-  "last_scraped": "2026-05-25T23:03:50Z",
+  "last_scraped": "2026-06-04T23:33:45Z",
   "shareholders": [
     {
       "name": "Luo Haidong",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 175713700,
-      "long_position_pct": 40.28,
+      "long_position_shares": 178166200,
+      "long_position_pct": 40.84,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -189,12 +189,12 @@
       "name": "Futu Trustee Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 26438175,
-      "long_position_pct": 6.13,
+      "long_position_shares": 25128954,
+      "long_position_pct": 5.9,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -239,6 +239,46 @@
     }
   ],
   "history": [
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.84,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.65,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.6,
+      "relevant_event_date": "2026-05-26",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Haidong",
+      "long_position_pct": 40.36,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Luo Haidong",
       "long_position_pct": 40.28,

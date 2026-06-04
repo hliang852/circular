@@ -1,0 +1,596 @@
+{
+  "code": "02250",
+  "name": "B.DUCK SEMK HOLDINGS INTERNATIONAL LTD.",
+  "last_scraped": "2026-06-04T23:23:49Z",
+  "shareholders": [
+    {
+      "name": "Hui Ha Lam",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 674004000,
+      "long_position_pct": 66.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 674004000,
+      "long_position_pct": 66.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 663200000,
+      "long_position_pct": 66.32,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 663200000,
+      "long_position_pct": 66.32,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 653200000,
+      "long_position_pct": 64.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 653200000,
+      "long_position_pct": 64.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 653200000,
+      "long_position_pct": 64.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 553200000,
+      "long_position_pct": 54.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Overseas Chinese Town (HK) Company Limited 香港華僑城有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pacific Climax Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "深圳華僑城股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "華僑城(亞洲)控股有限公司 Overseas Chinese Town (Asia) Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "華僑城集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "華昌國際有限公司 City Legend International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "華秦發展有限公司 Phoenix Ocean Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 83601000,
+      "long_position_pct": 8.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.84,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 64.78,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.84,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "long_position_pct": 66.84,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "long_position_pct": 64.78,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 64.78,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 68.71,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "long_position_pct": 66.59,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 66.59,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Catel (B.V.I.) Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Top Plenty Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong's Industrial (Holdings) Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong's International Holdings Limited",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 68.71,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "long_position_pct": 68.71,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Catel (B.V.I.) Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Top Plenty Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong's Industrial (Holdings) Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong's International Holdings Limited",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Catel (B.V.I.) Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Top Plenty Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong's Industrial (Holdings) Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong's International Holdings Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 68.32,
+      "relevant_event_date": "2023-05-15",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "long_position_pct": 68.32,
+      "relevant_event_date": "2023-05-15",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "long_position_pct": 67.6,
+      "relevant_event_date": "2023-05-15",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 67.6,
+      "relevant_event_date": "2023-05-15",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 67.02,
+      "relevant_event_date": "2022-06-23",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "long_position_pct": 67.02,
+      "relevant_event_date": "2022-06-23",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.92,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2022-06-21",
+      "filing_date": "2022-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.62,
+      "relevant_event_date": "2022-06-20",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.44,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Catel (B.V.I.) Limited",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hui Ha Lam",
+      "long_position_pct": 66.32,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Ngan Shan",
+      "long_position_pct": 66.32,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Overseas Chinese Town (HK) Company Limited 香港華僑城有限公司",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Climax Limited",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Global Investment Ltd",
+      "long_position_pct": 66.32,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 66.32,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Top Plenty Limited",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong's Industrial (Holdings) Limited",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong's International Holdings Limited",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳華僑城股份有限公司",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城(亞洲)控股有限公司 Overseas Chinese Town (Asia) Holdings Limited",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華僑城集團有限公司",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華昌國際有限公司 City Legend International Limited",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華秦發展有限公司 Phoenix Ocean Developments Limited",
+      "long_position_pct": 8.36,
+      "relevant_event_date": "2022-01-17",
+      "filing_date": "2022-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "code": "00241",
   "name": "ALIBABA HEALTH INFORMATION TECHNOLOGY LTD.",
-  "last_scraped": "2026-06-02T23:31:11Z",
+  "last_scraped": "2026-06-04T23:06:48Z",
   "shareholders": [
     {
       "name": "Alibaba Group Holding Limited",
@@ -69,33 +69,49 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
+      "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1278379218,
-      "long_position_pct": 7.9,
-      "short_position_shares": 966350857,
-      "short_position_pct": 5.97,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "long_position_shares": 1296415615,
+      "long_position_pct": 8.01,
+      "short_position_shares": 1400648399,
+      "short_position_pct": 8.66,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
-      "name": "UBS Group AG",
+      "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1261585698,
-      "long_position_pct": 7.8,
-      "short_position_shares": 1379309082,
-      "short_position_pct": 8.53,
-      "relevant_event_date": "2026-05-18",
-      "filing_date": "2026-05-18",
+      "long_position_shares": 1274683319,
+      "long_position_pct": 7.88,
+      "short_position_shares": 979115507,
+      "short_position_pct": 6.05,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.88,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.9,

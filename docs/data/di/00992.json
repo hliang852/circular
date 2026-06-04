@@ -1,7 +1,7 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-03T23:36:07Z",
+  "last_scraped": "2026-06-04T23:14:33Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
@@ -410,12 +410,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 677587000,
-      "long_position_pct": 5.46,
-      "short_position_shares": 4590000,
-      "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "long_position_shares": 679908618,
+      "long_position_pct": 5.48,
+      "short_position_shares": 4198000,
+      "short_position_pct": 0.03,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-05-29",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -427,6 +427,14 @@
       "relevant_event_date": "2026-05-29",
       "filing_date": "2026-06-01",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

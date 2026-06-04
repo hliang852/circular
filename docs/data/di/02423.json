@@ -1,7 +1,7 @@
 {
   "code": "02423",
   "name": "KE HOLDINGS INC. - W",
-  "last_scraped": "2026-06-02T23:50:37Z",
+  "last_scraped": "2026-06-04T23:25:20Z",
   "shareholders": [
     {
       "name": "ARK Trust (Hong Kong) Limited",
@@ -228,22 +228,38 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 171950087,
-      "long_position_pct": 5.12,
-      "short_position_shares": 50142609,
-      "short_position_pct": 1.49,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 167967610,
+      "long_position_pct": 5.0,
+      "short_position_shares": 50004274,
+      "short_position_pct": 1.48,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
     {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "The Bank of New York Mellon Corporation",
       "long_position_pct": 19.25,
       "relevant_event_date": "2026-05-29",
       "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

@@ -1,7 +1,7 @@
 {
   "code": "00223",
   "name": "ELIFE HOLDINGS LTD.",
-  "last_scraped": "2026-06-03T23:29:57Z",
+  "last_scraped": "2026-06-04T23:06:20Z",
   "shareholders": [
     {
       "name": "China Innovation Investment Limited",
@@ -33,12 +33,12 @@
       "name": "Liu Qiuhua",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 134471988,
-      "long_position_pct": 8.26,
+      "long_position_shares": 204471988,
+      "long_position_pct": 12.56,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -70,6 +70,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Liu Qiuhua",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Liu Qiuhua",
       "long_position_pct": 8.26,

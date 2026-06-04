@@ -1,7 +1,7 @@
 {
   "code": "00884",
   "name": "CIFI HOLDINGS (GROUP) CO. LTD.",
-  "last_scraped": "2026-05-27T23:14:52Z",
+  "last_scraped": "2026-06-04T23:11:55Z",
   "shareholders": [
     {
       "name": "LIN Zhong",
@@ -293,12 +293,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1177821436,
-      "long_position_pct": 6.53,
-      "short_position_shares": 525610268,
-      "short_position_pct": 2.91,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "long_position_shares": 1202485436,
+      "long_position_pct": 6.67,
+      "short_position_shares": 550274268,
+      "short_position_pct": 3.05,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -330,6 +330,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.67,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.53,
