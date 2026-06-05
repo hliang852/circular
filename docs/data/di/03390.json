@@ -1,7 +1,7 @@
 {
   "code": "03390",
   "name": "TYCOON GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-06-04T23:30:43Z",
+  "last_scraped": "2026-06-05T23:23:13Z",
   "shareholders": [
     {
       "name": "China Resources (Holdings) Company Limited",
@@ -85,12 +85,12 @@
       "name": "Ngai Sze Kei",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 319376326,
-      "long_position_pct": 35.72,
+      "long_position_shares": 319692326,
+      "long_position_pct": 35.76,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "Wong Ka Chun Michael",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 319376326,
-      "long_position_pct": 35.72,
+      "long_position_shares": 319692326,
+      "long_position_pct": 35.76,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -252,6 +252,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Ngai Sze Kei",
+      "long_position_pct": 35.76,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Ka Chun Michael",
+      "long_position_pct": 35.76,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Ngai Sze Kei",
       "long_position_pct": 35.72,

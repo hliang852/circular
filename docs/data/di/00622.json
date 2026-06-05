@@ -1,7 +1,7 @@
 {
   "code": "00622",
   "name": "OSHIDORI INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-05-29T23:11:52Z",
+  "last_scraped": "2026-06-05T23:06:35Z",
   "shareholders": [
     {
       "name": "Lo Ki Yan Karen",
@@ -17,19 +17,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "SHOG Creation Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1100606600,
-      "long_position_pct": 15.85,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Planetree International Development Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -41,9 +28,30 @@
       "filing_date": "2026-02-26",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "SHOG Creation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1021727600,
+      "long_position_pct": 14.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "SHOG Creation Limited",
+      "long_position_pct": 14.71,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "SHOG Creation Limited",
       "long_position_pct": 15.85,

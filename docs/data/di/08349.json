@@ -1,0 +1,658 @@
+{
+  "code": "08349",
+  "name": "YUNHONG GUIXIN GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-06-05T23:25:13Z",
+  "shareholders": [
+    {
+      "name": "LF INTERNATIONAL PTE. LTD.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 163600000,
+      "long_position_pct": 40.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-08-16",
+      "filing_date": "2023-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li YUBAO",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 162600000,
+      "long_position_pct": 40.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LF INTERNATIONAL PTE. LTD.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 123600000,
+      "long_position_pct": 30.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Xuechao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 44880000,
+      "long_position_pct": 11.22,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-03-28",
+      "filing_date": "2023-03-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "运鸿集团股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 40000000,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li YUBAO",
+      "long_position_pct": 40.65,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2025-01-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LF INTERNATIONAL PTE. LTD.",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2023-08-16",
+      "filing_date": "2024-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "吳東",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-25",
+      "filing_date": "2024-08-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Qixu",
+      "long_position_pct": 3.73,
+      "relevant_event_date": "2023-04-12",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2023-03-28",
+      "filing_date": "2023-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yan Qixu",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2022-04-13",
+      "filing_date": "2022-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 14.72,
+      "relevant_event_date": "2021-11-10",
+      "filing_date": "2021-11-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yan Qixu",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 16.22,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yan Qixu",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI YUBAO",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2021-06-30",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 24.66,
+      "relevant_event_date": "2021-05-26",
+      "filing_date": "2021-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LF INTERNATIONAL PTE. LTD.",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李玉保",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "吳東",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李玉保",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "运鸿集团股份有限公司",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2021-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "运鸿集团股份有限公司",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "金尔昇",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-12-23",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 25.91,
+      "relevant_event_date": "2020-07-07",
+      "filing_date": "2020-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "吳東",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2021-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "吳東",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2021-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李玉保",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2021-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李玉保",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-06-10",
+      "filing_date": "2021-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 27.68,
+      "relevant_event_date": "2020-06-08",
+      "filing_date": "2020-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 28.81,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 30.9,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李玉保",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "运鸿集团股份有限公司",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "金尔昇",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2020-01-03",
+      "filing_date": "2020-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 40.9,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Xuechao",
+      "long_position_pct": 29.6,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Lijuan",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GONG Hui",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG Guitang",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Munsing Developments Limited",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SHEN Weixing",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Singa Dragon International Ventures Limited",
+      "long_position_pct": 70.5,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

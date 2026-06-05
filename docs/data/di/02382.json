@@ -1,7 +1,7 @@
 {
   "code": "02382",
   "name": "SUNNY OPTICAL TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-03T23:46:39Z",
+  "last_scraped": "2026-06-05T23:19:38Z",
   "shareholders": [
     {
       "name": "WANG Wenjian",
@@ -137,17 +137,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 72082568,
-      "long_position_pct": 6.58,
+      "long_position_shares": 71933820,
+      "long_position_pct": 6.57,
       "short_position_shares": 285800,
       "short_position_pct": 0.03,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.58,

@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-04T23:36:47Z",
+  "last_scraped": "2026-06-05T23:26:39Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -98,12 +98,12 @@
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 19825480,
-      "long_position_pct": 5.74,
-      "short_position_shares": 4166751,
-      "short_position_pct": 1.2,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 20990187,
+      "long_position_pct": 6.07,
+      "short_position_shares": 5498886,
+      "short_position_pct": 1.59,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -146,6 +146,14 @@
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 12.17,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.07,
       "relevant_event_date": "2026-06-01",
       "filing_date": "2026-06-04",
       "form_type": "Form 2",

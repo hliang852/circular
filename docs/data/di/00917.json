@@ -1,0 +1,1474 @@
+{
+  "code": "00917",
+  "name": "QUNABOX GROUP LTD.",
+  "last_scraped": "2026-06-05T23:08:14Z",
+  "shareholders": [
+    {
+      "name": "HUANG Aihua",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 107161396,
+      "long_position_pct": 40.33,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YIN Juelian",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 105677620,
+      "long_position_pct": 39.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CAO Liwen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 105661396,
+      "long_position_pct": 39.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "QIAN Jun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 105661396,
+      "long_position_pct": 39.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YIN Juehui",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 105661396,
+      "long_position_pct": 39.77,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WU Wenhong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 104161396,
+      "long_position_pct": 39.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beyond Branding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Helenatest Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "INSIGMA Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Iwan Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jovie Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kiosk Joy Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NeoBox Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NeoWay Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Q-robot Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Q-robot shop Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 103161396,
+      "long_position_pct": 38.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 89932620,
+      "long_position_pct": 33.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "jin yong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "wang xuefeng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海垂颖企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海源与趣企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海源及致企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海源趣叁期企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "无锡源渡二期投资有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "无锡源渡伟伦企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "无锡源渡股权投资管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "海南源渡一期创业投资基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "海南源渡三期创业投资基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "海南源渡二期创业投资基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "源渡股权投资管理（上海）有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31799610,
+      "long_position_pct": 11.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhu Linan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 21999948,
+      "long_position_pct": 8.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "天津君联杰佑企业管理咨询合伙企业(有限合伙)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21999948,
+      "long_position_pct": 8.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "天津汇智壹号企业管理咨询合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21999948,
+      "long_position_pct": 8.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Hao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海君拿企业管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京君祺嘉睿企业管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京君联慧诚股权投资合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "北京君诚合众投资管理合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "君联资本管理股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "拉萨君祺企业管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15799448,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廈門建發新興創業投資有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15044236,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廈門建發新興產業股權投資壹號合夥企業(有限合夥)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15044236,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廈門建發新興產業股權投資有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15044236,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廈門建發集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15044236,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "廈門建鑫投資有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15044236,
+      "long_position_pct": 5.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "QIAN Jun",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2026-05-22",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Liwen",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Hao",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海君拿企业管理合伙企业（有限合伙）",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君祺嘉睿企业管理有限公司",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君联慧诚股权投资合伙企业（有限合伙）",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君诚合众投资管理合伙企业（有限合伙）",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "君联资本管理股份有限公司",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "拉萨君祺企业管理有限公司",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "廈門建發新興創業投資有限公司",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "廈門建發新興產業股權投資壹號合夥企業(有限合夥)",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "廈門建發新興產業股權投資有限責任公司",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "廈門建發集團有限公司",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "廈門建鑫投資有限公司",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Hao",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "jin yong",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "wang xuefeng",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海君拿企业管理合伙企业（有限合伙）",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海垂颖企业管理合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海源与趣企业管理合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海源及致企业管理合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海源趣叁期企业管理合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君祺嘉睿企业管理有限公司",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君联慧诚股权投资合伙企业（有限合伙）",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君诚合众投资管理合伙企业（有限合伙）",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "君联资本管理股份有限公司",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "拉萨君祺企业管理有限公司",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "无锡源渡二期投资有限公司",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "无锡源渡伟伦企业管理合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "无锡源渡股权投资管理有限公司",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "海南源渡一期创业投资基金合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "海南源渡三期创业投资基金合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "海南源渡二期创业投资基金合伙企业（有限合伙）",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "源渡股权投资管理（上海）有限公司",
+      "long_position_pct": 11.97,
+      "relevant_event_date": "2026-04-13",
+      "filing_date": "2026-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Hao",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海君拿企业管理合伙企业（有限合伙）",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君祺嘉睿企业管理有限公司",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君联慧诚股权投资合伙企业（有限合伙）",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京君诚合众投资管理合伙企业（有限合伙）",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "君联资本管理股份有限公司",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "拉萨君祺企业管理有限公司",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beyond Branding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Liwen",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Helenatest Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG Aihua",
+      "long_position_pct": 40.33,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "INSIGMA Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Iwan Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jovie Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kiosk Joy Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NeoBox Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NeoWay Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "QIAN Jun",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Q-robot Holding Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Q-robot shop Limited",
+      "long_position_pct": 38.83,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 33.85,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YIN Juehui",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YIN Juelian",
+      "long_position_pct": 39.77,
+      "relevant_event_date": "2025-07-23",
+      "filing_date": "2025-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAI XIAOFAN",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建興資本企業管理諮詢有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Banyan Pacific Technology Investment Limited",
+      "long_position_pct": 1.11,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YEUNG Man",
+      "long_position_pct": 4.04,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Banyan Pacific Technology Investment Limited",
+      "long_position_pct": 8.61,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Branding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAI XIAOFAN",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAO Liwen",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Hao",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Helenatest Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG Aihua",
+      "long_position_pct": 40.79,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "INSIGMA Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Iwan Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jovie Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kiosk Joy Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NeoBox Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NeoWay Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "QIAN Jun",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Q-robot Holding Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Q-robot shop Limited",
+      "long_position_pct": 39.27,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 34.23,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "wang xuefeng",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU Wenhong",
+      "long_position_pct": 39.65,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YEUNG Man",
+      "long_position_pct": 11.53,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YIN Juehui",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YIN Juelian",
+      "long_position_pct": 40.23,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Linan",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海君拿企业管理合伙企业（有限合伙）",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海垂颖企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海源与趣企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海源及致企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海源趣叁期企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京君祺嘉睿企业管理有限公司",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京君联慧诚股权投资合伙企业（有限合伙）",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京君诚合众投资管理合伙企业（有限合伙）",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "君联资本管理股份有限公司",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津君联杰佑企业管理咨询合伙企业(有限合伙)",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津汇智壹号企业管理咨询合伙企业（有限合伙）",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建發新興創業投資有限公司",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建發新興產業股權投資壹號合夥企業(有限合夥)",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建發新興產業股權投資有限責任公司",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建發集團有限公司",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建興資本企業管理諮詢有限公司",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廈門建鑫投資有限公司",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "拉萨君祺企业管理有限公司",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "无锡源渡一期创业投资合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "无锡源渡二期创业投资合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "无锡源渡二期投资有限公司",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "无锡源渡伟伦企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "无锡源渡股权投资管理有限公司",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "源渡股权投资管理（上海）有限公司",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州源渡成长投资合伙企业（有限合伙）",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "金勇",
+      "long_position_pct": 12.3,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

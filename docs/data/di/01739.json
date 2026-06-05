@@ -1,7 +1,7 @@
 {
   "code": "01739",
   "name": "QEEKA HOME (CAYMAN) INC.",
-  "last_scraped": "2026-06-04T23:19:10Z",
+  "last_scraped": "2026-06-05T23:14:34Z",
   "shareholders": [
     {
       "name": "孙杰",
@@ -238,19 +238,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Bank of America Corporation",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 86461866,
-      "long_position_pct": 7.55,
-      "short_position_shares": 86461767,
-      "short_position_pct": 7.55,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Yao Hua",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -304,6 +291,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 1.32,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 7.55,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Bank of America Corporation",
       "long_position_pct": 7.55,

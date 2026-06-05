@@ -1,7 +1,7 @@
 {
   "code": "01860",
   "name": "MOBVISTA INC.",
-  "last_scraped": "2026-06-02T23:44:00Z",
+  "last_scraped": "2026-06-05T23:16:10Z",
   "shareholders": [
     {
       "name": "Mobvista Co., Ltd",
@@ -17,28 +17,15 @@
       "notice_type": "Current"
     },
     {
-      "name": "DUAN Wei",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 341693895,
-      "long_position_pct": 21.71,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "Mobvista Co., Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 339855895,
-      "long_position_pct": 21.59,
+      "long_position_pct": 20.96,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -47,24 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 339855895,
-      "long_position_pct": 21.59,
+      "long_position_pct": 20.96,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "PAG",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 302532408,
-      "long_position_pct": 19.22,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-09",
-      "filing_date": "2026-03-09",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -82,15 +56,28 @@
       "notice_type": "Current"
     },
     {
+      "name": "PAG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 151266204,
+      "long_position_pct": 9.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "PAG Asia III LP",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 302532408,
-      "long_position_pct": 19.22,
+      "long_position_shares": 151266204,
+      "long_position_pct": 9.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-09",
-      "filing_date": "2026-03-09",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +85,12 @@
       "name": "PAGAC III Munich Holding (Cayman) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 302532408,
-      "long_position_pct": 19.22,
+      "long_position_shares": 151266204,
+      "long_position_pct": 9.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-09",
-      "filing_date": "2026-03-09",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,12 +98,12 @@
       "name": "Shan Weijian",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 302532408,
-      "long_position_pct": 19.22,
+      "long_position_shares": 151266204,
+      "long_position_pct": 9.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-09",
-      "filing_date": "2026-03-09",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -135,6 +122,62 @@
     }
   ],
   "history": [
+    {
+      "name": "DUAN Wei",
+      "long_position_pct": 0.12,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mobvista Co., Ltd",
+      "long_position_pct": 20.96,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG Asia III LP",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAGAC III Munich Holding (Cayman) Limited",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Seamless Technology Limited",
+      "long_position_pct": 20.96,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shan Weijian",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "DUAN Wei",
       "long_position_pct": 21.71,

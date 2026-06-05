@@ -1,7 +1,7 @@
 {
   "code": "00727",
   "name": "CROWN INTERNATIONAL CORPORATION LTD.",
-  "last_scraped": "2026-06-04T23:10:12Z",
+  "last_scraped": "2026-06-05T23:07:05Z",
   "shareholders": [
     {
       "name": "Fresh Idea Ventures Limited",
@@ -186,6 +186,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Tseng Sin Hang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 243975069,
+      "long_position_pct": 19.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "Wealthpool Group Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -358,6 +371,14 @@
       "filing_date": "2026-06-04",
       "form_type": "Form 1",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Tseng Sin Hang",
+      "long_position_pct": 19.18,
+      "relevant_event_date": "2026-05-28",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
     },
     {
       "name": "Lan Tian Feng",

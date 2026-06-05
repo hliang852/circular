@@ -1,0 +1,831 @@
+{
+  "code": "01087",
+  "name": "INVESTECH HOLDINGS LTD.",
+  "last_scraped": "2026-06-05T23:10:29Z",
+  "shareholders": [
+    {
+      "name": "WONG TAI KUEN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 59740000,
+      "long_position_pct": 29.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-01-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 20783791,
+      "long_position_pct": 8.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Fang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 15865941,
+      "long_position_pct": 7.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 18417400,
+      "long_position_pct": 7.68,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Fang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 15865941,
+      "long_position_pct": 6.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15505941,
+      "long_position_pct": 6.46,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 8.66,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 7.68,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 6.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 10.4,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-16",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.25,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2025-07-16",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-07-16",
+      "filing_date": "2025-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 20.44,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 17.76,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.12,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG TAI KUEN",
+      "long_position_pct": 29.89,
+      "relevant_event_date": "2024-01-31",
+      "filing_date": "2024-02-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 29.04,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 25.24,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 12.96,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 25.54,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG TAI KUEN",
+      "long_position_pct": 42.46,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG TAI KUEN",
+      "long_position_pct": 50.96,
+      "relevant_event_date": "2023-11-07",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 15.56,
+      "relevant_event_date": "2022-10-19",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2022-09-02",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 12.1,
+      "relevant_event_date": "2022-06-30",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 10.6,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 34.85,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 34.42,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 30.28,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 30.65,
+      "relevant_event_date": "2022-03-11",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 47.9,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 42.15,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 42.66,
+      "relevant_event_date": "2021-11-26",
+      "filing_date": "2022-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 11.18,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 24.16,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 18.92,
+      "relevant_event_date": "2021-09-13",
+      "filing_date": "2021-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 24.08,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 18.41,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 11.1,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 18.83,
+      "relevant_event_date": "2021-09-06",
+      "filing_date": "2021-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 28.89,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 22.09,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 13.32,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 22.6,
+      "relevant_event_date": "2021-07-28",
+      "filing_date": "2021-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 28.89,
+      "relevant_event_date": "2021-07-27",
+      "filing_date": "2021-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 13.32,
+      "relevant_event_date": "2021-04-16",
+      "filing_date": "2021-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 13.32,
+      "relevant_event_date": "2020-10-06",
+      "filing_date": "2020-10-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 11.92,
+      "relevant_event_date": "2020-07-29",
+      "filing_date": "2020-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 11.13,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YAT YU CAROL",
+      "long_position_pct": 10.12,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 10.11,
+      "relevant_event_date": "2020-01-07",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2019-10-30",
+      "filing_date": "2019-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 8.6,
+      "relevant_event_date": "2019-10-15",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2019-09-17",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 28.85,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 22.08,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 22.6,
+      "relevant_event_date": "2019-09-03",
+      "filing_date": "2019-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2019-08-12",
+      "filing_date": "2019-08-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIN YUEN SIN CAROL",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2019-08-08",
+      "filing_date": "2019-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 26.7,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 25.99,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 25.28,
+      "relevant_event_date": "2019-07-09",
+      "filing_date": "2019-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 25.06,
+      "relevant_event_date": "2019-07-05",
+      "filing_date": "2019-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 23.89,
+      "relevant_event_date": "2019-06-11",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 23.17,
+      "relevant_event_date": "2019-06-10",
+      "filing_date": "2019-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 22.47,
+      "relevant_event_date": "2019-06-06",
+      "filing_date": "2019-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 21.75,
+      "relevant_event_date": "2019-06-05",
+      "filing_date": "2019-06-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 19.93,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 20.45,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 19.43,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 19.38,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2019-01-22",
+      "filing_date": "2019-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 18.69,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 19.2,
+      "relevant_event_date": "2019-01-21",
+      "filing_date": "2019-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 15.5,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 15.96,
+      "relevant_event_date": "2019-01-18",
+      "filing_date": "2019-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 15.5,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 15.96,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Sek Keung Ringo",
+      "long_position_pct": 18.6,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smoothly Global Holdings Limited",
+      "long_position_pct": 18.54,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Fang",
+      "long_position_pct": 19.16,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}
