@@ -1,18 +1,18 @@
 {
   "code": "01087",
   "name": "INVESTECH HOLDINGS LTD.",
-  "last_scraped": "2026-06-05T23:10:29Z",
+  "last_scraped": "2026-06-08T23:20:25Z",
   "shareholders": [
     {
       "name": "WONG TAI KUEN",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 59740000,
-      "long_position_pct": 29.89,
+      "long_position_shares": 59200000,
+      "long_position_pct": 24.68,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-01-31",
-      "filing_date": "2024-01-31",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -110,6 +110,14 @@
     {
       "name": "Wang Fang",
       "long_position_pct": 6.61,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG TAI KUEN",
+      "long_position_pct": 24.68,
       "relevant_event_date": "2026-06-02",
       "filing_date": "2026-06-05",
       "form_type": "Form 1",

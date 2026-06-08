@@ -1,0 +1,813 @@
+{
+  "code": "02392",
+  "name": "XUAN WU CLOUD TECHNOLOGY HOLDINGS LTD.",
+  "last_scraped": "2026-06-08T23:33:36Z",
+  "shareholders": [
+    {
+      "name": "Lian Jian",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 134645524,
+      "long_position_pct": 24.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lian Jian",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 121280524,
+      "long_position_pct": 21.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "The Grand Dynasty of Investment Co., Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 112064100,
+      "long_position_pct": 20.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "深圳市漢唐明元投資發展合夥企業（有限合夥）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 112064100,
+      "long_position_pct": 20.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Hairong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 86428460,
+      "long_position_pct": 15.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Double Winner Worldwide Limited (商盈環球有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 55152460,
+      "long_position_pct": 9.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Fangjie",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 50381670,
+      "long_position_pct": 8.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 42683170,
+      "long_position_pct": 7.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Song Xiaohu",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 42683170,
+      "long_position_pct": 7.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-06",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Yonghui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 41568000,
+      "long_position_pct": 7.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 41568000,
+      "long_position_pct": 7.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Guangzhou Xuandong Investment Co., Ltd. (Limited Partnership)  (廣州玄東投資有限合夥企業(有限合夥))",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31334000,
+      "long_position_pct": 5.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GE Ping",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Fangjie",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 13.01,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hairong",
+      "long_position_pct": 15.42,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Jian",
+      "long_position_pct": 24.03,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 12.34,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 6.75,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Honghan Worldwide Limited (宏漢環球有限公司)",
+      "long_position_pct": 3.4,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Fangjie",
+      "long_position_pct": 3.4,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lian Jian",
+      "long_position_pct": 21.64,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Song Xiaohu",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Grand Dynasty of Investment Co., Limited",
+      "long_position_pct": 20.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "深圳市漢唐明元投資發展合夥企業（有限合夥）",
+      "long_position_pct": 20.0,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 23.61,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hairong",
+      "long_position_pct": 17.81,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 26.0,
+      "relevant_event_date": "2026-01-04",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hairong",
+      "long_position_pct": 15.42,
+      "relevant_event_date": "2026-01-04",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yonghui",
+      "long_position_pct": 29.19,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hairong",
+      "long_position_pct": 12.23,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Yonghui",
+      "long_position_pct": 31.58,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GE Ping",
+      "long_position_pct": 5.59,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Guangzhou Xuandong Investment Co., Ltd. (Limited Partnership)  (廣州玄東投資有限合夥企業(有限合夥))",
+      "long_position_pct": 5.59,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Yonghui",
+      "long_position_pct": 31.65,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Guangzhou Xuandong Investment Co., Ltd. (Limited Partnership)  (廣州玄東投資有限合夥企業(有限合夥))",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Honghan Worldwide Limited (宏漢環球有限公司)",
+      "long_position_pct": 11.75,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HUANG Fangjie",
+      "long_position_pct": 11.75,
+      "relevant_event_date": "2025-10-21",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Yonghui",
+      "long_position_pct": 31.67,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Honghan Worldwide Limited (宏漢環球有限公司)",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG Fangjie",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Jian",
+      "long_position_pct": 21.63,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SONG Xiaohu",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Grand Dynasty of Investment Co., Limited",
+      "long_position_pct": 20.0,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 18.02,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳市漢唐明元投資發展合夥企業（有限合夥）",
+      "long_position_pct": 20.0,
+      "relevant_event_date": "2025-10-20",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Capital Investment Management Co., Ltd.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Industrial Investment Co., Ltd.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Weishi Investment Management Co., Ltd.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Weishi Phase I Equity Investment Fund (Limited Partnership)",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2025-02-10",
+      "filing_date": "2025-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-02-05",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Song Xiaohu",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-02-05",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 14.06,
+      "relevant_event_date": "2025-01-20",
+      "filing_date": "2025-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Song Xiaohu",
+      "long_position_pct": 14.06,
+      "relevant_event_date": "2025-01-20",
+      "filing_date": "2025-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Hairong",
+      "long_position_pct": 10.67,
+      "relevant_event_date": "2024-09-27",
+      "filing_date": "2024-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 14.0,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Song Xiaohu",
+      "long_position_pct": 14.0,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 13.87,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Song Xiaohu",
+      "long_position_pct": 13.87,
+      "relevant_event_date": "2024-04-30",
+      "filing_date": "2024-05-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE Lejun",
+      "long_position_pct": 4.53,
+      "relevant_event_date": "2023-05-16",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Yonghui",
+      "long_position_pct": 31.67,
+      "relevant_event_date": "2022-08-05",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 18.02,
+      "relevant_event_date": "2022-08-05",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoya Group Holdings Limited (保雅集團控股有限公司)",
+      "long_position_pct": 15.9,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Yonghui",
+      "long_position_pct": 30.75,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Winner Worldwide Limited (商盈環球有限公司)",
+      "long_position_pct": 9.84,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun Holdings Limited",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Holdings Ltd.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fosun International Limited",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GE Ping",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guangzhou Xuandong Investment Co., Ltd. (Limited Partnership)  (廣州玄東投資有限合夥企業(有限合夥))",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guo Guangchang",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Honghan Worldwide Limited (宏漢環球有限公司)",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HUANG Fangjie",
+      "long_position_pct": 11.83,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Hairong",
+      "long_position_pct": 9.84,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Capital Investment Management Co., Ltd.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun High Technology (Group) Co., Ltd.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Industrial Investment Co., Ltd.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Weishi Investment Management Co., Ltd.",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Fosun Weishi Phase I Equity Investment Fund (Limited Partnership)",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SONG Xiaohu",
+      "long_position_pct": 15.9,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Lejun",
+      "long_position_pct": 10.16,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhenghao Global Holding Limited (正浩環球控股有限公司)",
+      "long_position_pct": 17.1,
+      "relevant_event_date": "2022-07-08",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

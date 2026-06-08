@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-04T23:38:38Z",
+  "last_scraped": "2026-06-08T23:43:41Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 110106116,
-      "long_position_pct": 7.03,
-      "short_position_shares": 93776369,
-      "short_position_pct": 5.98,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "long_position_shares": 111027769,
+      "long_position_pct": 7.09,
+      "short_position_shares": 95156513,
+      "short_position_pct": 6.07,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 85157130,
-      "long_position_pct": 5.44,
-      "short_position_shares": 682900,
+      "long_position_shares": 83736859,
+      "long_position_pct": 5.35,
+      "short_position_shares": 654600,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.35,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.03,

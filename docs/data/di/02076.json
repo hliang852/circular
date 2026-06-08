@@ -1,7 +1,7 @@
 {
   "code": "02076",
   "name": "KANZHUN LTD. - W",
-  "last_scraped": "2026-06-04T23:23:04Z",
+  "last_scraped": "2026-06-08T23:29:19Z",
   "shareholders": [
     {
       "name": "TECHWOLF LIMITED",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 59405613,
-      "long_position_pct": 7.06,
-      "short_position_shares": 9255536,
-      "short_position_pct": 1.1,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "long_position_shares": 57354513,
+      "long_position_pct": 6.81,
+      "short_position_shares": 8668242,
+      "short_position_pct": 1.03,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -83,6 +83,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.06,

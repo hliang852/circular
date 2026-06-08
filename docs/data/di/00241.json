@@ -1,7 +1,7 @@
 {
   "code": "00241",
   "name": "ALIBABA HEALTH INFORMATION TECHNOLOGY LTD.",
-  "last_scraped": "2026-06-04T23:06:48Z",
+  "last_scraped": "2026-06-08T23:11:57Z",
   "shareholders": [
     {
       "name": "Alibaba Group Holding Limited",
@@ -72,12 +72,12 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1296415615,
-      "long_position_pct": 8.01,
-      "short_position_shares": 1400648399,
-      "short_position_pct": 8.66,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "long_position_shares": 1303013031,
+      "long_position_pct": 8.06,
+      "short_position_shares": 1402155789,
+      "short_position_pct": 8.67,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -85,17 +85,33 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1274683319,
-      "long_position_pct": 7.88,
-      "short_position_shares": 979115507,
-      "short_position_pct": 6.05,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "long_position_shares": 1297139436,
+      "long_position_pct": 8.01,
+      "short_position_shares": 997982320,
+      "short_position_pct": 6.16,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.06,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.88,

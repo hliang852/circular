@@ -1,7 +1,7 @@
 {
   "code": "01530",
   "name": "3SBIO INC.",
-  "last_scraped": "2026-06-05T23:13:17Z",
+  "last_scraped": "2026-06-08T23:24:17Z",
   "shareholders": [
     {
       "name": "Lou Dan",
@@ -111,17 +111,33 @@
       "name": "汇添富基金管理股份有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 177621500,
-      "long_position_pct": 6.99,
+      "long_position_shares": 176909000,
+      "long_position_pct": 6.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "汇添富基金管理股份有限公司",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "汇添富基金管理股份有限公司",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "汇添富基金管理股份有限公司",
       "long_position_pct": 6.99,

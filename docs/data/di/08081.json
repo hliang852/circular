@@ -1,7 +1,7 @@
 {
   "code": "08081",
   "name": "BAIJUYI HOLDINGS GROUP LTD.",
-  "last_scraped": "2026-06-03T23:53:16Z",
+  "last_scraped": "2026-06-08T23:40:24Z",
   "shareholders": [
     {
       "name": "BAIJUYI WINE GROUP CO.,LIMITED",
@@ -33,17 +33,25 @@
       "name": "Ng Ting Kit",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 344700000,
-      "long_position_pct": 6.69,
+      "long_position_shares": 308700000,
+      "long_position_pct": 5.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Ng Ting Kit",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Ng Ting Kit",
       "long_position_pct": 6.69,

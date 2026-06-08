@@ -1,7 +1,7 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-05T23:09:37Z",
+  "last_scraped": "2026-06-08T23:19:27Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
@@ -384,12 +384,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 944201861,
-      "long_position_pct": 7.61,
-      "short_position_shares": 334291801,
-      "short_position_pct": 2.69,
-      "relevant_event_date": "2026-05-08",
-      "filing_date": "2026-05-08",
+      "long_position_shares": 1009315667,
+      "long_position_pct": 8.13,
+      "short_position_shares": 342143029,
+      "short_position_pct": 2.75,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -410,12 +410,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 678118399,
-      "long_position_pct": 5.47,
-      "short_position_shares": 3678000,
+      "long_position_shares": 652965916,
+      "long_position_pct": 5.26,
+      "short_position_shares": 3336000,
       "short_position_pct": 0.03,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-02",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -427,6 +427,22 @@
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-04",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

@@ -1,7 +1,7 @@
 {
   "code": "08637",
   "name": "METASURFACE TECHNOLOGIES HOLDINGS LTD.",
-  "last_scraped": "2026-06-01T23:51:29Z",
+  "last_scraped": "2026-06-08T23:40:37Z",
   "shareholders": [
     {
       "name": "Chua Chwee Lee",
@@ -56,19 +56,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "RAYS Capital Partners Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 9995000,
-      "long_position_pct": 6.66,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Soh Cheng Joo",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
@@ -93,9 +80,30 @@
       "filing_date": "2026-05-26",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "RAYS Capital Partners Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 8612000,
+      "long_position_pct": 5.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "RAYS Capital Partners Limited",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "RAYS Capital Partners Limited",
       "long_position_pct": 6.66,

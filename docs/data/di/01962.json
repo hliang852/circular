@@ -1,18 +1,18 @@
 {
   "code": "01962",
   "name": "EVERGREEN PRODUCTS GROUP LTD.",
-  "last_scraped": "2026-06-01T23:39:26Z",
+  "last_scraped": "2026-06-08T23:28:42Z",
   "shareholders": [
     {
       "name": "Chang Yoe Chong Felix",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 358159803,
-      "long_position_pct": 57.03,
+      "long_position_shares": 359159803,
+      "long_position_pct": 57.19,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Wong Hor Yan",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 358159803,
-      "long_position_pct": 57.03,
+      "long_position_shares": 359159803,
+      "long_position_pct": 57.19,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -122,6 +122,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Chang Yoe Chong Felix",
+      "long_position_pct": 57.19,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hor Yan",
+      "long_position_pct": 57.19,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "CLC Investment Worldwide Limited",
       "long_position_pct": 54.67,

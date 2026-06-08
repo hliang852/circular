@@ -1,7 +1,7 @@
 {
   "code": "02285",
   "name": "CHERVON HOLDINGS LTD.",
-  "last_scraped": "2026-06-05T23:18:32Z",
+  "last_scraped": "2026-06-08T23:31:15Z",
   "shareholders": [
     {
       "name": "PAN LONGQUAN",
@@ -102,8 +102,8 @@
       "long_position_pct": 6.58,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -135,6 +135,14 @@
     }
   ],
   "history": [
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 6.58,

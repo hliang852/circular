@@ -1,7 +1,7 @@
 {
   "code": "00019",
   "name": "SWIRE PACIFIC LTD. 'A'",
-  "last_scraped": "2026-06-05T23:02:16Z",
+  "last_scraped": "2026-06-08T23:10:06Z",
   "shareholders": [
     {
       "name": "John Swire & Sons Limited",
@@ -15,22 +15,17 @@
       "filing_date": "2025-12-31",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 39066310,
-      "long_position_pct": 5.02,
-      "short_position_shares": 1348500,
-      "short_position_pct": 0.17,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2026-06-02",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.02,

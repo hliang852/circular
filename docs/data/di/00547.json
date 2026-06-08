@@ -1,7 +1,7 @@
 {
   "code": "00547",
   "name": "DIGITAL DOMAIN HOLDINGS LTD.",
-  "last_scraped": "2026-06-05T23:05:54Z",
+  "last_scraped": "2026-06-08T23:14:59Z",
   "shareholders": [
     {
       "name": "ADATA Technology Co., Ltd.",
@@ -39,19 +39,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2023-06-20",
       "filing_date": "2023-06-20",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Song Hoi See",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 761430000,
-      "long_position_pct": 9.54,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-07-31",
-      "filing_date": "2024-07-31",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -141,6 +128,14 @@
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-05",
       "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Song Hoi See",
+      "long_position_pct": 4.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
       "notice_type": "Increase"
     },
     {

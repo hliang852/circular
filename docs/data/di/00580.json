@@ -1,7 +1,7 @@
 {
   "code": "00580",
   "name": "SUN.KING TECHNOLOGY GROUP LTD.",
-  "last_scraped": "2026-06-05T23:06:10Z",
+  "last_scraped": "2026-06-08T23:15:32Z",
   "shareholders": [
     {
       "name": "Meng Fankun",
@@ -34,11 +34,24 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 338328347,
-      "long_position_pct": 21.02,
+      "long_position_pct": 20.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-24",
-      "filing_date": "2026-03-24",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Max Vision Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 338328347,
+      "long_position_pct": 20.98,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -47,29 +60,16 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 338328347,
-      "long_position_pct": 21.02,
+      "long_position_pct": 20.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-24",
-      "filing_date": "2026-03-24",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
       "name": "Zedra Trust Company (Singapore) Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 338328347,
-      "long_position_pct": 21.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-24",
-      "filing_date": "2026-03-24",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Max Vision Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 338328347,
@@ -105,6 +105,38 @@
       "relevant_event_date": "2026-06-03",
       "filing_date": "2026-06-05",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiekun Limited",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Max Vision Holdings Limited",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sapphire Skye Holdings Limited",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zedra Trust Company (Singapore) Limited",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {
