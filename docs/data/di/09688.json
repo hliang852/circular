@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-08T23:42:46Z",
+  "last_scraped": "2026-06-09T23:43:13Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -102,8 +102,8 @@
       "long_position_pct": 5.32,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -174,6 +174,14 @@
     }
   ],
   "history": [
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 5.32,

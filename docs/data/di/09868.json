@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-08T23:43:41Z",
+  "last_scraped": "2026-06-09T23:44:10Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 111027769,
-      "long_position_pct": 7.09,
-      "short_position_shares": 95156513,
-      "short_position_pct": 6.07,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 108871171,
+      "long_position_pct": 6.95,
+      "short_position_shares": 93133842,
+      "short_position_pct": 5.94,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 83736859,
-      "long_position_pct": 5.35,
+      "long_position_shares": 85859576,
+      "long_position_pct": 5.48,
       "short_position_shares": 654600,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.35,

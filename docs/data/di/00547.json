@@ -1,7 +1,7 @@
 {
   "code": "00547",
   "name": "DIGITAL DOMAIN HOLDINGS LTD.",
-  "last_scraped": "2026-06-08T23:14:59Z",
+  "last_scraped": "2026-06-09T23:18:30Z",
   "shareholders": [
     {
       "name": "ADATA Technology Co., Ltd.",
@@ -95,6 +95,32 @@
       "notice_type": "Current"
     },
     {
+      "name": "Bright Brother Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 444070000,
+      "long_position_pct": 5.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Song Hoi See",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 444070000,
+      "long_position_pct": 5.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "CITIC Group Corporation",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -135,6 +161,22 @@
       "long_position_pct": 4.0,
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bright Brother Global Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Song Hoi See",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
       "form_type": "Form 1",
       "notice_type": "Increase"
     },

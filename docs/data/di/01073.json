@@ -1,0 +1,4150 @@
+{
+  "code": "01073",
+  "name": "DA YU FINANCIAL HOLDINGS LTD.",
+  "last_scraped": "2026-06-09T23:23:35Z",
+  "shareholders": [
+    {
+      "name": "Xu Haohao",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1020259801,
+      "long_position_pct": 29.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1016569801,
+      "long_position_pct": 29.74,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-11",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 996114801,
+      "long_position_pct": 29.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 994980000,
+      "long_position_pct": 29.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GOKEEN INVEST LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 230000000,
+      "long_position_pct": 22.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PERFECT GATE HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 230000000,
+      "long_position_pct": 22.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Allied Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 338955530,
+      "long_position_pct": 9.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 338955530,
+      "long_position_pct": 9.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 338955530,
+      "long_position_pct": 9.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 338955530,
+      "long_position_pct": 9.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 325667719,
+      "long_position_pct": 9.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 325667719,
+      "long_position_pct": 9.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Kin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 325667719,
+      "long_position_pct": 9.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 227250000,
+      "long_position_pct": 6.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-08-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 227250000,
+      "long_position_pct": 6.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ASM Connaught House (Master) Fund V LP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211372719,
+      "long_position_pct": 6.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ASM Connaught House General Partner V Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 211372719,
+      "long_position_pct": 6.18,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-05",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.89,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-30",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.86,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.85,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-10-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 29.74,
+      "relevant_event_date": "2025-09-11",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 29.74,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 29.14,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 29.85,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 29.85,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House (Master) Fund V LP",
+      "long_position_pct": 6.18,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House General Partner V Limited",
+      "long_position_pct": 6.18,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Kin",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.64,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-26",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.63,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2025-08-18",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2025-08-18",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 29.85,
+      "relevant_event_date": "2025-08-18",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.58,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.56,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.56,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.56,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.56,
+      "relevant_event_date": "2025-06-26",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-23",
+      "filing_date": "2024-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.54,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.53,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-13",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-13",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-13",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-13",
+      "filing_date": "2024-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2024-06-04",
+      "filing_date": "2024-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House (Master) Fund V LP",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House General Partner V Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 29.74,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Kin",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 29.14,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 29.85,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 28.72,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 28.12,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 28.82,
+      "relevant_event_date": "2024-01-17",
+      "filing_date": "2024-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "long_position_pct": 19.94,
+      "relevant_event_date": "2024-01-15",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "long_position_pct": 19.94,
+      "relevant_event_date": "2024-01-15",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheung Kit Shan Susanna",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Wa Lun Warren",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.15,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.85,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.85,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.79,
+      "relevant_event_date": "2023-12-06",
+      "filing_date": "2023-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2023-11-29",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.75,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-11-09",
+      "filing_date": "2023-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.15,
+      "relevant_event_date": "2023-11-09",
+      "filing_date": "2023-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-11-09",
+      "filing_date": "2023-11-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-31",
+      "filing_date": "2023-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.15,
+      "relevant_event_date": "2023-10-31",
+      "filing_date": "2023-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-31",
+      "filing_date": "2023-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-06",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.14,
+      "relevant_event_date": "2023-10-06",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-06",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.14,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.74,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-09-20",
+      "filing_date": "2023-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.13,
+      "relevant_event_date": "2023-09-20",
+      "filing_date": "2023-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-09-20",
+      "filing_date": "2023-09-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-09-18",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.13,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2023-06-12",
+      "filing_date": "2023-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.72,
+      "relevant_event_date": "2023-06-05",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.72,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.72,
+      "relevant_event_date": "2023-05-18",
+      "filing_date": "2023-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 18.13,
+      "relevant_event_date": "2023-05-18",
+      "filing_date": "2023-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.72,
+      "relevant_event_date": "2023-05-18",
+      "filing_date": "2023-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 18.37,
+      "relevant_event_date": "2023-04-12",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 17.78,
+      "relevant_event_date": "2023-04-12",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 18.37,
+      "relevant_event_date": "2023-04-12",
+      "filing_date": "2023-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beyond Global Enterprises Limited",
+      "long_position_pct": 11.39,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BH Equities Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lau Yau Cheung",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Victory Gain Ventures Limited",
+      "long_position_pct": 11.39,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Haohao",
+      "long_position_pct": 11.39,
+      "relevant_event_date": "2023-01-17",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship S.A.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Heritage Riches Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-12-07",
+      "filing_date": "2022-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Mariner Holding Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-11-29",
+      "filing_date": "2022-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2022-11-29",
+      "filing_date": "2022-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mariner Far East Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-11-29",
+      "filing_date": "2022-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-20",
+      "filing_date": "2022-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2022-10-17",
+      "filing_date": "2022-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-12",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-10-10",
+      "filing_date": "2022-10-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-09-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-27",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-27",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-27",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2022-09-27",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-26",
+      "filing_date": "2022-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-23",
+      "filing_date": "2022-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2022-09-21",
+      "filing_date": "2022-09-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2022-09-16",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-07",
+      "filing_date": "2022-09-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2022-09-05",
+      "filing_date": "2022-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2022-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-07-06",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-06-21",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-06-21",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-06-21",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2022-06-21",
+      "filing_date": "2022-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-20",
+      "filing_date": "2022-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-20",
+      "filing_date": "2022-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-20",
+      "filing_date": "2022-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-20",
+      "filing_date": "2022-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-07",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-07",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-07",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-06-07",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2022-05-30",
+      "filing_date": "2022-05-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-26",
+      "filing_date": "2022-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-26",
+      "filing_date": "2022-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-26",
+      "filing_date": "2022-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-26",
+      "filing_date": "2022-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-19",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-11",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-11",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-11",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.55,
+      "relevant_event_date": "2022-05-11",
+      "filing_date": "2022-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-10",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-06",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-06",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-06",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2022-05-06",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2022-05-04",
+      "filing_date": "2022-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2022-05-04",
+      "filing_date": "2022-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2022-05-04",
+      "filing_date": "2022-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.52,
+      "relevant_event_date": "2022-05-04",
+      "filing_date": "2022-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.51,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.51,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.51,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.51,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-01",
+      "filing_date": "2022-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-01",
+      "filing_date": "2022-04-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-01",
+      "filing_date": "2022-04-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-04-01",
+      "filing_date": "2022-04-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-30",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-30",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-30",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2022-03-30",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2022-03-17",
+      "filing_date": "2022-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2022-03-15",
+      "filing_date": "2022-03-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-14",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-10",
+      "filing_date": "2022-03-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-08",
+      "filing_date": "2022-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-08",
+      "filing_date": "2022-03-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-08",
+      "filing_date": "2022-03-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2022-03-08",
+      "filing_date": "2022-03-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-02",
+      "filing_date": "2022-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-02",
+      "filing_date": "2022-03-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-02",
+      "filing_date": "2022-03-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-02",
+      "filing_date": "2022-03-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-01",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-01",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-01",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-03-01",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-25",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-25",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-25",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-25",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2022-02-24",
+      "filing_date": "2022-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-23",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-23",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-23",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-23",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-02-22",
+      "filing_date": "2022-02-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2022-02-21",
+      "filing_date": "2022-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2022-02-21",
+      "filing_date": "2022-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2022-02-21",
+      "filing_date": "2022-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2022-02-21",
+      "filing_date": "2022-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-02-14",
+      "filing_date": "2022-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-02-14",
+      "filing_date": "2022-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-02-14",
+      "filing_date": "2022-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2022-02-14",
+      "filing_date": "2022-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-02-11",
+      "filing_date": "2022-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-02-11",
+      "filing_date": "2022-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-02-11",
+      "filing_date": "2022-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-02-11",
+      "filing_date": "2022-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2020-02-20",
+      "filing_date": "2020-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHAN KIN",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2020-02-20",
+      "filing_date": "2020-02-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.11,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 29.05,
+      "relevant_event_date": "2019-12-17",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 27.02,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 26.0,
+      "relevant_event_date": "2019-11-28",
+      "filing_date": "2019-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 25.08,
+      "relevant_event_date": "2019-11-15",
+      "filing_date": "2019-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 24.0,
+      "relevant_event_date": "2019-11-05",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 23.11,
+      "relevant_event_date": "2019-10-24",
+      "filing_date": "2019-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 22.91,
+      "relevant_event_date": "2019-10-23",
+      "filing_date": "2019-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fung Yiu Fai Peter",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-10-23",
+      "filing_date": "2019-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 4.13,
+      "relevant_event_date": "2019-10-22",
+      "filing_date": "2019-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2020-02-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House Fund LP",
+      "long_position_pct": 4.13,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ASM Connaught House General Partner Limited",
+      "long_position_pct": 4.13,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHAN KIN",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 14.2,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2019-10-16",
+      "filing_date": "2019-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Holdings Limited",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Argyle Street Management Limited",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House Fund LP",
+      "long_position_pct": 8.22,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASM Connaught House General Partner Limited",
+      "long_position_pct": 8.22,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BH Equities Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHAN KIN",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Mariner Holding Limited",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Steamship Company Limited",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lau Yau Cheung",
+      "long_position_pct": 6.64,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mariner Far East Limited",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BH Equities Limited",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG Kit Shan Susanna",
+      "long_position_pct": 19.94,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fung Yiu Fai Peter",
+      "long_position_pct": 8.51,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lau Yau Cheung",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Wa Lun Warren",
+      "long_position_pct": 19.94,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Fortune Financial Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fortune Finance Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FORTUNE FINANCIAL (HOLDINGS) LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GOKEEN INVEST LIMITED",
+      "long_position_pct": 22.95,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PERFECT GATE HOLDINGS LIMITED",
+      "long_position_pct": 22.95,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

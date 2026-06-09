@@ -1,18 +1,18 @@
 {
   "code": "02007",
   "name": "COUNTRY GARDEN HOLDINGS CO. LTD.",
-  "last_scraped": "2026-06-03T23:44:02Z",
+  "last_scraped": "2026-06-09T23:30:42Z",
   "shareholders": [
     {
       "name": "CHEN Chong",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 29408668232,
-      "long_position_pct": 63.56,
+      "long_position_pct": 63.49,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 29408668232,
-      "long_position_pct": 63.56,
+      "long_position_pct": 63.49,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 29408668232,
-      "long_position_pct": 63.56,
+      "long_position_pct": 63.49,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -57,6 +57,30 @@
     }
   ],
   "history": [
+    {
+      "name": "CHEN Chong",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concrete Win Limited",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Huiyan",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "CHEN Chong",
       "long_position_pct": 63.56,

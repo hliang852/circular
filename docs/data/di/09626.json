@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-08T23:41:55Z",
+  "last_scraped": "2026-06-09T23:42:22Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -98,12 +98,12 @@
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 20990187,
-      "long_position_pct": 6.07,
-      "short_position_shares": 5498886,
-      "short_position_pct": 1.59,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "long_position_shares": 20711098,
+      "long_position_pct": 5.99,
+      "short_position_shares": 5398537,
+      "short_position_pct": 1.56,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,12 +111,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18998994,
-      "long_position_pct": 5.5,
+      "long_position_shares": 19254578,
+      "long_position_pct": 5.58,
       "short_position_shares": 166637,
       "short_position_pct": 0.05,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -135,6 +135,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 4.99,

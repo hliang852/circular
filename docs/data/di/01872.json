@@ -1,18 +1,18 @@
 {
   "code": "01872",
   "name": "GUAN CHAO HOLDINGS LTD.",
-  "last_scraped": "2026-06-05T23:16:25Z",
+  "last_scraped": "2026-06-09T23:29:25Z",
   "shareholders": [
     {
       "name": "Beng Lee Ser Marisa",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 99080000,
-      "long_position_pct": 15.2,
+      "long_position_shares": 98480000,
+      "long_position_pct": 15.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Tan Shuay Tarng Vincent",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 99080000,
-      "long_position_pct": 15.2,
+      "long_position_shares": 98480000,
+      "long_position_pct": 15.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -33,17 +33,65 @@
       "name": "Gatehouse Ventures Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 97280000,
-      "long_position_pct": 14.93,
+      "long_position_shares": 96680000,
+      "long_position_pct": 14.84,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 15.11,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 14.84,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 15.11,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beng Lee Ser Marisa",
+      "long_position_pct": 15.16,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gatehouse Ventures Limited",
+      "long_position_pct": 14.88,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tan Shuay Tarng Vincent",
+      "long_position_pct": 15.16,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
     {
       "name": "Beng Lee Ser Marisa",
       "long_position_pct": 15.2,

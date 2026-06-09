@@ -1,18 +1,18 @@
 {
   "code": "02155",
   "name": "MORIMATSU INTERNATIONAL HOLDINGS CO. LTD.",
-  "last_scraped": "2026-06-04T23:23:16Z",
+  "last_scraped": "2026-06-09T23:31:20Z",
   "shareholders": [
     {
       "name": "Matsuhisa Terumoto",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 765858000,
-      "long_position_pct": 60.24,
+      "long_position_shares": 764201000,
+      "long_position_pct": 60.11,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,17 +46,41 @@
       "name": "Futu Trustee Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 74715869,
-      "long_position_pct": 5.99,
+      "long_position_shares": 92302107,
+      "long_position_pct": 7.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-14",
-      "filing_date": "2026-01-14",
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-03",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Matsuhisa Terumoto",
+      "long_position_pct": 60.11,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matsuhisa Terumoto",
+      "long_position_pct": 60.11,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matsuhisa Terumoto",
+      "long_position_pct": 60.14,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
     {
       "name": "Matsuhisa Terumoto",
       "long_position_pct": 60.24,
@@ -80,6 +104,22 @@
       "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 7.26,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matsuhisa Terumoto",
+      "long_position_pct": 60.2,
+      "relevant_event_date": "2026-06-03",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
     },
     {
       "name": "Matsuhisa Terumoto",

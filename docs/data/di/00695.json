@@ -1,0 +1,628 @@
+{
+  "code": "00695",
+  "name": "DONGWU CEMENT INTERNATIONAL LTD.",
+  "last_scraped": "2026-06-09T23:19:39Z",
+  "shareholders": [
+    {
+      "name": "Goldview Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 297500000,
+      "long_position_pct": 53.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tseung Hok Ming",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 297500000,
+      "long_position_pct": 53.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州国有资本投资集团有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 154560000,
+      "long_position_pct": 28.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州市港航投资发展集团有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 154560000,
+      "long_position_pct": 28.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "huang yingbiao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 67130000,
+      "long_position_pct": 12.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Yingbiao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 56650000,
+      "long_position_pct": 10.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "苏州汾湖投资集团有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 49680000,
+      "long_position_pct": 9.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Huang Yingbiao",
+      "long_position_pct": 10.26,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Goldview Development Limited",
+      "long_position_pct": 53.89,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tseung Hok Ming",
+      "long_position_pct": 53.89,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Goldview Development Limited",
+      "long_position_pct": 53.89,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tseung Hok Ming",
+      "long_position_pct": 53.89,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州国有资本投资集团有限公司",
+      "long_position_pct": 28.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州市港航投资发展集团有限公司",
+      "long_position_pct": 28.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "苏州汾湖投资集团有限公司",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.52,
+      "relevant_event_date": "2024-08-23",
+      "filing_date": "2024-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.53,
+      "relevant_event_date": "2024-08-14",
+      "filing_date": "2024-08-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.54,
+      "relevant_event_date": "2024-08-12",
+      "filing_date": "2024-08-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2024-08-09",
+      "filing_date": "2024-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2024-08-08",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.55,
+      "relevant_event_date": "2024-08-05",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2024-07-31",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2024-07-30",
+      "filing_date": "2024-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2024-07-23",
+      "filing_date": "2024-07-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-16",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-11",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-05",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.57,
+      "relevant_event_date": "2024-07-04",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-07-03",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-06-25",
+      "filing_date": "2024-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.62,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.71,
+      "relevant_event_date": "2023-11-15",
+      "filing_date": "2024-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.46,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2024-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang YING BIAO",
+      "long_position_pct": 12.34,
+      "relevant_event_date": "2023-08-02",
+      "filing_date": "2024-04-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities (Singapore) Pte. Ltd.",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group (Singapore) Pte. Ltd.",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-04",
+      "filing_date": "2020-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cui Li Jie",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "huang yingbiao",
+      "long_position_pct": 12.16,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Inventive Star Limited",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2020-11-02",
+      "filing_date": "2020-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cui Li Jie",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities (Singapore) Pte. Ltd.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group (Singapore) Pte. Ltd.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "huang yingbiao",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Inventive Star Limited",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Global Giant Development Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Global Giant Development Limited",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GT Group Holdings Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GT Group Holdings Limited",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Upperclass Developments Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Upperclass Developments Limited",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Financial Products (Singapore) Pte. Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities (Singapore) Pte. Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group (Singapore) Pte. Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group (Singapore) Pte. Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-27",
+      "filing_date": "2018-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Concord Ocean Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2018-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cui Li Jie",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Inventive Star Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}
