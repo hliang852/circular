@@ -1,7 +1,7 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-09T23:22:39Z",
+  "last_scraped": "2026-06-10T23:29:13Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
@@ -384,12 +384,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1009315667,
-      "long_position_pct": 8.13,
-      "short_position_shares": 342143029,
-      "short_position_pct": 2.75,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 1041185345,
+      "long_position_pct": 8.39,
+      "short_position_shares": 373237494,
+      "short_position_pct": 3.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -410,12 +410,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 651355423,
-      "long_position_pct": 5.25,
-      "short_position_shares": 3306000,
-      "short_position_pct": 0.03,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "long_position_shares": 649210829,
+      "long_position_pct": 5.23,
+      "short_position_shares": 2948000,
+      "short_position_pct": 0.02,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 628157970,
+      "long_position_pct": 5.06,
+      "short_position_shares": 207540536,
+      "short_position_pct": 1.67,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -427,6 +440,30 @@
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-04",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.39,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

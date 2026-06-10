@@ -1,7 +1,7 @@
 {
   "code": "02026",
   "name": "PONY AI INC. - W",
-  "last_scraped": "2026-06-04T23:22:10Z",
+  "last_scraped": "2026-06-10T23:38:15Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
@@ -43,6 +43,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 26011126,
+      "long_position_pct": 7.38,
+      "short_position_shares": 15628764,
+      "short_position_pct": 4.43,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "HSG Holding Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -78,19 +91,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2025-11-06",
       "filing_date": "2025-11-06",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 21692619,
-      "long_position_pct": 6.15,
-      "short_position_shares": 15568999,
-      "short_position_pct": 4.42,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -148,6 +148,14 @@
     }
   ],
   "history": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 7.38,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 6.15,

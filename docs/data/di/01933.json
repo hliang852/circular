@@ -1,7 +1,7 @@
 {
   "code": "01933",
   "name": "ONEFORCE HOLDINGS LTD.",
-  "last_scraped": "2026-06-03T23:42:56Z",
+  "last_scraped": "2026-06-10T23:37:22Z",
   "shareholders": [
     {
       "name": "GREAT ATTAIN INTERNATIONAL LIMITED",
@@ -275,35 +275,25 @@
       "filing_date": "2018-03-02",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Central Huijin Investment Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 30188000,
-      "long_position_pct": 5.99,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "China Construction Bank Corporation",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 30188000,
-      "long_position_pct": 5.99,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 2.11,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 2.11,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Central Huijin Investment Ltd.",
       "long_position_pct": 5.99,

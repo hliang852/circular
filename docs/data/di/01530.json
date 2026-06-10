@@ -1,7 +1,7 @@
 {
   "code": "01530",
   "name": "3SBIO INC.",
-  "last_scraped": "2026-06-08T23:24:17Z",
+  "last_scraped": "2026-06-10T23:33:49Z",
   "shareholders": [
     {
       "name": "Lou Dan",
@@ -30,19 +30,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Lou Jing",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 533243001,
-      "long_position_pct": 21.92,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-09-22",
-      "filing_date": "2025-09-22",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "Xing Lily",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -53,6 +40,19 @@
       "relevant_event_date": "2022-01-25",
       "filing_date": "2022-01-25",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lou Jing",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 533759001,
+      "long_position_pct": 21.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
       "notice_type": "Current"
     },
     {
@@ -111,10 +111,23 @@
       "name": "汇添富基金管理股份有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 176909000,
-      "long_position_pct": 6.97,
+      "long_position_shares": 177884000,
+      "long_position_pct": 7.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 133271409,
+      "long_position_pct": 5.25,
+      "short_position_shares": 8641381,
+      "short_position_pct": 0.34,
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-04",
       "form_type": "Form 2",
@@ -123,12 +136,36 @@
   ],
   "history": [
     {
+      "name": "Lou Jing",
+      "long_position_pct": 21.03,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "汇添富基金管理股份有限公司",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "汇添富基金管理股份有限公司",
       "long_position_pct": 6.97,
       "relevant_event_date": "2026-06-04",
       "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "汇添富基金管理股份有限公司",

@@ -1,0 +1,884 @@
+{
+  "code": "01161",
+  "name": "WATER OASIS GROUP LTD.",
+  "last_scraped": "2026-06-10T23:31:29Z",
+  "shareholders": [
+    {
+      "name": "Yu Lai Chu Eileen",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 186813760,
+      "long_position_pct": 27.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yu Lai Si",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 166113760,
+      "long_position_pct": 24.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 155333760,
+      "long_position_pct": 22.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 99885760,
+      "long_position_pct": 14.68,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 92512000,
+      "long_position_pct": 12.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-09-29",
+      "filing_date": "2017-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 92512000,
+      "long_position_pct": 12.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-09-29",
+      "filing_date": "2017-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Billion Well Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 67794880,
+      "long_position_pct": 9.96,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.45,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 22.82,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.45,
+      "relevant_event_date": "2025-04-11",
+      "filing_date": "2025-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.42,
+      "relevant_event_date": "2025-04-10",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.1,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.08,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 27.07,
+      "relevant_event_date": "2025-04-01",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.84,
+      "relevant_event_date": "2025-02-14",
+      "filing_date": "2025-02-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.83,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.56,
+      "relevant_event_date": "2024-12-19",
+      "filing_date": "2024-12-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.54,
+      "relevant_event_date": "2024-12-18",
+      "filing_date": "2024-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2024-12-17",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Well Holdings Limited",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 14.68,
+      "relevant_event_date": "2024-09-30",
+      "filing_date": "2024-10-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Billion Well Holdings Limited",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2024-08-22",
+      "filing_date": "2024-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 14.95,
+      "relevant_event_date": "2024-08-22",
+      "filing_date": "2024-08-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 26.34,
+      "relevant_event_date": "2024-08-22",
+      "filing_date": "2024-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.46,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.46,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.45,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Well Holdings Limited",
+      "long_position_pct": 11.11,
+      "relevant_event_date": "2023-11-22",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 15.83,
+      "relevant_event_date": "2023-11-22",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.44,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 16.35,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.43,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.38,
+      "relevant_event_date": "2023-05-30",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.15,
+      "relevant_event_date": "2022-08-17",
+      "filing_date": "2022-08-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.15,
+      "relevant_event_date": "2022-08-16",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.14,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2022-08-09",
+      "filing_date": "2022-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.08,
+      "relevant_event_date": "2022-08-08",
+      "filing_date": "2022-08-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.06,
+      "relevant_event_date": "2022-08-05",
+      "filing_date": "2022-08-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 25.04,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.96,
+      "relevant_event_date": "2022-08-02",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.93,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.9,
+      "relevant_event_date": "2022-07-29",
+      "filing_date": "2022-08-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.88,
+      "relevant_event_date": "2022-07-15",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.79,
+      "relevant_event_date": "2022-07-12",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.73,
+      "relevant_event_date": "2022-07-11",
+      "filing_date": "2022-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2022-01-04",
+      "filing_date": "2022-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2022-01-04",
+      "filing_date": "2022-01-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2021-10-28",
+      "filing_date": "2021-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.58,
+      "relevant_event_date": "2021-10-21",
+      "filing_date": "2021-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.53,
+      "relevant_event_date": "2021-10-08",
+      "filing_date": "2021-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.49,
+      "relevant_event_date": "2021-09-30",
+      "filing_date": "2021-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2021-09-29",
+      "filing_date": "2021-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.47,
+      "relevant_event_date": "2021-09-01",
+      "filing_date": "2021-09-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.44,
+      "relevant_event_date": "2021-08-30",
+      "filing_date": "2021-08-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.38,
+      "relevant_event_date": "2021-08-19",
+      "filing_date": "2021-08-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.34,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.34,
+      "relevant_event_date": "2021-08-10",
+      "filing_date": "2021-08-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.27,
+      "relevant_event_date": "2021-08-09",
+      "filing_date": "2021-08-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2021-06-01",
+      "filing_date": "2021-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 17.39,
+      "relevant_event_date": "2021-06-01",
+      "filing_date": "2021-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 6.51,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 17.92,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 7.14,
+      "relevant_event_date": "2021-04-22",
+      "filing_date": "2021-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 18.55,
+      "relevant_event_date": "2021-04-22",
+      "filing_date": "2021-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2021-04-21",
+      "filing_date": "2021-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 19.35,
+      "relevant_event_date": "2021-04-21",
+      "filing_date": "2021-04-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 9.47,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 20.89,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2020-01-09",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 21.4,
+      "relevant_event_date": "2020-01-09",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 10.58,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 21.99,
+      "relevant_event_date": "2019-12-27",
+      "filing_date": "2020-01-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 10.83,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 22.25,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tam Chie Sang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-02-01",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tam Chie Sang",
+      "long_position_pct": 24.23,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.23,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 22.82,
+      "relevant_event_date": "2018-12-12",
+      "filing_date": "2018-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.27,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "long_position_pct": 0.75,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "long_position_pct": 0.75,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Advance Favour Holdings Limited",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Billion Well Holdings Limited",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Yin Ling",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tam Chie Sang",
+      "long_position_pct": 24.27,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 24.27,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Si",
+      "long_position_pct": 24.45,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tam Chie Sang",
+      "long_position_pct": 21.49,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 21.49,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 20.24,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "long_position_pct": 11.92,
+      "relevant_event_date": "2018-05-31",
+      "filing_date": "2018-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "long_position_pct": 11.92,
+      "relevant_event_date": "2018-05-31",
+      "filing_date": "2018-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "long_position_pct": 0.59,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "long_position_pct": 0.59,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tam Chie Sang",
+      "long_position_pct": 21.54,
+      "relevant_event_date": "2017-10-03",
+      "filing_date": "2017-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Lai Chu Eileen",
+      "long_position_pct": 21.54,
+      "relevant_event_date": "2017-10-03",
+      "filing_date": "2017-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zinna Group Limited",
+      "long_position_pct": 20.29,
+      "relevant_event_date": "2017-10-03",
+      "filing_date": "2017-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CM Asset Management (Hongkong) Company Limited",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2017-09-29",
+      "filing_date": "2017-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shareholder Value Fund",
+      "long_position_pct": 12.11,
+      "relevant_event_date": "2017-09-29",
+      "filing_date": "2017-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

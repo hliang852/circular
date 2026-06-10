@@ -1,7 +1,7 @@
 {
   "code": "01299",
   "name": "AIA GROUP LTD.",
-  "last_scraped": "2026-06-08T23:22:11Z",
+  "last_scraped": "2026-06-10T23:32:43Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -33,17 +33,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 738678183,
-      "long_position_pct": 7.07,
-      "short_position_shares": 4199400,
+      "long_position_shares": 741149470,
+      "long_position_pct": 7.09,
+      "short_position_shares": 4540400,
       "short_position_pct": 0.04,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.07,

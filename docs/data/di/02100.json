@@ -1,18 +1,18 @@
 {
   "code": "02100",
   "name": "BAIOO FAMILY INTERACTIVE LTD.",
-  "last_scraped": "2026-06-08T23:29:36Z",
+  "last_scraped": "2026-06-10T23:39:26Z",
   "shareholders": [
     {
       "name": "TMF (Cayman) Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1200568720,
-      "long_position_pct": 41.87,
+      "long_position_shares": 1201332720,
+      "long_position_pct": 41.9,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Dai Jian",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 704688180,
-      "long_position_pct": 24.58,
+      "long_position_shares": 705452180,
+      "long_position_pct": 24.6,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "DAE Holding Investments Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 694688180,
-      "long_position_pct": 24.23,
+      "long_position_shares": 695452180,
+      "long_position_pct": 24.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "Stmoritz Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 694688180,
-      "long_position_pct": 24.23,
+      "long_position_shares": 695452180,
+      "long_position_pct": 24.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -161,6 +161,38 @@
     }
   ],
   "history": [
+    {
+      "name": "DAE Holding Investments Limited",
+      "long_position_pct": 24.26,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dai Jian",
+      "long_position_pct": 24.6,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Stmoritz Investment Limited",
+      "long_position_pct": 24.26,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 41.9,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "DAE Holding Investments Limited",
       "long_position_pct": 24.23,

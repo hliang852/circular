@@ -1,7 +1,7 @@
 {
   "code": "00522",
   "name": "ASMPT LTD.",
-  "last_scraped": "2026-06-08T23:14:36Z",
+  "last_scraped": "2026-06-10T23:25:14Z",
   "shareholders": [
     {
       "name": "ASM International N.V.",
@@ -85,12 +85,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 31492553,
-      "long_position_pct": 7.53,
-      "short_position_shares": 3952032,
-      "short_position_pct": 0.94,
-      "relevant_event_date": "2026-04-13",
-      "filing_date": "2026-04-13",
+      "long_position_shares": 32469118,
+      "long_position_pct": 7.74,
+      "short_position_shares": 4316227,
+      "short_position_pct": 1.02,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -106,22 +106,25 @@
       "filing_date": "2026-05-04",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 21524482,
-      "long_position_pct": 5.13,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.74,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.13,

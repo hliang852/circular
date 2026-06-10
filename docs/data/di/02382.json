@@ -1,7 +1,7 @@
 {
   "code": "02382",
   "name": "SUNNY OPTICAL TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-09T23:34:08Z",
+  "last_scraped": "2026-06-10T23:43:09Z",
   "shareholders": [
     {
       "name": "WANG Wenjian",
@@ -124,12 +124,12 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 82189759,
-      "long_position_pct": 7.51,
-      "short_position_shares": 77368687,
-      "short_position_pct": 7.07,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "long_position_shares": 80952423,
+      "long_position_pct": 7.39,
+      "short_position_shares": 73748987,
+      "short_position_pct": 6.74,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -137,17 +137,33 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 68451866,
-      "long_position_pct": 6.25,
-      "short_position_shares": 285800,
-      "short_position_pct": 0.03,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 66883938,
+      "long_position_pct": 6.11,
+      "short_position_shares": 249700,
+      "short_position_pct": 0.02,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.11,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.39,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 7.51,

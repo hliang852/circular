@@ -1,0 +1,546 @@
+{
+  "code": "03877",
+  "name": "CSSC (HONG KONG) SHIPPING CO. LTD.",
+  "last_scraped": "2026-06-10T23:48:41Z",
+  "shareholders": [
+    {
+      "name": "China State Shipbuilding Corporation 中國船舶工業集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4602046234,
+      "long_position_pct": 74.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CSSC International Holding Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4602046234,
+      "long_position_pct": 74.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "State-owned Assets Supervision and Administration Commission",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4602046234,
+      "long_position_pct": 74.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 522422469,
+      "long_position_pct": 8.42,
+      "short_position_shares": 386658501,
+      "short_position_pct": 6.23,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 478743704,
+      "long_position_pct": 7.72,
+      "short_position_shares": 478619144,
+      "short_position_pct": 7.72,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2026-05-12",
+      "filing_date": "2026-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 8.05,
+      "relevant_event_date": "2026-05-04",
+      "filing_date": "2026-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.42,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2026-04-23",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.77,
+      "relevant_event_date": "2026-04-20",
+      "filing_date": "2026-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2026-04-15",
+      "filing_date": "2026-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-04-07",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.88,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.15,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.45,
+      "relevant_event_date": "2026-03-24",
+      "filing_date": "2026-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2026-03-06",
+      "filing_date": "2026-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.18,
+      "relevant_event_date": "2026-03-02",
+      "filing_date": "2026-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2026-02-27",
+      "filing_date": "2026-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2026-02-26",
+      "filing_date": "2026-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-02-25",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-02-24",
+      "filing_date": "2026-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.21,
+      "relevant_event_date": "2026-02-17",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2026-02-16",
+      "filing_date": "2026-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.07,
+      "relevant_event_date": "2026-02-13",
+      "filing_date": "2026-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2026-02-09",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2026-02-06",
+      "filing_date": "2026-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-02-05",
+      "filing_date": "2026-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-07-29",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-07-29",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-07-29",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2025-07-02",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 8.52,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 8.52,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 8.52,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2019-07-08",
+      "filing_date": "2019-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Re Asset Management (Hong Kong) Company Limited",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China State Shipbuilding Corporation 中國船舶工業集團有限公司",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CSSC International Holding Company Limited",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "State-owned Assets Supervision and Administration Commission",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國再保險（集團）股份有限公司",
+      "long_position_pct": 6.79,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

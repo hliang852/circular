@@ -1,7 +1,7 @@
 {
   "code": "02186",
   "name": "LUYE PHARMA GROUP LTD.",
-  "last_scraped": "2026-06-09T23:32:14Z",
+  "last_scraped": "2026-06-10T23:40:25Z",
   "shareholders": [
     {
       "name": "Ginkgo (PTC) Limited",
@@ -150,17 +150,25 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 362033870,
-      "long_position_pct": 9.06,
-      "short_position_shares": 312633373,
-      "short_position_pct": 7.83,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "long_position_shares": 409643766,
+      "long_position_pct": 10.26,
+      "short_position_shares": 273168200,
+      "short_position_pct": 6.84,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 10.26,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 9.06,

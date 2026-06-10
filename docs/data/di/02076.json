@@ -1,7 +1,7 @@
 {
   "code": "02076",
   "name": "KANZHUN LTD. - W",
-  "last_scraped": "2026-06-08T23:29:19Z",
+  "last_scraped": "2026-06-10T23:39:06Z",
   "shareholders": [
     {
       "name": "TECHWOLF LIMITED",
@@ -46,25 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 57354513,
-      "long_position_pct": 6.81,
-      "short_position_shares": 8668242,
-      "short_position_pct": 1.03,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 56650554,
-      "long_position_pct": 6.74,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "long_position_shares": 59092377,
+      "long_position_pct": 7.02,
+      "short_position_shares": 9525400,
+      "short_position_pct": 1.13,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -80,9 +67,38 @@
       "filing_date": "2026-01-07",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 49823459,
+      "long_position_pct": 5.93,
+      "short_position_shares": 13066,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.81,

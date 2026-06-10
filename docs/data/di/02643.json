@@ -1,21 +1,8 @@
 {
   "code": "02643",
   "name": "CAOCAO INC.",
-  "last_scraped": "2026-06-09T23:36:19Z",
+  "last_scraped": "2026-06-10T23:45:21Z",
   "shareholders": [
-    {
-      "name": "Ugo Investment Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 436374500,
-      "long_position_pct": 75.05,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-02-04",
-      "filing_date": "2026-02-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
     {
       "name": "Li Shu Fu",
       "capacity": "Beneficial Owner",
@@ -27,6 +14,19 @@
       "relevant_event_date": "2026-04-30",
       "filing_date": "2026-04-30",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ugo Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 436374500,
+      "long_position_pct": 74.87,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -76,6 +76,14 @@
       "relevant_event_date": "2026-04-30",
       "filing_date": "2026-06-09",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ugo Investment Limited",
+      "long_position_pct": 74.87,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

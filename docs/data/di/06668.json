@@ -1,18 +1,18 @@
 {
   "code": "06668",
   "name": "E-STAR COMMERCIAL MANAGEMENT CO. LTD.",
-  "last_scraped": "2026-06-08T23:39:24Z",
+  "last_scraped": "2026-06-10T23:50:06Z",
   "shareholders": [
     {
       "name": "Huang Chu-Long",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 749596000,
-      "long_position_pct": 73.89,
+      "long_position_shares": 746100000,
+      "long_position_pct": 73.54,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -72,12 +72,12 @@
       "name": "Huang De-Lin Benny",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 148682000,
-      "long_position_pct": 14.66,
+      "long_position_shares": 145186000,
+      "long_position_pct": 14.31,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -109,6 +109,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Huang Chu-Long",
+      "long_position_pct": 73.54,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang De-Lin Benny",
+      "long_position_pct": 14.31,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Huang Chu-Long",
       "long_position_pct": 73.89,

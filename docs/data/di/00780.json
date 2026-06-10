@@ -1,7 +1,7 @@
 {
   "code": "00780",
   "name": "TONGCHENG TRAVEL HOLDINGS LTD.",
-  "last_scraped": "2026-06-02T23:35:42Z",
+  "last_scraped": "2026-06-10T23:26:28Z",
   "shareholders": [
     {
       "name": "Ctrip.com International, Ltd.",
@@ -72,25 +72,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 208879985,
-      "long_position_pct": 8.87,
-      "short_position_shares": 10961179,
-      "short_position_pct": 0.46,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 186550400,
-      "long_position_pct": 7.92,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "long_position_shares": 184296871,
+      "long_position_pct": 7.82,
+      "short_position_shares": 10333821,
+      "short_position_pct": 0.43,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -119,9 +106,38 @@
       "filing_date": "2018-11-26",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 162106400,
+      "long_position_pct": 6.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "T. Rowe Price Associates, Inc. and its Affiliates",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.82,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "T. Rowe Price Associates, Inc. and its Affiliates",
       "long_position_pct": 7.92,
