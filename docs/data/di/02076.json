@@ -1,7 +1,7 @@
 {
   "code": "02076",
   "name": "KANZHUN LTD. - W",
-  "last_scraped": "2026-06-10T23:39:06Z",
+  "last_scraped": "2026-06-11T23:37:02Z",
   "shareholders": [
     {
       "name": "TECHWOLF LIMITED",
@@ -72,17 +72,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 49823459,
-      "long_position_pct": 5.93,
+      "long_position_shares": 52225083,
+      "long_position_pct": 6.21,
       "short_position_shares": 13066,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.21,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.93,

@@ -1,7 +1,7 @@
 {
   "code": "02331",
   "name": "LI NING CO. LTD.",
-  "last_scraped": "2026-06-10T23:42:04Z",
+  "last_scraped": "2026-06-11T23:39:56Z",
   "shareholders": [
     {
       "name": "Li Ning",
@@ -59,12 +59,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 183854946,
-      "long_position_pct": 7.11,
+      "long_position_shares": 181056337,
+      "long_position_pct": 7.0,
       "short_position_shares": 68500,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,12 +72,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 180981992,
-      "long_position_pct": 7.0,
-      "short_position_shares": 45678505,
-      "short_position_pct": 1.76,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 176080286,
+      "long_position_pct": 6.81,
+      "short_position_shares": 41849997,
+      "short_position_pct": 1.61,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.11,

@@ -1,7 +1,7 @@
 {
   "code": "09885",
   "name": "YSB INC.",
-  "last_scraped": "2026-06-03T00:00:14Z",
+  "last_scraped": "2026-06-11T23:55:56Z",
   "shareholders": [
     {
       "name": "Zhang Buzhen",
@@ -186,19 +186,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Meta Group Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 54603184,
-      "long_position_pct": 7.94,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Coleman III Charles",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -277,6 +264,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Meta Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 47951984,
+      "long_position_pct": 6.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Futu Trustee Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -291,6 +291,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Meta Group Limited",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Chu Mang Yee",
       "long_position_pct": 9.95,

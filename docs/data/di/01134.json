@@ -1,0 +1,926 @@
+{
+  "code": "01134",
+  "name": "KELFRED HOLDINGS LTD.",
+  "last_scraped": "2026-06-11T23:28:57Z",
+  "shareholders": [
+    {
+      "name": "Chan Yin Wah",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 147952000,
+      "long_position_pct": 29.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liu Zhen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 98000000,
+      "long_position_pct": 19.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kwok Hon Yim",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 25208000,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 29.59,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Zhen",
+      "long_position_pct": 19.6,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 34.59,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-05-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Hon Yim",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 54.19,
+      "relevant_event_date": "2024-03-27",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 55.19,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 55.79,
+      "relevant_event_date": "2021-06-08",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 57.79,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 59.19,
+      "relevant_event_date": "2021-01-28",
+      "filing_date": "2021-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 64.79,
+      "relevant_event_date": "2021-01-25",
+      "filing_date": "2021-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2021-01-20",
+      "filing_date": "2021-01-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 68.79,
+      "relevant_event_date": "2020-12-28",
+      "filing_date": "2020-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 69.19,
+      "relevant_event_date": "2020-12-07",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 71.6,
+      "relevant_event_date": "2020-12-03",
+      "filing_date": "2020-12-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 74.6,
+      "relevant_event_date": "2020-12-02",
+      "filing_date": "2020-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Yin Wah",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Conquer Holding Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Kwan Fai",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Kwan Yu",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwok Mau Kwan",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Man Yee Joanna",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Siu Fong Ting Tammy",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2019-07-16",
+      "filing_date": "2019-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-10T23:29:13Z",
+  "last_scraped": "2026-06-11T23:27:36Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 5866144865,
-      "long_position_pct": 47.28,
+      "long_position_shares": 5853344865,
+      "long_position_pct": 47.18,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -410,12 +410,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 649210829,
-      "long_position_pct": 5.23,
-      "short_position_shares": 2948000,
+      "long_position_shares": 642103569,
+      "long_position_pct": 5.18,
+      "short_position_shares": 2904000,
       "short_position_pct": 0.02,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -423,17 +423,41 @@
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 628157970,
-      "long_position_pct": 5.06,
-      "short_position_shares": 207540536,
-      "short_position_pct": 1.67,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "long_position_shares": 621819942,
+      "long_position_pct": 5.01,
+      "short_position_shares": 204236780,
+      "short_position_pct": 1.64,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Yang Yuanqing",
+      "long_position_pct": 47.18,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.18,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Yang Yuanqing",
       "long_position_pct": 47.28,

@@ -1,7 +1,7 @@
 {
   "code": "01323",
   "name": "HUASHENG INTERNATIONAL HOLDING LTD.",
-  "last_scraped": "2026-06-01T23:34:34Z",
+  "last_scraped": "2026-06-11T23:30:54Z",
   "shareholders": [
     {
       "name": "Capital Wealth Global Limited",
@@ -41,22 +41,25 @@
       "filing_date": "2024-02-21",
       "form_type": "Form 1",
       "notice_type": "Current"
-    },
-    {
-      "name": "Lam Kwok Hung Raymond",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 49600000,
-      "long_position_pct": 6.56,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
-      "form_type": "Form 1",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 2.51,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lam Kwok Hung Raymond",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Lam Kwok Hung Raymond",
       "long_position_pct": 6.56,

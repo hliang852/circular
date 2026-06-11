@@ -1,0 +1,578 @@
+{
+  "code": "02477",
+  "name": "WELLCELL HOLDINGS CO., LTD.",
+  "last_scraped": "2026-06-11T23:41:50Z",
+  "shareholders": [
+    {
+      "name": "Hang Feng International Holdings Co., Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 299000000,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qian Fenglei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 299000000,
+      "long_position_pct": 29.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 166000000,
+      "long_position_pct": 16.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "贾正屹",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 166000000,
+      "long_position_pct": 16.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "郑莉",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 166000000,
+      "long_position_pct": 16.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 16.6,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 26.6,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hang Feng International Holdings Co., Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qian Fenglei",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hang Feng International Holdings Co., Limited",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qian Fenglei",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qian Fenglei",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2025-02-11",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 31.1,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cheer Partners Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hang Feng International Holdings Co., Limited",
+      "long_position_pct": 19.9,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hang Feng International Holdings Co., Limited",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "QIAN Fenglei",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheer Partners Co., Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shine Dynasty  Co., Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 51.0,
+      "relevant_event_date": "2024-07-24",
+      "filing_date": "2024-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cheer Partners Co., Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiazhengyi",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lin Qihao",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shine Dynasty  Co., Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WellCell Group Co.,Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "林启豪",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "郑莉",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "钟舒敏",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2024-01-12",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

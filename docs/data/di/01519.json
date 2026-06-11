@@ -1,7 +1,7 @@
 {
   "code": "01519",
   "name": "J&T GLOBAL EXPRESS LTD. - W",
-  "last_scraped": "2026-06-10T23:33:18Z",
+  "last_scraped": "2026-06-11T23:32:04Z",
   "shareholders": [
     {
       "name": "Exceeding Summit Holding Limited",
@@ -236,22 +236,17 @@
       "filing_date": "2024-05-17",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 407113686,
-      "long_position_pct": 5.1,
-      "short_position_shares": 67853339,
-      "short_position_pct": 0.85,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.1,

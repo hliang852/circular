@@ -1,7 +1,7 @@
 {
   "code": "03690",
   "name": "MEITUAN - W",
-  "last_scraped": "2026-05-19T23:09:46Z",
+  "last_scraped": "2026-06-11T23:48:16Z",
   "shareholders": [
     {
       "name": "TMF (Cayman) Ltd.",
@@ -98,17 +98,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 329514912,
-      "long_position_pct": 5.89,
-      "short_position_shares": 2705500,
-      "short_position_pct": 0.05,
-      "relevant_event_date": "2026-05-13",
-      "filing_date": "2026-05-13",
+      "long_position_shares": 341480038,
+      "long_position_pct": 6.1,
+      "short_position_shares": 2291500,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.89,

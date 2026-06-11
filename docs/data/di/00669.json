@@ -1,7 +1,7 @@
 {
   "code": "00669",
   "name": "TECHTRONIC INDUSTRIES CO. LTD.",
-  "last_scraped": "2026-06-08T23:16:40Z",
+  "last_scraped": "2026-06-11T23:24:19Z",
   "shareholders": [
     {
       "name": "Pudwill Horst Julius",
@@ -98,17 +98,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 92662801,
-      "long_position_pct": 5.06,
-      "short_position_shares": 3015500,
-      "short_position_pct": 0.16,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 93202563,
+      "long_position_pct": 5.09,
+      "short_position_shares": 3080500,
+      "short_position_pct": 0.17,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.06,

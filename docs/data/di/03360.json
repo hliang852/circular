@@ -1,7 +1,7 @@
 {
   "code": "03360",
   "name": "FAR EAST HORIZON LTD.",
-  "last_scraped": "2026-06-10T23:47:56Z",
+  "last_scraped": "2026-06-11T23:46:41Z",
   "shareholders": [
     {
       "name": "Sinochem Capital Investment Management (Hong Kong) Limited 中化資本投資管理(香港)有限公司",
@@ -423,12 +423,12 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 338757144,
-      "long_position_pct": 7.03,
+      "long_position_shares": 336132649,
+      "long_position_pct": 6.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -460,6 +460,14 @@
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 7.03,

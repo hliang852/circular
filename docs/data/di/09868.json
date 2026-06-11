@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-10T23:55:36Z",
+  "last_scraped": "2026-06-11T23:55:40Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 86089565,
-      "long_position_pct": 5.5,
-      "short_position_shares": 1522918,
-      "short_position_pct": 0.1,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "long_position_shares": 85426633,
+      "long_position_pct": 5.46,
+      "short_position_shares": 2081418,
+      "short_position_pct": 0.13,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -242,6 +242,14 @@
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.09,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.46,
       "relevant_event_date": "2026-06-05",
       "filing_date": "2026-06-10",
       "form_type": "Form 2",

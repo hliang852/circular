@@ -1,7 +1,7 @@
 {
   "code": "00621",
   "name": "TAUNG GOLD INTERNATIONAL LTD.",
-  "last_scraped": "2026-06-05T23:06:19Z",
+  "last_scraped": "2026-06-11T23:23:51Z",
   "shareholders": [
     {
       "name": "Goldborn Holdings Limited",
@@ -43,19 +43,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Mandra Materials Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1177434722,
-      "long_position_pct": 6.49,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-04-08",
-      "filing_date": "2025-04-08",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Goldborn Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -67,9 +54,30 @@
       "filing_date": "2018-12-03",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Mandra Materials Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 105968470,
+      "long_position_pct": 5.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Mandra Materials Limited",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Beansprouts Ltd.",
       "long_position_pct": 7.98,

@@ -1,18 +1,18 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-10T23:54:38Z",
+  "last_scraped": "2026-06-11T23:54:31Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 72530922,
-      "long_position_pct": 6.39,
-      "short_position_shares": 53720696,
-      "short_position_pct": 4.73,
-      "relevant_event_date": "2026-04-30",
-      "filing_date": "2026-04-30",
+      "long_position_shares": 80264376,
+      "long_position_pct": 7.07,
+      "short_position_shares": 58170417,
+      "short_position_pct": 5.12,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -89,8 +89,8 @@
       "long_position_pct": 5.32,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -177,6 +177,14 @@
     {
       "name": "FMR LLC",
       "long_position_pct": 5.32,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.32,
       "relevant_event_date": "2026-06-05",
       "filing_date": "2026-06-10",
       "form_type": "Form 2",
@@ -185,6 +193,14 @@
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.29,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.07,
       "relevant_event_date": "2026-06-05",
       "filing_date": "2026-06-10",
       "form_type": "Form 2",

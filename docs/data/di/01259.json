@@ -1,18 +1,18 @@
 {
   "code": "01259",
   "name": "PROSPEROUS FUTURE HOLDINGS LTD.",
-  "last_scraped": "2026-06-10T23:31:57Z",
+  "last_scraped": "2026-06-11T23:30:06Z",
   "shareholders": [
     {
       "name": "Golden Sparkle Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 263393500,
-      "long_position_pct": 11.95,
+      "long_position_shares": 259493500,
+      "long_position_pct": 11.77,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -20,17 +20,33 @@
       "name": "Lai Wai Lam Ricky",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 263393500,
-      "long_position_pct": 11.95,
+      "long_position_shares": 259493500,
+      "long_position_pct": 11.77,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Golden Sparkle Limited",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lai Wai Lam Ricky",
+      "long_position_pct": 11.77,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Golden Sparkle Limited",
       "long_position_pct": 11.95,

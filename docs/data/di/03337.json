@@ -1,18 +1,18 @@
 {
   "code": "03337",
   "name": "ANTON OILFIELD SERVICES GROUP",
-  "last_scraped": "2026-06-04T23:29:18Z",
+  "last_scraped": "2026-06-11T23:45:35Z",
   "shareholders": [
     {
       "name": "LUO Lin",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 772661408,
-      "long_position_pct": 25.73,
+      "long_position_shares": 779661408,
+      "long_position_pct": 25.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Pro Development Holdings Corp.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 676064740,
-      "long_position_pct": 22.52,
+      "long_position_shares": 683064740,
+      "long_position_pct": 22.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -109,6 +109,22 @@
     }
   ],
   "history": [
+    {
+      "name": "LUO Lin",
+      "long_position_pct": 25.97,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pro Development Holdings Corp.",
+      "long_position_pct": 22.75,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "LUO Lin",
       "long_position_pct": 25.73,

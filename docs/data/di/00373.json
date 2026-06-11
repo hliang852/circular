@@ -1,18 +1,18 @@
 {
   "code": "00373",
   "name": "ALLIED GROUP LTD.",
-  "last_scraped": "2026-06-10T23:24:48Z",
+  "last_scraped": "2026-06-11T23:21:29Z",
   "shareholders": [
     {
       "name": "Lee Seng Hui",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2638547180,
-      "long_position_pct": 75.09,
+      "long_position_shares": 2648547180,
+      "long_position_pct": 75.37,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Lee Seng Huang",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 2638088760,
-      "long_position_pct": 75.08,
+      "long_position_shares": 2648088760,
+      "long_position_pct": 75.36,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Lee Su Hwei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2638088760,
-      "long_position_pct": 75.08,
+      "long_position_shares": 2648088760,
+      "long_position_pct": 75.36,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "Cashplus Management Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1120675760,
-      "long_position_pct": 31.89,
+      "long_position_shares": 1130675760,
+      "long_position_pct": 32.17,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,13 +72,26 @@
       "name": "Zealous Developments Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1120675760,
-      "long_position_pct": 31.89,
+      "long_position_shares": 1130675760,
+      "long_position_pct": 32.17,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chong Sok Un",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 327215100,
+      "long_position_pct": 9.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -92,6 +105,32 @@
       "relevant_event_date": "2025-06-03",
       "filing_date": "2025-06-03",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Spirit Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 247215100,
+      "long_position_pct": 7.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 247215100,
+      "long_position_pct": 7.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -124,6 +163,46 @@
   "history": [
     {
       "name": "Cashplus Management Limited",
+      "long_position_pct": 32.17,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 75.36,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 75.37,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 75.36,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 32.17,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cashplus Management Limited",
       "long_position_pct": 31.89,
       "relevant_event_date": "2026-06-09",
       "filing_date": "2026-06-09",
@@ -199,6 +278,30 @@
       "long_position_pct": 31.89,
       "relevant_event_date": "2026-06-08",
       "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Spirit Limited",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Sok Un",
+      "long_position_pct": 9.31,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vigor Online Offshore Limited",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Change"
     },
