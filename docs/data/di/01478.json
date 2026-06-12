@@ -1,18 +1,18 @@
 {
   "code": "01478",
   "name": "Q TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-05-28T23:13:28Z",
+  "last_scraped": "2026-06-12T23:24:14Z",
   "shareholders": [
     {
       "name": "HE NINGNING",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 753671000,
-      "long_position_pct": 63.1,
+      "long_position_pct": 63.07,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-01",
-      "filing_date": "2026-04-01",
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -21,16 +21,32 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 752491000,
-      "long_position_pct": 63.01,
+      "long_position_pct": 62.98,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-01",
-      "filing_date": "2026-04-01",
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "HE NINGNING",
+      "long_position_pct": 63.07,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Q Technology Investment Inc.",
+      "long_position_pct": 62.98,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 4.58,

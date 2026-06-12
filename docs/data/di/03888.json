@@ -1,7 +1,7 @@
 {
   "code": "03888",
   "name": "KINGSOFT CORPORATION LTD.",
-  "last_scraped": "2026-06-08T23:39:02Z",
+  "last_scraped": "2026-06-12T23:41:45Z",
   "shareholders": [
     {
       "name": "Lei Jun",
@@ -80,6 +80,19 @@
       "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 69587942,
+      "long_position_pct": 5.03,
+      "short_position_shares": 36330590,
+      "short_position_pct": 2.62,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -104,6 +117,14 @@
       "long_position_pct": 5.39,
       "relevant_event_date": "2026-06-08",
       "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

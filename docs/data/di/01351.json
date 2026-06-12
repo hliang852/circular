@@ -1,0 +1,663 @@
+{
+  "code": "01351",
+  "name": "BRIGHT FUTURE TECHNOLOGY HOLDINGS LTD.",
+  "last_scraped": "2026-06-12T23:23:03Z",
+  "shareholders": [
+    {
+      "name": "Huang Jiangxin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 322229770,
+      "long_position_pct": 53.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiang Huanyang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 322229770,
+      "long_position_pct": 53.7,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiang Huanyang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 321897769,
+      "long_position_pct": 53.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Swift Ascent Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 321897769,
+      "long_position_pct": 53.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mi Yuwen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 71020000,
+      "long_position_pct": 11.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Stratagem Solutions Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 71020000,
+      "long_position_pct": 11.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Huang Jiangxin",
+      "long_position_pct": 53.7,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Huanyang",
+      "long_position_pct": 53.7,
+      "relevant_event_date": "2026-05-27",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little wisdom Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mi Yuwen",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Ming",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Stratagem Solutions Limited",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "胡思勉",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-27",
+      "filing_date": "2026-01-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ark Trust (Singapore) Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BRILLIANT LEAGUE LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 0.61,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GAO Yuqing",
+      "long_position_pct": 0.61,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Smart Guide Ventures Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Smart Guide Ventures Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ultra Model Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vast Ocean Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WU CHENG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Huanyang",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Swift Ascent Limited",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2025-09-15",
+      "filing_date": "2025-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 1.27,
+      "relevant_event_date": "2025-07-18",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ark Trust (Singapore) Ltd",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BRILLIANT LEAGUE LIMITED",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO YUQING",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Little wisdom Limited",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Ming",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Guide Ventures Limited",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ultra Model Limited",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vast Ocean Limited",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU CHENG",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 54.26,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-01-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "胡思勉",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-01-22",
+      "filing_date": "2024-02-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ark Trust (Singapore) Ltd",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Guide Ventures Limited",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-05",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ultra Model Limited",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2023-01-03",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "C-star Limited",
+      "long_position_pct": 2.25,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Su Yuwen",
+      "long_position_pct": 2.25,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wen Mingyang",
+      "long_position_pct": 2.25,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Xiaofan",
+      "long_position_pct": 2.25,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BRILLIANT LEAGUE LIMITED",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO YUQING",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2023-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vast Ocean Limited",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU CHENG",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BRILLIANT LEAGUE LIMITED",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "C-star Limited",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GAO YUQING",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Su Yuwen",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vast Ocean Limited",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wen Mingyang",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU CHENG",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 64.38,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Xiaofan",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2021-07-13",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 65.11,
+      "relevant_event_date": "2021-05-12",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BRILLIANT LEAGUE LIMITED",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG HUI",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GAO YUQING",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HIGHLAND TRIUMPH LIMITED",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WU CHENG",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG DENGFENG",
+      "long_position_pct": 72.8,
+      "relevant_event_date": "2020-11-11",
+      "filing_date": "2020-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

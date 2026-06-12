@@ -1,7 +1,7 @@
 {
   "code": "02477",
   "name": "WELLCELL HOLDINGS CO., LTD.",
-  "last_scraped": "2026-06-11T23:41:50Z",
+  "last_scraped": "2026-06-12T23:34:32Z",
   "shareholders": [
     {
       "name": "Hang Feng International Holdings Co., Limited",
@@ -27,45 +27,6 @@
       "relevant_event_date": "2025-04-15",
       "filing_date": "2025-04-15",
       "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Shine Dynasty Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 166000000,
-      "long_position_pct": 16.6,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-05-09",
-      "filing_date": "2025-05-09",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "贾正屹",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 166000000,
-      "long_position_pct": 16.6,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-05-09",
-      "filing_date": "2025-05-09",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "郑莉",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 166000000,
-      "long_position_pct": 16.6,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-05-09",
-      "filing_date": "2025-05-09",
-      "form_type": "Form 1",
       "notice_type": "Current"
     }
   ],
@@ -96,6 +57,30 @@
     },
     {
       "name": "钟舒敏",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shine Dynasty Limited",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "贾正屹",
+      "long_position_pct": 2.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "郑莉",
       "long_position_pct": 2.2,
       "relevant_event_date": "2026-06-10",
       "filing_date": "2026-06-11",

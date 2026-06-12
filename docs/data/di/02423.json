@@ -1,7 +1,7 @@
 {
   "code": "02423",
   "name": "KE HOLDINGS INC. - W",
-  "last_scraped": "2026-06-11T23:41:38Z",
+  "last_scraped": "2026-06-12T23:34:10Z",
   "shareholders": [
     {
       "name": "ARK Trust (Hong Kong) Limited",
@@ -189,12 +189,12 @@
       "name": "The Bank of New York Mellon Corporation",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 646242552,
-      "long_position_pct": 19.25,
-      "short_position_shares": 638138241,
-      "short_position_pct": 19.01,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "long_position_shares": 668492226,
+      "long_position_pct": 20.1,
+      "short_position_shares": 656440815,
+      "short_position_pct": 19.73,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -239,6 +239,14 @@
     }
   ],
   "history": [
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 20.1,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Peng Yongdong",
       "long_position_pct": 69.74,

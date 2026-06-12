@@ -1,7 +1,7 @@
 {
   "code": "00268",
   "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP CO. LTD.",
-  "last_scraped": "2026-06-11T23:20:10Z",
+  "last_scraped": "2026-06-12T23:13:35Z",
   "shareholders": [
     {
       "name": "XU SHAOCHUN",
@@ -59,12 +59,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 258427510,
-      "long_position_pct": 7.28,
-      "short_position_shares": 5305000,
-      "short_position_pct": 0.15,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "long_position_shares": 262137100,
+      "long_position_pct": 7.39,
+      "short_position_shares": 4865000,
+      "short_position_pct": 0.14,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -88,6 +88,14 @@
       "long_position_pct": 4.94,
       "relevant_event_date": "2026-06-08",
       "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.39,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

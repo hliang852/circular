@@ -1,7 +1,7 @@
 {
   "code": "01788",
   "name": "GUOTAI JUNAN INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-06-10T23:34:55Z",
+  "last_scraped": "2026-06-12T23:25:21Z",
   "shareholders": [
     {
       "name": "國泰海通證券股份有限公司",
@@ -33,17 +33,25 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 770968255,
-      "long_position_pct": 8.09,
-      "short_position_shares": 817539668,
-      "short_position_pct": 8.58,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "long_position_shares": 721474255,
+      "long_position_pct": 7.57,
+      "short_position_shares": 785415268,
+      "short_position_pct": 8.24,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.57,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 8.09,

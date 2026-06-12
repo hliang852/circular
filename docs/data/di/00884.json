@@ -1,7 +1,7 @@
 {
   "code": "00884",
   "name": "CIFI HOLDINGS (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-04T23:11:55Z",
+  "last_scraped": "2026-06-12T23:17:42Z",
   "shareholders": [
     {
       "name": "LIN Zhong",
@@ -134,19 +134,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "AM Asia Strategies Master Fund LP",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1598008174,
-      "long_position_pct": 8.93,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-04",
-      "filing_date": "2026-03-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Oasis Investments II Master Fund Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -196,6 +183,19 @@
       "relevant_event_date": "2026-04-22",
       "filing_date": "2026-04-22",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1446384174,
+      "long_position_pct": 7.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -330,6 +330,14 @@
     }
   ],
   "history": [
+    {
+      "name": "AM Asia Strategies Master Fund LP",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.67,

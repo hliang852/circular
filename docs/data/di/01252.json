@@ -1,0 +1,3380 @@
+{
+  "code": "01252",
+  "name": "CHINA TIANRUI GROUP CEMENT CO. LTD.",
+  "last_scraped": "2026-06-12T23:21:58Z",
+  "shareholders": [
+    {
+      "name": "Carosse Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI Fengluan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI Liufa",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605471716,
+      "long_position_pct": 52.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 470000000,
+      "long_position_pct": 16.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HOPKINS Gwynn David Nevill (in the capacity as the Receiver)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 470000000,
+      "long_position_pct": 15.24,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LAU Wing Yi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 470000000,
+      "long_position_pct": 15.24,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "中國進出口銀行",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 315000000,
+      "long_position_pct": 10.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "梧桐树投资平台有限责任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 315000000,
+      "long_position_pct": 10.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Best Ego Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 300000000,
+      "long_position_pct": 10.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHINA HUARONG INTERNATIONAL HOLDINGS LTD",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 300000000,
+      "long_position_pct": 10.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Right Select International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 300000000,
+      "long_position_pct": 10.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Huarong (Macau) International Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 170000000,
+      "long_position_pct": 5.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HOPKINS Gwynn David Nevill (in the capacity as the Receiver)",
+      "long_position_pct": 15.24,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAU Wing Yi",
+      "long_position_pct": 15.24,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-20",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.07,
+      "relevant_event_date": "2026-03-19",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.57,
+      "relevant_event_date": "2026-03-16",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.64,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.73,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 52.78,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 53.39,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 55.78,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 56.85,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 61.62,
+      "relevant_event_date": "2025-07-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 56.92,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 61.69,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 57.4,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 62.17,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 57.53,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 58.42,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 59.8,
+      "relevant_event_date": "2025-06-21",
+      "filing_date": "2025-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 55.44,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國進出口銀行",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國進出口銀行",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "梧桐树投资平台有限责任公司",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "梧桐树投资平台有限责任公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 53.21,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 59.05,
+      "relevant_event_date": "2024-12-09",
+      "filing_date": "2024-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 64.71,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 65.05,
+      "relevant_event_date": "2024-04-09",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 1.53,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2024-01-18",
+      "filing_date": "2024-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Carosse Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-09-11",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-10",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 2.38,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-28",
+      "filing_date": "2022-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 8.5,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 6.12,
+      "relevant_event_date": "2022-09-13",
+      "filing_date": "2022-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SINOPAC ASSET MANAGEMENT (ASIA) LIMITED",
+      "long_position_pct": 4.32,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SINOPAC MULTI-SERIES FUND SPC - SINOPAC GREATER CHINA INDUSTRIAL OPPORTUNITIES FUND (SEGREGATED PORTFOLIO)",
+      "long_position_pct": 4.32,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-12-30",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 2.72,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PA Investment Funds SPC-PA Greater China Industrial Opportunities Fund Segregated Portfolio",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SINOPAC ASSET MANAGEMENT (ASIA) LIMITED",
+      "long_position_pct": 8.41,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SINOPAC MULTI-SERIES FUND SPC - SINOPAC GREATER CHINA INDUSTRIAL OPPORTUNITIES FUND (SEGREGATED PORTFOLIO)",
+      "long_position_pct": 8.41,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2021-09-10",
+      "filing_date": "2021-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 4.08,
+      "relevant_event_date": "2021-08-20",
+      "filing_date": "2021-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Investment Solutions Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2021-05-03",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Investment Solutions Limited",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huarong (Macau) International Company Limited",
+      "long_position_pct": 5.79,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 16.0,
+      "relevant_event_date": "2020-12-18",
+      "filing_date": "2020-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 4.42,
+      "relevant_event_date": "2020-12-04",
+      "filing_date": "2020-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Cinda Asset Management Co., Ltd.",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2020-08-07",
+      "filing_date": "2020-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 14.97,
+      "relevant_event_date": "2020-07-21",
+      "filing_date": "2020-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 69.58,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2019-04-01",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Financial Solutions Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Investment Solutions Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2019-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國進出口銀行",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "梧桐树投资平台有限责任公司",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2018-11-21",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-09",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Financial Solutions Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Holdings Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong International Securities Group Limited",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Haitong Securities Co., Ltd.",
+      "long_position_pct": 5.68,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 14.32,
+      "relevant_event_date": "2018-01-22",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Best Ego Limited",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHINA HUARONG INTERNATIONAL HOLDINGS LTD",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Right Select International Limited",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國華融資產管理股份有限公司",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Holy Eagle Company Limited",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Fengluan",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Liufa",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui (International) Holding Company Limited",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tianrui Group Company Limited",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Kuo Company Limited",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yu Qi Company Limited",
+      "long_position_pct": 50.62,
+      "relevant_event_date": "2017-06-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

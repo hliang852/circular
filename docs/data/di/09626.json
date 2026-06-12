@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-11T23:53:39Z",
+  "last_scraped": "2026-06-12T23:46:01Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 50829573,
-      "long_position_pct": 14.71,
-      "short_position_shares": 31020384,
-      "short_position_pct": 8.98,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "long_position_shares": 51867303,
+      "long_position_pct": 15.01,
+      "short_position_shares": 31209758,
+      "short_position_pct": 9.03,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -119,6 +119,19 @@
       "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 18767476,
+      "long_position_pct": 5.43,
+      "short_position_shares": 177177,
+      "short_position_pct": 0.05,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -127,6 +140,22 @@
       "long_position_pct": 6.03,
       "relevant_event_date": "2026-06-08",
       "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 15.01,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

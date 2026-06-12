@@ -1,7 +1,7 @@
 {
   "code": "00823",
   "name": "LINK REAL ESTATE INVESTMENT TRUST",
-  "last_scraped": "2026-06-11T23:25:32Z",
+  "last_scraped": "2026-06-12T23:16:20Z",
   "shareholders": [
     {
       "name": "BlackRock, Inc.",
@@ -41,22 +41,17 @@
       "filing_date": "2026-06-04",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 131171745,
-      "long_position_pct": 5.01,
-      "short_position_shares": 24047324,
-      "short_position_pct": 0.91,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.63,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.01,

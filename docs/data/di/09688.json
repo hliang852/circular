@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-11T23:54:31Z",
+  "last_scraped": "2026-06-12T23:46:50Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -85,12 +85,12 @@
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 60325704,
-      "long_position_pct": 5.32,
+      "long_position_shares": 58260471,
+      "long_position_pct": 5.14,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 60004769,
-      "long_position_pct": 5.29,
-      "short_position_shares": 34592937,
-      "short_position_pct": 3.05,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "long_position_shares": 58006269,
+      "long_position_pct": 5.11,
+      "short_position_shares": 31163867,
+      "short_position_pct": 2.75,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -176,7 +176,23 @@
   "history": [
     {
       "name": "FMR LLC",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
       "long_position_pct": 5.32,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.11,
       "relevant_event_date": "2026-06-08",
       "filing_date": "2026-06-11",
       "form_type": "Form 2",

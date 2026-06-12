@@ -1,7 +1,7 @@
 {
   "code": "01519",
   "name": "J&T GLOBAL EXPRESS LTD. - W",
-  "last_scraped": "2026-06-11T23:32:04Z",
+  "last_scraped": "2026-06-12T23:24:37Z",
   "shareholders": [
     {
       "name": "Exceeding Summit Holding Limited",
@@ -56,33 +56,7 @@
       "notice_type": "Current"
     },
     {
-      "name": "Li Jie",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 971390048,
-      "long_position_pct": 100.0,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-06-30",
-      "filing_date": "2025-06-30",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Wang Wei",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 984663763,
-      "long_position_pct": 12.3,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-15",
-      "filing_date": "2026-01-15",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "深圳明德控股發展有限公司 (Shenzhen Mingde Holding Development Co., Ltd.)",
+      "name": "順豐控股股份有限公司 (S.F. Holding Co., Ltd.)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 984663763,
@@ -95,15 +69,41 @@
       "notice_type": "Current"
     },
     {
-      "name": "順豐控股股份有限公司 (S.F. Holding Co., Ltd.)",
+      "name": "Wang Wei",
       "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 984663763,
-      "long_position_pct": 12.3,
+      "entity_type": "individual",
+      "long_position_shares": 971958328,
+      "long_position_pct": 11.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-15",
-      "filing_date": "2026-01-15",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "深圳明德控股發展有限公司 (Shenzhen Mingde Holding Development Co., Ltd.)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 971958328,
+      "long_position_pct": 11.06,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "順豐控股股份有限公司  (S.F. Holding Co., Ltd.)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 971958328,
+      "long_position_pct": 11.06,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -236,9 +236,54 @@
       "filing_date": "2024-05-17",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 405191538,
+      "long_position_pct": 5.08,
+      "short_position_shares": 68959105,
+      "short_position_pct": 0.86,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Wang Wei",
+      "long_position_pct": 11.06,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "深圳明德控股發展有限公司 (Shenzhen Mingde Holding Development Co., Ltd.)",
+      "long_position_pct": 11.06,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "順豐控股股份有限公司  (S.F. Holding Co., Ltd.)",
+      "long_position_pct": 11.06,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 4.97,

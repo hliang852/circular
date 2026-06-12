@@ -1,7 +1,7 @@
 {
   "code": "02273",
   "name": "GUSHENGTANG HOLDINGS LTD.",
-  "last_scraped": "2026-05-26T23:12:38Z",
+  "last_scraped": "2026-06-12T23:31:25Z",
   "shareholders": [
     {
       "name": "TU Zhiliang",
@@ -59,12 +59,12 @@
       "name": "睿远基金管理有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 21219800,
-      "long_position_pct": 9.05,
+      "long_position_shares": 23507100,
+      "long_position_pct": 10.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -187,6 +187,14 @@
     }
   ],
   "history": [
+    {
+      "name": "睿远基金管理有限公司",
+      "long_position_pct": 10.03,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "睿远基金管理有限公司",
       "long_position_pct": 9.05,

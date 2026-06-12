@@ -1,7 +1,7 @@
 {
   "code": "01910",
   "name": "SAMSONITE GROUP S.A.",
-  "last_scraped": "2026-06-05T23:17:15Z",
+  "last_scraped": "2026-06-12T23:27:52Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -33,17 +33,25 @@
       "name": "Samsonite Group S.A.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 88830000,
-      "long_position_pct": 6.06,
+      "long_position_shares": 103386900,
+      "long_position_pct": 7.04,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Samsonite Group S.A.",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.99,
