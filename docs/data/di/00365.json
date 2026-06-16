@@ -1,7 +1,7 @@
 {
   "code": "00365",
   "name": "SINO ICT HOLDINGS LTD.",
-  "last_scraped": "2026-05-29T23:10:17Z",
+  "last_scraped": "2026-06-16T23:21:40Z",
   "shareholders": [
     {
       "name": "Gao Shan",
@@ -134,6 +134,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Sino Xin Ding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Sino Xin Ding Limited 芯鼎有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -226,6 +239,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Sino Xin Ding Limited",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "招商銀行股份有限公司上海張江支行 China Merchants Bank Shanghai Zhangjiang Branch",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "chen ping",
       "long_position_pct": 6.8,

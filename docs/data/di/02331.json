@@ -1,7 +1,7 @@
 {
   "code": "02331",
   "name": "LI NING CO. LTD.",
-  "last_scraped": "2026-06-15T23:47:32Z",
+  "last_scraped": "2026-06-16T23:37:13Z",
   "shareholders": [
     {
       "name": "Li Ning",
@@ -59,12 +59,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 186467237,
-      "long_position_pct": 7.21,
+      "long_position_shares": 188773680,
+      "long_position_pct": 7.3,
       "short_position_shares": 68500,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.3,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 7.21,

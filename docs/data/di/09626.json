@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-15T23:59:37Z",
+  "last_scraped": "2026-06-16T23:47:46Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -124,12 +124,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18889775,
-      "long_position_pct": 5.47,
+      "long_position_shares": 17799225,
+      "long_position_pct": 5.15,
       "short_position_shares": 211037,
       "short_position_pct": 0.06,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -141,8 +141,8 @@
       "long_position_pct": 5.02,
       "short_position_shares": 19197904,
       "short_position_pct": 5.69,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -151,6 +151,22 @@
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.15,
       "relevant_event_date": "2026-06-10",
       "filing_date": "2026-06-15",
       "form_type": "Form 2",

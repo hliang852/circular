@@ -1,7 +1,7 @@
 {
   "code": "00268",
   "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP CO. LTD.",
-  "last_scraped": "2026-06-15T23:31:00Z",
+  "last_scraped": "2026-06-16T23:20:36Z",
   "shareholders": [
     {
       "name": "XU SHAOCHUN",
@@ -56,33 +56,49 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
+      "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 254260686,
-      "long_position_pct": 7.16,
-      "short_position_shares": 99007855,
-      "short_position_pct": 2.78,
-      "relevant_event_date": "2026-06-02",
-      "filing_date": "2026-06-02",
+      "long_position_shares": 289275976,
+      "long_position_pct": 8.15,
+      "short_position_shares": 4865000,
+      "short_position_pct": 0.14,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
+      "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 248121887,
-      "long_position_pct": 6.99,
-      "short_position_shares": 4865000,
-      "short_position_pct": 0.14,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "long_position_shares": 235623611,
+      "long_position_pct": 6.63,
+      "short_position_shares": 82124044,
+      "short_position_pct": 2.31,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.99,

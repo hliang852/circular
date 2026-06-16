@@ -1,0 +1,800 @@
+{
+  "code": "06086",
+  "name": "FANGZHOU INC.",
+  "last_scraped": "2026-06-16T23:43:50Z",
+  "shareholders": [
+    {
+      "name": "XIE Fangmin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 535443322,
+      "long_position_pct": 38.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHOU Feng",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 535443322,
+      "long_position_pct": 38.65,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Holdings L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 437443815,
+      "long_position_pct": 31.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Management Asia Holdings, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 437443815,
+      "long_position_pct": 31.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Management Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 437443815,
+      "long_position_pct": 31.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ares Partners Holdco LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 437443815,
+      "long_position_pct": 31.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ressler Antony Peter",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 437443815,
+      "long_position_pct": 31.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent Capital Investments Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 322278770,
+      "long_position_pct": 23.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fangrong Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 246538362,
+      "long_position_pct": 17.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tech-Med Cayman III Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 138430610,
+      "long_position_pct": 9.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tech-Med Holdings III Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 138430610,
+      "long_position_pct": 9.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tech-Med Investments (S) Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 138430610,
+      "long_position_pct": 9.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Celaeno Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 136158297,
+      "long_position_pct": 9.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CP Pharmatech Singapore Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 126151645,
+      "long_position_pct": 9.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PharmaTech Holdings II Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 126151645,
+      "long_position_pct": 9.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "PharmaTech Investments II Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 126151645,
+      "long_position_pct": 9.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent Trident Singapore Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 115165045,
+      "long_position_pct": 8.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent ACSO Institutional Holdings I Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 115165045,
+      "long_position_pct": 8.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Crescent Institutional Investment Management Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 115165045,
+      "long_position_pct": 8.31,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Ares Holdings L.P.",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Management Asia Holdings, L.P.",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Management Corporation",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ares Partners Holdco LLC",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent ACSO Institutional Holdings I Pte. Ltd.",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent ACSO Investment Management Ltd",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Capital Investments Ltd.",
+      "long_position_pct": 23.26,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Institutional Investment Management Ltd.",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAND David McKee",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PharmaTech Holdings II Ltd.",
+      "long_position_pct": 9.11,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PharmaTech Investments II Ltd.",
+      "long_position_pct": 9.11,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ressler Antony Peter",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rojanavanichkul Danai",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tech-Med Holdings III Ltd.",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Veneto Holdings Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Celaeno Group Limited",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Crescent China Investment Management Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 38.65,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 44.74,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 38.65,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 44.74,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Crescent China Investment Management Ltd.",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fangrong Management Limited",
+      "long_position_pct": 17.79,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAND David McKee",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tech-Med Cayman III Ltd.",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tech-Med Investments (S) Pte. Ltd.",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 48.35,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 48.35,
+      "relevant_event_date": "2026-02-02",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 46.61,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 46.61,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2026-01-16",
+      "filing_date": "2026-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 53.08,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 53.08,
+      "relevant_event_date": "2025-10-31",
+      "filing_date": "2025-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Holdings Limited",
+      "long_position_pct": 3.6,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Investments Ltd.",
+      "long_position_pct": 3.6,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Hong Kong) Limited",
+      "long_position_pct": 3.6,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 55.32,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 55.32,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Holdings Limited",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Investments Ltd.",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fangrong Management Limited",
+      "long_position_pct": 18.62,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Vistra Trust (Hong Kong) Limited",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 55.32,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 55.84,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 55.32,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 55.84,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fangrong Management Limited",
+      "long_position_pct": 19.14,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 56.67,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 56.67,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Holdings Limited",
+      "long_position_pct": 8.72,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Tech Investments Ltd.",
+      "long_position_pct": 8.72,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Celaeno Group Limited",
+      "long_position_pct": 13.89,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CP Pharmatech Singapore Pte. Ltd.",
+      "long_position_pct": 9.41,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent ACSO Investment Management Ltd",
+      "long_position_pct": 8.59,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent China Investment Management Ltd.",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Crescent Trident Singapore Pte. Ltd.",
+      "long_position_pct": 8.59,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fangrong Management Limited",
+      "long_position_pct": 19.81,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAND David McKee",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rojanavanichkul Danai",
+      "long_position_pct": 19.74,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tech-Med Cayman III Ltd.",
+      "long_position_pct": 10.33,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tech-Med Investments (S) Pte. Ltd.",
+      "long_position_pct": 10.33,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Veneto Holdings Ltd.",
+      "long_position_pct": 19.74,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Hong Kong) Limited",
+      "long_position_pct": 8.72,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 57.34,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Feng",
+      "long_position_pct": 57.34,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

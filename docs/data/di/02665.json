@@ -1,0 +1,435 @@
+{
+  "code": "02665",
+  "name": "SEYOND HOLDINGS LTD.",
+  "last_scraped": "2026-06-16T23:40:22Z",
+  "shareholders": [
+    {
+      "name": "Bao Junwei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 243370608,
+      "long_position_pct": 18.73,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ease Win Enterprises Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 148132947,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Epic Investment International Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 148132947,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI BIN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 148132947,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHU YAN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 148132947,
+      "long_position_pct": 11.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Eve One L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 124323359,
+      "long_position_pct": 9.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Honour Key Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 124323359,
+      "long_position_pct": 9.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NIO Capital LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 124323359,
+      "long_position_pct": 9.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NIO Capital Partners LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 124323359,
+      "long_position_pct": 9.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Phthalo Blue LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 109708072,
+      "long_position_pct": 8.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FMR LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 84424665,
+      "long_position_pct": 6.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 84424665,
+      "long_position_pct": 6.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 84424665,
+      "long_position_pct": 6.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 84424665,
+      "long_position_pct": 6.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dahlia Investments Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65512810,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Temasek Holdings (Private) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65512810,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tembusu Capital Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65512810,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Thomson Capital Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 65512810,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Ease Win Enterprises Limited",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Epic Investment International Ltd.",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eve One L.P.",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Honour Key Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NIO Capital LLC",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NIO Capital Partners LLC",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU YAN",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bao Junwei",
+      "long_position_pct": 18.73,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dahlia Investments Pte. Ltd.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ease Win Enterprises Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eve One L.P.",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Honour Key Limited",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 11.41,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NIO Capital LLC",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NIO Capital Partners LLC",
+      "long_position_pct": 9.57,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Phthalo Blue LLC",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Temasek Holdings (Private) Limited",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tembusu Capital Pte. Ltd.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Thomson Capital Pte. Ltd.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

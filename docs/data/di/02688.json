@@ -1,8 +1,34 @@
 {
   "code": "02688",
   "name": "ENN ENERGY HOLDINGS LTD.",
-  "last_scraped": "2026-06-15T23:51:54Z",
+  "last_scraped": "2026-06-16T23:41:01Z",
   "shareholders": [
+    {
+      "name": "WANG YUSUO",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 391018034,
+      "long_position_pct": 34.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHAO BAOJU",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 391018034,
+      "long_position_pct": 34.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
     {
       "name": "ENN Capital Management Co., Ltd.",
       "capacity": "Beneficial Owner",
@@ -82,19 +108,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "WANG YUSUO",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 387768034,
-      "long_position_pct": 34.28,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-03-18",
-      "filing_date": "2025-03-18",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
       "name": "Xinneng (Hong Kong) Energy Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -105,19 +118,6 @@
       "relevant_event_date": "2024-12-31",
       "filing_date": "2024-12-31",
       "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "ZHAO BAOJU",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 387768034,
-      "long_position_pct": 34.28,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-03-18",
-      "filing_date": "2025-03-18",
-      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -148,6 +148,38 @@
     }
   ],
   "history": [
+    {
+      "name": "WANG YUSUO",
+      "long_position_pct": 34.55,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO BAOJU",
+      "long_position_pct": 34.55,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG YUSUO",
+      "long_position_pct": 34.46,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO BAOJU",
+      "long_position_pct": 34.46,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 8.14,

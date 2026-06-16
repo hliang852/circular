@@ -1,0 +1,1775 @@
+{
+  "code": "01458",
+  "name": "ZHOU HEI YA INTERNATIONAL HOLDINGS CO. LTD.",
+  "last_scraped": "2026-06-16T23:30:14Z",
+  "shareholders": [
+    {
+      "name": "tang jianfang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1358470940,
+      "long_position_pct": 65.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "zhou fuyu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1358470940,
+      "long_position_pct": 65.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1230372300,
+      "long_position_pct": 58.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1230372300,
+      "long_position_pct": 58.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1197892000,
+      "long_position_pct": 57.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHY Holdings IV Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 122527140,
+      "long_position_pct": 5.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 57.56,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 65.28,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 65.28,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 56.69,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 64.29,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 64.29,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 56.97,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 55.47,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 62.9,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 62.9,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 56.97,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2025-01-27",
+      "filing_date": "2025-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 54.0,
+      "relevant_event_date": "2025-01-27",
+      "filing_date": "2025-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 61.24,
+      "relevant_event_date": "2025-01-27",
+      "filing_date": "2025-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 61.24,
+      "relevant_event_date": "2025-01-27",
+      "filing_date": "2025-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2025-01-27",
+      "filing_date": "2025-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 54.25,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 59.9,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 59.9,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 54.25,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 52.86,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 51.47,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 58.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 58.37,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 52.86,
+      "relevant_event_date": "2024-05-27",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.27,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 51.63,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2023-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.27,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 57.0,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 57.0,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2023-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 51.63,
+      "relevant_event_date": "2023-11-06",
+      "filing_date": "2023-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2023-09-26",
+      "filing_date": "2023-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 57.57,
+      "relevant_event_date": "2023-09-02",
+      "filing_date": "2023-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.81,
+      "relevant_event_date": "2023-05-16",
+      "filing_date": "2023-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 0.73,
+      "relevant_event_date": "2023-03-01",
+      "filing_date": "2023-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.23,
+      "relevant_event_date": "2023-02-27",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2023-02-24",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2023-01-13",
+      "filing_date": "2023-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2023-01-12",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.81,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.01,
+      "relevant_event_date": "2023-01-09",
+      "filing_date": "2023-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.01,
+      "relevant_event_date": "2022-10-07",
+      "filing_date": "2022-10-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2022-09-06",
+      "filing_date": "2022-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2022-08-26",
+      "filing_date": "2022-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 52.17,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2022-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.81,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 57.55,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 57.55,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 52.17,
+      "relevant_event_date": "2022-08-24",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-08-19",
+      "filing_date": "2022-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2022-08-18",
+      "filing_date": "2022-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-08-05",
+      "filing_date": "2022-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2022-08-02",
+      "filing_date": "2022-08-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2022-08-01",
+      "filing_date": "2022-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2022-07-22",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.56,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 57.29,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 57.29,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.51,
+      "relevant_event_date": "2022-07-18",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2022-07-18",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2022-07-18",
+      "filing_date": "2022-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 57.25,
+      "relevant_event_date": "2022-07-18",
+      "filing_date": "2022-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2022-07-01",
+      "filing_date": "2022-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2022-06-17",
+      "filing_date": "2022-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2022-06-08",
+      "filing_date": "2022-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2022-06-07",
+      "filing_date": "2022-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2022-06-03",
+      "filing_date": "2022-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2022-05-24",
+      "filing_date": "2022-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.33,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-05-16",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2022-05-11",
+      "filing_date": "2022-05-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 51.37,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2022-04-29",
+      "filing_date": "2022-05-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2022-04-27",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.01,
+      "relevant_event_date": "2022-04-27",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2022-04-26",
+      "filing_date": "2022-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2022-04-18",
+      "filing_date": "2022-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2022-04-08",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 51.37,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2022-03-31",
+      "filing_date": "2022-04-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2022-03-25",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2022-03-24",
+      "filing_date": "2022-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2022-03-23",
+      "filing_date": "2022-03-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2022-03-22",
+      "filing_date": "2022-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-03-18",
+      "filing_date": "2022-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2022-03-09",
+      "filing_date": "2022-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2022-03-04",
+      "filing_date": "2022-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-02-23",
+      "filing_date": "2022-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2022-02-18",
+      "filing_date": "2022-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2022-02-07",
+      "filing_date": "2022-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2022-02-03",
+      "filing_date": "2022-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2022-01-06",
+      "filing_date": "2022-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2022-01-04",
+      "filing_date": "2022-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2022-01-03",
+      "filing_date": "2022-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2021-10-29",
+      "filing_date": "2021-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2021-10-28",
+      "filing_date": "2021-11-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2021-10-26",
+      "filing_date": "2021-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2021-10-05",
+      "filing_date": "2021-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2021-09-29",
+      "filing_date": "2021-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2021-09-22",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2021-09-17",
+      "filing_date": "2021-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2021-09-10",
+      "filing_date": "2021-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2021-09-07",
+      "filing_date": "2021-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2021-08-27",
+      "filing_date": "2021-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2021-08-25",
+      "filing_date": "2021-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2021-08-23",
+      "filing_date": "2021-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY Holdings IV Company Limited",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 59.72,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 59.72,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHY Holdings IV Company Limited",
+      "long_position_pct": 8.11,
+      "relevant_event_date": "2021-06-18",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2021-05-25",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PING",
+      "long_position_pct": 4.66,
+      "relevant_event_date": "2021-05-13",
+      "filing_date": "2021-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY Holdings III Company Limited",
+      "long_position_pct": 4.66,
+      "relevant_event_date": "2021-05-13",
+      "filing_date": "2021-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 51.37,
+      "relevant_event_date": "2021-05-04",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "tang jianfang",
+      "long_position_pct": 62.05,
+      "relevant_event_date": "2021-05-04",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "zhou fuyu",
+      "long_position_pct": 62.05,
+      "relevant_event_date": "2021-05-04",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.01,
+      "relevant_event_date": "2021-04-28",
+      "filing_date": "2021-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.53,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2021-03-11",
+      "filing_date": "2021-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.26,
+      "relevant_event_date": "2021-03-05",
+      "filing_date": "2021-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2021-02-24",
+      "filing_date": "2021-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.32,
+      "relevant_event_date": "2021-02-11",
+      "filing_date": "2021-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.56,
+      "relevant_event_date": "2021-02-08",
+      "filing_date": "2021-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.16,
+      "relevant_event_date": "2021-02-05",
+      "filing_date": "2021-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 9.07,
+      "relevant_event_date": "2021-02-03",
+      "filing_date": "2021-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2021-01-29",
+      "filing_date": "2021-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.73,
+      "relevant_event_date": "2021-01-26",
+      "filing_date": "2021-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2021-01-18",
+      "filing_date": "2022-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.24,
+      "relevant_event_date": "2021-01-15",
+      "filing_date": "2021-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.68,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-11-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2020-11-23",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2020-11-05",
+      "filing_date": "2020-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2020-10-29",
+      "filing_date": "2020-11-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 62.05,
+      "relevant_event_date": "2020-09-14",
+      "filing_date": "2020-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 62.05,
+      "relevant_event_date": "2020-09-14",
+      "filing_date": "2020-09-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 0.73,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2020-01-17",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2020-01-14",
+      "filing_date": "2020-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 61.97,
+      "relevant_event_date": "2019-09-23",
+      "filing_date": "2019-09-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.97,
+      "relevant_event_date": "2019-09-23",
+      "filing_date": "2019-09-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 61.96,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.96,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 61.96,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.96,
+      "relevant_event_date": "2019-09-12",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang jianfang",
+      "long_position_pct": 61.94,
+      "relevant_event_date": "2019-09-11",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.94,
+      "relevant_event_date": "2019-09-11",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.93,
+      "relevant_event_date": "2019-09-10",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.93,
+      "relevant_event_date": "2019-09-10",
+      "filing_date": "2019-09-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.89,
+      "relevant_event_date": "2019-05-30",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.89,
+      "relevant_event_date": "2019-05-30",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.89,
+      "relevant_event_date": "2019-05-30",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.89,
+      "relevant_event_date": "2019-05-30",
+      "filing_date": "2019-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 50.0,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.88,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.86,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.88,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.88,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.86,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.88,
+      "relevant_event_date": "2019-05-28",
+      "filing_date": "2019-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yonghua",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2019-04-17",
+      "filing_date": "2019-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2019-01-10",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2019-01-10",
+      "filing_date": "2019-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 51.34,
+      "relevant_event_date": "2018-12-18",
+      "filing_date": "2018-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2018-12-18",
+      "filing_date": "2018-12-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHY X Holdings Co., Limited",
+      "long_position_pct": 51.34,
+      "relevant_event_date": "2018-12-18",
+      "filing_date": "2018-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.85,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Healthy Origin Holdings Limited",
+      "long_position_pct": 49.97,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2017-09-21",
+      "filing_date": "2017-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2017-09-14",
+      "filing_date": "2017-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2017-09-08",
+      "filing_date": "2017-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2017-09-04",
+      "filing_date": "2017-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2017-09-04",
+      "filing_date": "2017-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.84,
+      "relevant_event_date": "2017-09-04",
+      "filing_date": "2017-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.83,
+      "relevant_event_date": "2017-08-31",
+      "filing_date": "2017-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.83,
+      "relevant_event_date": "2017-08-31",
+      "filing_date": "2017-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tang Jianfang",
+      "long_position_pct": 61.8,
+      "relevant_event_date": "2017-08-30",
+      "filing_date": "2017-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Fuyu",
+      "long_position_pct": 61.8,
+      "relevant_event_date": "2017-08-30",
+      "filing_date": "2017-09-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2017-08-10",
+      "filing_date": "2017-08-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 10.07,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 10.1,
+      "relevant_event_date": "2017-07-03",
+      "filing_date": "2017-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

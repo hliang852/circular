@@ -1,7 +1,7 @@
 {
   "code": "00419",
   "name": "HONY MEDIA GROUP",
-  "last_scraped": "2026-05-29T23:10:30Z",
+  "last_scraped": "2026-06-16T23:22:19Z",
   "shareholders": [
     {
       "name": "Huayi Brothers International Limited",
@@ -17,16 +17,16 @@
       "notice_type": "Current"
     },
     {
-      "name": "YUEN HOI PO",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 2397340107,
-      "long_position_pct": 16.17,
+      "name": "YUEN Hoi Po",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 239734010,
+      "long_position_pct": 15.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-28",
-      "filing_date": "2025-11-28",
-      "form_type": "Form 3A",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -46,12 +46,12 @@
       "name": "Smart Concept Enterprise Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1938030107,
-      "long_position_pct": 13.08,
+      "long_position_shares": 193803010,
+      "long_position_pct": 12.15,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-28",
-      "filing_date": "2025-11-28",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -213,6 +213,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Smart Concept Enterprise Limited",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YUEN Hoi Po",
+      "long_position_pct": 15.03,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "LIU DONGWEI",
       "long_position_pct": 7.59,

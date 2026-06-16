@@ -1,18 +1,18 @@
 {
   "code": "00732",
   "name": "TRULY INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-05-19T23:01:06Z",
+  "last_scraped": "2026-06-16T23:23:33Z",
   "shareholders": [
     {
       "name": "Chung King Yee, Cecilia",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 1702236000,
-      "long_position_pct": 57.54,
+      "long_position_pct": 57.76,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -21,16 +21,32 @@
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 1702236000,
-      "long_position_pct": 57.54,
+      "long_position_pct": 57.76,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 3A",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Chung King Yee, Cecilia",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Wai Wah",
+      "long_position_pct": 57.76,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Chung King Yee, Cecilia",
       "long_position_pct": 57.54,

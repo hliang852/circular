@@ -1,7 +1,7 @@
 {
   "code": "00839",
   "name": "CHINA EDUCATION GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-06-01T23:28:21Z",
+  "last_scraped": "2026-06-16T23:25:30Z",
   "shareholders": [
     {
       "name": "Blue Sky Education International Limited",
@@ -111,17 +111,25 @@
       "name": "COBAS ASSET MANAGEMENT, SGIIC, S.A.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 140365198,
-      "long_position_pct": 5.01,
+      "long_position_shares": 169642643,
+      "long_position_pct": 6.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "COBAS ASSET MANAGEMENT, SGIIC, S.A.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "COBAS ASSET MANAGEMENT, SGIIC, S.A.",
       "long_position_pct": 5.01,

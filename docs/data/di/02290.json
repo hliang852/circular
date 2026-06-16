@@ -1,0 +1,114 @@
+{
+  "code": "02290",
+  "name": "LUNG FUNG GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-06-16T23:36:01Z",
+  "shareholders": [
+    {
+      "name": "Chan Yuen Fong Shirley",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 375000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TSE Chui Ying",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 375000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TSE Siu Hoi",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 375000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TSUI Chak Ming Joseph",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 375000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TTK Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 375000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chan Yuen Fong Shirley",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE Chui Ying",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSE Siu Hoi",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TSUI Chak Ming Joseph",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TTK Holding Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

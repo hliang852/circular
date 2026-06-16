@@ -1,7 +1,7 @@
 {
   "code": "00737",
   "name": "SHENZHEN INVESTMENT HOLDINGS BAY AREA DEVELOPMENT CO. LTD.",
-  "last_scraped": "2026-06-15T23:34:08Z",
+  "last_scraped": "2026-06-16T23:23:48Z",
   "shareholders": [
     {
       "name": "Shenzhen Expressway Corporation Limited",
@@ -158,9 +158,30 @@
       "filing_date": "2018-08-13",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "山东高速（香港）投资有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 290000000,
+      "long_position_pct": 9.4,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "山东高速（香港）投资有限公司",
+      "long_position_pct": 9.4,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Shenzhen Expressway Corporation Limited",
       "long_position_pct": 79.98,

@@ -1,7 +1,7 @@
 {
   "code": "01134",
   "name": "KELFRED HOLDINGS LTD.",
-  "last_scraped": "2026-06-11T23:28:57Z",
+  "last_scraped": "2026-06-16T23:28:16Z",
   "shareholders": [
     {
       "name": "Chan Yin Wah",
@@ -119,6 +119,19 @@
       "filing_date": "2024-11-13",
       "form_type": "Form 1",
       "notice_type": "Current"
+    },
+    {
+      "name": "Tam Man Yee",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 25000000,
+      "long_position_pct": 5.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -177,6 +190,14 @@
       "filing_date": "2026-06-11",
       "form_type": "Form 1",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Tam Man Yee",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
     },
     {
       "name": "Chan Yin Wah",

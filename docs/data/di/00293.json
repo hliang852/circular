@@ -1,7 +1,7 @@
 {
   "code": "00293",
   "name": "CATHAY PACIFIC AIRWAYS LTD.",
-  "last_scraped": "2026-06-15T23:31:26Z",
+  "last_scraped": "2026-06-16T23:21:04Z",
   "shareholders": [
     {
       "name": "Air China Limited",
@@ -95,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635711714,
+      "long_position_pct": 10.45,
+      "short_position_shares": 154638225,
+      "short_position_pct": 2.54,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Qatar Airways Group Q.C.S.C.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -124,12 +137,12 @@
       "name": "HSBC Holdings plc",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 362035031,
-      "long_position_pct": 5.95,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "long_position_shares": 381428574,
+      "long_position_pct": 6.27,
+      "short_position_shares": 204745226,
+      "short_position_pct": 3.36,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -140,6 +153,22 @@
       "long_position_pct": 75.09,
       "relevant_event_date": "2026-06-10",
       "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.45,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

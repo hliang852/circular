@@ -1,18 +1,18 @@
 {
   "code": "00823",
   "name": "LINK REAL ESTATE INVESTMENT TRUST",
-  "last_scraped": "2026-06-15T23:34:50Z",
+  "last_scraped": "2026-06-16T23:24:36Z",
   "shareholders": [
     {
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 244988913,
-      "long_position_pct": 9.36,
+      "long_position_shares": 244634770,
+      "long_position_pct": 9.35,
       "short_position_shares": 4514276,
       "short_position_pct": 0.17,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -44,6 +44,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.35,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 9.36,

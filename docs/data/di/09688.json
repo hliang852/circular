@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-16T00:00:27Z",
+  "last_scraped": "2026-06-16T23:48:39Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -95,19 +95,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "FMR LLC",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 58260471,
-      "long_position_pct": 5.14,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Kolchinsky Anna Inge Leonore Haas",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -171,6 +158,19 @@
       "filing_date": "2026-03-31",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "FMR LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 57074501,
+      "long_position_pct": 5.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -179,6 +179,14 @@
       "long_position_pct": 5.22,
       "relevant_event_date": "2026-06-11",
       "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Change"
     },
