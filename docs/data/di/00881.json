@@ -1,7 +1,7 @@
 {
   "code": "00881",
   "name": "ZHONGSHENG GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-06-02T23:36:32Z",
+  "last_scraped": "2026-06-15T23:35:53Z",
   "shareholders": [
     {
       "name": "Mountain Bright Limited",
@@ -215,17 +215,25 @@
       "name": "Pzena Investment Management, LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 163031110,
-      "long_position_pct": 6.89,
+      "long_position_shares": 166809220,
+      "long_position_pct": 7.05,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Pzena Investment Management, LLC",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Jardine Matheson Holdings Limited",
       "long_position_pct": 14.31,

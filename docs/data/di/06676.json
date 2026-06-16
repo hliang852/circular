@@ -1,7 +1,7 @@
 {
   "code": "06676",
   "name": "ZG GROUP - W",
-  "last_scraped": "2026-06-11T23:50:07Z",
+  "last_scraped": "2026-06-15T23:55:46Z",
   "shareholders": [
     {
       "name": "Jeremy Global Development Limited",
@@ -267,12 +267,12 @@
       "name": "MPC GPGP II Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 60372266,
-      "long_position_pct": 6.85,
+      "long_position_shares": 52852266,
+      "long_position_pct": 5.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -280,12 +280,12 @@
       "name": "MPC Management II L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 60372266,
-      "long_position_pct": 6.85,
+      "long_position_shares": 52852266,
+      "long_position_pct": 5.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -293,12 +293,12 @@
       "name": "Su David Tuong Sing",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 60372266,
-      "long_position_pct": 6.85,
+      "long_position_shares": 52852266,
+      "long_position_pct": 5.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -389,6 +389,30 @@
       "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "MPC GPGP II Ltd.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MPC Management II L.P.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Su David Tuong Sing",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
     },
     {
       "name": "MPC II L.P.",

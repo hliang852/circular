@@ -1,18 +1,31 @@
 {
   "code": "00823",
   "name": "LINK REAL ESTATE INVESTMENT TRUST",
-  "last_scraped": "2026-06-12T23:16:20Z",
+  "last_scraped": "2026-06-15T23:34:50Z",
   "shareholders": [
     {
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 235694531,
-      "long_position_pct": 9.01,
-      "short_position_shares": 5918776,
-      "short_position_pct": 0.23,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 244988913,
+      "long_position_pct": 9.36,
+      "short_position_shares": 4514276,
+      "short_position_pct": 0.17,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 170497050,
+      "long_position_pct": 6.56,
+      "short_position_shares": 70570661,
+      "short_position_pct": 2.71,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -28,22 +41,25 @@
       "filing_date": "2019-11-27",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Citigroup Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 137308897,
-      "long_position_pct": 5.28,
-      "short_position_shares": 37855541,
-      "short_position_pct": 1.45,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 9.36,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 4.63,

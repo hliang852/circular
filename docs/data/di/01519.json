@@ -1,7 +1,7 @@
 {
   "code": "01519",
   "name": "J&T GLOBAL EXPRESS LTD. - W",
-  "last_scraped": "2026-06-12T23:24:37Z",
+  "last_scraped": "2026-06-15T23:42:33Z",
   "shareholders": [
     {
       "name": "Exceeding Summit Holding Limited",
@@ -52,19 +52,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2024-11-15",
       "filing_date": "2024-11-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "順豐控股股份有限公司 (S.F. Holding Co., Ltd.)",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 984663763,
-      "long_position_pct": 12.3,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-15",
-      "filing_date": "2026-01-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -236,19 +223,6 @@
       "filing_date": "2024-05-17",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 405191538,
-      "long_position_pct": 5.08,
-      "short_position_shares": 68959105,
-      "short_position_pct": 0.86,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
@@ -271,6 +245,14 @@
     {
       "name": "順豐控股股份有限公司  (S.F. Holding Co., Ltd.)",
       "long_position_pct": 11.06,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.69,
       "relevant_event_date": "2026-06-09",
       "filing_date": "2026-06-12",
       "form_type": "Form 2",

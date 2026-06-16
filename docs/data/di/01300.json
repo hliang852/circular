@@ -1,7 +1,7 @@
 {
   "code": "01300",
   "name": "TRIGIANT GROUP LTD.",
-  "last_scraped": "2026-06-12T23:22:31Z",
+  "last_scraped": "2026-06-15T23:41:13Z",
   "shareholders": [
     {
       "name": "Abraholme International Limited",
@@ -95,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "Shenzhen Investment Holdings Co., Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 280000000,
+      "long_position_pct": 15.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Artemis Delight Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -140,6 +153,14 @@
       "long_position_pct": 16.52,
       "relevant_event_date": "2026-06-10",
       "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shenzhen Investment Holdings Co., Ltd",
+      "long_position_pct": 15.84,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

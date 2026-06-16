@@ -1,0 +1,502 @@
+{
+  "code": "00929",
+  "name": "IPE GROUP LTD.",
+  "last_scraped": "2026-06-15T23:36:32Z",
+  "shareholders": [
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 577721250,
+      "long_position_pct": 54.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 577281250,
+      "long_position_pct": 54.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 557721250,
+      "long_position_pct": 53.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 557721250,
+      "long_position_pct": 53.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHUI SIU ON",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 184668225,
+      "long_position_pct": 17.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chui Siu On",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 182668225,
+      "long_position_pct": 17.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-03-07",
+      "filing_date": "2019-03-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 135000000,
+      "long_position_pct": 12.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-01",
+      "filing_date": "2026-03-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chui Siu On",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 64205725,
+      "long_position_pct": 6.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 64205725,
+      "long_position_pct": 6.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tottenhill Ltd",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "long_position_pct": 12.82,
+      "relevant_event_date": "2026-03-01",
+      "filing_date": "2026-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 54.9,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tottenhill Ltd",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tottenhill Ltd",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "long_position_pct": 14.73,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 54.86,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.96,
+      "relevant_event_date": "2023-07-10",
+      "filing_date": "2023-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.96,
+      "relevant_event_date": "2023-07-10",
+      "filing_date": "2023-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2022-09-01",
+      "filing_date": "2023-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "long_position_pct": 12.07,
+      "relevant_event_date": "2022-05-03",
+      "filing_date": "2022-05-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 11.71,
+      "relevant_event_date": "2022-01-05",
+      "filing_date": "2022-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "long_position_pct": 11.71,
+      "relevant_event_date": "2022-01-05",
+      "filing_date": "2022-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tottenhill Ltd",
+      "long_position_pct": 10.37,
+      "relevant_event_date": "2022-01-05",
+      "filing_date": "2022-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 12.54,
+      "relevant_event_date": "2021-12-03",
+      "filing_date": "2021-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung Wing Yi",
+      "long_position_pct": 12.54,
+      "relevant_event_date": "2021-12-03",
+      "filing_date": "2021-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Tottenhill Ltd",
+      "long_position_pct": 11.2,
+      "relevant_event_date": "2021-12-03",
+      "filing_date": "2021-12-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zeng Guang Sheng",
+      "long_position_pct": 8.7,
+      "relevant_event_date": "2021-12-03",
+      "filing_date": "2021-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.75,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.67,
+      "relevant_event_date": "2021-01-07",
+      "filing_date": "2021-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.67,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.67,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2020-09-01",
+      "filing_date": "2020-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2020-09-01",
+      "filing_date": "2020-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2020-07-16",
+      "filing_date": "2020-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2020-07-16",
+      "filing_date": "2020-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-07-09",
+      "filing_date": "2020-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-07-09",
+      "filing_date": "2020-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-06-17",
+      "filing_date": "2020-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-06-17",
+      "filing_date": "2020-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.6,
+      "relevant_event_date": "2020-06-12",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 53.0,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 53.0,
+      "relevant_event_date": "2019-07-18",
+      "filing_date": "2019-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chui Siu On",
+      "long_position_pct": 17.36,
+      "relevant_event_date": "2019-03-07",
+      "filing_date": "2020-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "CHUI SIU ON",
+      "long_position_pct": 17.55,
+      "relevant_event_date": "2018-10-29",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Baoan Technology Company Limited 寶安科技有限公司",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2017-09-25",
+      "filing_date": "2017-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Baoan Group Co., Ltd 中國寶安集團股份有限公司",
+      "long_position_pct": 51.04,
+      "relevant_event_date": "2017-09-25",
+      "filing_date": "2017-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

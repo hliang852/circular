@@ -1,18 +1,18 @@
 {
   "code": "01104",
   "name": "APAC RESOURCES LTD.",
-  "last_scraped": "2026-06-03T23:37:43Z",
+  "last_scraped": "2026-06-15T23:39:29Z",
   "shareholders": [
     {
       "name": "Allied Group Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 1087691310,
-      "long_position_pct": 72.81,
+      "long_position_pct": 72.73,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 1087691310,
-      "long_position_pct": 72.81,
+      "long_position_pct": 72.73,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 1087691310,
-      "long_position_pct": 72.81,
+      "long_position_pct": 72.73,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -47,11 +47,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 1087691310,
-      "long_position_pct": 72.81,
+      "long_position_pct": 72.73,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -119,22 +119,49 @@
       "filing_date": "2021-03-01",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "PIA Ltd",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 133280400,
-      "long_position_pct": 8.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-02-27",
-      "filing_date": "2026-02-27",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PIA Ltd",
+      "long_position_pct": 4.04,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Allied Group Limited",
       "long_position_pct": 72.81,

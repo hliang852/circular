@@ -1,7 +1,7 @@
 {
   "code": "01789",
   "name": "AK MEDICAL HOLDINGS LTD.",
-  "last_scraped": "2026-05-26T23:10:51Z",
+  "last_scraped": "2026-06-15T23:43:27Z",
   "shareholders": [
     {
       "name": "Li Zhijiang",
@@ -199,6 +199,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 71227303,
+      "long_position_pct": 6.35,
+      "short_position_shares": 55974207,
+      "short_position_pct": 4.99,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Suntop Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -208,19 +221,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2020-03-04",
       "filing_date": "2020-03-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 61535146,
-      "long_position_pct": 5.48,
-      "short_position_shares": 56299494,
-      "short_position_pct": 5.01,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -265,6 +265,22 @@
     }
   ],
   "history": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 6.49,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.48,

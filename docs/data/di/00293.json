@@ -1,7 +1,7 @@
 {
   "code": "00293",
   "name": "CATHAY PACIFIC AIRWAYS LTD.",
-  "last_scraped": "2026-06-11T23:20:40Z",
+  "last_scraped": "2026-06-15T23:31:26Z",
   "shareholders": [
     {
       "name": "Air China Limited",
@@ -119,6 +119,19 @@
       "filing_date": "2018-04-09",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 362035031,
+      "long_position_pct": 5.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -135,6 +148,14 @@
       "long_position_pct": 75.09,
       "relevant_event_date": "2026-06-09",
       "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

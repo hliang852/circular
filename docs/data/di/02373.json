@@ -1,0 +1,2502 @@
+{
+  "code": "02373",
+  "name": "BEAUTY FARM MEDICAL AND HEALTH INDUSTRY INC.",
+  "last_scraped": "2026-06-15T23:48:26Z",
+  "shareholders": [
+    {
+      "name": "Chen Xiaomei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 115236000,
+      "long_position_pct": 45.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Yang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 115236000,
+      "long_position_pct": 45.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cui Yuanjun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 115209000,
+      "long_position_pct": 45.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Fangyu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 115209000,
+      "long_position_pct": 45.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lian Songyong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 115209000,
+      "long_position_pct": 45.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Niu Guifen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 115209000,
+      "long_position_pct": 45.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yuan Huimin",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 115209000,
+      "long_position_pct": 45.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 113151500,
+      "long_position_pct": 44.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 58019500,
+      "long_position_pct": 24.52,
+      "short_position_shares": 80500,
+      "short_position_pct": 0.03,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LFYE Management Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 42571500,
+      "long_position_pct": 16.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIFY Management Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 42571500,
+      "long_position_pct": 16.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIY Management Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 35560000,
+      "long_position_pct": 14.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LYBF Management Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 35560000,
+      "long_position_pct": 14.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIANSY Family Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 35020000,
+      "long_position_pct": 13.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Meiyao Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 35020000,
+      "long_position_pct": 13.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hou Ming",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 22900989,
+      "long_position_pct": 9.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Zhenfu",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 22900989,
+      "long_position_pct": 9.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Naturade Beauty Technology Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16998000,
+      "long_position_pct": 6.76,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Naturade First Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16998000,
+      "long_position_pct": 6.76,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Naturade Forever Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16998000,
+      "long_position_pct": 6.76,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NATURADE HEALTH TECHNOLOGY COMPANY LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 16998000,
+      "long_position_pct": 6.76,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yao Qian",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 16998000,
+      "long_position_pct": 6.76,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK GP IV, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK Partners Fund IV, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK Partners GP IV, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK Partners JC IV GP, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK Partners JC IV GP, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MBK Partners JC IV, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SYL Cayman 2 Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SYL Cayman Investment Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SYL Cayman Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SYL Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15798147,
+      "long_position_pct": 6.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Guangzhou GL Capital GP L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 14834890,
+      "long_position_pct": 5.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "太保大健康产业私募投资基金(上海)合伙企业(有限合伙)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 14834890,
+      "long_position_pct": 5.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "广州德福三期投资咨询合伙企业(有限合伙)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 14834890,
+      "long_position_pct": 5.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "海南福美拾贝股权投资基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 14834890,
+      "long_position_pct": 5.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FIL Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 12619500,
+      "long_position_pct": 5.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 12619500,
+      "long_position_pct": 5.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 12619500,
+      "long_position_pct": 5.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Xiaomei",
+      "long_position_pct": 45.8,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cui Yuanjun",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 45.8,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Niu Guifen",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuan Huimin",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-02",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-04-01",
+      "filing_date": "2026-04-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 45.79,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-03-31",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-03-30",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Guangzhou GL Capital GP L.P.",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hou Ming",
+      "long_position_pct": 9.1,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LFYE Management Holdings Limited",
+      "long_position_pct": 16.92,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 45.77,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 45.78,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Zhenfu",
+      "long_position_pct": 9.1,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 45.77,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIANSY Family Holdings Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIFY Management Holdings Limited",
+      "long_position_pct": 16.92,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIY Management Holdings Limited",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LYBF Management Holdings Limited",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meiyao Holdings Limited",
+      "long_position_pct": 13.92,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade Beauty Technology Company Limited",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade First Company Limited",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade Forever Company Limited",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NATURADE HEALTH TECHNOLOGY COMPANY LIMITED",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 44.97,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Qian",
+      "long_position_pct": 6.76,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "太保大健康产业私募投资基金(上海)合伙企业(有限合伙)",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "广州德福三期投资咨询合伙企业(有限合伙)",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "海南福美拾贝股权投资基金合伙企业（有限合伙）",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2026-01-07",
+      "filing_date": "2026-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.84,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.85,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.84,
+      "relevant_event_date": "2026-01-02",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.82,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.84,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.82,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-01-02",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.81,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.82,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.81,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-08",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "LFYE Management Holdings Limited",
+      "long_position_pct": 18.01,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.79,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.8,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.79,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIFY Management Holdings Limited",
+      "long_position_pct": 18.01,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.78,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.79,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.78,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP IV, Inc.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund IV, L.P.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP IV, L.P.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC IV GP, Inc.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC IV GP, L.P.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC IV, L.P.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SYL Cayman 2 Ltd",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SYL Cayman Investment Ltd.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SYL Cayman Ltd",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SYL Holding Limited",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-10-16",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-10-13",
+      "filing_date": "2025-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 1.82,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 1.29,
+      "relevant_event_date": "2025-08-13",
+      "filing_date": "2025-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 8.39,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 9.82,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Guangzhou GL Capital GP L.P.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hou Ming",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Zhenfu",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "太保大健康产业私募投资基金(上海)合伙企业(有限合伙)",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "广州德福三期投资咨询合伙企业(有限合伙)",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "海南福美拾贝股权投资基金合伙企业（有限合伙）",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2025-06-22",
+      "filing_date": "2025-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 9.45,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 12.66,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 12.25,
+      "relevant_event_date": "2025-06-05",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 14.05,
+      "relevant_event_date": "2025-05-27",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 13.9,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naturade Beauty Technology Company Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade First Company Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade Forever Company Limited",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NATURADE HEALTH TECHNOLOGY COMPANY LIMITED",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Qian",
+      "long_position_pct": 7.21,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 17.38,
+      "relevant_event_date": "2025-02-03",
+      "filing_date": "2025-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Naturade Beauty Technology Company Limited",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade First Company Limited",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Naturade Forever Company Limited",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NATURADE HEALTH TECHNOLOGY COMPANY LIMITED",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yao Qian",
+      "long_position_pct": 6.7,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 18.87,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 22.29,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海磐信言钊投资咨询有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "天津言钊企业管理有限公司",
+      "long_position_pct": 24.57,
+      "relevant_event_date": "2024-06-24",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.6,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-05",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-05",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-05",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-04",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-04",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-07-04",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-06-23",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Xiaomei",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.59,
+      "relevant_event_date": "2023-05-29",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 24.52,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cui Yuanjun",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LFYE Management Holdings Limited",
+      "long_position_pct": 17.92,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIANSY Family Holdings Limited",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIFY Management Holdings Limited",
+      "long_position_pct": 17.92,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIY Management Holdings Limited",
+      "long_position_pct": 15.03,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meiyao Holdings Limited",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Niu Guifen",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 47.74,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuan Huimin",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信言钊投资咨询有限公司",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 24.48,
+      "relevant_event_date": "2023-02-08",
+      "filing_date": "2023-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Beijing Xinyu Meiye Holdings Limited",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cui Yuanjun",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LFYE Management Holdings Limited",
+      "long_position_pct": 18.39,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Fangyu",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yang",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lian Songyong",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIANSY Family Holdings Limited",
+      "long_position_pct": 15.19,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIFY Management Holdings Limited",
+      "long_position_pct": 18.39,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIY Management Holdings Limited",
+      "long_position_pct": 15.42,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LYBF Management Holdings Limited",
+      "long_position_pct": 15.42,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meiyao Holdings Limited",
+      "long_position_pct": 15.19,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Niu Guifen",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "THE CORE TRUST COMPANY LIMITED",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (HK) Limited",
+      "long_position_pct": 49.0,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yuan Huimin",
+      "long_position_pct": 49.87,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海信致钰远企业管理合伙企业（有限合伙）",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海宥德股权投资中心（有限合伙）",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信夹层投资管理有限公司",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐信言钊投资咨询有限公司",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海磐诺企业管理服务有限公司",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中信产业投资基金管理有限公司",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京信聿投资中心（有限合伙）",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京宥德投资管理中心（有限合伙）",
+      "long_position_pct": 25.13,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

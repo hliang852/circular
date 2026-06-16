@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-06-12T23:23:28Z",
+  "last_scraped": "2026-06-15T23:42:12Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -137,17 +137,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 273567337,
-      "long_position_pct": 5.96,
-      "short_position_shares": 93231344,
-      "short_position_pct": 2.03,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "long_position_shares": 270149836,
+      "long_position_pct": 5.89,
+      "short_position_shares": 90586844,
+      "short_position_pct": 1.97,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.96,

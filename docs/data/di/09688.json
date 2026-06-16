@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-12T23:46:50Z",
+  "last_scraped": "2026-06-16T00:00:27Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -82,6 +82,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 59200626,
+      "long_position_pct": 5.22,
+      "short_position_shares": 34197611,
+      "short_position_pct": 3.02,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -89,21 +102,8 @@
       "long_position_pct": 5.14,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 58006269,
-      "long_position_pct": 5.11,
-      "short_position_shares": 31163867,
-      "short_position_pct": 2.75,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -175,8 +175,40 @@
   ],
   "history": [
     {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "FMR LLC",
       "long_position_pct": 5.14,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2026-06-10",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 4.99,
       "relevant_event_date": "2026-06-09",
       "filing_date": "2026-06-12",
       "form_type": "Form 2",

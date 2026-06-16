@@ -1,0 +1,747 @@
+{
+  "code": "01825",
+  "name": "STERLING GROUP HOLDINGS LTD.",
+  "last_scraped": "2026-06-15T23:44:37Z",
+  "shareholders": [
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4255250,
+      "long_position_pct": 10.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sesame Capital",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39990000,
+      "long_position_pct": 5.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 10.26,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 3.95,
+      "relevant_event_date": "2024-08-19",
+      "filing_date": "2024-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetar Investment Limited",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 11.57,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetar Investment Limited",
+      "long_position_pct": 9.79,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2024-06-21",
+      "filing_date": "2024-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fetar Investment Limited",
+      "long_position_pct": 11.7,
+      "relevant_event_date": "2024-06-14",
+      "filing_date": "2024-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FETAR INVESTMENT LIMITED",
+      "long_position_pct": 16.71,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-18",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHENDA INVESTMENT LIMITED",
+      "long_position_pct": 4.72,
+      "relevant_event_date": "2023-12-14",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHENDA INVESTMENT LIMITED",
+      "long_position_pct": 6.67,
+      "relevant_event_date": "2023-07-27",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHENDA INVESTMENT LIMITED",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2023-07-06",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 20.05,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 20.05,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 20.05,
+      "relevant_event_date": "2021-07-23",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 20.18,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 20.18,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 20.18,
+      "relevant_event_date": "2021-07-22",
+      "filing_date": "2021-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 2.07,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 2.07,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 2.07,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 2.06,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 25.72,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 2.07,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 25.72,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 25.72,
+      "relevant_event_date": "2021-07-21",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 28.1,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 13.46,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 28.1,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 28.1,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 26.25,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 26.25,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 26.25,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 26.24,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 30.2,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 26.25,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 30.2,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 30.2,
+      "relevant_event_date": "2021-07-19",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Capital Star Assets Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 32.99,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mega Capital Assets Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 36.57,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 33.0,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 36.57,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 36.57,
+      "relevant_event_date": "2021-07-16",
+      "filing_date": "2021-07-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 33.57,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 33.57,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 33.57,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 37.1,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 33.57,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 37.1,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 37.1,
+      "relevant_event_date": "2021-07-15",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 37.47,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 37.47,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 37.47,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Capital Star Assets Limited",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mega Capital Assets Limited",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 37.48,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 33.98,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Siu Chi Wai",
+      "long_position_pct": 37.48,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Mei Wai Alice",
+      "long_position_pct": 37.48,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sesame Capital",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2019-03-18",
+      "filing_date": "2019-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sesame Capital",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2018-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sesame Capital",
+      "long_position_pct": 6.22,
+      "relevant_event_date": "2018-12-04",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sesame Capital",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2018-12-03",
+      "filing_date": "2018-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Angel Sense Limited",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Capital Star Assets Limited",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG SHUI LIN",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHOI SIU WAI WILLIAM",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC International Trustee Limited",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mega Capital Assets Limited",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Moonlight Global Holdings Limited",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rainbow Galaxy Limited",
+      "long_position_pct": 34.0,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SIU CHI WAI",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG MEI WAI ALICE",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}
