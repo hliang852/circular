@@ -1,7 +1,7 @@
 {
   "code": "00254",
   "name": "NATIONAL UNITED RESOURCES HOLDINGS LTD.",
-  "last_scraped": "2026-06-15T23:29:59Z",
+  "last_scraped": "2026-06-17T23:20:28Z",
   "shareholders": [
     {
       "name": "Ji Kaiping",
@@ -56,15 +56,28 @@
       "notice_type": "Current"
     },
     {
+      "name": "fu shanghui",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 58000000,
+      "long_position_pct": 8.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
       "name": "LI ZIWEI",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 40000000,
-      "long_position_pct": 7.1,
+      "long_position_pct": 5.92,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-08-19",
-      "filing_date": "2025-08-19",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
@@ -100,6 +113,22 @@
       "relevant_event_date": "2026-06-12",
       "filing_date": "2026-06-15",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "fu shanghui",
+      "long_position_pct": 8.58,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI ZIWEI",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

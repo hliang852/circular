@@ -1,18 +1,18 @@
 {
   "code": "02026",
   "name": "PONY AI INC. - W",
-  "last_scraped": "2026-06-12T23:29:39Z",
+  "last_scraped": "2026-06-17T23:39:41Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 194343981,
-      "long_position_pct": 55.14,
-      "short_position_shares": 193932602,
-      "short_position_pct": 55.02,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "long_position_shares": 194163962,
+      "long_position_pct": 55.09,
+      "short_position_shares": 193744153,
+      "short_position_pct": 54.97,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -148,6 +148,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
+      "long_position_pct": 55.09,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 6.99,

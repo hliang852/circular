@@ -1,23 +1,31 @@
 {
   "code": "00388",
   "name": "HONG KONG EXCHANGES AND CLEARING LTD.",
-  "last_scraped": "2026-05-16T08:32:48Z",
+  "last_scraped": "2026-06-17T23:22:59Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 102178464,
-      "long_position_pct": 8.05,
-      "short_position_shares": 10262672,
-      "short_position_pct": 0.8,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
+      "long_position_shares": 100807470,
+      "long_position_pct": 7.95,
+      "short_position_shares": 9739596,
+      "short_position_pct": 0.76,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.95,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 8.05,

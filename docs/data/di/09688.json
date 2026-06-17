@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-16T23:48:39Z",
+  "last_scraped": "2026-06-17T23:55:26Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -85,12 +85,25 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 59200626,
-      "long_position_pct": 5.22,
-      "short_position_shares": 34197611,
-      "short_position_pct": 3.02,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "long_position_shares": 63116888,
+      "long_position_pct": 5.57,
+      "short_position_shares": 32311889,
+      "short_position_pct": 2.85,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Morgan Stanley",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 58347205,
+      "long_position_pct": 5.14,
+      "short_position_shares": 32539437,
+      "short_position_pct": 2.86,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -174,6 +187,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 5.22,

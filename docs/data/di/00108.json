@@ -1,7 +1,7 @@
 {
   "code": "00108",
   "name": "GR LIFE STYLE COMPANY LTD.",
-  "last_scraped": "2026-06-01T23:24:16Z",
+  "last_scraped": "2026-06-17T23:20:01Z",
   "shareholders": [
     {
       "name": "Wei Chunxian",
@@ -30,32 +30,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Trident Trust Company (B.V.I.) Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 2756738877,
-      "long_position_pct": 85.63,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-02-25",
-      "filing_date": "2025-02-25",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Widewealth Company Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 2756738877,
-      "long_position_pct": 85.63,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-02-25",
-      "filing_date": "2025-02-25",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Wintime Company Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -65,6 +39,32 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2025-02-25",
       "filing_date": "2025-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (B.V.I.) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2656738877,
+      "long_position_pct": 79.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Widewealth Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2656738877,
+      "long_position_pct": 79.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-05-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -254,6 +254,22 @@
       "relevant_event_date": "2026-05-25",
       "filing_date": "2026-05-29",
       "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (B.V.I.) Limited",
+      "long_position_pct": 79.99,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Widewealth Company Limited",
+      "long_position_pct": 79.99,
+      "relevant_event_date": "2026-05-25",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

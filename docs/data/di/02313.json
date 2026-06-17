@@ -1,7 +1,7 @@
 {
   "code": "02313",
   "name": "SHENZHOU INTERNATIONAL GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-26T23:12:44Z",
+  "last_scraped": "2026-06-17T23:42:57Z",
   "shareholders": [
     {
       "name": "Ma Jianrong",
@@ -59,17 +59,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 120653648,
-      "long_position_pct": 8.02,
-      "short_position_shares": 11045637,
-      "short_position_pct": 0.73,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "long_position_shares": 135553510,
+      "long_position_pct": 9.01,
+      "short_position_shares": 13918807,
+      "short_position_pct": 0.92,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 8.02,

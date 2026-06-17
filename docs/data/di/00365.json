@@ -1,7 +1,7 @@
 {
   "code": "00365",
   "name": "SINO ICT HOLDINGS LTD.",
-  "last_scraped": "2026-06-16T23:21:40Z",
+  "last_scraped": "2026-06-17T23:22:11Z",
   "shareholders": [
     {
       "name": "Gao Shan",
@@ -173,6 +173,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "上海青芯企業管理諮詢有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "中青信投控股有限責任公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -186,6 +199,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "中青芯鑫(蘇州工業園區)資產管理有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "招商銀行股份有限公司上海張江支行 China Merchants Bank Shanghai Zhangjiang Branch",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -195,6 +221,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2019-10-18",
       "filing_date": "2019-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "芯鑫融資租賃有限責任公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 986829420,
+      "long_position_pct": 67.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -250,6 +289,30 @@
     {
       "name": "招商銀行股份有限公司上海張江支行 China Merchants Bank Shanghai Zhangjiang Branch",
       "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海青芯企業管理諮詢有限公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中青芯鑫(蘇州工業園區)資產管理有限責任公司",
+      "long_position_pct": 67.82,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "芯鑫融資租賃有限責任公司",
+      "long_position_pct": 67.82,
       "relevant_event_date": "2026-06-12",
       "filing_date": "2026-06-16",
       "form_type": "Form 2",

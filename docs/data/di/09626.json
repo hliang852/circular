@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-16T23:47:46Z",
+  "last_scraped": "2026-06-17T23:54:32Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -121,26 +121,26 @@
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
+      "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 17799225,
-      "long_position_pct": 5.15,
-      "short_position_shares": 211037,
-      "short_position_pct": 0.06,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
+      "long_position_shares": 18001097,
+      "long_position_pct": 5.34,
+      "short_position_shares": 20343074,
+      "short_position_pct": 6.03,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
-      "name": "Morgan Stanley",
+      "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 16950329,
-      "long_position_pct": 5.02,
-      "short_position_shares": 19197904,
-      "short_position_pct": 5.69,
+      "long_position_shares": 17962985,
+      "long_position_pct": 5.2,
+      "short_position_shares": 193117,
+      "short_position_pct": 0.06,
       "relevant_event_date": "2026-06-11",
       "filing_date": "2026-06-11",
       "form_type": "Form 2",
@@ -150,7 +150,31 @@
   "history": [
     {
       "name": "Morgan Stanley",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.1,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
       "long_position_pct": 5.02,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.2,
       "relevant_event_date": "2026-06-11",
       "filing_date": "2026-06-16",
       "form_type": "Form 2",

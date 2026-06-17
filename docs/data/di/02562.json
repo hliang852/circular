@@ -1,7 +1,7 @@
 {
   "code": "02562",
   "name": "SYNAGISTICS LTD.",
-  "last_scraped": "2026-06-16T23:39:20Z",
+  "last_scraped": "2026-06-17T23:45:41Z",
   "shareholders": [
     {
       "name": "Lee Shieh-Peen Clement",
@@ -14,19 +14,6 @@
       "relevant_event_date": "2025-12-25",
       "filing_date": "2025-12-25",
       "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Barclays PLC",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 43482000,
-      "long_position_pct": 9.45,
-      "short_position_shares": 2000500,
-      "short_position_pct": 0.43,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
-      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -57,6 +44,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Barclays PLC",
+      "long_position_pct": 4.54,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Barclays PLC",
+      "long_position_pct": 12.41,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Barclays PLC",
       "long_position_pct": 9.45,

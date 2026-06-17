@@ -1,7 +1,7 @@
 {
   "code": "00853",
   "name": "MICROPORT SCIENTIFIC CORPORATION",
-  "last_scraped": "2026-06-09T23:20:33Z",
+  "last_scraped": "2026-06-17T23:27:20Z",
   "shareholders": [
     {
       "name": "Maxwell Maxcare Science Foundation Limited",
@@ -59,12 +59,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 203841334,
-      "long_position_pct": 10.63,
-      "short_position_shares": 154504107,
-      "short_position_pct": 8.05,
-      "relevant_event_date": "2026-06-03",
-      "filing_date": "2026-06-03",
+      "long_position_shares": 201446169,
+      "long_position_pct": 10.5,
+      "short_position_shares": 152538424,
+      "short_position_pct": 7.95,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -291,6 +291,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 10.5,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 10.63,

@@ -1,7 +1,7 @@
 {
   "code": "00156",
   "name": "LIPPO CHINA RESOURCES LTD.",
-  "last_scraped": "2026-06-04T23:05:57Z",
+  "last_scraped": "2026-06-17T23:20:16Z",
   "shareholders": [
     {
       "name": "Hambali Aileen",
@@ -11,8 +11,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -24,8 +24,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -37,8 +37,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -50,8 +50,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -63,8 +63,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -76,8 +76,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -89,8 +89,8 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -102,9 +102,22 @@
       "long_position_pct": 73.2,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LL Capital Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 445127921,
+      "long_position_pct": 48.45,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -187,6 +200,78 @@
     }
   ],
   "history": [
+    {
+      "name": "Hambali Aileen",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leonardi Shincee",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Group Limited",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Holdings Company Limited",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lippo Capital Limited",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LL Capital Holdings Limited",
+      "long_position_pct": 48.45,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PT Trijaya Utama Mandiri",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady James Tjahaja",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riady Stephen",
+      "long_position_pct": 73.2,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Hambali Aileen",
       "long_position_pct": 73.2,

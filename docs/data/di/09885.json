@@ -1,7 +1,7 @@
 {
   "code": "09885",
   "name": "YSB INC.",
-  "last_scraped": "2026-06-11T23:55:56Z",
+  "last_scraped": "2026-06-17T23:56:46Z",
   "shareholders": [
     {
       "name": "Zhang Buzhen",
@@ -111,12 +111,12 @@
       "name": "Chu Mang Yee",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 68497584,
-      "long_position_pct": 9.95,
+      "long_position_shares": 61510584,
+      "long_position_pct": 8.94,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -124,12 +124,12 @@
       "name": "Sounda Properties Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 68497584,
-      "long_position_pct": 9.95,
+      "long_position_shares": 61510584,
+      "long_position_pct": 8.94,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-01",
-      "filing_date": "2026-06-01",
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -280,17 +280,41 @@
       "name": "Futu Trustee Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 34564815,
-      "long_position_pct": 5.02,
+      "long_position_shares": 41303615,
+      "long_position_pct": 6.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Chu Mang Yee",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Sounda Properties Limited",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Meta Group Limited",
       "long_position_pct": 6.97,

@@ -1,7 +1,7 @@
 {
   "code": "09988",
   "name": "ALIBABA GROUP HOLDING LTD. - W",
-  "last_scraped": "2026-06-16T00:01:59Z",
+  "last_scraped": "2026-06-17T23:57:45Z",
   "shareholders": [
     {
       "name": "Shiodome Project 17 GK",
@@ -30,19 +30,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 983512344,
-      "long_position_pct": 5.16,
-      "short_position_shares": 3297800,
-      "short_position_pct": 0.02,
-      "relevant_event_date": "2025-06-13",
-      "filing_date": "2025-06-13",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -57,6 +44,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-06-11",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Citigroup Inc.",
       "long_position_pct": 5.1,
