@@ -1,7 +1,7 @@
 {
   "code": "00419",
   "name": "HONY MEDIA GROUP",
-  "last_scraped": "2026-06-16T23:22:19Z",
+  "last_scraped": "2026-06-18T23:45:39Z",
   "shareholders": [
     {
       "name": "Huayi Brothers International Limited",
@@ -33,12 +33,12 @@
       "name": "Tencent Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 2116251467,
-      "long_position_pct": 14.88,
+      "long_position_shares": 207505146,
+      "long_position_pct": 13.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-17",
-      "filing_date": "2025-11-17",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -53,32 +53,6 @@
       "relevant_event_date": "2026-06-15",
       "filing_date": "2026-06-15",
       "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Greater Harmony Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1262000000,
-      "long_position_pct": 9.35,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2020-11-13",
-      "filing_date": "2020-11-13",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "KO CHUN SHUN JOHNSON",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 1262000000,
-      "long_position_pct": 9.35,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2020-11-13",
-      "filing_date": "2020-11-13",
-      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -199,15 +173,41 @@
       "notice_type": "Current"
     },
     {
+      "name": "Greater Harmony Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 126200000,
+      "long_position_pct": 7.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "KO CHUN SHUN JOHNSON",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 126200000,
+      "long_position_pct": 7.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "LIU DONGWEI",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 112500000,
-      "long_position_pct": 7.59,
+      "long_position_pct": 7.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 1",
       "notice_type": "Current"
     }
@@ -227,6 +227,38 @@
       "relevant_event_date": "2026-06-15",
       "filing_date": "2026-06-16",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Harmony Limited",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KO CHUN SHUN JOHNSON",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU DONGWEI",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 13.01,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

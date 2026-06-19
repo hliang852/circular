@@ -1,7 +1,7 @@
 {
   "code": "00101",
   "name": "HANG LUNG PROPERTIES LTD.",
-  "last_scraped": "2026-06-17T23:19:48Z",
+  "last_scraped": "2026-06-18T23:43:15Z",
   "shareholders": [
     {
       "name": "CHAN Adriel Wenbwo",
@@ -20,12 +20,12 @@
       "name": "Chan Tan Ching Fen",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 3318864919,
-      "long_position_pct": 65.63,
+      "long_position_shares": 3464142255,
+      "long_position_pct": 66.58,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-09-24",
-      "filing_date": "2025-09-24",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Cole Enterprises Holdings (PTC) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 3318864919,
-      "long_position_pct": 65.63,
+      "long_position_shares": 3464142255,
+      "long_position_pct": 66.58,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-09-24",
-      "filing_date": "2025-09-24",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Merssion Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 3318864919,
-      "long_position_pct": 65.63,
+      "long_position_shares": 3464142255,
+      "long_position_pct": 66.58,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-09-24",
-      "filing_date": "2025-09-24",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,30 @@
       "long_position_pct": 6.73,
       "relevant_event_date": "2026-06-15",
       "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tan Ching Fen",
+      "long_position_pct": 66.58,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cole Enterprises Holdings (PTC) Limited",
+      "long_position_pct": 66.58,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Merssion Limited",
+      "long_position_pct": 66.58,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

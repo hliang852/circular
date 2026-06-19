@@ -1,7 +1,7 @@
 {
   "code": "09690",
   "name": "TUHU CAR INC. - W",
-  "last_scraped": "2026-06-02T23:59:03Z",
+  "last_scraped": "2026-06-19T00:06:22Z",
   "shareholders": [
     {
       "name": "Ilnewgnay Investment Limited",
@@ -72,12 +72,12 @@
       "name": "Eminent Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 61123263,
-      "long_position_pct": 8.04,
+      "long_position_shares": 68407363,
+      "long_position_pct": 9.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -85,12 +85,12 @@
       "name": "TCT (BVI) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 61123263,
-      "long_position_pct": 8.04,
+      "long_position_shares": 68407363,
+      "long_position_pct": 9.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -265,6 +265,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Eminent Investment Limited",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TCT (BVI) Limited",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "THE CORE TRUST COMPANY LIMITED",
       "long_position_pct": 9.02,

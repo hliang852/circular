@@ -1,7 +1,7 @@
 {
   "code": "06868",
   "name": "TENFU (CAYMAN) HOLDINGS CO. LTD.",
-  "last_scraped": "2026-06-12T23:43:39Z",
+  "last_scraped": "2026-06-19T00:02:58Z",
   "shareholders": [
     {
       "name": "LEE CHIA LING",
@@ -176,12 +176,12 @@
       "name": "TSAI SHAN JEN",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 67317677,
-      "long_position_pct": 6.22,
+      "long_position_shares": 61321677,
+      "long_position_pct": 5.66,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-03-25",
-      "filing_date": "2026-03-25",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -200,6 +200,14 @@
     }
   ],
   "history": [
+    {
+      "name": "TSAI SHAN JEN",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "LEE CHIA LING",
       "long_position_pct": 42.04,

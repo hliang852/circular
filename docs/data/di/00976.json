@@ -1,7 +1,7 @@
 {
   "code": "00976",
   "name": "CHIHO ENVIRONMENTAL GROUP LTD.",
-  "last_scraped": "2026-05-21T23:00:59Z",
+  "last_scraped": "2026-06-18T23:48:40Z",
   "shareholders": [
     {
       "name": "Tu Jianhua",
@@ -95,6 +95,32 @@
       "notice_type": "Current"
     },
     {
+      "name": "渝商投資集團(香港)有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 737610338,
+      "long_position_pct": 45.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "渝商鳳凰资本管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 240772843,
+      "long_position_pct": 15.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "zhang mingjie",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -122,6 +148,22 @@
     }
   ],
   "history": [
+    {
+      "name": "渝商投資集團(香港)有限公司",
+      "long_position_pct": 45.95,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "渝商鳳凰资本管理有限公司",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Tu Jianhua",
       "long_position_pct": 0.0,

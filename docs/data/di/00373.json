@@ -1,18 +1,18 @@
 {
   "code": "00373",
   "name": "ALLIED GROUP LTD.",
-  "last_scraped": "2026-06-17T23:22:25Z",
+  "last_scraped": "2026-06-18T23:45:22Z",
   "shareholders": [
     {
       "name": "Lee Seng Hui",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2649897180,
-      "long_position_pct": 75.41,
+      "long_position_shares": 2650179180,
+      "long_position_pct": 75.42,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Lee Seng Huang",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 2649438760,
-      "long_position_pct": 75.4,
+      "long_position_shares": 2649720760,
+      "long_position_pct": 75.41,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Lee Su Hwei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 2649438760,
-      "long_position_pct": 75.4,
+      "long_position_shares": 2649720760,
+      "long_position_pct": 75.41,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "Cashplus Management Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1132025760,
-      "long_position_pct": 32.21,
+      "long_position_shares": 1132307760,
+      "long_position_pct": 32.22,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,12 +72,12 @@
       "name": "Zealous Developments Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1132025760,
-      "long_position_pct": 32.21,
+      "long_position_shares": 1132307760,
+      "long_position_pct": 32.22,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -161,6 +161,46 @@
     }
   ],
   "history": [
+    {
+      "name": "Cashplus Management Limited",
+      "long_position_pct": 32.22,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 75.41,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 75.42,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 75.41,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zealous Developments Limited",
+      "long_position_pct": 32.22,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Cashplus Management Limited",
       "long_position_pct": 32.21,

@@ -1,7 +1,7 @@
 {
   "code": "01661",
   "name": "CHINA FRONTIER TECHNOLOGY GROUP",
-  "last_scraped": "2026-06-17T23:36:24Z",
+  "last_scraped": "2026-06-18T23:52:40Z",
   "shareholders": [
     {
       "name": "HKND Limited",
@@ -30,32 +30,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "ND MEDICAL TECHNOLOGY LIMITED",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 29140000,
-      "long_position_pct": 15.31,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "WU MEIZHEN",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 29140000,
-      "long_position_pct": 15.31,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "Ren Guozun (Alias: Wen)",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
@@ -66,6 +40,32 @@
       "relevant_event_date": "2024-03-15",
       "filing_date": "2024-03-15",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ND MEDICAL TECHNOLOGY LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28450000,
+      "long_position_pct": 14.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WU MEIZHEN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 28450000,
+      "long_position_pct": 14.95,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -122,6 +122,22 @@
     }
   ],
   "history": [
+    {
+      "name": "ND MEDICAL TECHNOLOGY LIMITED",
+      "long_position_pct": 14.95,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WU MEIZHEN",
+      "long_position_pct": 14.95,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "ND MEDICAL TECHNOLOGY LIMITED",
       "long_position_pct": 15.31,

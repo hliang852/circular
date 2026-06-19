@@ -1,0 +1,746 @@
+{
+  "code": "08611",
+  "name": "MINDTELL TECHNOLOGY LTD.",
+  "last_scraped": "2026-06-19T00:03:42Z",
+  "shareholders": [
+    {
+      "name": "Chong Yee Ping",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 25.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Delicate Edge Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 25.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "King Nordic Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 25.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Siah JiinShyang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 25.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chong Yee Ping",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 21.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Delicate Edge Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 21.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "King Nordic Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 21.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Siah Jiin Shyang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 21.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhang Rongxuan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 52000000,
+      "long_position_pct": 11.11,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lam Pang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 38220000,
+      "long_position_pct": 9.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Enernix Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 45240000,
+      "long_position_pct": 9.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Enernix Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 25240000,
+      "long_position_pct": 5.39,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yam Wai Lung",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 25240000,
+      "long_position_pct": 5.39,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Enernix Limited",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yam Wai Lung",
+      "long_position_pct": 5.39,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Rongxuan",
+      "long_position_pct": 11.11,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Koh Chie Seng",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yam Wai Lung",
+      "long_position_pct": 9.67,
+      "relevant_event_date": "2026-01-29",
+      "filing_date": "2026-02-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM Pang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Pang",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2025-05-14",
+      "filing_date": "2025-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2025-05-12",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.28,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.33,
+      "relevant_event_date": "2025-05-08",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.37,
+      "relevant_event_date": "2025-05-02",
+      "filing_date": "2025-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2025-04-29",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-04-28",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2025-04-25",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 5.82,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.1,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2025-04-17",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.38,
+      "relevant_event_date": "2025-04-16",
+      "filing_date": "2025-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.45,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.53,
+      "relevant_event_date": "2025-04-11",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2025-04-10",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.6,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2025-04-08",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.83,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.1,
+      "relevant_event_date": "2025-04-02",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.61,
+      "relevant_event_date": "2025-03-21",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.29,
+      "relevant_event_date": "2025-03-20",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2025-03-20",
+      "filing_date": "2025-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.35,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.82,
+      "relevant_event_date": "2025-03-19",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.45,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.56,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.07,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.41,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 7.88,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.46,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chong Yee Ping",
+      "long_position_pct": 21.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Delicate Edge Limited",
+      "long_position_pct": 21.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enernix Limited",
+      "long_position_pct": 9.67,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "King Nordic Limited",
+      "long_position_pct": 21.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Koh Chie Seng",
+      "long_position_pct": 9.67,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Siah Jiin Shyang",
+      "long_position_pct": 21.0,
+      "relevant_event_date": "2025-02-06",
+      "filing_date": "2025-02-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 14.8,
+      "relevant_event_date": "2019-08-27",
+      "filing_date": "2019-08-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 14.59,
+      "relevant_event_date": "2019-08-26",
+      "filing_date": "2019-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 14.44,
+      "relevant_event_date": "2019-08-20",
+      "filing_date": "2019-08-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 13.93,
+      "relevant_event_date": "2019-08-01",
+      "filing_date": "2019-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 13.86,
+      "relevant_event_date": "2018-12-18",
+      "filing_date": "2018-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 13.65,
+      "relevant_event_date": "2018-12-17",
+      "filing_date": "2018-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 13.26,
+      "relevant_event_date": "2018-12-13",
+      "filing_date": "2018-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 12.72,
+      "relevant_event_date": "2018-12-07",
+      "filing_date": "2018-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 11.65,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chong Yee Ping",
+      "long_position_pct": 25.2,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Delicate Edge Limited",
+      "long_position_pct": 25.2,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "King Nordic Limited",
+      "long_position_pct": 25.2,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Pang",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Yan Chee James",
+      "long_position_pct": 9.8,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Siah JiinShyang",
+      "long_position_pct": 25.2,
+      "relevant_event_date": "2018-10-22",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

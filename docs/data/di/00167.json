@@ -1,0 +1,658 @@
+{
+  "code": "00167",
+  "name": "IDT INTERNATIONAL LTD.",
+  "last_scraped": "2026-06-18T23:43:27Z",
+  "shareholders": [
+    {
+      "name": "CHEN TIGER CHARLES",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 312432503,
+      "long_position_pct": 72.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Energy Technology Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 312432503,
+      "long_position_pct": 72.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wong Tung Yuen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 312432503,
+      "long_position_pct": 72.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "AI Victory Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 312603420,
+      "long_position_pct": 60.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Horizon Heights Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 312603420,
+      "long_position_pct": 60.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shen Jingwei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 312603420,
+      "long_position_pct": 60.12,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hongtu High Technology Int'l Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1310896765,
+      "long_position_pct": 50.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiangsu Hongtu High Technology (Hong Kong) Co. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1310896765,
+      "long_position_pct": 50.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiangsu Hongtu HighTechnology Co., Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1310896765,
+      "long_position_pct": 50.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hong Kong Hunglap Technology Co., Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "平湖市投資發展有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "平湖市新埭鎮政務服務中心",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "平湖市泖水投資發展集團有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "平湖市财政局",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "平湖市金財資本管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203666125,
+      "long_position_pct": 47.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hong Kong Hunglap Technology Co., Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 203777563,
+      "long_position_pct": 39.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Huaneng Foundation Construction Investment Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 753997995,
+      "long_position_pct": 29.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhu Yongning",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 753997088,
+      "long_position_pct": 29.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "AI Victory Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108825857,
+      "long_position_pct": 20.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Horizon Heights Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 108825857,
+      "long_position_pct": 20.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SHEN Jingwei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 108825857,
+      "long_position_pct": 20.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "AI Victory Ltd.",
+      "long_position_pct": 60.12,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Horizon Heights Ltd.",
+      "long_position_pct": 60.12,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Jingwei",
+      "long_position_pct": 60.12,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市投資發展有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "平湖市新埭鎮政務服務中心",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "平湖市泖水投資發展集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "平湖市財政局",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "平湖市金財資本管理有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "AI Victory Ltd.",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Hunglap Technology Co., Limited",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Horizon Heights Limited",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHEN Jingwei",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市投資發展有限公司",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市新埭鎮政務服務中心",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市泖水投資發展集團有限公司",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市財政局",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市金財資本管理有限公司",
+      "long_position_pct": 39.19,
+      "relevant_event_date": "2026-03-12",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwun Leung",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-05",
+      "filing_date": "2026-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AI Victory Ltd.",
+      "long_position_pct": 25.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hong Kong Hunglap Technology Co., Limited",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Horizon Heights Ltd.",
+      "long_position_pct": 25.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shen Jingwei",
+      "long_position_pct": 25.1,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市投資發展有限公司",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市新埭鎮政務服務中心",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市泖水投資發展集團有限公司",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市财政局",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "平湖市金財資本管理有限公司",
+      "long_position_pct": 47.0,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lam Kwun Leung",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2025-10-01",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN TIGER CHARLES",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Energy Technology Company Limited",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Tung Yuen",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2025-03-13",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huaneng Foundation Construction Investment Limited 中國華能基礎建設投資有限公司",
+      "long_position_pct": 29.0,
+      "relevant_event_date": "2024-10-28",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Yong Ning",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-10-28",
+      "filing_date": "2024-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chen Tiger Charles",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Energy Technology Company Limited",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Tung Yuen",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Tung Yuen",
+      "long_position_pct": 72.1,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Yongning",
+      "long_position_pct": 29.0,
+      "relevant_event_date": "2018-10-18",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hongtu High Technology Int'l Inc.",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiangsu Hongtu High Technology (Hong Kong) Co. Limited",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiangsu Hongtu HighTechnology Co., Ltd",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Huaneng Foundation Construction Investment Ltd",
+      "long_position_pct": 29.0,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hongtu High Technology Int'l Inc.",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hongtu High Technology Int'l Inc.",
+      "long_position_pct": 21.42,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiangsu Hongtu High Technology (Hong Kong) Co. Limited",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiangsu Hongtu HighTechnology Co., Ltd",
+      "long_position_pct": 50.42,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Yongning",
+      "long_position_pct": 29.0,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "code": "02382",
   "name": "SUNNY OPTICAL TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-17T23:45:00Z",
+  "last_scraped": "2026-06-18T23:57:55Z",
   "shareholders": [
     {
       "name": "WANG Wenjian",
@@ -124,12 +124,12 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 82406181,
-      "long_position_pct": 7.53,
-      "short_position_shares": 76783742,
-      "short_position_pct": 7.01,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "long_position_shares": 80876346,
+      "long_position_pct": 7.39,
+      "short_position_shares": 74644442,
+      "short_position_pct": 6.82,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -137,17 +137,33 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 69967104,
-      "long_position_pct": 6.39,
-      "short_position_shares": 299500,
-      "short_position_pct": 0.03,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "long_position_shares": 68630078,
+      "long_position_pct": 6.27,
+      "short_position_shares": 436100,
+      "short_position_pct": 0.04,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.39,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.39,

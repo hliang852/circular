@@ -1,7 +1,7 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-17T23:55:26Z",
+  "last_scraped": "2026-06-19T00:06:11Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
@@ -95,19 +95,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Morgan Stanley",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 58347205,
-      "long_position_pct": 5.14,
-      "short_position_shares": 32539437,
-      "short_position_pct": 2.86,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Kolchinsky Anna Inge Leonore Haas",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -180,13 +167,21 @@
       "long_position_pct": 5.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.47,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.14,
@@ -200,6 +195,14 @@
       "long_position_pct": 5.57,
       "relevant_event_date": "2026-06-12",
       "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

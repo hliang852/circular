@@ -1,34 +1,8 @@
 {
   "code": "09899",
   "name": "NETEASE CLOUD MUSIC INC.",
-  "last_scraped": "2026-06-17T23:57:15Z",
+  "last_scraped": "2026-06-19T00:07:39Z",
   "shareholders": [
-    {
-      "name": "Shining Globe Holding Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 135142218,
-      "long_position_pct": 62.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-05",
-      "filing_date": "2026-05-05",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "TMF (Cayman) Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 135142218,
-      "long_position_pct": 62.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-05",
-      "filing_date": "2026-05-05",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
     {
       "name": "Ding William Lei",
       "capacity": "Associated Entity",
@@ -44,6 +18,32 @@
     },
     {
       "name": "NetEase, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 129034168,
+      "long_position_pct": 61.35,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shining Globe Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 129034168,
+      "long_position_pct": 61.35,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 129034168,
@@ -106,6 +106,22 @@
     },
     {
       "name": "NetEase, Inc.",
+      "long_position_pct": 61.35,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shining Globe Holding Limited",
+      "long_position_pct": 61.35,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
       "long_position_pct": 61.35,
       "relevant_event_date": "2026-06-12",
       "filing_date": "2026-06-17",
