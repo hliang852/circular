@@ -1,7 +1,7 @@
 {
   "code": "03877",
   "name": "CSSC (HONG KONG) SHIPPING CO. LTD.",
-  "last_scraped": "2026-06-12T23:41:10Z",
+  "last_scraped": "2026-06-22T23:50:04Z",
   "shareholders": [
     {
       "name": "China State Shipbuilding Corporation 中國船舶工業集團有限公司",
@@ -43,19 +43,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "CITIC Securities Company Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 478743704,
-      "long_position_pct": 7.72,
-      "short_position_shares": 478619144,
-      "short_position_pct": 7.72,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -67,9 +54,30 @@
       "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "CITIC Securities Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 410473105,
+      "long_position_pct": 6.62,
+      "short_position_shares": 418801105,
+      "short_position_pct": 6.75,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "CITIC Securities Company Limited",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.54,

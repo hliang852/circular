@@ -1,0 +1,2178 @@
+{
+  "code": "09896",
+  "name": "MINISO GROUP HOLDING LTD.",
+  "last_scraped": "2026-06-22T23:57:55Z",
+  "shareholders": [
+    {
+      "name": "YE Guofu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 791641061,
+      "long_position_pct": 63.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YANG Yunyun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 789541061,
+      "long_position_pct": 63.17,
+      "short_position_shares": 14000000,
+      "short_position_pct": 1.12,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 586139679,
+      "long_position_pct": 47.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 328290482,
+      "long_position_pct": 26.27,
+      "short_position_shares": 14000000,
+      "short_position_pct": 1.12,
+      "relevant_event_date": "2025-01-16",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YGF Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 328290482,
+      "long_position_pct": 26.02,
+      "short_position_shares": 14000000,
+      "short_position_pct": 1.11,
+      "relevant_event_date": "2024-04-04",
+      "filing_date": "2024-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YYY Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 257849197,
+      "long_position_pct": 20.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YYY MC Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 257849197,
+      "long_position_pct": 20.36,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 194465382,
+      "long_position_pct": 15.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YGF MN Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 194465382,
+      "long_position_pct": 15.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YY Capital Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 194465382,
+      "long_position_pct": 15.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 116306139,
+      "long_position_pct": 9.39,
+      "short_position_shares": 113253528,
+      "short_position_pct": 9.14,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 94629676,
+      "long_position_pct": 7.64,
+      "short_position_shares": 88371148,
+      "short_position_pct": 7.13,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 74272262,
+      "long_position_pct": 5.99,
+      "short_position_shares": 51706704,
+      "short_position_pct": 4.17,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.9,
+      "relevant_event_date": "2026-06-01",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.88,
+      "relevant_event_date": "2026-05-29",
+      "filing_date": "2026-06-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.39,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2026-05-06",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.64,
+      "relevant_event_date": "2026-04-16",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.69,
+      "relevant_event_date": "2026-03-27",
+      "filing_date": "2026-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2026-03-11",
+      "filing_date": "2026-03-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-03-09",
+      "filing_date": "2026-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2026-03-03",
+      "filing_date": "2026-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2026-02-20",
+      "filing_date": "2026-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-02-19",
+      "filing_date": "2026-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.16,
+      "relevant_event_date": "2026-02-11",
+      "filing_date": "2026-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.44,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-02-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.8,
+      "relevant_event_date": "2026-01-20",
+      "filing_date": "2026-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2025-12-18",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.6,
+      "relevant_event_date": "2025-12-12",
+      "filing_date": "2025-12-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.63,
+      "relevant_event_date": "2025-12-10",
+      "filing_date": "2025-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2025-12-08",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.48,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.76,
+      "relevant_event_date": "2025-11-28",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 15.71,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.21,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.8,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YGF MC Limited",
+      "long_position_pct": 0.72,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YGF MN Limited",
+      "long_position_pct": 15.71,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YY Capital Ltd.",
+      "long_position_pct": 15.71,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.64,
+      "relevant_event_date": "2025-11-26",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-11-26",
+      "filing_date": "2025-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-11-25",
+      "filing_date": "2025-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.32,
+      "relevant_event_date": "2025-11-24",
+      "filing_date": "2025-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.06,
+      "relevant_event_date": "2025-11-14",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.75,
+      "relevant_event_date": "2025-11-04",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.66,
+      "relevant_event_date": "2025-10-29",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.11,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.2,
+      "relevant_event_date": "2025-10-24",
+      "filing_date": "2025-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2025-10-23",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.97,
+      "relevant_event_date": "2025-10-22",
+      "filing_date": "2025-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.17,
+      "relevant_event_date": "2025-10-15",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 4.77,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-10-14",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.11,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.86,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-09-25",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-09-23",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.3,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.92,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.07,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.15,
+      "relevant_event_date": "2025-09-10",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.76,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.03,
+      "relevant_event_date": "2025-09-09",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2025-09-08",
+      "filing_date": "2025-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.22,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.13,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.7,
+      "relevant_event_date": "2025-09-02",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2025-08-29",
+      "filing_date": "2025-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.19,
+      "relevant_event_date": "2025-08-27",
+      "filing_date": "2025-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2025-08-25",
+      "filing_date": "2025-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.18,
+      "relevant_event_date": "2025-08-22",
+      "filing_date": "2025-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.33,
+      "relevant_event_date": "2025-08-21",
+      "filing_date": "2025-08-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.18,
+      "relevant_event_date": "2025-08-19",
+      "filing_date": "2025-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.11,
+      "relevant_event_date": "2025-08-18",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.23,
+      "relevant_event_date": "2025-08-15",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 7.81,
+      "relevant_event_date": "2025-08-14",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2025-08-14",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.07,
+      "relevant_event_date": "2025-08-12",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2025-08-11",
+      "filing_date": "2025-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.07,
+      "relevant_event_date": "2025-08-11",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-08-06",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.25,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.96,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.12,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.94,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Norges Bank",
+      "long_position_pct": 4.88,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 47.17,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.03,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.21,
+      "relevant_event_date": "2025-07-11",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.18,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.05,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2025-07-08",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.03,
+      "relevant_event_date": "2025-07-04",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Norges Bank",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.96,
+      "relevant_event_date": "2025-07-03",
+      "filing_date": "2025-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.03,
+      "relevant_event_date": "2025-07-01",
+      "filing_date": "2025-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2025-06-25",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.32,
+      "relevant_event_date": "2025-06-25",
+      "filing_date": "2025-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.1,
+      "relevant_event_date": "2025-06-20",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2025-06-18",
+      "filing_date": "2025-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.1,
+      "relevant_event_date": "2025-06-17",
+      "filing_date": "2025-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-06-11",
+      "filing_date": "2025-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.92,
+      "relevant_event_date": "2025-06-04",
+      "filing_date": "2025-06-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2025-06-03",
+      "filing_date": "2025-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2025-05-27",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.21,
+      "relevant_event_date": "2025-05-26",
+      "filing_date": "2025-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.44,
+      "relevant_event_date": "2025-05-22",
+      "filing_date": "2025-05-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.28,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2025-05-14",
+      "filing_date": "2025-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.2,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.05,
+      "relevant_event_date": "2025-05-06",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.05,
+      "relevant_event_date": "2025-05-05",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.14,
+      "relevant_event_date": "2025-04-29",
+      "filing_date": "2025-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2025-04-28",
+      "filing_date": "2025-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.67,
+      "relevant_event_date": "2025-04-17",
+      "filing_date": "2025-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.27,
+      "relevant_event_date": "2025-04-16",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.35,
+      "relevant_event_date": "2025-04-15",
+      "filing_date": "2025-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Norges Bank",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.49,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.74,
+      "relevant_event_date": "2025-04-07",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Norges Bank",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 9.74,
+      "relevant_event_date": "2025-03-27",
+      "filing_date": "2025-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2025-03-26",
+      "filing_date": "2025-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-03-25",
+      "filing_date": "2025-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2025-03-24",
+      "filing_date": "2025-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-03-20",
+      "filing_date": "2025-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.06,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.13,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.05,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-03-04",
+      "filing_date": "2025-03-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.53,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.06,
+      "relevant_event_date": "2025-02-28",
+      "filing_date": "2025-03-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.41,
+      "relevant_event_date": "2025-02-18",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2025-02-14",
+      "filing_date": "2025-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-02-13",
+      "filing_date": "2025-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.85,
+      "relevant_event_date": "2025-01-21",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2025-01-21",
+      "filing_date": "2025-01-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.23,
+      "relevant_event_date": "2025-01-20",
+      "filing_date": "2025-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "long_position_pct": 26.27,
+      "relevant_event_date": "2025-01-16",
+      "filing_date": "2025-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.17,
+      "relevant_event_date": "2025-01-16",
+      "filing_date": "2025-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2025-01-15",
+      "filing_date": "2025-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2025-01-15",
+      "filing_date": "2025-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2025-01-13",
+      "filing_date": "2025-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2025-01-09",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 8.28,
+      "relevant_event_date": "2025-01-08",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2025-01-08",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 46.9,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2025-01-07",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "long_position_pct": 26.27,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 46.9,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.17,
+      "relevant_event_date": "2025-01-06",
+      "filing_date": "2025-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Yunyun",
+      "long_position_pct": 63.17,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 63.17,
+      "relevant_event_date": "2024-12-31",
+      "filing_date": "2025-01-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 10.78,
+      "relevant_event_date": "2024-12-06",
+      "filing_date": "2024-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.02,
+      "relevant_event_date": "2024-12-05",
+      "filing_date": "2024-12-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 11.93,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Barclays PLC",
+      "long_position_pct": 5.09,
+      "relevant_event_date": "2024-11-05",
+      "filing_date": "2024-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 12.87,
+      "relevant_event_date": "2024-11-04",
+      "filing_date": "2024-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 47.41,
+      "relevant_event_date": "2024-10-23",
+      "filing_date": "2024-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 62.85,
+      "relevant_event_date": "2024-10-23",
+      "filing_date": "2024-11-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 13.98,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 14.83,
+      "relevant_event_date": "2024-10-04",
+      "filing_date": "2024-10-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 15.07,
+      "relevant_event_date": "2024-10-03",
+      "filing_date": "2024-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 15.77,
+      "relevant_event_date": "2024-09-26",
+      "filing_date": "2024-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-09-03",
+      "filing_date": "2024-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 17.0,
+      "relevant_event_date": "2024-08-30",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-08-27",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 17.15,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 17.83,
+      "relevant_event_date": "2024-06-05",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 18.21,
+      "relevant_event_date": "2024-05-23",
+      "filing_date": "2024-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 18.88,
+      "relevant_event_date": "2024-05-09",
+      "filing_date": "2024-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 19.06,
+      "relevant_event_date": "2024-05-02",
+      "filing_date": "2024-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 19.64,
+      "relevant_event_date": "2024-04-25",
+      "filing_date": "2024-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 20.26,
+      "relevant_event_date": "2024-04-17",
+      "filing_date": "2024-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "long_position_pct": 26.02,
+      "relevant_event_date": "2024-04-04",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YGF Development Limited",
+      "long_position_pct": 26.02,
+      "relevant_event_date": "2024-04-04",
+      "filing_date": "2024-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 20.89,
+      "relevant_event_date": "2024-03-29",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 21.04,
+      "relevant_event_date": "2024-03-28",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 20.98,
+      "relevant_event_date": "2024-03-26",
+      "filing_date": "2024-03-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 21.18,
+      "relevant_event_date": "2024-03-21",
+      "filing_date": "2024-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 22.22,
+      "relevant_event_date": "2024-03-18",
+      "filing_date": "2024-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 22.99,
+      "relevant_event_date": "2024-03-12",
+      "filing_date": "2024-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 23.19,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-02-23",
+      "filing_date": "2024-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2024-02-22",
+      "filing_date": "2024-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 23.94,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 24.29,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2023-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 24.87,
+      "relevant_event_date": "2023-12-11",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 25.01,
+      "relevant_event_date": "2023-12-08",
+      "filing_date": "2023-12-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 25.85,
+      "relevant_event_date": "2023-12-01",
+      "filing_date": "2023-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 26.12,
+      "relevant_event_date": "2023-11-29",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 26.88,
+      "relevant_event_date": "2023-11-27",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.07,
+      "relevant_event_date": "2023-11-24",
+      "filing_date": "2023-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.98,
+      "relevant_event_date": "2023-09-29",
+      "filing_date": "2023-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.15,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.08,
+      "relevant_event_date": "2023-09-27",
+      "filing_date": "2023-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2023-09-27",
+      "filing_date": "2023-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.17,
+      "relevant_event_date": "2023-09-26",
+      "filing_date": "2023-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2023-09-21",
+      "filing_date": "2023-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "long_position_pct": 25.98,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Yunyun",
+      "long_position_pct": 62.48,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 62.48,
+      "relevant_event_date": "2023-09-19",
+      "filing_date": "2023-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.97,
+      "relevant_event_date": "2023-09-18",
+      "filing_date": "2023-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.08,
+      "relevant_event_date": "2023-09-15",
+      "filing_date": "2023-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.9,
+      "relevant_event_date": "2023-09-07",
+      "filing_date": "2023-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 29.02,
+      "relevant_event_date": "2023-09-06",
+      "filing_date": "2023-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2023-08-18",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 30.0,
+      "relevant_event_date": "2023-08-17",
+      "filing_date": "2023-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 29.98,
+      "relevant_event_date": "2023-08-16",
+      "filing_date": "2023-08-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 30.0,
+      "relevant_event_date": "2023-07-27",
+      "filing_date": "2023-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 30.99,
+      "relevant_event_date": "2023-04-11",
+      "filing_date": "2023-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 31.86,
+      "relevant_event_date": "2023-04-03",
+      "filing_date": "2023-04-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 32.02,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-04-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 32.44,
+      "relevant_event_date": "2023-02-03",
+      "filing_date": "2023-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 31.57,
+      "relevant_event_date": "2023-01-04",
+      "filing_date": "2023-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 29.14,
+      "relevant_event_date": "2022-12-23",
+      "filing_date": "2022-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.07,
+      "relevant_event_date": "2022-11-21",
+      "filing_date": "2022-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.98,
+      "relevant_event_date": "2022-10-26",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.05,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 62.31,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 62.3,
+      "relevant_event_date": "2022-09-30",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.78,
+      "relevant_event_date": "2022-08-12",
+      "filing_date": "2022-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.41,
+      "relevant_event_date": "2022-08-08",
+      "filing_date": "2022-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.99,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.01,
+      "relevant_event_date": "2022-08-03",
+      "filing_date": "2022-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.62,
+      "relevant_event_date": "2022-07-21",
+      "filing_date": "2022-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.36,
+      "relevant_event_date": "2022-07-20",
+      "filing_date": "2022-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.62,
+      "relevant_event_date": "2022-07-19",
+      "filing_date": "2022-07-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 28.05,
+      "relevant_event_date": "2022-07-14",
+      "filing_date": "2022-07-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mini Investment Limited",
+      "long_position_pct": 25.92,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 27.4,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 50.8,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YANG Yunyun",
+      "long_position_pct": 62.32,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Guofu",
+      "long_position_pct": 62.32,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YGF Development Limited",
+      "long_position_pct": 25.92,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YGF MC Limited",
+      "long_position_pct": 16.05,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YYY Development Limited",
+      "long_position_pct": 20.36,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YYY MC Limited",
+      "long_position_pct": 20.36,
+      "relevant_event_date": "2022-07-13",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

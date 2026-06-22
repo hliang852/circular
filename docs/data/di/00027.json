@@ -1,7 +1,7 @@
 {
   "code": "00027",
   "name": "GALAXY ENTERTAINMENT GROUP LTD.",
-  "last_scraped": "2026-05-18T22:54:59Z",
+  "last_scraped": "2026-06-22T23:15:50Z",
   "shareholders": [
     {
       "name": "LUI Yiu Tung, Francis",
@@ -85,17 +85,25 @@
       "name": "Pzena Investment Management, LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 219584712,
-      "long_position_pct": 5.01,
+      "long_position_shares": 273574860,
+      "long_position_pct": 6.27,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-14",
-      "filing_date": "2026-05-14",
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Pzena Investment Management, LLC",
+      "long_position_pct": 6.27,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Pzena Investment Management, LLC",
       "long_position_pct": 5.01,

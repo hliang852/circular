@@ -1,0 +1,925 @@
+{
+  "code": "01850",
+  "name": "HSC RESOURCES GROUP LTD.",
+  "last_scraped": "2026-06-22T23:37:02Z",
+  "shareholders": [
+    {
+      "name": "Garden Wealth Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 213660000,
+      "long_position_pct": 22.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Minying",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 213660000,
+      "long_position_pct": 22.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Great Season Ventures Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 123660000,
+      "long_position_pct": 15.46,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2021-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 123660000,
+      "long_position_pct": 15.46,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2021-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 123660000,
+      "long_position_pct": 12.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LONG GUANGSHENG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 18000000,
+      "long_position_pct": 10.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WANG LE",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 18000000,
+      "long_position_pct": 10.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI JUNHENG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 14390000,
+      "long_position_pct": 9.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Low Tuck Kwong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 88000000,
+      "long_position_pct": 9.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 88000000,
+      "long_position_pct": 9.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 62950000,
+      "long_position_pct": 6.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2022-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HE YUANFAN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 10490000,
+      "long_position_pct": 6.07,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HE YUANFAN",
+      "long_position_pct": 6.07,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LONG GUANGSHENG",
+      "long_position_pct": 10.42,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG LE",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-02-12",
+      "filing_date": "2026-04-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LONG GUANGSHENG",
+      "long_position_pct": 10.42,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2026-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG LE",
+      "long_position_pct": 10.42,
+      "relevant_event_date": "2025-10-27",
+      "filing_date": "2025-10-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "许佳琪",
+      "long_position_pct": 0.38,
+      "relevant_event_date": "2024-02-01",
+      "filing_date": "2024-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "许佳琪",
+      "long_position_pct": 6.21,
+      "relevant_event_date": "2024-01-23",
+      "filing_date": "2024-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-12-04",
+      "filing_date": "2023-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 12.64,
+      "relevant_event_date": "2023-10-18",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 11.63,
+      "relevant_event_date": "2023-10-17",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 2.87,
+      "relevant_event_date": "2023-10-04",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2023-10-03",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2023-09-29",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2023-09-28",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 8.54,
+      "relevant_event_date": "2023-09-26",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Garden Wealth Investment Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-09-07",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Garden Wealth Investment Limited",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2023-09-07",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "li Minying",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-09-07",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "li Minying",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2023-09-07",
+      "filing_date": "2023-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI JUNHENG",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI JUNHENG",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "李银涛",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Low Tuck Kwong",
+      "long_position_pct": 9.16,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "long_position_pct": 9.16,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2022-12-29",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Garden Wealth Investment Limited",
+      "long_position_pct": 22.26,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Minying",
+      "long_position_pct": 22.26,
+      "relevant_event_date": "2022-08-04",
+      "filing_date": "2022-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Garden Wealth Investment Limited",
+      "long_position_pct": 9.37,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "long_position_pct": 12.88,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Minying",
+      "long_position_pct": 9.37,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "long_position_pct": 7.87,
+      "relevant_event_date": "2021-12-14",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "long_position_pct": 5.71,
+      "relevant_event_date": "2021-12-10",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Kai Lai",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2021-12-09",
+      "filing_date": "2021-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great Season Ventures Limited",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Low Tuck Kwong",
+      "long_position_pct": 11.0,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2022-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "long_position_pct": 11.01,
+      "relevant_event_date": "2021-11-29",
+      "filing_date": "2021-12-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great Season Ventures Limited",
+      "long_position_pct": 20.07,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "long_position_pct": 20.07,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lianteng Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Low Tuck Kwong",
+      "long_position_pct": 11.0,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2022-02-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ren Guishing",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lixiong",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lianteng Group Limited",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2021-11-24",
+      "filing_date": "2021-11-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lixiong",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2021-11-24",
+      "filing_date": "2021-11-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lianteng Group Limited",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lixiong",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2021-11-12",
+      "filing_date": "2021-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Great Season Ventures Limited",
+      "long_position_pct": 30.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jiang Jianhui",
+      "long_position_pct": 30.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEUNG Wing Ci Winnie",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lianteng Group Limited",
+      "long_position_pct": 13.5,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA TING HUNG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MA Ting Wai Barry",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ren Guishing",
+      "long_position_pct": 31.5,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Million (BVI) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "STANDARD DYNAMIC ENTERPRISES LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yu Lixiong",
+      "long_position_pct": 13.5,
+      "relevant_event_date": "2021-08-12",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEUNG Wing Ci Winnie",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA Ting Wai Barry",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Marvel Paramount Investment Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-10-30",
+      "filing_date": "2020-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA Ting Wai Barry",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2020-05-01",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA TING HUNG",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "STANDARD DYNAMIC ENTERPRISES LIMITED",
+      "long_position_pct": 60.0,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Golden Page Investments Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JANG Kelly",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAI Shu Fun Francis Alvin",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Li Shing Kuen Alexander",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MA TING HUNG",
+      "long_position_pct": 64.04,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus Capital Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus Financial Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus Financial Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus International Advisors Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus Special Situation Fund 1 LP",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus SSF Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus Strategic International Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "STANDARD DYNAMIC ENTERPRISES LIMITED",
+      "long_position_pct": 64.04,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Strategic Apex Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Super Million Two (BVI) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-01-20",
+      "filing_date": "2020-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JANG Kelly",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAI Shu Fun Francis Alvin",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEUNG Wing Ci Winnie",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MA Ting Wai Barry",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Marvel Paramount Investment Limited",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Opus Capital Management Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus Financial Group Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus Financial Holdings Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus International Advisors Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus Special Situation Fund 1 LP",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus SSF Management Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Opus Strategic International Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Smart Million (BVI) Limited",
+      "long_position_pct": 15.0,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Strategic Apex Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Super Million Two (BVI) Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

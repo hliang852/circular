@@ -1,7 +1,7 @@
 {
   "code": "00293",
   "name": "CATHAY PACIFIC AIRWAYS LTD.",
-  "last_scraped": "2026-06-16T23:21:04Z",
+  "last_scraped": "2026-06-22T23:19:15Z",
   "shareholders": [
     {
       "name": "Air China Limited",
@@ -95,19 +95,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 635711714,
-      "long_position_pct": 10.45,
-      "short_position_shares": 154638225,
-      "short_position_pct": 2.54,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Qatar Airways Group Q.C.S.C.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -145,9 +132,30 @@
       "filing_date": "2026-06-10",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 314496559,
+      "long_position_pct": 5.17,
+      "short_position_shares": 167697570,
+      "short_position_pct": 2.75,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "Swire Pacific Limited",
       "long_position_pct": 75.09,

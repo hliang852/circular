@@ -1,0 +1,1909 @@
+{
+  "code": "02390",
+  "name": "ZHIHU INC. - W",
+  "last_scraped": "2026-06-22T23:43:10Z",
+  "shareholders": [
+    {
+      "name": "MO Holding Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 15233755,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Yuan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 15233755,
+      "long_position_pct": 100.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 38066599,
+      "long_position_pct": 15.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kastle Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 25430552,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 25430552,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21407800,
+      "long_position_pct": 8.68,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21620823,
+      "long_position_pct": 8.62,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Reach Best Developments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19975733,
+      "long_position_pct": 8.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kuaishou Technology",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19975733,
+      "long_position_pct": 7.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "SU Hua",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 19975733,
+      "long_position_pct": 7.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sun Loft Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19975733,
+      "long_position_pct": 7.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19975733,
+      "long_position_pct": 7.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "AI Knowledge LLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17865410,
+      "long_position_pct": 7.25,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FIL Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17566864,
+      "long_position_pct": 7.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17566864,
+      "long_position_pct": 7.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 17566864,
+      "long_position_pct": 7.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dandelion Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 20457894,
+      "long_position_pct": 6.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Oriental Power Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 20457894,
+      "long_position_pct": 6.88,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cosmic Blue Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 19975733,
+      "long_position_pct": 6.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FIDELITY CHINA SPECIAL SITUATIONS PLC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 12651992,
+      "long_position_pct": 5.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 15.17,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 8.62,
+      "relevant_event_date": "2026-04-27",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2025-12-19",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2025-11-18",
+      "filing_date": "2025-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 14.96,
+      "relevant_event_date": "2025-09-28",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuaishou Technology",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SU Hua",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Loft Investments Limited",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 7.85,
+      "relevant_event_date": "2025-09-26",
+      "filing_date": "2025-09-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 8.04,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2025-09-16",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2025-08-07",
+      "filing_date": "2025-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2025-08-07",
+      "filing_date": "2025-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIDELITY CHINA SPECIAL SITUATIONS PLC",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2025-07-25",
+      "filing_date": "2025-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 6.03,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 6.03,
+      "relevant_event_date": "2025-04-03",
+      "filing_date": "2025-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kastle Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plus Channel Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2025-03-12",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 1.38,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2024-11-14",
+      "filing_date": "2024-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 5.4,
+      "relevant_event_date": "2024-11-12",
+      "filing_date": "2024-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AI Knowledge LLC",
+      "long_position_pct": 7.25,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 5.44,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuaishou Technology",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 8.68,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Reach Best Developments Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 8.68,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SU Hua",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Loft Investments Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 15.44,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 8.68,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 8.1,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 8.68,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-11-08",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2024-08-06",
+      "filing_date": "2024-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2024-08-02",
+      "filing_date": "2024-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2024-05-18",
+      "filing_date": "2024-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2024-05-14",
+      "filing_date": "2024-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2024-05-14",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuaishou Technology",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Reach Best Developments Limited",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SU Hua",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-03-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Loft Investments Limited",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP Capital Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF IV GP L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF IV Mobile Apps (BVI) Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF Partners IV L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YAN Andrew Y",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2024-01-24",
+      "filing_date": "2024-01-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 13.15,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2023-11-17",
+      "filing_date": "2023-11-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AI Knowledge LLC",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 6.24,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-07-28",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2023-07-13",
+      "filing_date": "2023-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-07-11",
+      "filing_date": "2023-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2023-06-15",
+      "filing_date": "2023-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-06-13",
+      "filing_date": "2023-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 6.09,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-06-09",
+      "filing_date": "2023-06-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 6.96,
+      "relevant_event_date": "2023-05-05",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2023-05-01",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2023-02-13",
+      "filing_date": "2023-02-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Innovation Works Development Fund GP, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Innovation Works Development Fund GP, LLC",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Innovation Works Development Fund, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE KAI-FU",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LIU PETE YEAU-HWAN",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sinovation Management Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WI Harper Innovation Management LP",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP Capital Ltd.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP L.P.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV Mobile Apps (BVI) Limited",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF Partners IV L.P.",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAN Andrew Y",
+      "long_position_pct": 5.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-12-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2023-01-20",
+      "filing_date": "2023-01-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2023-01-18",
+      "filing_date": "2023-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF IV GP Capital Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-11-15",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-11-15",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV Mobile Apps (BVI) Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-11-15",
+      "filing_date": "2022-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF Partners IV L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-11-15",
+      "filing_date": "2022-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAN Andrew Y",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2022-11-15",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP Capital Ltd.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-11-02",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF IV GP L.P.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-11-02",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF IV Mobile Apps (BVI) Limited",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-11-02",
+      "filing_date": "2022-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SAIF Partners IV L.P.",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-11-02",
+      "filing_date": "2022-11-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "YAN Andrew Y",
+      "long_position_pct": 5.91,
+      "relevant_event_date": "2022-11-02",
+      "filing_date": "2022-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2023-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 5.75,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "AI Knowledge LLC",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2022-05-05",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cosmic Blue Investments Limited",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Dandelion Investment Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Innovation Works Development Fund GP, L.P.",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Innovation Works Development Fund GP, LLC",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Innovation Works Development Fund, L.P.",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuaishou Technology",
+      "long_position_pct": 6.71,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Kai-Fu",
+      "long_position_pct": 7.75,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU PETE YEAU-HWAN",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MO Holding Ltd",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oriental Power Holdings Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Corporate GP III, Ltd.",
+      "long_position_pct": 7.71,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming GP III, L.P.",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiming Venture Partners III, L.P.",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-06-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP Capital Ltd.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV GP L.P.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF IV Mobile Apps (BVI) Limited",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SAIF Partners IV L.P.",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sinovation Management Limited",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Ridge Global Limited",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tencent Holdings Limited",
+      "long_position_pct": 12.79,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VISTRA TRUST (SINGAPORE) PTE. LIMITED",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WI Harper Innovation Management LP",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2023-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YAN Andrew Y",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 100.0,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Yuan",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2022-04-22",
+      "filing_date": "2022-05-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

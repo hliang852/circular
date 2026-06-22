@@ -1,7 +1,7 @@
 {
   "code": "00241",
   "name": "ALIBABA HEALTH INFORMATION TECHNOLOGY LTD.",
-  "last_scraped": "2026-06-19T22:52:47Z",
+  "last_scraped": "2026-06-22T23:17:53Z",
   "shareholders": [
     {
       "name": "Alibaba Group Holding Limited",
@@ -72,12 +72,12 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1390975855,
-      "long_position_pct": 8.6,
-      "short_position_shares": 1475672940,
-      "short_position_pct": 9.12,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
+      "long_position_shares": 1349288297,
+      "long_position_pct": 8.34,
+      "short_position_shares": 1437658308,
+      "short_position_pct": 8.89,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 8.34,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 8.6,

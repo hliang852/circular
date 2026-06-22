@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-19T23:14:21Z",
+  "last_scraped": "2026-06-22T23:55:29Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 51867303,
-      "long_position_pct": 15.01,
-      "short_position_shares": 31209758,
-      "short_position_pct": 9.03,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "long_position_shares": 55612647,
+      "long_position_pct": 16.1,
+      "short_position_shares": 33380997,
+      "short_position_pct": 9.66,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 21631952,
-      "long_position_pct": 6.26,
-      "short_position_shares": 5690865,
-      "short_position_pct": 1.64,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
+      "long_position_shares": 22828250,
+      "long_position_pct": 6.61,
+      "short_position_shares": 5794114,
+      "short_position_pct": 1.67,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -124,33 +124,60 @@
       "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18001097,
-      "long_position_pct": 5.34,
-      "short_position_shares": 20343074,
-      "short_position_pct": 6.03,
-      "relevant_event_date": "2026-06-15",
-      "filing_date": "2026-06-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 17652582,
-      "long_position_pct": 5.11,
-      "short_position_shares": 192437,
-      "short_position_pct": 0.06,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
+      "long_position_shares": 18419549,
+      "long_position_pct": 5.46,
+      "short_position_shares": 20729504,
+      "short_position_pct": 6.14,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
     {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.46,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
       "name": "Morgan Stanley",
       "long_position_pct": 5.34,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 6.61,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 16.1,
       "relevant_event_date": "2026-06-15",
       "filing_date": "2026-06-18",
       "form_type": "Form 2",

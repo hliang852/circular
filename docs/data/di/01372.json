@@ -1,7 +1,7 @@
 {
   "code": "01372",
   "name": "CHINA CARBON NEUTRAL DEVELOPMENT GROUP LTD.",
-  "last_scraped": "2026-05-19T23:03:17Z",
+  "last_scraped": "2026-06-22T23:33:45Z",
   "shareholders": [
     {
       "name": "TSE SIU LING",
@@ -160,19 +160,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "SHA Tao",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 162150000,
-      "long_position_pct": 18.4,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
       "name": "Gao Rihui",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
@@ -225,6 +212,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "SHA Tao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 162330000,
+      "long_position_pct": 16.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
       "name": "Legit Aiming Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -234,19 +234,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2023-10-27",
       "filing_date": "2023-10-27",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Green Securities Group Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 108693173,
-      "long_position_pct": 12.34,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -277,15 +264,15 @@
       "notice_type": "Current"
     },
     {
-      "name": "Green Assets Management Limited",
+      "name": "Green Securities Group Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 97233539,
-      "long_position_pct": 11.04,
+      "long_position_shares": 108693173,
+      "long_position_pct": 11.09,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-11",
-      "filing_date": "2026-05-11",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -299,6 +286,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-05-11",
       "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Green Assets Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 97233539,
+      "long_position_pct": 9.92,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -408,6 +408,38 @@
     }
   ],
   "history": [
+    {
+      "name": "Chai Ming",
+      "long_position_pct": 4.08,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Green Assets Management Limited",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Green Securities Group Limited",
+      "long_position_pct": 11.09,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SHA Tao",
+      "long_position_pct": 16.56,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Chai Ming",
       "long_position_pct": 4.54,

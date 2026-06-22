@@ -1,7 +1,7 @@
 {
   "code": "02665",
   "name": "SEYOND HOLDINGS LTD.",
-  "last_scraped": "2026-06-19T23:08:31Z",
+  "last_scraped": "2026-06-22T23:45:27Z",
   "shareholders": [
     {
       "name": "Bao Junwei",
@@ -132,113 +132,73 @@
       "filing_date": "2025-12-10",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Dahlia Investments Pte. Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65512810,
-      "long_position_pct": 5.04,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-10",
-      "filing_date": "2025-12-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Temasek Holdings (Private) Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65512810,
-      "long_position_pct": 5.04,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-10",
-      "filing_date": "2025-12-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Tembusu Capital Pte. Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65512810,
-      "long_position_pct": 5.04,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-10",
-      "filing_date": "2025-12-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Thomson Capital Pte. Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65512810,
-      "long_position_pct": 5.04,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-10",
-      "filing_date": "2025-12-10",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "FMR LLC",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65566665,
-      "long_position_pct": 5.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Impresa Management LLC",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 65566665,
-      "long_position_pct": 5.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Johnson Abigail P.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 65566665,
-      "long_position_pct": 5.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Johnson IV Edward C.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 65566665,
-      "long_position_pct": 5.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-12",
-      "filing_date": "2026-06-12",
-      "form_type": "Form 1",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Dahlia Investments Pte. Ltd.",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Temasek Holdings (Private) Limited",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tembusu Capital Pte. Ltd.",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Thomson Capital Pte. Ltd.",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 3.64,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Impresa Management LLC",
+      "long_position_pct": 3.64,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson Abigail P.",
+      "long_position_pct": 3.64,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Johnson IV Edward C.",
+      "long_position_pct": 3.64,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 5.02,

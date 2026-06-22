@@ -1,0 +1,101 @@
+{
+  "code": "00146",
+  "name": "TAI PING CARPETS INTERNATIONAL LTD.",
+  "last_scraped": "2026-06-22T23:17:03Z",
+  "shareholders": [
+    {
+      "name": "Ascentium Trustees (BVI) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 77674581,
+      "long_position_pct": 36.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Acorn Group Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 40014178,
+      "long_position_pct": 18.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Bermuda Trust Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 40014178,
+      "long_position_pct": 18.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-01-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ying John Jeffrey",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 32605583,
+      "long_position_pct": 15.37,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-10-05",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Ascentium Trustees (BVI) Limited",
+      "long_position_pct": 36.61,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Acorn Group Holdings Limited",
+      "long_position_pct": 18.86,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bermuda Trust Company Limited",
+      "long_position_pct": 18.86,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-01-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peak Capital Partners I, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-10-05",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ying John Jeffrey",
+      "long_position_pct": 15.37,
+      "relevant_event_date": "2022-10-05",
+      "filing_date": "2022-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

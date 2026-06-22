@@ -1,0 +1,51 @@
+{
+  "code": "01447",
+  "name": "SFK CONSTRUCTION HOLDINGS LTD.",
+  "last_scraped": "2026-06-22T23:33:57Z",
+  "shareholders": [
+    {
+      "name": "HU LIANG MING RAYMOND",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 22000000,
+      "long_position_pct": 5.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hu Liang Ming Raymond",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 20040000,
+      "long_position_pct": 5.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-10-20",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HU LIANG MING RAYMOND",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Liang Ming Raymond",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2017-10-20",
+      "filing_date": "2017-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

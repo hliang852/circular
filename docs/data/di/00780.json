@@ -1,7 +1,7 @@
 {
   "code": "00780",
   "name": "TONGCHENG TRAVEL HOLDINGS LTD.",
-  "last_scraped": "2026-06-10T23:26:28Z",
+  "last_scraped": "2026-06-22T23:25:03Z",
   "shareholders": [
     {
       "name": "Ctrip.com International, Ltd.",
@@ -69,19 +69,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 184296871,
-      "long_position_pct": 7.82,
-      "short_position_shares": 10333821,
-      "short_position_pct": 0.43,
-      "relevant_event_date": "2026-06-04",
-      "filing_date": "2026-06-04",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Image Frame Investment (HK) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -108,6 +95,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 164184387,
+      "long_position_pct": 6.97,
+      "short_position_shares": 12190368,
+      "short_position_pct": 0.51,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "T. Rowe Price Associates, Inc. and its Affiliates",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -122,6 +122,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "T. Rowe Price Associates, Inc. and its Affiliates",
       "long_position_pct": 6.88,

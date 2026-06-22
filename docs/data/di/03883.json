@@ -1,7 +1,7 @@
 {
   "code": "03883",
   "name": "CHINA AOYUAN GROUP LTD.",
-  "last_scraped": "2026-06-16T23:42:43Z",
+  "last_scraped": "2026-06-22T23:50:28Z",
   "shareholders": [
     {
       "name": "Sturgeon Limited",
@@ -59,12 +59,12 @@
       "name": "Arowana Holdings Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 617956686,
-      "long_position_pct": 16.38,
+      "long_position_shares": 505311370,
+      "long_position_pct": 10.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-09-20",
-      "filing_date": "2024-09-20",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -72,25 +72,12 @@
       "name": "First Advisory Trust (Singapore) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 617956686,
-      "long_position_pct": 16.38,
+      "long_position_shares": 505311370,
+      "long_position_pct": 10.75,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-09-20",
-      "filing_date": "2024-09-20",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Sturgeon Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 617956686,
-      "long_position_pct": 16.38,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-09-20",
-      "filing_date": "2024-09-20",
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +109,19 @@
     },
     {
       "name": "JOY PACIFIC GROUP LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 505311370,
+      "long_position_pct": 10.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sturgeon Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 505311370,
@@ -177,6 +177,30 @@
       "long_position_pct": 10.75,
       "relevant_event_date": "2026-06-12",
       "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arowana Holdings Ltd.",
+      "long_position_pct": 10.75,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "First Advisory Trust (Singapore) Limited",
+      "long_position_pct": 10.75,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sturgeon Limited",
+      "long_position_pct": 10.75,
+      "relevant_event_date": "2026-06-12",
+      "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

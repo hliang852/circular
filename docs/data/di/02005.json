@@ -1,7 +1,7 @@
 {
   "code": "02005",
   "name": "SSY GROUP LTD.",
-  "last_scraped": "2026-05-29T23:22:45Z",
+  "last_scraped": "2026-06-22T23:38:23Z",
   "shareholders": [
     {
       "name": "Qu Jiguang",
@@ -59,17 +59,25 @@
       "name": "UBS Group AG",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 191143845,
-      "long_position_pct": 6.48,
-      "short_position_shares": 29636502,
-      "short_position_pct": 1.0,
-      "relevant_event_date": "2026-05-22",
-      "filing_date": "2026-05-22",
+      "long_position_shares": 181882945,
+      "long_position_pct": 6.16,
+      "short_position_shares": 32723602,
+      "short_position_pct": 1.11,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-15",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 6.16,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 6.48,

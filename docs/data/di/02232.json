@@ -1,7 +1,7 @@
 {
   "code": "02232",
   "name": "CRYSTAL INTERNATIONAL GROUP LTD.",
-  "last_scraped": "2026-05-26T23:12:31Z",
+  "last_scraped": "2026-06-22T23:40:10Z",
   "shareholders": [
     {
       "name": "LO CHOY YUK CHING YVONNE",
@@ -33,17 +33,25 @@
       "name": "M&G Plc",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 143012000,
-      "long_position_pct": 5.01,
+      "long_position_shares": 152448500,
+      "long_position_pct": 5.34,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "M&G Plc",
+      "long_position_pct": 5.34,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "M&G Plc",
       "long_position_pct": 5.01,

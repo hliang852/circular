@@ -1,7 +1,7 @@
 {
   "code": "08611",
   "name": "MINDTELL TECHNOLOGY LTD.",
-  "last_scraped": "2026-06-19T23:12:44Z",
+  "last_scraped": "2026-06-22T23:53:54Z",
   "shareholders": [
     {
       "name": "Chong Yee Ping",
@@ -108,15 +108,41 @@
       "notice_type": "Current"
     },
     {
+      "name": "Delicate Edge Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 18.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "KING NORDIC LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 98280000,
+      "long_position_pct": 18.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Zhang Rongxuan",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 52000000,
-      "long_position_pct": 11.11,
+      "long_position_pct": 10.0,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-22",
-      "filing_date": "2026-04-22",
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -145,35 +171,49 @@
       "filing_date": "2025-02-06",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Enernix Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 25240000,
-      "long_position_pct": 5.39,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Yam Wai Lung",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 25240000,
-      "long_position_pct": 5.39,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
-      "form_type": "Form 1",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Delicate Edge Limited",
+      "long_position_pct": 18.9,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enernix Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KING NORDIC LIMITED",
+      "long_position_pct": 18.9,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yam Wai Lung",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Rongxuan",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Enernix Limited",
       "long_position_pct": 5.39,

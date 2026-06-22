@@ -1,18 +1,18 @@
 {
   "code": "02688",
   "name": "ENN ENERGY HOLDINGS LTD.",
-  "last_scraped": "2026-06-19T23:09:12Z",
+  "last_scraped": "2026-06-22T23:46:11Z",
   "shareholders": [
     {
       "name": "WANG YUSUO",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 391183434,
-      "long_position_pct": 34.56,
+      "long_position_shares": 391230434,
+      "long_position_pct": 34.57,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-18",
-      "filing_date": "2026-06-18",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "ZHAO BAOJU",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 391183434,
-      "long_position_pct": 34.56,
+      "long_position_shares": 391230434,
+      "long_position_pct": 34.57,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-18",
-      "filing_date": "2026-06-18",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -148,6 +148,22 @@
     }
   ],
   "history": [
+    {
+      "name": "WANG YUSUO",
+      "long_position_pct": 34.57,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO BAOJU",
+      "long_position_pct": 34.57,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "WANG YUSUO",
       "long_position_pct": 34.56,

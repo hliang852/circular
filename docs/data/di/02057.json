@@ -1,7 +1,7 @@
 {
   "code": "02057",
   "name": "ZTO EXPRESS (CAYMAN) INC. - W",
-  "last_scraped": "2026-06-17T23:40:10Z",
+  "last_scraped": "2026-06-22T23:38:39Z",
   "shareholders": [
     {
       "name": "LMS Holding Limited",
@@ -160,6 +160,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 41571615,
+      "long_position_pct": 7.37,
+      "short_position_shares": 21924720,
+      "short_position_pct": 3.88,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "WJL Holding Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -184,22 +197,25 @@
       "filing_date": "2025-03-12",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 38727485,
-      "long_position_pct": 6.86,
-      "short_position_shares": 21735874,
-      "short_position_pct": 3.85,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.37,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.86,

@@ -1,7 +1,7 @@
 {
   "code": "01789",
   "name": "AK MEDICAL HOLDINGS LTD.",
-  "last_scraped": "2026-06-15T23:43:27Z",
+  "last_scraped": "2026-06-22T23:35:10Z",
   "shareholders": [
     {
       "name": "Li Zhijiang",
@@ -202,12 +202,12 @@
       "name": "The Goldman Sachs Group, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 71227303,
-      "long_position_pct": 6.35,
-      "short_position_shares": 55974207,
-      "short_position_pct": 4.99,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "long_position_shares": 69973303,
+      "long_position_pct": 6.28,
+      "short_position_shares": 52580207,
+      "short_position_pct": 4.72,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -265,6 +265,22 @@
     }
   ],
   "history": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "long_position_pct": 7.33,
+      "relevant_event_date": "2026-06-15",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Goldman Sachs Group, Inc.",
       "long_position_pct": 6.35,
