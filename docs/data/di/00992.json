@@ -1,7 +1,7 @@
 {
   "code": "00992",
   "name": "LENOVO GROUP LTD.",
-  "last_scraped": "2026-06-22T23:29:23Z",
+  "last_scraped": "2026-06-23T23:14:10Z",
   "shareholders": [
     {
       "name": "Yang Yuanqing",
@@ -368,6 +368,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1135099099,
+      "long_position_pct": 9.15,
+      "short_position_shares": 383150900,
+      "short_position_pct": 3.08,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Right Lane Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -377,19 +390,6 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2025-12-03",
       "filing_date": "2025-12-03",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1071615671,
-      "long_position_pct": 8.63,
-      "short_position_shares": 355144953,
-      "short_position_pct": 2.86,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -423,17 +423,33 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 621658785,
-      "long_position_pct": 5.01,
+      "long_position_shares": 625545283,
+      "long_position_pct": 5.04,
       "short_position_shares": 3742000,
       "short_position_pct": 0.03,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.15,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.01,

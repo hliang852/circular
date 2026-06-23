@@ -1,0 +1,72 @@
+{
+  "code": "01932",
+  "name": "CPM GROUP LTD.",
+  "last_scraped": "2026-06-23T23:21:27Z",
+  "shareholders": [
+    {
+      "name": "Ho Mei Po, Mabel",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 760000000,
+      "long_position_pct": 76.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tsui Ho Chuen, Philip",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 760000000,
+      "long_position_pct": 76.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Prime Surplus Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 750000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Ho Mei Po, Mabel",
+      "long_position_pct": 76.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Prime Surplus Limited",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsui Ho Chuen, Philip",
+      "long_position_pct": 76.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "code": "06086",
   "name": "FANGZHOU INC.",
-  "last_scraped": "2026-06-16T23:43:50Z",
+  "last_scraped": "2026-06-23T23:31:50Z",
   "shareholders": [
     {
       "name": "XIE Fangmin",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
       "long_position_shares": 535443322,
       "long_position_pct": 38.65,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
-      "form_type": "Form 3A",
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -252,6 +252,14 @@
     }
   ],
   "history": [
+    {
+      "name": "XIE Fangmin",
+      "long_position_pct": 38.65,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Ares Holdings L.P.",
       "long_position_pct": 31.57,

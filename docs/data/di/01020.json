@@ -1,0 +1,822 @@
+{
+  "code": "01020",
+  "name": "CIPRUN TECHNOLOGY HOLDINGS CO. LTD.",
+  "last_scraped": "2026-06-23T23:14:24Z",
+  "shareholders": [
+    {
+      "name": "CIPRUN INTERNATIONAL LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605334000,
+      "long_position_pct": 27.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CIPRUN LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1605334000,
+      "long_position_pct": 27.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kong Junmin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1605334000,
+      "long_position_pct": 27.66,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cybernaut International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 990284000,
+      "long_position_pct": 24.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHu Min",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 990284000,
+      "long_position_pct": 24.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-09",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CIPRUN INTERNATIONAL LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1205334000,
+      "long_position_pct": 22.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CIPRUN.LTD",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1205334000,
+      "long_position_pct": 22.57,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lee Yim",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 642666000,
+      "long_position_pct": 13.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 642666000,
+      "long_position_pct": 13.09,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CIPRUN INTERNATIONAL LIMITED",
+      "long_position_pct": 27.66,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIPRUN LIMITED",
+      "long_position_pct": 27.66,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kong Junmin",
+      "long_position_pct": 27.66,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kong Junmin",
+      "long_position_pct": 22.31,
+      "relevant_event_date": "2026-05-19",
+      "filing_date": "2026-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "孔軍民",
+      "long_position_pct": 22.67,
+      "relevant_event_date": "2026-01-09",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JL INVESTMENT CAPITAL LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAU CHI YUEN JOSEPH",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIPRUN INTERNATIONAL LIMITED",
+      "long_position_pct": 22.57,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIPRUN.LTD",
+      "long_position_pct": 22.57,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JL INVESTMENT CAPITAL LIMITED",
+      "long_position_pct": 22.57,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAU CHI YUEN JOSEPH",
+      "long_position_pct": 22.57,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "孔軍民",
+      "long_position_pct": 22.57,
+      "relevant_event_date": "2025-10-09",
+      "filing_date": "2025-10-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cybernaut International Limited",
+      "long_position_pct": 24.26,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHu Min",
+      "long_position_pct": 24.26,
+      "relevant_event_date": "2025-05-09",
+      "filing_date": "2025-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 17.62,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 17.62,
+      "relevant_event_date": "2024-09-25",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 13.09,
+      "relevant_event_date": "2024-09-20",
+      "filing_date": "2024-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Cybernaut International Limited",
+      "long_position_pct": 24.91,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHu Min",
+      "long_position_pct": 24.91,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2024-05-06",
+      "filing_date": "2024-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2024-05-06",
+      "filing_date": "2024-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 16.15,
+      "relevant_event_date": "2024-01-05",
+      "filing_date": "2024-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 16.15,
+      "relevant_event_date": "2024-01-05",
+      "filing_date": "2024-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lee Yim",
+      "long_position_pct": 17.37,
+      "relevant_event_date": "2023-08-15",
+      "filing_date": "2023-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 17.37,
+      "relevant_event_date": "2023-08-15",
+      "filing_date": "2023-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Yim",
+      "long_position_pct": 19.01,
+      "relevant_event_date": "2022-10-11",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wide Select Investments Limited",
+      "long_position_pct": 19.01,
+      "relevant_event_date": "2022-10-11",
+      "filing_date": "2022-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cybernaut International Limited",
+      "long_position_pct": 15.96,
+      "relevant_event_date": "2020-01-07",
+      "filing_date": "2020-01-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.91,
+      "relevant_event_date": "2020-01-07",
+      "filing_date": "2020-01-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cybernaut International Limited",
+      "long_position_pct": 12.06,
+      "relevant_event_date": "2019-11-26",
+      "filing_date": "2019-11-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.91,
+      "relevant_event_date": "2019-11-26",
+      "filing_date": "2019-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.5,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.46,
+      "relevant_event_date": "2018-06-28",
+      "filing_date": "2018-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.44,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.42,
+      "relevant_event_date": "2018-06-25",
+      "filing_date": "2018-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.38,
+      "relevant_event_date": "2018-06-22",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.36,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.32,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.27,
+      "relevant_event_date": "2018-06-19",
+      "filing_date": "2018-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.23,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.18,
+      "relevant_event_date": "2018-06-12",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.13,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.11,
+      "relevant_event_date": "2018-06-06",
+      "filing_date": "2018-06-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 24.09,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 23.94,
+      "relevant_event_date": "2018-05-31",
+      "filing_date": "2018-06-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 23.92,
+      "relevant_event_date": "2018-05-25",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 23.62,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 23.03,
+      "relevant_event_date": "2018-01-19",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.96,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.91,
+      "relevant_event_date": "2018-01-17",
+      "filing_date": "2018-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.84,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.76,
+      "relevant_event_date": "2018-01-15",
+      "filing_date": "2018-01-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.73,
+      "relevant_event_date": "2018-01-12",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.68,
+      "relevant_event_date": "2018-01-11",
+      "filing_date": "2018-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.67,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.65,
+      "relevant_event_date": "2018-01-09",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.58,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.56,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.55,
+      "relevant_event_date": "2018-01-02",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.52,
+      "relevant_event_date": "2017-12-29",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.48,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 22.42,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.53,
+      "relevant_event_date": "2017-12-12",
+      "filing_date": "2017-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.52,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.48,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2017-11-30",
+      "filing_date": "2017-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.42,
+      "relevant_event_date": "2017-11-28",
+      "filing_date": "2017-11-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.35,
+      "relevant_event_date": "2017-11-27",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.33,
+      "relevant_event_date": "2017-11-23",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.31,
+      "relevant_event_date": "2017-11-22",
+      "filing_date": "2017-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.3,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.19,
+      "relevant_event_date": "2017-11-17",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.16,
+      "relevant_event_date": "2017-11-16",
+      "filing_date": "2017-11-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.12,
+      "relevant_event_date": "2017-11-15",
+      "filing_date": "2017-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.09,
+      "relevant_event_date": "2017-11-14",
+      "filing_date": "2017-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.05,
+      "relevant_event_date": "2017-11-13",
+      "filing_date": "2017-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 17.02,
+      "relevant_event_date": "2017-11-10",
+      "filing_date": "2017-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.92,
+      "relevant_event_date": "2017-11-09",
+      "filing_date": "2017-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.91,
+      "relevant_event_date": "2017-11-08",
+      "filing_date": "2017-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.9,
+      "relevant_event_date": "2017-11-07",
+      "filing_date": "2017-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.89,
+      "relevant_event_date": "2017-11-06",
+      "filing_date": "2017-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.87,
+      "relevant_event_date": "2017-11-03",
+      "filing_date": "2017-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.87,
+      "relevant_event_date": "2017-11-02",
+      "filing_date": "2017-11-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 16.85,
+      "relevant_event_date": "2017-10-27",
+      "filing_date": "2017-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

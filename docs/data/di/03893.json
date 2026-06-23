@@ -1,7 +1,7 @@
 {
   "code": "03893",
   "name": "CROSSTEC GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-29T23:29:40Z",
+  "last_scraped": "2026-06-23T23:30:50Z",
   "shareholders": [
     {
       "name": "MK Investment Group Limited",
@@ -20,17 +20,25 @@
       "name": "Hexing Investment Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 279090909,
-      "long_position_pct": 32.97,
+      "long_position_shares": 189090909,
+      "long_position_pct": 22.33,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Hexing Investment Limited",
+      "long_position_pct": 22.33,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Hexing Investment Limited",
       "long_position_pct": 32.97,

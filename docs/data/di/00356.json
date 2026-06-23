@@ -1,0 +1,573 @@
+{
+  "code": "00356",
+  "name": "DT CAPITAL LTD.",
+  "last_scraped": "2026-06-23T23:06:05Z",
+  "shareholders": [
+    {
+      "name": "P.B. Capital Advanced Fund SPC – P.B. Capital Advanced Fund 2 Segregated Portfolio",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 504410000,
+      "long_position_pct": 18.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "P.B. Global Asset Management Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 504410000,
+      "long_position_pct": 18.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Qian Jun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 379900000,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Vibrant Noble Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 379900000,
+      "long_position_pct": 16.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ma Chun Fai",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 254500000,
+      "long_position_pct": 11.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-18",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ho Hoi Yee Wisery",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 9.3,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2021-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ho Hoi Yee Wisery",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 254500000,
+      "long_position_pct": 8.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liu Junda",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 219457200,
+      "long_position_pct": 8.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 219457200,
+      "long_position_pct": 8.02,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHINA AGRIBUSINESS CAPITAL INDUSTRY LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 137840000,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Chan Pui Kwan",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Hoi Yee Wisery",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2025-12-02",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHINA AGRIBUSINESS CAPITAL INDUSTRY LIMITED",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-12-11",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 11.57,
+      "relevant_event_date": "2023-09-12",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 11.57,
+      "relevant_event_date": "2023-09-12",
+      "filing_date": "2023-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 14.13,
+      "relevant_event_date": "2023-06-20",
+      "filing_date": "2023-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 15.13,
+      "relevant_event_date": "2023-03-08",
+      "filing_date": "2023-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Wei Hong",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-01-18",
+      "filing_date": "2022-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Hoi Yee Wisery",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "P.B. Capital Advanced Fund SPC – P.B. Capital Advanced Fund 2 Segregated Portfolio",
+      "long_position_pct": 18.44,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "P.B. Global Asset Management Limited",
+      "long_position_pct": 18.44,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Wei Hong",
+      "long_position_pct": 9.3,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hugo Lucky Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leung King Yue Alex",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "P.B. Capital Advanced Fund SPC – P.B. Capital Advanced Fund 2 Segregated Portfolio",
+      "long_position_pct": 22.13,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "P.B. Global Asset Management Limited",
+      "long_position_pct": 22.13,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Pui Kwan",
+      "long_position_pct": 11.16,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Hoi Yee Wisery",
+      "long_position_pct": 11.16,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Tsui Har",
+      "long_position_pct": 11.16,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leung King Yue Alex",
+      "long_position_pct": 42.13,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ma Chun Fai",
+      "long_position_pct": 11.16,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wu Wei Hong",
+      "long_position_pct": 11.16,
+      "relevant_event_date": "2017-12-28",
+      "filing_date": "2018-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qian Jun",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vibrant Noble Limited",
+      "long_position_pct": 16.67,
+      "relevant_event_date": "2017-12-22",
+      "filing_date": "2017-12-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

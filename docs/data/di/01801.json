@@ -1,7 +1,7 @@
 {
   "code": "01801",
   "name": "INNOVENT BIOLOGICS, INC.",
-  "last_scraped": "2026-06-17T23:37:28Z",
+  "last_scraped": "2026-06-23T23:20:24Z",
   "shareholders": [
     {
       "name": "Yu De-Chao Michael",
@@ -69,6 +69,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 87200002,
+      "long_position_pct": 5.01,
+      "short_position_shares": 13837606,
+      "short_position_pct": 0.79,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -83,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 4.98,

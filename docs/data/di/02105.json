@@ -1,0 +1,908 @@
+{
+  "code": "02105",
+  "name": "LAEKNA, INC. - B",
+  "last_scraped": "2026-06-23T23:23:40Z",
+  "shareholders": [
+    {
+      "name": "Lu Chris Xiangyang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 55068890,
+      "long_position_pct": 12.26,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39718000,
+      "long_position_pct": 8.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39718000,
+      "long_position_pct": 8.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39718000,
+      "long_position_pct": 8.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "先進製造產業投資基金二期（有限合夥）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28519030,
+      "long_position_pct": 6.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "國投招商投資管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 28519030,
+      "long_position_pct": 6.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 25912830,
+      "long_position_pct": 5.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 12.26,
+      "relevant_event_date": "2026-06-05",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 11.69,
+      "relevant_event_date": "2026-05-08",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 4.72,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 4.72,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 9.71,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 12.79,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 12.88,
+      "relevant_event_date": "2025-06-24",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 13.15,
+      "relevant_event_date": "2025-06-23",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 13.37,
+      "relevant_event_date": "2025-06-20",
+      "filing_date": "2025-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Laekna Wonderland Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-06-19",
+      "filing_date": "2025-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2025-06-13",
+      "filing_date": "2025-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2025-06-12",
+      "filing_date": "2025-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 6.95,
+      "relevant_event_date": "2025-05-28",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 10.95,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 10.95,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 10.95,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 7.59,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 7.59,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2025-03-28",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2025-03-28",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 11.94,
+      "relevant_event_date": "2025-03-28",
+      "filing_date": "2025-04-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ealex LLC",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Laekna Wonderland Limited",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 13.18,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xie Ling",
+      "long_position_pct": 2.82,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 8.83,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 8.83,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "先進製造產業投資基金二期（有限合夥）",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國投招商投資管理有限公司",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2024-11-27",
+      "filing_date": "2024-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 12.6,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 12.6,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 12.6,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 13.49,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 13.49,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 13.49,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 14.87,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 14.87,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 14.87,
+      "relevant_event_date": "2024-11-15",
+      "filing_date": "2024-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "劉增",
+      "long_position_pct": 4.52,
+      "relevant_event_date": "2024-10-23",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GP Healthcare Capital, Inc.",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資合夥企業（有限合夥）",
+      "long_position_pct": 4.79,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2024-10-22",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "寧波姚商燕創守仁股權投資有限公司",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "寧波姚商燕創私募基金管理有限公司",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "寧波燕創厚德投資集團有限公司",
+      "long_position_pct": 4.73,
+      "relevant_event_date": "2024-10-21",
+      "filing_date": "2024-10-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GP Healthcare Capital, Inc.",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 13.78,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xie Ling",
+      "long_position_pct": 11.69,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資合夥企業（有限合夥）",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 7.63,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GP Healthcare Capital, Inc.",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資合夥企業（有限合夥）",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 8.4,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "劉穎",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京安龍創業投資基金（有限合夥）",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京春林信息咨询中心(有限合伙)",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2024-03-07",
+      "filing_date": "2024-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GP Healthcare Capital, Inc.",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資合夥企業（有限合夥）",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2024-03-04",
+      "filing_date": "2024-03-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "劉增",
+      "long_position_pct": 5.96,
+      "relevant_event_date": "2024-01-11",
+      "filing_date": "2024-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ealex LLC",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Futu Trustee Limited",
+      "long_position_pct": 8.75,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GP Healthcare Capital, Inc.",
+      "long_position_pct": 8.47,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Laekna Wonderland Limited",
+      "long_position_pct": 6.15,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lu Chris Xiangyang",
+      "long_position_pct": 13.39,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Advisors III Limited",
+      "long_position_pct": 15.32,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Asia GP III, L.P.",
+      "long_position_pct": 15.32,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OrbiMed Asia Partners III, L.P.",
+      "long_position_pct": 15.32,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xie Ling",
+      "long_position_pct": 11.31,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資合夥企業（有限合夥）",
+      "long_position_pct": 8.47,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海金浦醫療健康股權投資基金管理有限公司",
+      "long_position_pct": 10.49,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中意寧波生態園控股集團有限公司",
+      "long_position_pct": 9.75,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "余姚陽明股權投資基金有限公司",
+      "long_position_pct": 9.75,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "先進製造產業投資基金二期（有限合夥）",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "劉增",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "劉增",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "劉穎",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "劉穎",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京安龍創業投資基金（有限合夥）",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京安龍創業投資基金（有限合夥）",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京春林信息咨询中心(有限合伙)",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "北京春林信息資訊中心(有限合伙)",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "國投招商投資管理有限公司",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波姚商燕創守仁股權投資有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波姚商燕創守仁股權投資有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波姚商燕創私募基金管理有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波姚商燕創私募基金管理有限公司",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波燕創厚德投資集團有限公司",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "寧波燕創厚德投資集團有限公司",
+      "long_position_pct": 5.64,
+      "relevant_event_date": "2023-06-29",
+      "filing_date": "2023-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

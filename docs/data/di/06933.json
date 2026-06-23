@@ -1,7 +1,7 @@
 {
   "code": "06933",
   "name": "SINO-ENTERTAINMENT TECHNOLOGY HOLDINGS LTD.",
-  "last_scraped": "2026-06-15T23:57:41Z",
+  "last_scraped": "2026-06-23T23:33:42Z",
   "shareholders": [
     {
       "name": "Li Wei",
@@ -41,35 +41,25 @@
       "filing_date": "2025-09-26",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Together Win Capital (Holdings) Co., Ltd.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 22740000,
-      "long_position_pct": 5.68,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2020-07-15",
-      "filing_date": "2020-07-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "HUANG ZHIGANG",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 22740000,
-      "long_position_pct": 5.56,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2022-01-10",
-      "filing_date": "2022-01-10",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Huang Zhigang",
+      "long_position_pct": 2.29,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Together Win Capital (Holdings) Co., Ltd.",
+      "long_position_pct": 2.29,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Li Wei",
       "long_position_pct": 37.13,

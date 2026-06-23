@@ -1,7 +1,7 @@
 {
   "code": "03877",
   "name": "CSSC (HONG KONG) SHIPPING CO. LTD.",
-  "last_scraped": "2026-06-22T23:50:04Z",
+  "last_scraped": "2026-06-23T23:30:33Z",
   "shareholders": [
     {
       "name": "China State Shipbuilding Corporation 中國船舶工業集團有限公司",
@@ -46,12 +46,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 468274733,
-      "long_position_pct": 7.54,
-      "short_position_shares": 386704501,
-      "short_position_pct": 6.23,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "long_position_shares": 459333318,
+      "long_position_pct": 7.4,
+      "short_position_shares": 359275046,
+      "short_position_pct": 5.79,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -77,6 +77,14 @@
       "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.4,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
     },
     {
       "name": "JPMorgan Chase & Co.",

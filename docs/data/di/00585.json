@@ -1,0 +1,768 @@
+{
+  "code": "00585",
+  "name": "IMAGI INTERNATIONAL HOLDINGS LTD.",
+  "last_scraped": "2026-06-23T23:08:00Z",
+  "shareholders": [
+    {
+      "name": "Han Xuyang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 141879600,
+      "long_position_pct": 17.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Goldpalm Offshore Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 82960000,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-18",
+      "filing_date": "2026-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MA YANYING",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 82960000,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-18",
+      "filing_date": "2026-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Goldpalm Offshore Limited",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2026-04-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA YANYING",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2026-04-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Han Xuyang",
+      "long_position_pct": 17.1,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LO Ki Yan Karen",
+      "long_position_pct": 4.42,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Han Xuyang",
+      "long_position_pct": 17.1,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-08",
+      "filing_date": "2026-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Green River Associates Limited",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LO Ki Yan Karen",
+      "long_position_pct": 8.24,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Development Limited",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Planetree International Limited",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2023-12-28",
+      "filing_date": "2024-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CAI LINZHI",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-08-18",
+      "filing_date": "2023-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CAI LINZHI",
+      "long_position_pct": 9.03,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 16.37,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 16.37,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 17.1,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 16.37,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 16.37,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 20.59,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 20.59,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 20.59,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 20.59,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 21.31,
+      "relevant_event_date": "2021-08-16",
+      "filing_date": "2021-08-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 18.36,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 18.36,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 18.36,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 18.36,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2023-03-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 19.08,
+      "relevant_event_date": "2020-05-22",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oshidori International Holdings Limited",
+      "long_position_pct": 16.63,
+      "relevant_event_date": "2020-04-06",
+      "filing_date": "2020-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 2.87,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 2.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 2.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 2.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 2.0,
+      "relevant_event_date": "2019-02-13",
+      "filing_date": "2019-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bob May Incorporated",
+      "long_position_pct": 2.7,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Co-Lead Holdings Limited",
+      "long_position_pct": 2.7,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Freewill Holdings Limited",
+      "long_position_pct": 2.7,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Rhine Limited",
+      "long_position_pct": 2.7,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 9.52,
+      "relevant_event_date": "2019-01-30",
+      "filing_date": "2019-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-01-30",
+      "filing_date": "2019-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-01-30",
+      "filing_date": "2019-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-01-30",
+      "filing_date": "2019-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-01-30",
+      "filing_date": "2019-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 8.06,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-01-29",
+      "filing_date": "2019-01-30",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 7.19,
+      "relevant_event_date": "2019-01-28",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2019-01-28",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2019-01-28",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2019-01-28",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2019-01-28",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 6.17,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Investments Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kenson Investment Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Capital Group Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Uptown WW Holdings Limited",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2019-01-25",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2019-01-24",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 5.01,
+      "relevant_event_date": "2019-01-23",
+      "filing_date": "2019-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bob May Incorporated",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2019-01-14",
+      "filing_date": "2019-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Co-Lead Holdings Limited",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2019-01-14",
+      "filing_date": "2019-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Freewill Holdings Limited",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2019-01-14",
+      "filing_date": "2019-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "High Rhine Limited",
+      "long_position_pct": 5.3,
+      "relevant_event_date": "2019-01-14",
+      "filing_date": "2019-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 3.97,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Satinu Resources Group Ltd.",
+      "long_position_pct": 4.71,
+      "relevant_event_date": "2018-07-10",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2018-07-09",
+      "filing_date": "2018-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Enerchina Holdings Limited",
+      "long_position_pct": 16.88,
+      "relevant_event_date": "2018-07-05",
+      "filing_date": "2018-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuo Yi-Hui",
+      "long_position_pct": 4.84,
+      "relevant_event_date": "2018-07-05",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kuo Yi-Hui",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2018-05-16",
+      "filing_date": "2018-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Asia Pacific Promotion Limited",
+      "long_position_pct": 19.78,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ou Yaping",
+      "long_position_pct": 19.78,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAK Siu Hang Viola",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "VMS Investment Group Limited",
+      "long_position_pct": 19.99,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

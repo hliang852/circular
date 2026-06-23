@@ -1,7 +1,7 @@
 {
   "code": "01370",
   "name": "AOWEI HOLDING LTD.",
-  "last_scraped": "2026-06-22T23:33:27Z",
+  "last_scraped": "2026-06-23T23:18:57Z",
   "shareholders": [
     {
       "name": "Chak Limited",
@@ -50,8 +50,8 @@
       "long_position_pct": 72.25,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-23",
-      "filing_date": "2025-12-23",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -63,8 +63,8 @@
       "long_position_pct": 72.25,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -197,45 +197,6 @@
       "filing_date": "2026-06-17",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Fresh Idea Ventures Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1111713000,
-      "long_position_pct": 67.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-23",
-      "filing_date": "2025-12-23",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "XinKong International Capital Holdings Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1111713000,
-      "long_position_pct": 67.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-23",
-      "filing_date": "2025-12-23",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "中国中信金融资产管理股份有限公司",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1111713000,
-      "long_position_pct": 67.98,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-23",
-      "filing_date": "2025-12-23",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
@@ -284,6 +245,30 @@
       "long_position_pct": 72.25,
       "relevant_event_date": "2026-06-17",
       "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fresh Idea Ventures Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XinKong International Capital Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中国中信金融资产管理股份有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

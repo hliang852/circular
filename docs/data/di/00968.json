@@ -1,7 +1,7 @@
 {
   "code": "00968",
   "name": "XINYI SOLAR HOLDINGS LTD.",
-  "last_scraped": "2026-06-17T23:30:29Z",
+  "last_scraped": "2026-06-23T23:12:59Z",
   "shareholders": [
     {
       "name": "Xinyi Glass Holdings Limited",
@@ -199,6 +199,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 461875617,
+      "long_position_pct": 5.04,
+      "short_position_shares": 92177519,
+      "short_position_pct": 1.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "上海宁泉资产管理有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -210,22 +223,17 @@
       "filing_date": "2026-03-02",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 458147417,
-      "long_position_pct": 5.0,
-      "short_position_shares": 90247670,
-      "short_position_pct": 0.98,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.0,

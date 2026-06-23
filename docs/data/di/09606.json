@@ -1,18 +1,18 @@
 {
   "code": "09606",
   "name": "DUALITY BIOTHERAPEUTICS, INC. - B",
-  "last_scraped": "2026-06-19T23:12:57Z",
+  "last_scraped": "2026-06-23T23:34:21Z",
   "shareholders": [
     {
       "name": "朱忠远",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 15999723,
-      "long_position_pct": 17.6,
+      "long_position_shares": 16009723,
+      "long_position_pct": 17.61,
       "short_position_shares": 2599800,
       "short_position_pct": 2.86,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -98,17 +98,33 @@
       "name": "DualityBio Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 6535000,
-      "long_position_pct": 7.19,
+      "long_position_shares": 6545000,
+      "long_position_pct": 7.2,
       "short_position_shares": 2599800,
       "short_position_pct": 2.86,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "DualityBio Ltd.",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "朱忠远",
+      "long_position_pct": 17.61,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "DualityBio Ltd.",
       "long_position_pct": 7.19,

@@ -1,18 +1,18 @@
 {
   "code": "00028",
   "name": "TIAN AN CHINA INVESTMENTS CO. LTD.",
-  "last_scraped": "2026-06-12T23:12:12Z",
+  "last_scraped": "2026-06-23T23:03:58Z",
   "shareholders": [
     {
       "name": "Lee Su Hwei",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 869621096,
+      "long_position_shares": 869637096,
       "long_position_pct": 59.31,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Allied Group Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 869195096,
+      "long_position_shares": 869211096,
       "long_position_pct": 59.28,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Lee Seng Huang",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 869195096,
+      "long_position_shares": 869211096,
       "long_position_pct": 59.28,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "Lee Seng Hui",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 869195096,
+      "long_position_shares": 869211096,
       "long_position_pct": 59.28,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-11",
-      "filing_date": "2026-06-11",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -174,6 +174,38 @@
     }
   ],
   "history": [
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 59.28,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Huang",
+      "long_position_pct": 59.28,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 59.28,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 59.31,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Allied Group Limited",
       "long_position_pct": 59.28,
