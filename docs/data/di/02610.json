@@ -1,7 +1,7 @@
 {
   "code": "02610",
   "name": "NANSHAN ALUMINIUM INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-05-18T23:03:01Z",
+  "last_scraped": "2026-06-24T23:21:59Z",
   "shareholders": [
     {
       "name": "Song Jianbo",
@@ -210,9 +210,51 @@
       "filing_date": "2026-01-30",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Fund Management Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31492400,
+      "long_position_pct": 5.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Tiger Fund VCC",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 31492400,
+      "long_position_pct": 5.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Tiger Fund Management Pte. Ltd.",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tiger Fund VCC",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Song Jianbo",
       "long_position_pct": 57.04,

@@ -1,0 +1,62 @@
+{
+  "code": "02358",
+  "name": "JIU RONG HOLDINGS LTD.",
+  "last_scraped": "2026-06-24T23:21:17Z",
+  "shareholders": [
+    {
+      "name": "SOYEA Technology Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 493206000,
+      "long_position_pct": 9.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "TAI CHUN PING",
+      "long_position_pct": 0.77,
+      "relevant_event_date": "2026-02-03",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TAI CHUN PING",
+      "long_position_pct": 6.5,
+      "relevant_event_date": "2022-12-30",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SOYEA Technology Co., Ltd.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SOYEA Technology Co., Ltd.",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2017-08-08",
+      "filing_date": "2017-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SOYEA Technology Co., Ltd.",
+      "long_position_pct": 7.14,
+      "relevant_event_date": "2017-08-07",
+      "filing_date": "2017-08-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

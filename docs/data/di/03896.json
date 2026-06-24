@@ -1,7 +1,7 @@
 {
   "code": "03896",
   "name": "KINGSOFT CLOUD HOLDINGS LTD.",
-  "last_scraped": "2026-05-25T23:02:53Z",
+  "last_scraped": "2026-06-24T23:25:24Z",
   "shareholders": [
     {
       "name": "Kingsoft Corporation Limited",
@@ -46,12 +46,12 @@
       "name": "The Bank of New York Mellon Corporation",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 282971047,
-      "long_position_pct": 6.24,
-      "short_position_shares": 279830160,
-      "short_position_pct": 6.17,
-      "relevant_event_date": "2026-05-20",
-      "filing_date": "2026-05-20",
+      "long_position_shares": 318634191,
+      "long_position_pct": 7.03,
+      "short_position_shares": 315385305,
+      "short_position_pct": 6.96,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -70,6 +70,14 @@
     }
   ],
   "history": [
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "The Bank of New York Mellon Corporation",
       "long_position_pct": 6.24,

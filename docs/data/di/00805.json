@@ -1,7 +1,7 @@
 {
   "code": "00805",
   "name": "NEW GONOW RECREATIONAL VEHICLES INC.",
-  "last_scraped": "2026-05-27T23:14:15Z",
+  "last_scraped": "2026-06-24T23:06:17Z",
   "shareholders": [
     {
       "name": "Dedao Trust Limited",
@@ -72,12 +72,12 @@
       "name": "Kan Chi san",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 103320000,
-      "long_position_pct": 10.76,
+      "long_position_shares": 95920000,
+      "long_position_pct": 9.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Kan Chi san",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Kan Chi san",
       "long_position_pct": 10.76,

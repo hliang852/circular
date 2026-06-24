@@ -1,7 +1,7 @@
 {
   "code": "08079",
   "name": "WISDOMCOME GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-05-29T23:33:24Z",
+  "last_scraped": "2026-06-24T23:27:46Z",
   "shareholders": [
     {
       "name": "Best Richest Management Company Limited",
@@ -72,12 +72,12 @@
       "name": "Li Nigel Yiu Kee",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 8335000,
-      "long_position_pct": 22.75,
+      "long_position_shares": 8520000,
+      "long_position_pct": 23.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -85,12 +85,12 @@
       "name": "TGG Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 8335000,
-      "long_position_pct": 22.75,
+      "long_position_shares": 8520000,
+      "long_position_pct": 23.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "TGG Ventures Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 8335000,
-      "long_position_pct": 22.75,
+      "long_position_shares": 8520000,
+      "long_position_pct": 23.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -111,12 +111,12 @@
       "name": "Tsang Eric Fan Zee",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 8335000,
-      "long_position_pct": 22.75,
+      "long_position_shares": 8520000,
+      "long_position_pct": 23.26,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-27",
-      "filing_date": "2026-05-27",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -210,9 +210,62 @@
       "filing_date": "2022-07-08",
       "form_type": "Form 1",
       "notice_type": "Current"
+    },
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1845000,
+      "long_position_pct": 5.04,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Li Nigel Yiu Kee",
+      "long_position_pct": 23.26,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TGG Holdings Limited",
+      "long_position_pct": 23.26,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TGG Ventures Ltd",
+      "long_position_pct": 23.26,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tsang Eric Fan Zee",
+      "long_position_pct": 23.26,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.04,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Li Nigel Yiu Kee",
       "long_position_pct": 22.75,

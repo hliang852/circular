@@ -1,7 +1,7 @@
 {
   "code": "01417",
   "name": "RIVERINE CHINA HOLDINGS LTD.",
-  "last_scraped": "2026-06-19T23:01:36Z",
+  "last_scraped": "2026-06-24T23:15:03Z",
   "shareholders": [
     {
       "name": "Partner Summit Holdings Limited",
@@ -108,32 +108,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Shanghai Industrial Holdings Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 30000000,
-      "long_position_pct": 7.5,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2017-12-11",
-      "filing_date": "2017-12-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 30000000,
-      "long_position_pct": 7.5,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2017-12-11",
-      "filing_date": "2017-12-11",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Shanghai Industrial Investment Treasury Company Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -171,9 +145,67 @@
       "filing_date": "2017-12-11",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Industrial Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 22498000,
+      "long_position_pct": 5.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 22498000,
+      "long_position_pct": 5.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Shanghai Industrial Holdings Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Industrial Holdings Limited",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
+      "long_position_pct": 6.35,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Chen Yao",
       "long_position_pct": 0.0,

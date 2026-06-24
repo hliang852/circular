@@ -1,7 +1,7 @@
 {
   "code": "03738",
   "name": "VOBILE GROUP LTD.",
-  "last_scraped": "2026-06-23T23:29:46Z",
+  "last_scraped": "2026-06-24T23:24:51Z",
   "shareholders": [
     {
       "name": "Wang Yangbin Bernard",
@@ -80,9 +80,30 @@
       "filing_date": "2021-01-15",
       "form_type": "Form 1",
       "notice_type": "Current"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 131453624,
+      "long_position_pct": 5.06,
+      "short_position_shares": 66793247,
+      "short_position_pct": 2.57,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 4.95,

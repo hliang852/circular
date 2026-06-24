@@ -1,7 +1,7 @@
 {
   "code": "09982",
   "name": "CENTRAL CHINA MANAGEMENT CO. LTD.",
-  "last_scraped": "2026-05-27T23:26:42Z",
+  "last_scraped": "2026-06-24T23:32:51Z",
   "shareholders": [
     {
       "name": "Joy Bright Investments Limited",
@@ -119,9 +119,30 @@
       "filing_date": "2026-05-20",
       "form_type": "Form 3A",
       "notice_type": "Current"
+    },
+    {
+      "name": "Wang Rui",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 414071620,
+      "long_position_pct": 10.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Wang Rui",
+      "long_position_pct": 10.71,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Joy Bright Investments Limited",
       "long_position_pct": 20.13,

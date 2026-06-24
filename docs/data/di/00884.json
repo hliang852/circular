@@ -1,7 +1,7 @@
 {
   "code": "00884",
   "name": "CIFI HOLDINGS (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-23T23:11:04Z",
+  "last_scraped": "2026-06-24T23:08:03Z",
   "shareholders": [
     {
       "name": "LIN Zhong",
@@ -290,19 +290,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 1199323107,
-      "long_position_pct": 6.61,
-      "short_position_shares": 547114268,
-      "short_position_pct": 3.01,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "PAG-P Asia Fund L.P.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -330,6 +317,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.3,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Ding Chang Limited",
       "long_position_pct": 7.51,

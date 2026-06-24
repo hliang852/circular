@@ -1,7 +1,7 @@
 {
   "code": "01661",
   "name": "CHINA FRONTIER TECHNOLOGY GROUP",
-  "last_scraped": "2026-06-19T23:01:57Z",
+  "last_scraped": "2026-06-24T23:15:25Z",
   "shareholders": [
     {
       "name": "HKND Limited",
@@ -46,12 +46,12 @@
       "name": "ND MEDICAL TECHNOLOGY LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 28450000,
-      "long_position_pct": 14.95,
+      "long_position_shares": 26830000,
+      "long_position_pct": 14.1,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "WU MEIZHEN",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 28450000,
-      "long_position_pct": 14.95,
+      "long_position_shares": 26830000,
+      "long_position_pct": 14.1,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -122,6 +122,38 @@
     }
   ],
   "history": [
+    {
+      "name": "ND MEDICAL TECHNOLOGY LIMITED",
+      "long_position_pct": 14.1,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WU MEIZHEN",
+      "long_position_pct": 14.1,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ND MEDICAL TECHNOLOGY LIMITED",
+      "long_position_pct": 14.55,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WU MEIZHEN",
+      "long_position_pct": 14.55,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "ND MEDICAL TECHNOLOGY LIMITED",
       "long_position_pct": 14.95,

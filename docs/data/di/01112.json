@@ -1,7 +1,7 @@
 {
   "code": "01112",
   "name": "HEALTH AND HAPPINESS (H&H) INTERNATIONAL HOLDINGS LTD.",
-  "last_scraped": "2026-06-22T23:31:22Z",
+  "last_scraped": "2026-06-24T23:11:21Z",
   "shareholders": [
     {
       "name": "LUO Yun",
@@ -93,22 +93,17 @@
       "filing_date": "2026-04-10",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "华夏基金管理有限公司",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 32433680,
-      "long_position_pct": 5.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-15",
-      "filing_date": "2026-06-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "华夏基金管理有限公司",
+      "long_position_pct": 4.95,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "华夏基金管理有限公司",
       "long_position_pct": 5.02,

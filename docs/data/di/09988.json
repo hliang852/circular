@@ -1,7 +1,7 @@
 {
   "code": "09988",
   "name": "ALIBABA GROUP HOLDING LTD. - W",
-  "last_scraped": "2026-06-22T23:58:22Z",
+  "last_scraped": "2026-06-24T23:33:09Z",
   "shareholders": [
     {
       "name": "Shiodome Project 17 GK",
@@ -20,12 +20,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 1347911696,
-      "long_position_pct": 7.02,
-      "short_position_shares": 552103108,
-      "short_position_pct": 2.87,
-      "relevant_event_date": "2026-06-15",
-      "filing_date": "2026-06-15",
+      "long_position_shares": 1365295230,
+      "long_position_pct": 7.11,
+      "short_position_shares": 559805688,
+      "short_position_pct": 2.91,
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -57,6 +57,22 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.11,
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 7.02,

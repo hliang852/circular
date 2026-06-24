@@ -1,7 +1,7 @@
 {
   "code": "01208",
   "name": "MMG LTD.",
-  "last_scraped": "2026-06-23T23:17:37Z",
+  "last_scraped": "2026-06-24T23:13:46Z",
   "shareholders": [
     {
       "name": "China Minmetals H.K. (Holdings) Limited（中國五礦香港控股有限公司）",
@@ -17,45 +17,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Album Enterprises Limited 愛邦企業有限公司",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 8186032923,
-      "long_position_pct": 67.49,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-07-15",
-      "filing_date": "2024-07-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "China Minmetals Corporation (中國五礦集團有限公司)",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 8186032923,
-      "long_position_pct": 67.49,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-07-15",
-      "filing_date": "2024-07-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "China Minmetals Corporation Limited (中國五礦股份有限公司)",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 8186032923,
-      "long_position_pct": 67.49,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-07-15",
-      "filing_date": "2024-07-15",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "China Minmetals H.K. (Holdings) Limited（中國五礦香港控股有限公司）",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -69,15 +30,54 @@
       "notice_type": "Current"
     },
     {
-      "name": "China Minmetals Non-Ferrous Metals Company Limited (五礦有色金屬股份有限公司)",
+      "name": "Album Enterprises Limited 愛邦企業有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 8186032923,
-      "long_position_pct": 67.49,
+      "long_position_pct": 63.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2024-07-15",
-      "filing_date": "2024-07-15",
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Minmetals Corporation (中國五礦集團有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 8186032923,
+      "long_position_pct": 63.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Minmetals Corporation Limited (中國五礦股份有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 8186032923,
+      "long_position_pct": 63.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Minmetals Non-ferrous Metals Company Limited (五礦有色金屬股份有限公司)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 8186032923,
+      "long_position_pct": 63.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -89,8 +89,8 @@
       "long_position_pct": 63.72,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -114,6 +114,46 @@
       "long_position_pct": 63.72,
       "relevant_event_date": "2026-06-23",
       "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Album Enterprises Limited 愛邦企業有限公司",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Minmetals Corporation (中國五礦集團有限公司)",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Minmetals Corporation Limited (中國五礦股份有限公司)",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Minmetals Non-ferrous Metals Company Limited (五礦有色金屬股份有限公司)",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "中國五礦香港控股有限公司",
+      "long_position_pct": 63.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

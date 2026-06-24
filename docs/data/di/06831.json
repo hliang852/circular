@@ -1,7 +1,7 @@
 {
   "code": "06831",
   "name": "GREEN TEA GROUP LTD.",
-  "last_scraped": "2026-06-23T23:33:01Z",
+  "last_scraped": "2026-06-24T23:27:06Z",
   "shareholders": [
     {
       "name": "Lu Changmei",
@@ -186,19 +186,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Morgan Stanley",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 33955711,
-      "long_position_pct": 5.04,
-      "short_position_shares": 2662300,
-      "short_position_pct": 0.39,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "Wuxi Zixian Food Co., Ltd.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -213,6 +200,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.04,

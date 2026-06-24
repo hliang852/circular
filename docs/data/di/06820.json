@@ -1,0 +1,852 @@
+{
+  "code": "06820",
+  "name": "FRIENDTIMES INC.",
+  "last_scraped": "2026-06-24T23:26:39Z",
+  "shareholders": [
+    {
+      "name": "JIANG XIAOHUANG",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1246496157,
+      "long_position_pct": 57.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "MAO YUYAN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1246496157,
+      "long_position_pct": 57.16,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Gorgeous Sunshine Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1028188116,
+      "long_position_pct": 47.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1028188116,
+      "long_position_pct": 47.15,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Eternal Heart Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 937688116,
+      "long_position_pct": 43.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Future Wisdom Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 187000000,
+      "long_position_pct": 8.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Warm Sunshine Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 187000000,
+      "long_position_pct": 8.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 57.16,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 57.16,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 57.1,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 59.0,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 59.0,
+      "relevant_event_date": "2024-07-18",
+      "filing_date": "2024-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 58.98,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 58.98,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 58.96,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 58.96,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 58.94,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 58.94,
+      "relevant_event_date": "2024-07-12",
+      "filing_date": "2024-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 4.15,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 4.15,
+      "relevant_event_date": "2024-03-22",
+      "filing_date": "2024-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2023-10-11",
+      "filing_date": "2023-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2023-10-11",
+      "filing_date": "2023-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2023-09-05",
+      "filing_date": "2023-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gorgeous Sunshine Holding Limited",
+      "long_position_pct": 47.15,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 58.81,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Ling Long Holdings Limited",
+      "long_position_pct": 4.15,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 58.81,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 47.15,
+      "relevant_event_date": "2023-09-01",
+      "filing_date": "2023-09-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gorgeous Sunshine Holding Limited",
+      "long_position_pct": 51.57,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 63.23,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 63.23,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 51.57,
+      "relevant_event_date": "2023-08-21",
+      "filing_date": "2023-08-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Friends Fruit Holdings Limited",
+      "long_position_pct": 3.85,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 3.85,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 67.52,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 67.52,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Purple Crystal Holdings Limited",
+      "long_position_pct": 2.96,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Purple Dream Holdings Limited",
+      "long_position_pct": 2.96,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 3.85,
+      "relevant_event_date": "2022-11-08",
+      "filing_date": "2022-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 64.56,
+      "relevant_event_date": "2022-03-28",
+      "filing_date": "2022-03-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.26,
+      "relevant_event_date": "2022-03-28",
+      "filing_date": "2022-03-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 64.56,
+      "relevant_event_date": "2022-03-28",
+      "filing_date": "2022-03-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.26,
+      "relevant_event_date": "2022-03-28",
+      "filing_date": "2022-03-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.25,
+      "relevant_event_date": "2022-03-25",
+      "filing_date": "2022-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.25,
+      "relevant_event_date": "2022-03-25",
+      "filing_date": "2022-03-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2022-03-24",
+      "filing_date": "2022-03-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2022-03-24",
+      "filing_date": "2022-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-11-01",
+      "filing_date": "2021-11-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-11-01",
+      "filing_date": "2021-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-10-29",
+      "filing_date": "2021-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-10-29",
+      "filing_date": "2021-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.21,
+      "relevant_event_date": "2021-10-28",
+      "filing_date": "2021-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.21,
+      "relevant_event_date": "2021-10-28",
+      "filing_date": "2021-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Agile Eagle Holdings Limited",
+      "long_position_pct": 1.98,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Friends Fruit Holdings Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Friends Together Holdings Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.19,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.19,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.99,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-05-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Agile Eagle Holdings Limited",
+      "long_position_pct": 6.63,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.19,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eternal Heart Holdings Limited",
+      "long_position_pct": 43.0,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.19,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.19,
+      "relevant_event_date": "2020-11-26",
+      "filing_date": "2020-11-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.17,
+      "relevant_event_date": "2020-11-10",
+      "filing_date": "2020-11-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.17,
+      "relevant_event_date": "2020-11-10",
+      "filing_date": "2020-11-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.12,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.12,
+      "relevant_event_date": "2020-10-22",
+      "filing_date": "2020-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 71.0,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 71.0,
+      "relevant_event_date": "2020-10-12",
+      "filing_date": "2020-10-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.08,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.96,
+      "relevant_event_date": "2020-09-01",
+      "filing_date": "2020-09-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.9,
+      "relevant_event_date": "2020-08-06",
+      "filing_date": "2020-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-07-14",
+      "filing_date": "2020-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2020-04-02",
+      "filing_date": "2020-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.87,
+      "relevant_event_date": "2020-02-14",
+      "filing_date": "2020-02-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.8,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2019-12-31",
+      "filing_date": "2019-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.66,
+      "relevant_event_date": "2019-12-20",
+      "filing_date": "2019-12-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.54,
+      "relevant_event_date": "2019-12-10",
+      "filing_date": "2019-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.47,
+      "relevant_event_date": "2019-11-15",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.47,
+      "relevant_event_date": "2019-11-14",
+      "filing_date": "2019-11-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.46,
+      "relevant_event_date": "2019-11-08",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.45,
+      "relevant_event_date": "2019-11-06",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Agile Eagle Holdings Limited",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eternal Heart Holdings Limited",
+      "long_position_pct": 42.62,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Future Wisdom Holdings Limited",
+      "long_position_pct": 8.5,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gorgeous Sunshine Holding Limited",
+      "long_position_pct": 55.37,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIANG XIAOHUANG",
+      "long_position_pct": 70.44,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ling Long Holdings Limited",
+      "long_position_pct": 8.5,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MAO YUYAN",
+      "long_position_pct": 70.44,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Purple Crystal Holdings Limited",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Purple Dream Holdings Limited",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF (Cayman) Ltd.",
+      "long_position_pct": 55.37,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Warm Sunshine Holdings Limited",
+      "long_position_pct": 8.5,
+      "relevant_event_date": "2019-10-08",
+      "filing_date": "2019-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

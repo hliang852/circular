@@ -1,0 +1,762 @@
+{
+  "code": "00012",
+  "name": "HENDERSON LAND DEVELOPMENT CO. LTD.",
+  "last_scraped": "2026-06-24T23:00:47Z",
+  "shareholders": [
+    {
+      "name": "LEE Shau Kee",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 3525331445,
+      "long_position_pct": 72.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hopkins (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3509782778,
+      "long_position_pct": 72.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 3509782778,
+      "long_position_pct": 72.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 3509782778,
+      "long_position_pct": 72.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Riddick (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3509782778,
+      "long_position_pct": 72.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Rimmer (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3509782778,
+      "long_position_pct": 72.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Henderson Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3506860733,
+      "long_position_pct": 72.44,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yamina Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1580269966,
+      "long_position_pct": 32.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Believegood Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 797887933,
+      "long_position_pct": 16.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "South Base Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 797887933,
+      "long_position_pct": 16.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Richbond Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 475801899,
+      "long_position_pct": 9.83,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 464481902,
+      "long_position_pct": 9.59,
+      "short_position_shares": 93071716,
+      "short_position_pct": 1.92,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cameron Enterprise Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 371145414,
+      "long_position_pct": 7.67,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.59,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.9,
+      "relevant_event_date": "2026-04-09",
+      "filing_date": "2026-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 10.07,
+      "relevant_event_date": "2026-01-15",
+      "filing_date": "2026-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.15,
+      "relevant_event_date": "2025-09-05",
+      "filing_date": "2025-09-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2025-07-17",
+      "filing_date": "2025-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 9.98,
+      "relevant_event_date": "2025-07-16",
+      "filing_date": "2025-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2025-07-14",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 6.89,
+      "relevant_event_date": "2025-07-10",
+      "filing_date": "2025-07-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 6.32,
+      "relevant_event_date": "2025-07-09",
+      "filing_date": "2025-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2025-07-08",
+      "filing_date": "2025-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.82,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MA Hiu Ngai",
+      "long_position_pct": 26.0,
+      "relevant_event_date": "2024-06-03",
+      "filing_date": "2024-06-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Believegood Limited",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cameron Enterprise Inc.",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Henderson Development Limited",
+      "long_position_pct": 72.44,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hopkins (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.82,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Richbond Investment Limited",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riddick (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rimmer (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Base Limited",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yamina Investment Limited",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Believegood Limited",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cameron Enterprise Inc.",
+      "long_position_pct": 7.67,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Henderson Development Limited",
+      "long_position_pct": 72.44,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hopkins (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.82,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Richbond Investment Limited",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Riddick (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rimmer (Cayman) Limited",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "South Base Limited",
+      "long_position_pct": 16.48,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yamina Investment Limited",
+      "long_position_pct": 32.64,
+      "relevant_event_date": "2018-06-21",
+      "filing_date": "2018-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.5,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.82,
+      "relevant_event_date": "2017-12-18",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.52,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.52,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.84,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.53,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.53,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.85,
+      "relevant_event_date": "2017-12-14",
+      "filing_date": "2017-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.53,
+      "relevant_event_date": "2017-12-12",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.53,
+      "relevant_event_date": "2017-12-12",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.85,
+      "relevant_event_date": "2017-12-12",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.56,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.56,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.88,
+      "relevant_event_date": "2017-12-11",
+      "filing_date": "2017-12-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.58,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.58,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.9,
+      "relevant_event_date": "2017-12-08",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.62,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.62,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.94,
+      "relevant_event_date": "2017-12-07",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.65,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.65,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.97,
+      "relevant_event_date": "2017-12-06",
+      "filing_date": "2017-12-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.67,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 72.99,
+      "relevant_event_date": "2017-12-05",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.7,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.7,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 73.02,
+      "relevant_event_date": "2017-12-04",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 73.05,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    }
+  ]
+}

@@ -1,0 +1,2581 @@
+{
+  "code": "08547",
+  "name": "PACIFIC LEGEND GROUP LTD.",
+  "last_scraped": "2026-06-24T23:28:11Z",
+  "shareholders": [
+    {
+      "name": "ZHENG JING",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 66800000,
+      "long_position_pct": 13.56,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-11-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 100000000,
+      "long_position_pct": 11.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WONG WING MAN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 100000000,
+      "long_position_pct": 11.28,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 132000000,
+      "long_position_pct": 10.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-08-26",
+      "filing_date": "2022-08-26",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2026-05-07",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 7.73,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 7.73,
+      "relevant_event_date": "2026-01-06",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2025-12-30",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 12.92,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Markson International Holding Ltd.",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 3.99,
+      "relevant_event_date": "2025-12-22",
+      "filing_date": "2025-12-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 16.54,
+      "relevant_event_date": "2025-12-11",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 16.54,
+      "relevant_event_date": "2025-12-11",
+      "filing_date": "2026-01-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHENG JING",
+      "long_position_pct": 13.56,
+      "relevant_event_date": "2025-11-27",
+      "filing_date": "2025-12-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 5.86,
+      "relevant_event_date": "2025-11-17",
+      "filing_date": "2025-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 21.12,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 21.12,
+      "relevant_event_date": "2025-11-03",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 24.94,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 24.94,
+      "relevant_event_date": "2025-10-28",
+      "filing_date": "2025-11-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 7.7,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 26.48,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 26.48,
+      "relevant_event_date": "2025-10-02",
+      "filing_date": "2025-10-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 7.28,
+      "relevant_event_date": "2025-09-29",
+      "filing_date": "2025-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Best Ability Limited",
+      "long_position_pct": 3.97,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eminence Enterprise Limited",
+      "long_position_pct": 3.97,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Gainever Corporation Limited",
+      "long_position_pct": 3.97,
+      "relevant_event_date": "2025-08-20",
+      "filing_date": "2025-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 3.48,
+      "relevant_event_date": "2025-08-14",
+      "filing_date": "2025-08-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2025-08-11",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 4.24,
+      "relevant_event_date": "2025-07-31",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-07-24",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 21.75,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 21.75,
+      "relevant_event_date": "2025-07-22",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 18.08,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 18.08,
+      "relevant_event_date": "2025-07-21",
+      "filing_date": "2025-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 5.62,
+      "relevant_event_date": "2025-06-06",
+      "filing_date": "2025-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 17.4,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 17.4,
+      "relevant_event_date": "2025-05-15",
+      "filing_date": "2025-06-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Best Ability Limited",
+      "long_position_pct": 7.65,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eminence Enterprise Limited",
+      "long_position_pct": 7.65,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gainever Corporation Limited",
+      "long_position_pct": 7.65,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 9.18,
+      "relevant_event_date": "2025-05-13",
+      "filing_date": "2025-05-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2025-05-11",
+      "filing_date": "2025-08-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 9.5,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Best Ability Limited",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eminence Enterprise Limited",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gainever Corporation Limited",
+      "long_position_pct": 5.21,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-02-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 11.19,
+      "relevant_event_date": "2025-01-23",
+      "filing_date": "2025-02-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 17.58,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 17.58,
+      "relevant_event_date": "2024-12-24",
+      "filing_date": "2024-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 10.87,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2024-10-18",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG KWAI SHAN",
+      "long_position_pct": 11.79,
+      "relevant_event_date": "2024-10-17",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 11.84,
+      "relevant_event_date": "2024-10-15",
+      "filing_date": "2024-10-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 12.58,
+      "relevant_event_date": "2024-09-17",
+      "filing_date": "2024-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 13.82,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 13.82,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 13.83,
+      "relevant_event_date": "2024-09-13",
+      "filing_date": "2024-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 14.39,
+      "relevant_event_date": "2024-09-11",
+      "filing_date": "2024-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 16.9,
+      "relevant_event_date": "2024-09-06",
+      "filing_date": "2024-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 16.9,
+      "relevant_event_date": "2024-09-06",
+      "filing_date": "2024-09-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 16.9,
+      "relevant_event_date": "2024-09-06",
+      "filing_date": "2024-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 15.74,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 15.74,
+      "relevant_event_date": "2024-08-28",
+      "filing_date": "2024-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Accumulate More Profits Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Easyknit International Holdings Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gold Winner Investment Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Christopher Geoffrey Douglas",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hooper Ivan Geoffrey Douglas",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Magical Profits Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Markson International Holding Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Winterbotham Trust Company Limited as trustee of The Magical 2000 Trust",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winterbotham Holdings Limited",
+      "long_position_pct": 8.15,
+      "relevant_event_date": "2024-08-16",
+      "filing_date": "2024-08-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 18.68,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 18.68,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2024-06-03",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 4.69,
+      "relevant_event_date": "2024-06-03",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 17.89,
+      "relevant_event_date": "2024-06-03",
+      "filing_date": "2024-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 20.69,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 5.63,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 20.69,
+      "relevant_event_date": "2024-01-08",
+      "filing_date": "2024-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 20.34,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 20.34,
+      "relevant_event_date": "2023-10-13",
+      "filing_date": "2023-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 7.27,
+      "relevant_event_date": "2023-09-21",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 18.32,
+      "relevant_event_date": "2023-09-20",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 18.32,
+      "relevant_event_date": "2023-09-20",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 8.57,
+      "relevant_event_date": "2023-08-29",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 8.46,
+      "relevant_event_date": "2023-08-28",
+      "filing_date": "2023-09-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 17.21,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 17.21,
+      "relevant_event_date": "2023-08-22",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 16.11,
+      "relevant_event_date": "2023-07-27",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 16.11,
+      "relevant_event_date": "2023-07-27",
+      "filing_date": "2023-08-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 18.46,
+      "relevant_event_date": "2023-07-11",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 18.46,
+      "relevant_event_date": "2023-07-11",
+      "filing_date": "2023-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 16.25,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 16.25,
+      "relevant_event_date": "2023-06-21",
+      "filing_date": "2023-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 13.58,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 13.58,
+      "relevant_event_date": "2023-02-28",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 14.07,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 14.07,
+      "relevant_event_date": "2023-02-22",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 8.61,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 26.17,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 8.61,
+      "relevant_event_date": "2023-02-06",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 10.33,
+      "relevant_event_date": "2023-01-19",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 10.33,
+      "relevant_event_date": "2023-01-19",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 9.61,
+      "relevant_event_date": "2023-01-16",
+      "filing_date": "2023-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 10.56,
+      "relevant_event_date": "2022-11-25",
+      "filing_date": "2022-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 10.56,
+      "relevant_event_date": "2022-11-25",
+      "filing_date": "2022-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-11-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 9.26,
+      "relevant_event_date": "2022-10-24",
+      "filing_date": "2022-11-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 8.09,
+      "relevant_event_date": "2022-09-19",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CENTURY GREAT INVESTMENTS LIMITED",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG WING MAN",
+      "long_position_pct": 6.72,
+      "relevant_event_date": "2022-09-15",
+      "filing_date": "2022-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2022-08-26",
+      "filing_date": "2022-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 15.15,
+      "relevant_event_date": "2022-01-27",
+      "filing_date": "2022-01-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 31.4,
+      "relevant_event_date": "2021-09-14",
+      "filing_date": "2021-09-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEUNG WAI KEUNG",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 34.54,
+      "relevant_event_date": "2021-06-17",
+      "filing_date": "2021-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 52.87,
+      "relevant_event_date": "2021-02-04",
+      "filing_date": "2021-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 4.38,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2020-09-30",
+      "filing_date": "2020-10-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Great Metro Limited",
+      "long_position_pct": 4.51,
+      "relevant_event_date": "2020-09-29",
+      "filing_date": "2020-10-06",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 6.78,
+      "relevant_event_date": "2020-09-29",
+      "filing_date": "2020-10-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2020-06-18",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 63.49,
+      "relevant_event_date": "2020-06-11",
+      "filing_date": "2020-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2020-06-04",
+      "filing_date": "2020-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 63.53,
+      "relevant_event_date": "2020-04-08",
+      "filing_date": "2020-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 63.5,
+      "relevant_event_date": "2020-03-25",
+      "filing_date": "2020-03-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 4.4,
+      "relevant_event_date": "2019-08-27",
+      "filing_date": "2019-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 5.15,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2019-08-14",
+      "filing_date": "2019-08-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "National Investments Fund Limited",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2019-01-07",
+      "filing_date": "2019-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Great Metro Limited",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2019-01-04",
+      "filing_date": "2019-01-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 9.04,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bailey Alison Siobhan",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bulbeck David Frances",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Double Lions Limited",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fitzpatrick Tracy-Ann",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Great Metro Limited",
+      "long_position_pct": 7.51,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwan Hoi Wang",
+      "long_position_pct": 8.71,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Leach James Seymour Dickson",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan Jennifer Carver",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "McLennan John Warren",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Rinderknecht John Martin",
+      "long_position_pct": 63.45,
+      "relevant_event_date": "2018-07-18",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

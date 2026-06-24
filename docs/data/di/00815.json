@@ -1,0 +1,610 @@
+{
+  "code": "00815",
+  "name": "CHINA SILVER GROUP LTD.",
+  "last_scraped": "2026-06-24T23:06:34Z",
+  "shareholders": [
+    {
+      "name": "CHEN Wantian",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 309272187,
+      "long_position_pct": 10.47,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Silver Group Limited",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 309272187,
+      "long_position_pct": 9.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 308222187,
+      "long_position_pct": 9.94,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Newline Dragon Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 234212000,
+      "long_position_pct": 7.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 309272187,
+      "long_position_pct": 7.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Silver Group Limited",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 9.94,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-05-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Newline Dragon Limited",
+      "long_position_pct": 7.93,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 10.43,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 10.47,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Newline Dragon Limited",
+      "long_position_pct": 8.63,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 11.36,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 12.47,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 12.43,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 12.47,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOURNEY GRACE LIMITED",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Medal Chains Internet Technology Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-03-10",
+      "filing_date": "2025-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 13.2,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 13.3,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JOURNEY GRACE LIMITED",
+      "long_position_pct": 5.53,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Medal Chains Internet Technology Group Limited",
+      "long_position_pct": 11.04,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 13.16,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 13.2,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 13.3,
+      "relevant_event_date": "2025-01-28",
+      "filing_date": "2025-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 15.83,
+      "relevant_event_date": "2024-08-20",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 15.83,
+      "relevant_event_date": "2024-08-20",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 15.94,
+      "relevant_event_date": "2024-05-28",
+      "filing_date": "2024-05-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 15.77,
+      "relevant_event_date": "2024-05-28",
+      "filing_date": "2024-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU PEIZHEN",
+      "long_position_pct": 15.94,
+      "relevant_event_date": "2024-05-28",
+      "filing_date": "2024-05-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 4.89,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "liu junjie",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2023-07-19",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2023-07-18",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2023-07-18",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2023-07-18",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 20.93,
+      "relevant_event_date": "2023-06-19",
+      "filing_date": "2024-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2023-06-19",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Peizhen",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2023-06-19",
+      "filing_date": "2023-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 4.84,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 4.84,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-07-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 5.82,
+      "relevant_event_date": "2023-04-20",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2023-04-19",
+      "filing_date": "2023-08-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 6.0,
+      "relevant_event_date": "2023-04-19",
+      "filing_date": "2023-05-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2023-04-17",
+      "filing_date": "2023-04-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "chen xiyin",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2023-04-11",
+      "filing_date": "2023-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN WANTIAN",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "刘君杰",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "陈锡银",
+      "long_position_pct": 7.08,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2020-07-27",
+      "filing_date": "2020-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2020-07-27",
+      "filing_date": "2020-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 7.98,
+      "relevant_event_date": "2020-07-27",
+      "filing_date": "2020-07-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 4.83,
+      "relevant_event_date": "2020-07-23",
+      "filing_date": "2020-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Brown Brothers Harriman & Co.",
+      "long_position_pct": 5.05,
+      "relevant_event_date": "2019-08-30",
+      "filing_date": "2020-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 8.0,
+      "relevant_event_date": "2019-03-05",
+      "filing_date": "2019-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 7.62,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 6.26,
+      "relevant_event_date": "2018-05-31",
+      "filing_date": "2018-06-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Luo Shan Dong",
+      "long_position_pct": 4.82,
+      "relevant_event_date": "2018-02-08",
+      "filing_date": "2018-02-13",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Shan Dong",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2018-01-15",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Luo Shan Dong",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2017-09-14",
+      "filing_date": "2017-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    }
+  ]
+}
