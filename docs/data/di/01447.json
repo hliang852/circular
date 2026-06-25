@@ -1,7 +1,7 @@
 {
   "code": "01447",
   "name": "SFK CONSTRUCTION HOLDINGS LTD.",
-  "last_scraped": "2026-06-22T23:33:57Z",
+  "last_scraped": "2026-06-25T23:22:28Z",
   "shareholders": [
     {
       "name": "HU LIANG MING RAYMOND",
@@ -14,6 +14,19 @@
       "relevant_event_date": "2026-06-18",
       "filing_date": "2026-06-18",
       "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 21999999,
+      "long_position_pct": 5.5,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -37,6 +50,14 @@
       "relevant_event_date": "2026-06-18",
       "filing_date": "2026-06-22",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 5.5,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

@@ -1,58 +1,19 @@
 {
   "code": "00815",
   "name": "CHINA SILVER GROUP LTD.",
-  "last_scraped": "2026-06-24T23:06:34Z",
+  "last_scraped": "2026-06-25T23:17:53Z",
   "shareholders": [
     {
       "name": "CHEN Wantian",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
       "long_position_shares": 309272187,
-      "long_position_pct": 10.47,
+      "long_position_pct": 7.84,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-07",
-      "filing_date": "2025-11-07",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "China Silver Group Limited",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 309272187,
-      "long_position_pct": 9.97,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-05",
-      "filing_date": "2026-05-05",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "RICH UNION ENTERPRISES LIMITED",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 308222187,
-      "long_position_pct": 9.94,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-05",
-      "filing_date": "2026-05-05",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Newline Dragon Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 234212000,
-      "long_position_pct": 7.93,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-11-07",
-      "filing_date": "2025-11-07",
-      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -67,6 +28,32 @@
       "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 308222187,
+      "long_position_pct": 7.81,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Newline Dragon Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 234212000,
+      "long_position_pct": 5.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
@@ -76,6 +63,30 @@
       "relevant_event_date": "2026-06-22",
       "filing_date": "2026-06-23",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 7.84,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Newline Dragon Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "RICH UNION ENTERPRISES LIMITED",
+      "long_position_pct": 7.81,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {
@@ -100,6 +111,14 @@
       "relevant_event_date": "2026-05-05",
       "filing_date": "2026-05-12",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Wantian",
+      "long_position_pct": 9.97,
+      "relevant_event_date": "2026-05-05",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 3A",
       "notice_type": "Change"
     },
     {

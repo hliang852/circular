@@ -1,18 +1,44 @@
 {
   "code": "00356",
   "name": "DT CAPITAL LTD.",
-  "last_scraped": "2026-06-23T23:06:05Z",
+  "last_scraped": "2026-06-25T23:14:46Z",
   "shareholders": [
+    {
+      "name": "Liu Junda",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 505157200,
+      "long_position_pct": 16.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 505157200,
+      "long_position_pct": 16.72,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
     {
       "name": "P.B. Capital Advanced Fund SPC – P.B. Capital Advanced Fund 2 Segregated Portfolio",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 504410000,
-      "long_position_pct": 18.44,
+      "long_position_pct": 16.7,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2021-12-31",
-      "filing_date": "2021-12-31",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -21,11 +47,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 504410000,
-      "long_position_pct": 18.44,
+      "long_position_pct": 16.7,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2021-12-31",
-      "filing_date": "2021-12-31",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -225,32 +251,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Liu Junda",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 219457200,
-      "long_position_pct": 8.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-02",
-      "filing_date": "2025-12-02",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Mass Trade Global Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 219457200,
-      "long_position_pct": 8.02,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2025-12-02",
-      "filing_date": "2025-12-02",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "CHINA AGRIBUSINESS CAPITAL INDUSTRY LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -286,6 +286,38 @@
       "long_position_pct": 8.42,
       "relevant_event_date": "2026-06-23",
       "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Junda",
+      "long_position_pct": 16.72,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mass Trade Global Limited",
+      "long_position_pct": 16.72,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "P.B. Capital Advanced Fund SPC – P.B. Capital Advanced Fund 2 Segregated Portfolio",
+      "long_position_pct": 16.7,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "P.B. Global Asset Management Limited",
+      "long_position_pct": 16.7,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

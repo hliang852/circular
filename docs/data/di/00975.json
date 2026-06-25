@@ -1,7 +1,7 @@
 {
   "code": "00975",
   "name": "MONGOLIAN MINING CORPORATION",
-  "last_scraped": "2026-05-27T23:15:07Z",
+  "last_scraped": "2026-06-25T23:18:43Z",
   "shareholders": [
     {
       "name": "Dashdeleg Batmunkh",
@@ -85,12 +85,12 @@
       "name": "Gorzynski Michael",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 103463278,
-      "long_position_pct": 10.0,
+      "long_position_shares": 103263278,
+      "long_position_pct": 9.99,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-12",
-      "filing_date": "2026-05-12",
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -135,6 +135,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Gorzynski Michael",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
     {
       "name": "Gorzynski Michael",
       "long_position_pct": 10.0,

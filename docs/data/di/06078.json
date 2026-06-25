@@ -1,7 +1,7 @@
 {
   "code": "06078",
   "name": "HYGEIA HEALTHCARE HOLDINGS CO., LTD.",
-  "last_scraped": "2026-06-02T23:55:27Z",
+  "last_scraped": "2026-06-25T23:33:14Z",
   "shareholders": [
     {
       "name": "REN Ai",
@@ -160,6 +160,45 @@
       "notice_type": "Current"
     },
     {
+      "name": "FIL Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 50330600,
+      "long_position_pct": 8.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 50330600,
+      "long_position_pct": 8.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 50330600,
+      "long_position_pct": 8.14,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Morgan Stanley & Co. International plc",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -210,48 +249,33 @@
       "filing_date": "2020-06-29",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "FIL Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 43971400,
-      "long_position_pct": 7.11,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Pandanus Associates Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 43971400,
-      "long_position_pct": 7.11,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Pandanus Partners L.P.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 43971400,
-      "long_position_pct": 7.11,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-28",
-      "filing_date": "2026-05-28",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "FIL Limited",
+      "long_position_pct": 8.14,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Associates Inc.",
+      "long_position_pct": 8.14,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pandanus Partners L.P.",
+      "long_position_pct": 8.14,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "FIL Limited",
       "long_position_pct": 7.11,

@@ -1,7 +1,7 @@
 {
   "code": "01752",
   "name": "TOP EDUCATION GROUP LTD.",
-  "last_scraped": "2026-06-24T23:15:42Z",
+  "last_scraped": "2026-06-25T23:23:31Z",
   "shareholders": [
     {
       "name": "Zhu Minshen",
@@ -43,7 +43,7 @@
       "notice_type": "Current"
     },
     {
-      "name": "ZHAO John",
+      "name": "Benefit Hongda International Company Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 351180000,
@@ -53,6 +53,19 @@
       "relevant_event_date": "2026-06-23",
       "filing_date": "2026-06-23",
       "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHAO John",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 351180000,
+      "long_position_pct": 16.17,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
       "notice_type": "Current"
     },
     {
@@ -214,6 +227,22 @@
       "relevant_event_date": "2026-06-23",
       "filing_date": "2026-06-24",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Benefit Hongda International Company Limited",
+      "long_position_pct": 16.17,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHAO John",
+      "long_position_pct": 16.17,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
       "notice_type": "Change"
     },
     {

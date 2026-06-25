@@ -1,18 +1,18 @@
 {
   "code": "01866",
   "name": "CHINA XLX FERTILISER LTD.",
-  "last_scraped": "2026-06-10T23:36:55Z",
+  "last_scraped": "2026-06-25T23:24:54Z",
   "shareholders": [
     {
       "name": "Liu Xingxu",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 454343999,
-      "long_position_pct": 35.41,
+      "long_position_shares": 455469999,
+      "long_position_pct": 35.49,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Pioneer Top Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 420136999,
-      "long_position_pct": 32.74,
+      "long_position_shares": 421262999,
+      "long_position_pct": 32.83,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "Yan Yunhua",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 252946000,
-      "long_position_pct": 19.71,
+      "long_position_shares": 256214000,
+      "long_position_pct": 19.97,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-05",
-      "filing_date": "2026-06-05",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -71,11 +71,83 @@
   ],
   "history": [
     {
+      "name": "Liu Xingxu",
+      "long_position_pct": 35.49,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pioneer Top Holdings Limited",
+      "long_position_pct": 32.83,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.97,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.92,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.75,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.74,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
       "name": "Teeroy Limited",
       "long_position_pct": 16.09,
       "relevant_event_date": "2026-06-09",
       "filing_date": "2026-06-10",
       "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Xingxu",
+      "long_position_pct": 35.41,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Yunhua",
+      "long_position_pct": 19.71,
+      "relevant_event_date": "2026-06-09",
+      "filing_date": "2026-06-11",
+      "form_type": "Form 3A",
       "notice_type": "Change"
     },
     {

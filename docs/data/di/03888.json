@@ -1,19 +1,45 @@
 {
   "code": "03888",
   "name": "KINGSOFT CORPORATION LTD.",
-  "last_scraped": "2026-06-15T23:54:26Z",
+  "last_scraped": "2026-06-25T23:32:18Z",
   "shareholders": [
     {
       "name": "Lei Jun",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 339329248,
-      "long_position_pct": 24.56,
+      "long_position_shares": 361718648,
+      "long_position_pct": 26.18,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fast Pace Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 96900457,
+      "long_position_pct": 7.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xiaomi Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 96900457,
+      "long_position_pct": 7.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -54,35 +80,97 @@
       "filing_date": "2024-11-22",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Fast Pace Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 74511057,
-      "long_position_pct": 5.39,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Xiaomi Corporation",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 74511057,
-      "long_position_pct": 5.39,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Fast Pace Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 26.18,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiaomi Corporation",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 25.74,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fast Pace Limited",
+      "long_position_pct": 6.25,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 25.41,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xiaomi Corporation",
+      "long_position_pct": 6.25,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 24.98,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 24.94,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 24.58,
+      "relevant_event_date": "2026-06-17",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lei Jun",
+      "long_position_pct": 24.57,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Citigroup Inc.",
       "long_position_pct": 3.56,

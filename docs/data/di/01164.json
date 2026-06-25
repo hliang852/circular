@@ -1,7 +1,7 @@
 {
   "code": "01164",
   "name": "CGN MINING CO. LTD.",
-  "last_scraped": "2026-06-23T23:17:13Z",
+  "last_scraped": "2026-06-25T23:21:25Z",
   "shareholders": [
     {
       "name": "China General Nuclear Power Corporation",
@@ -57,6 +57,14 @@
     }
   ],
   "history": [
+    {
+      "name": "State Street Bank & Trust Company",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Van Eck Associates Corporation",
       "long_position_pct": 5.06,

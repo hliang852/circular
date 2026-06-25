@@ -1,7 +1,7 @@
 {
   "code": "02250",
   "name": "B.DUCK SEMK HOLDINGS INTERNATIONAL LTD.",
-  "last_scraped": "2026-06-09T23:32:39Z",
+  "last_scraped": "2026-06-25T23:26:50Z",
   "shareholders": [
     {
       "name": "Hui Ha Lam",
@@ -108,6 +108,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "UBS Group AG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 96827000,
+      "long_position_pct": 9.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Overseas Chinese Town (HK) Company Limited 香港華僑城有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -200,6 +213,14 @@
     }
   ],
   "history": [
+    {
+      "name": "UBS Group AG",
+      "long_position_pct": 9.6,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Semk Products (Holdings) Limited",
       "long_position_pct": 64.78,

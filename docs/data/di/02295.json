@@ -1,0 +1,72 @@
+{
+  "code": "02295",
+  "name": "MAXICITY HOLDINGS LTD.",
+  "last_scraped": "2026-06-25T23:27:28Z",
+  "shareholders": [
+    {
+      "name": "GreenAir Energy Global Limited（綠盛環球能源有限公司）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 300000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LUO Ji",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 300000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHU Liming",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 300000000,
+      "long_position_pct": 75.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "GreenAir Energy Global Limited（綠盛環球能源有限公司）",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LUO Ji",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHU Liming",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2026-06-21",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

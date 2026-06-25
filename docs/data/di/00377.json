@@ -1,0 +1,1887 @@
+{
+  "code": "00377",
+  "name": "CHINA HUAJUN GROUP LTD.",
+  "last_scraped": "2026-06-25T23:15:17Z",
+  "shareholders": [
+    {
+      "name": "BAO Le",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 45319139,
+      "long_position_pct": 73.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 45319139,
+      "long_position_pct": 73.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Huajun Group Limtied",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44202780,
+      "long_position_pct": 72.86,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44450619,
+      "long_position_pct": 72.23,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "BAO Le",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 45319139,
+      "long_position_pct": 55.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 45319139,
+      "long_position_pct": 55.61,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 44450619,
+      "long_position_pct": 54.54,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "DONG Yuanxi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 6582326,
+      "long_position_pct": 8.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED歐克集團股份有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 6582326,
+      "long_position_pct": 8.08,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Company",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 485861647,
+      "long_position_pct": 8.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 485861647,
+      "long_position_pct": 8.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hua Zhi Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 485861647,
+      "long_position_pct": 8.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Gang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 485861647,
+      "long_position_pct": 8.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 4559326,
+      "long_position_pct": 7.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "BAO Le",
+      "long_position_pct": 55.61,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG Yuanxi",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 54.54,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 55.61,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED歐克集團股份有限公司",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "DONG Yuanxi",
+      "long_position_pct": 10.69,
+      "relevant_event_date": "2024-05-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED歐克集團股份有限公司",
+      "long_position_pct": 10.69,
+      "relevant_event_date": "2024-05-07",
+      "filing_date": "2025-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 73.63,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-07-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.26,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 74.26,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.26,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "華君控股集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "華君置業集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "華君電力（句容）有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 90.98,
+      "relevant_event_date": "2021-07-01",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 90.98,
+      "relevant_event_date": "2021-07-01",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 90.98,
+      "relevant_event_date": "2021-07-01",
+      "filing_date": "2021-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 95.59,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 72.23,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 95.59,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 95.59,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED歐克集團股份有限公司",
+      "long_position_pct": 10.69,
+      "relevant_event_date": "2021-04-26",
+      "filing_date": "2021-05-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.13,
+      "relevant_event_date": "2020-12-31",
+      "filing_date": "2021-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.13,
+      "relevant_event_date": "2020-12-31",
+      "filing_date": "2021-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.13,
+      "relevant_event_date": "2020-12-31",
+      "filing_date": "2021-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-29",
+      "filing_date": "2020-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-29",
+      "filing_date": "2020-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-29",
+      "filing_date": "2020-12-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-24",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-24",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.12,
+      "relevant_event_date": "2020-12-24",
+      "filing_date": "2020-12-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.11,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.11,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.11,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-10-19",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-10-19",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-10-19",
+      "filing_date": "2020-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 123.76,
+      "relevant_event_date": "2020-09-02",
+      "filing_date": "2020-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 130.33,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.05,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 130.33,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 130.33,
+      "relevant_event_date": "2020-07-06",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 147.04,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 130.32,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 123.76,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 123.76,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 147.04,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 147.04,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 130.32,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 130.32,
+      "relevant_event_date": "2020-07-01",
+      "filing_date": "2020-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 189.8,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 189.8,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 189.8,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華君控股集團有限公司",
+      "long_position_pct": 16.72,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華君置業集團有限公司",
+      "long_position_pct": 16.72,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "華君電力（句容）有限公司",
+      "long_position_pct": 12.66,
+      "relevant_event_date": "2020-06-30",
+      "filing_date": "2020-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 173.08,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 173.08,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 173.08,
+      "relevant_event_date": "2020-06-23",
+      "filing_date": "2020-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 173.07,
+      "relevant_event_date": "2020-06-05",
+      "filing_date": "2020-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.47,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.47,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.47,
+      "relevant_event_date": "2020-05-28",
+      "filing_date": "2020-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.46,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.46,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.46,
+      "relevant_event_date": "2020-05-25",
+      "filing_date": "2020-05-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-21",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-13",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-13",
+      "filing_date": "2020-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-13",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-05-13",
+      "filing_date": "2020-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-01-22",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 166.52,
+      "relevant_event_date": "2020-01-22",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 166.52,
+      "relevant_event_date": "2020-01-22",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-01-22",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2020-01-22",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 125.69,
+      "relevant_event_date": "2020-01-01",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 123.76,
+      "relevant_event_date": "2020-01-01",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 123.76,
+      "relevant_event_date": "2020-01-01",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 125.69,
+      "relevant_event_date": "2020-01-01",
+      "filing_date": "2020-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2019-12-17",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.45,
+      "relevant_event_date": "2019-12-17",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.43,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.43,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.42,
+      "relevant_event_date": "2019-11-14",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.42,
+      "relevant_event_date": "2019-11-14",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.41,
+      "relevant_event_date": "2019-11-12",
+      "filing_date": "2019-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.41,
+      "relevant_event_date": "2019-11-12",
+      "filing_date": "2019-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.41,
+      "relevant_event_date": "2019-11-12",
+      "filing_date": "2019-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.41,
+      "relevant_event_date": "2019-11-08",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.41,
+      "relevant_event_date": "2019-11-08",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.4,
+      "relevant_event_date": "2019-11-06",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.4,
+      "relevant_event_date": "2019-11-06",
+      "filing_date": "2019-11-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 168.4,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 166.52,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 166.52,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 168.4,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 170.83,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 168.92,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 168.92,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Meng Guang Bao",
+      "long_position_pct": 170.83,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 170.83,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 125.54,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited",
+      "long_position_pct": 125.54,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate Company Limited 華君置業有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Nanjing Huajun Real Estate Company Limited 南京華君置業有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 127.45,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 126.25,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 116.64,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 116.64,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 116.64,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited 華君集團有限公司",
+      "long_position_pct": 116.64,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited 華君集團有限公司",
+      "long_position_pct": 116.64,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 127.45,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 126.25,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bao Le",
+      "long_position_pct": 125.84,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited 中國華君集團有限公司",
+      "long_position_pct": 116.23,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Group Limited 華君集團有限公司",
+      "long_position_pct": 116.23,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 125.84,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2018-10-16",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bao Le",
+      "long_position_pct": 82.46,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate Company Limited 華君置業有限公司",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 82.46,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Nanjing Huajun Real Estate Company Limited 南京華君置業有限公司",
+      "long_position_pct": 8.9,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise (Yingkou) Co, Ltd. 華君實業(營口)有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-09-14",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd. 華君置業(高郵)有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-09-14",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bao Le",
+      "long_position_pct": 126.4,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 126.4,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 7.32,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-10-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 7.72,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-08-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.2,
+      "relevant_event_date": "2018-07-17",
+      "filing_date": "2018-07-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.2,
+      "relevant_event_date": "2018-07-17",
+      "filing_date": "2018-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.16,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limtied",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise ( YingKou) Co. Ltd.",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd.",
+      "long_position_pct": 72.86,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.16,
+      "relevant_event_date": "2018-06-29",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 7.31,
+      "relevant_event_date": "2018-06-26",
+      "filing_date": "2018-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 7.09,
+      "relevant_event_date": "2018-06-20",
+      "filing_date": "2018-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.03,
+      "relevant_event_date": "2018-06-15",
+      "filing_date": "2018-06-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.03,
+      "relevant_event_date": "2018-06-15",
+      "filing_date": "2018-06-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-06-08",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-06-08",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "OUKE GROUP HOLDINGS LIMITED",
+      "long_position_pct": 6.46,
+      "relevant_event_date": "2018-05-30",
+      "filing_date": "2018-05-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grace Fortune Investment Limited",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Lan Huasheng",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2018-04-27",
+      "filing_date": "2018-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.03,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise ( YingKou) Co. Ltd.",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd.",
+      "long_position_pct": 72.73,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.03,
+      "relevant_event_date": "2018-04-26",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 69.0,
+      "relevant_event_date": "2018-04-20",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 69.0,
+      "relevant_event_date": "2018-04-20",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 68.97,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 68.97,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 68.9,
+      "relevant_event_date": "2018-03-19",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 68.9,
+      "relevant_event_date": "2018-03-19",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 68.89,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited",
+      "long_position_pct": 67.72,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise ( YingKou) Co. Ltd.",
+      "long_position_pct": 67.72,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd.",
+      "long_position_pct": 67.72,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 68.89,
+      "relevant_event_date": "2018-03-12",
+      "filing_date": "2018-03-14",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 68.21,
+      "relevant_event_date": "2018-03-05",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Huajun Group Limited",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2018-03-05",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise ( YingKou) Co. Ltd.",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2018-03-05",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd.",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2018-03-05",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 68.21,
+      "relevant_event_date": "2018-03-05",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC Futures Group (Hong Kong) Financial Holdings Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2018-02-13",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "华信期货股份有限公司",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2018-02-13",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Company",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Limited",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hua Zhi Investment Limited",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Gang",
+      "long_position_pct": 8.01,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Company",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2018-01-29",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2018-01-29",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hua Zhi Investment Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2018-01-29",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Gang",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2018-01-29",
+      "filing_date": "2018-02-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Company",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC (HK) Financial Holdings Limited",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CEFC Futures Group (Hong Kong) Financial Holdings Limited",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hua Zhi Investment Limited",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Gang",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "华信期货股份有限公司",
+      "long_position_pct": 5.72,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grace Fortune Investment Limited",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2018-01-12",
+      "filing_date": "2018-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lan Huasheng",
+      "long_position_pct": 9.99,
+      "relevant_event_date": "2018-01-12",
+      "filing_date": "2018-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 62.74,
+      "relevant_event_date": "2018-01-11",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 62.74,
+      "relevant_event_date": "2018-01-11",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 62.77,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 62.77,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 69.42,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 9.7,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 69.42,
+      "relevant_event_date": "2017-12-21",
+      "filing_date": "2017-12-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 74.89,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BAO Le",
+      "long_position_pct": 75.89,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Enterprise ( YingKou) Co. Ltd.",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun International Limited",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huajun Real Estate (Gaoyou) Co, Ltd.",
+      "long_position_pct": 67.04,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.89,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 75.89,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MENG Guang Bao",
+      "long_position_pct": 74.89,
+      "relevant_event_date": "2017-07-27",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

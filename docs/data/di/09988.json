@@ -1,7 +1,7 @@
 {
   "code": "09988",
   "name": "ALIBABA GROUP HOLDING LTD. - W",
-  "last_scraped": "2026-06-24T23:33:09Z",
+  "last_scraped": "2026-06-25T23:37:14Z",
   "shareholders": [
     {
       "name": "Shiodome Project 17 GK",
@@ -46,12 +46,12 @@
       "name": "Citigroup Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 980053357,
-      "long_position_pct": 5.1,
-      "short_position_shares": 181726020,
+      "long_position_shares": 987275640,
+      "long_position_pct": 5.14,
+      "short_position_shares": 182272460,
       "short_position_pct": 0.94,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
@@ -64,6 +64,14 @@
       "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Increase"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "long_position_pct": 5.14,
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
     },
     {
       "name": "JPMorgan Chase & Co.",

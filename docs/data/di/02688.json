@@ -1,7 +1,7 @@
 {
   "code": "02688",
   "name": "ENN ENERGY HOLDINGS LTD.",
-  "last_scraped": "2026-06-24T23:23:05Z",
+  "last_scraped": "2026-06-25T23:30:37Z",
   "shareholders": [
     {
       "name": "WANG YUSUO",
@@ -124,12 +124,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 108023285,
-      "long_position_pct": 9.54,
+      "long_position_shares": 115112058,
+      "long_position_pct": 10.17,
       "short_position_shares": 6500,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-19",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -194,6 +194,14 @@
       "relevant_event_date": "2026-06-22",
       "filing_date": "2026-06-22",
       "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 10.17,
+      "relevant_event_date": "2026-06-19",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
       "notice_type": "Change"
     },
     {

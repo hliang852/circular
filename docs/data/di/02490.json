@@ -1,0 +1,544 @@
+{
+  "code": "02490",
+  "name": "LC LOGISTICS, INC.",
+  "last_scraped": "2026-06-25T23:29:22Z",
+  "shareholders": [
+    {
+      "name": "Li Yan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 317106588,
+      "long_position_pct": 51.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 317106588,
+      "long_position_pct": 51.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xu Xin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 317106588,
+      "long_position_pct": 51.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Trident Trust Company (B.V.I.) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 200377164,
+      "long_position_pct": 32.6,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 151792644,
+      "long_position_pct": 24.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Marco Target Development Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 151792644,
+      "long_position_pct": 24.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Glorious Sailing Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 60505200,
+      "long_position_pct": 9.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Fortune Sino Worldwide Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 48584520,
+      "long_position_pct": 7.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 48584520,
+      "long_position_pct": 7.9,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lecang Shining Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39232644,
+      "long_position_pct": 6.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Peace Seaworld Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 39232644,
+      "long_position_pct": 6.85,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-07-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Fortune Sino Worldwide Limited",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Glorious Sailing Limited",
+      "long_position_pct": 9.84,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yan",
+      "long_position_pct": 51.59,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "long_position_pct": 51.59,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Marco Target Development Limited",
+      "long_position_pct": 24.69,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (B.V.I.) Limited",
+      "long_position_pct": 32.6,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Xin",
+      "long_position_pct": 51.59,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Fortune Sino Worldwide Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Sailing Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yan",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Marco Target Development Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Wealth Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Trident Trust Company (B.V.I.) Limited",
+      "long_position_pct": 35.0,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Xin",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-09-22",
+      "filing_date": "2025-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Glorious Sailing Limited",
+      "long_position_pct": 10.57,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Sailing Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Shining Limited",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yan",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peace Seaworld Limited",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Wealth Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Xin",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2025-07-28",
+      "filing_date": "2025-09-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Glorious Sailing Limited",
+      "long_position_pct": 10.57,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Sailing Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "long_position_pct": 26.51,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Shining Limited",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yan",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peace Seaworld Limited",
+      "long_position_pct": 6.85,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Wealth Limited",
+      "long_position_pct": 8.49,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Xin",
+      "long_position_pct": 55.39,
+      "relevant_event_date": "2023-10-24",
+      "filing_date": "2023-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Glorious Sailing Limited",
+      "long_position_pct": 10.66,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Sailing Limited",
+      "long_position_pct": 26.73,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Altitude Limited",
+      "long_position_pct": 26.73,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Flourishing Limited",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lecang Shining Limited",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yan",
+      "long_position_pct": 55.85,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Liu Quanxiang",
+      "long_position_pct": 55.85,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Peace Seaworld Limited",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Spring Wealth Limited",
+      "long_position_pct": 8.56,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Xin",
+      "long_position_pct": 55.85,
+      "relevant_event_date": "2023-09-25",
+      "filing_date": "2023-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

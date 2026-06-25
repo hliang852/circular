@@ -1,18 +1,18 @@
 {
   "code": "00086",
   "name": "SUN HUNG KAI & CO. LTD.",
-  "last_scraped": "2026-06-19T22:51:32Z",
+  "last_scraped": "2026-06-25T23:13:31Z",
   "shareholders": [
     {
       "name": "Lee Su Hwei",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 1465684265,
-      "long_position_pct": 74.62,
+      "long_position_pct": 74.63,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 1444479575,
-      "long_position_pct": 73.54,
+      "long_position_pct": 73.55,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -34,11 +34,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 1444479575,
-      "long_position_pct": 73.54,
+      "long_position_pct": 73.55,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -70,6 +70,30 @@
     }
   ],
   "history": [
+    {
+      "name": "Allied Group Limited",
+      "long_position_pct": 73.55,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Seng Hui",
+      "long_position_pct": 73.55,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lee Su Hwei",
+      "long_position_pct": 74.63,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Allied Group Limited",
       "long_position_pct": 73.54,

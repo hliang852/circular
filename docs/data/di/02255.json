@@ -1,7 +1,7 @@
 {
   "code": "02255",
   "name": "HAICHANG OCEAN PARK HOLDINGS LTD.",
-  "last_scraped": "2026-06-24T23:20:00Z",
+  "last_scraped": "2026-06-25T23:27:17Z",
   "shareholders": [
     {
       "name": "Sunriver Starrysea Tourism (Cayman) Co., Ltd.",
@@ -202,26 +202,13 @@
       "name": "Qu Cheng",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 3819468640,
-      "long_position_pct": 28.9,
+      "long_position_shares": 3816157640,
+      "long_position_pct": 28.87,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-18",
-      "filing_date": "2026-06-18",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Zeqiao International (BVI) Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 3799577048,
-      "long_position_pct": 28.75,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
-      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -238,7 +225,7 @@
       "notice_type": "Current"
     },
     {
-      "name": "Zeqiao Holdings Limited (formerly known as Haichang Group Limited)",
+      "name": "Zeqiao International (BVI) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 3795136048,
@@ -247,6 +234,19 @@
       "short_position_pct": 0.0,
       "relevant_event_date": "2026-06-18",
       "filing_date": "2026-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zeqiao Holdings Limited (formerly known as Haichang Group Limited)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 3791825048,
+      "long_position_pct": 28.69,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -279,6 +279,22 @@
   ],
   "history": [
     {
+      "name": "Qu Cheng",
+      "long_position_pct": 28.87,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zeqiao Holdings Limited (formerly known as Haichang Group Limited)",
+      "long_position_pct": 28.69,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
       "name": "Cantrust (Far East) Limited",
       "long_position_pct": 28.72,
       "relevant_event_date": "2026-06-18",
@@ -296,6 +312,14 @@
     },
     {
       "name": "Zeqiao Holdings Limited (formerly known as Haichang Group Limited)",
+      "long_position_pct": 28.72,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zeqiao International (BVI) Limited",
       "long_position_pct": 28.72,
       "relevant_event_date": "2026-06-18",
       "filing_date": "2026-06-24",
