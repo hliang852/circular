@@ -1,0 +1,340 @@
+{
+  "code": "00268",
+  "name": "KINGDEE INTERNATIONAL SOFTWARE GROUP COMPANY LIMITED",
+  "programme_active": true,
+  "mandate_pct": 10.0,
+  "mandate_consumed_pct": 14.93,
+  "shares_issued": 3549468771,
+  "shares_bought": 52992000,
+  "pct_issued": 1.493,
+  "cumulative_notional": 752586190,
+  "vwap_hkd": 8.4674,
+  "current_price_hkd": 7.27,
+  "buyback_yield_pct": 1.493,
+  "free_float_pct": 35.0,
+  "consistency_score": 0,
+  "last_filing_date": "2026-05-28",
+  "agm_date": "2026-05-01",
+  "renew_probability": 11,
+  "monthly": [
+    {
+      "period": "2024-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": null,
+      "filing_date": "2024-06-03"
+    },
+    {
+      "period": "2024-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 7.32,
+      "month_volume": 317748683,
+      "issued_shares": 3594360271,
+      "filing_date": "2024-07-02"
+    },
+    {
+      "period": "2024-07",
+      "shares": 8611000,
+      "notional": 53990970,
+      "month_close": 6.27,
+      "month_volume": 439724054,
+      "issued_shares": 3585789271,
+      "filing_date": "2024-08-01"
+    },
+    {
+      "period": "2024-08",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 6.17,
+      "month_volume": 341350548,
+      "issued_shares": 3585789271,
+      "filing_date": "2024-09-02"
+    },
+    {
+      "period": "2024-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 9.0,
+      "month_volume": 581226364,
+      "issued_shares": 3585809271,
+      "filing_date": "2024-09-30"
+    },
+    {
+      "period": "2024-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 8.13,
+      "month_volume": 844607309,
+      "issued_shares": 3585854271,
+      "filing_date": "2024-11-01"
+    },
+    {
+      "period": "2024-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 8.76,
+      "month_volume": 569706039,
+      "issued_shares": 3585934271,
+      "filing_date": "2024-12-02"
+    },
+    {
+      "period": "2024-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 8.59,
+      "month_volume": 549303021,
+      "issued_shares": 3586014271,
+      "filing_date": "2025-01-02"
+    },
+    {
+      "period": "2025-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 10.28,
+      "month_volume": 360560856,
+      "issued_shares": 3586024271,
+      "filing_date": "2025-02-05"
+    },
+    {
+      "period": "2025-02",
+      "shares": 38889000,
+      "notional": 495445860,
+      "month_close": 12.74,
+      "month_volume": 1661814590,
+      "issued_shares": 3547588771,
+      "filing_date": "2025-03-03"
+    },
+    {
+      "period": "2025-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 13.16,
+      "month_volume": 1546010450,
+      "issued_shares": 3548703771,
+      "filing_date": "2025-04-01"
+    },
+    {
+      "period": "2025-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 13.18,
+      "month_volume": 955136818,
+      "issued_shares": 3549398771,
+      "filing_date": "2025-05-06"
+    },
+    {
+      "period": "2025-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 12.3,
+      "month_volume": 633358745,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-06-03"
+    },
+    {
+      "period": "2025-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 15.44,
+      "month_volume": 817327640,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-07-02"
+    },
+    {
+      "period": "2025-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 18.3,
+      "month_volume": 858144506,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-08-04"
+    },
+    {
+      "period": "2025-08",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 16.3,
+      "month_volume": 1019059141,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-09-01"
+    },
+    {
+      "period": "2025-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 17.52,
+      "month_volume": 832542324,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-10-06"
+    },
+    {
+      "period": "2025-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 14.66,
+      "month_volume": 528258732,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-11-03"
+    },
+    {
+      "period": "2025-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 14.12,
+      "month_volume": 399097292,
+      "issued_shares": 3549468771,
+      "filing_date": "2025-12-01"
+    },
+    {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 13.29,
+      "month_volume": 505072277,
+      "issued_shares": 3549468771,
+      "filing_date": "2026-01-05"
+    },
+    {
+      "period": "2026-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 12.95,
+      "month_volume": 809171125,
+      "issued_shares": 3549468771,
+      "filing_date": "2026-02-02"
+    },
+    {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 10.07,
+      "month_volume": 852387023,
+      "issued_shares": 3549468771,
+      "filing_date": "2026-03-02"
+    },
+    {
+      "period": "2026-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 8.57,
+      "month_volume": 916057131,
+      "issued_shares": 3549468771,
+      "filing_date": "2026-04-01"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 8.55,
+      "month_volume": 758693030,
+      "issued_shares": 3549468771,
+      "filing_date": "2026-04-30"
+    },
+    {
+      "period": "2026-05",
+      "shares": 5492000,
+      "notional": 40209360,
+      "month_close": 7.27,
+      "month_volume": null,
+      "issued_shares": 3549468771,
+      "filing_date": null,
+      "partial": true
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-02-04",
+      "shares": 1000000,
+      "avg_price_hkd": 11.06
+    },
+    {
+      "date": "2026-02-06",
+      "shares": 500000,
+      "avg_price_hkd": 10.86
+    },
+    {
+      "date": "2026-03-20",
+      "shares": 1000000,
+      "avg_price_hkd": 9.7
+    },
+    {
+      "date": "2026-03-24",
+      "shares": 1000000,
+      "avg_price_hkd": 9.0
+    },
+    {
+      "date": "2026-03-26",
+      "shares": 1000000,
+      "avg_price_hkd": 9.0
+    },
+    {
+      "date": "2026-03-27",
+      "shares": 3000000,
+      "avg_price_hkd": 8.6
+    },
+    {
+      "date": "2026-03-30",
+      "shares": 2000000,
+      "avg_price_hkd": 8.5
+    },
+    {
+      "date": "2026-03-31",
+      "shares": 3000000,
+      "avg_price_hkd": 8.52
+    },
+    {
+      "date": "2026-04-01",
+      "shares": 1000000,
+      "avg_price_hkd": 8.56
+    },
+    {
+      "date": "2026-04-02",
+      "shares": 1000000,
+      "avg_price_hkd": 8.29
+    },
+    {
+      "date": "2026-04-13",
+      "shares": 1000000,
+      "avg_price_hkd": 7.98
+    },
+    {
+      "date": "2026-04-23",
+      "shares": 1000000,
+      "avg_price_hkd": 8.9
+    },
+    {
+      "date": "2026-04-24",
+      "shares": 1000000,
+      "avg_price_hkd": 8.36
+    },
+    {
+      "date": "2026-04-28",
+      "shares": 1000000,
+      "avg_price_hkd": 8.3
+    },
+    {
+      "date": "2026-05-21",
+      "shares": 1492000,
+      "avg_price_hkd": 7.58
+    },
+    {
+      "date": "2026-05-26",
+      "shares": 2000000,
+      "avg_price_hkd": 7.48
+    },
+    {
+      "date": "2026-05-28",
+      "shares": 2000000,
+      "avg_price_hkd": 6.97
+    }
+  ],
+  "last_session": {
+    "date": "2026-05-28",
+    "shares": 2000000,
+    "avg_price_hkd": 6.97
+  },
+  "scraped_at": "2026-05-30T06:05:45.854900Z"
+}

@@ -129,16 +129,33 @@ class SGXNetFetcher:
     def run(self, start: datetime, end: datetime) -> dict:
         """Fetch all announcements in [start, end] and dispatch them.
 
+        The SGX API caps results at 100 items per request regardless of date
+        range.  For windows longer than ~1 week we chunk into CHUNK_DAYS-day
+        slices and filter by the sub codes relevant to registered handlers.
+
         Returns a stats dict suitable for last_run.json.
         """
         self._refresh_token()
         log.info("SGXNetFetcher run: %s -> %s", start.isoformat(), end.isoformat())
-        for ann in self._iter_announcements(start, end):
-            self.stats["fetched"] += 1
-            self._dispatch(ann)
-            self._polite_sleep()
+
+        sub_codes = self._active_sub_codes()
+
+        for chunk_start, chunk_end in _week_chunks(start, end):
+            for ann in self._iter_announcements(chunk_start, chunk_end, sub_codes):
+                self.stats["fetched"] += 1
+                self._dispatch(ann)
+                self._polite_sleep()
+
         log.info("SGXNetFetcher done: %s", self.stats)
         return self.stats
+
+    def _active_sub_codes(self) -> list[str]:
+        """Return the sub codes for all registered handler sections."""
+        codes: list[str] = []
+        for _key, (section, sub) in ROUTING.items():
+            if self.handlers.get(section):
+                codes.append(sub)
+        return codes
 
     # -- auth ----------------------------------------------------------------
 
@@ -156,39 +173,46 @@ class SGXNetFetcher:
 
     # -- pagination + HTTP ---------------------------------------------------
 
-    def _iter_announcements(self, start: datetime, end: datetime) -> Iterator[Announcement]:
-        page = 0
-        while True:
-            params = {
+    def _iter_announcements(
+        self, start: datetime, end: datetime, sub_codes: list[str] | None = None
+    ) -> Iterator[Announcement]:
+        """Yield Announcements from the API for one time chunk.
+
+        sub_codes: if provided, make one request per code (avoids the 100-item
+        cap hiding items from minority categories).  If empty/None, fetches
+        all categories — safe only for short windows.
+        """
+        targets = sub_codes if sub_codes else [None]
+        seen: set[str] = set()
+
+        for sub in targets:
+            params: dict = {
                 "periodstart": start.strftime("%Y%m%d_%H%M%S"),
                 "periodend":   end.strftime("%Y%m%d_%H%M%S"),
-                "pagestart":   page * PAGE_SIZE,
+                "pagestart":   0,
                 "pagesize":    PAGE_SIZE,
             }
+            if sub:
+                params["sub"] = sub
+
             try:
                 payload = self._get(API_COMPANY_ENDPOINT, params)
             except Exception as exc:
-                log.error("Page %d failed: %s", page, exc)
+                log.error("Fetch failed (sub=%s, window %s): %s", sub, start.date(), exc)
                 self.stats["errors"] += 1
-                break
+                continue
 
-            items = payload.get("data", [])
-            if not items:
-                break
-
+            items = payload.get("data") or []
             for item in items:
+                ann_id = str(item.get("id") or "")
+                if ann_id in seen:
+                    continue
+                seen.add(ann_id)
                 try:
                     yield self._parse(item)
                 except Exception as exc:
-                    log.warning("Parse failed for item %s: %s", item.get("id"), exc)
+                    log.warning("Parse failed for item %s: %s", ann_id, exc)
                     self.stats["errors"] += 1
-                    continue
-
-            total = payload.get("meta", {}).get("totalItems", 0)
-            fetched_so_far = (page + 1) * PAGE_SIZE
-            if fetched_so_far >= total or len(items) < PAGE_SIZE:
-                break
-            page += 1
 
     def _get(self, url: str, params: dict) -> dict:
         for attempt, wait in enumerate([0, *BACKOFF_SCHEDULE]):
@@ -299,6 +323,24 @@ class SGXNetFetcher:
     @staticmethod
     def _polite_sleep() -> None:
         time.sleep(random.uniform(MIN_DELAY_S, MAX_DELAY_S))
+
+
+# Module-level helpers ---------------------------------------------------------
+
+# The SGX API returns at most 100 items per request regardless of date range.
+# Chunking into ~7-day windows keeps each chunk safely under that limit.
+_CHUNK_DAYS = 7
+
+
+def _week_chunks(
+    start: datetime, end: datetime
+) -> Iterator[tuple[datetime, datetime]]:
+    """Yield non-overlapping (chunk_start, chunk_end) pairs spanning [start, end]."""
+    cursor = start
+    while cursor < end:
+        chunk_end = min(cursor + timedelta(days=_CHUNK_DAYS), end)
+        yield cursor, chunk_end
+        cursor = chunk_end
 
 
 # Convenience for CLI use ------------------------------------------------------

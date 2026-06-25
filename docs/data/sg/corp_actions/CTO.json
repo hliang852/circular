@@ -1,0 +1,41 @@
+{
+  "code": "CTO",
+  "name": "HONG LAI HUAT GROUP LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:46:24.632161+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-12-02T09:47:08+00:00",
+      "filing_date": "2025-12-02T09:47:08+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/LDTFULQW2N5SWYZB/99a23b5bfddb7301c44616c8c3492d258200696bdff99a2430a9b05afd5e1e8b",
+      "shares_repurchased": 2200000,
+      "on_market_shares": 2200000,
+      "off_market_shares": 0,
+      "price_high": 0.057,
+      "price_low": 0.056,
+      "consideration_sgd": 125598.15,
+      "cum_ytd_pct": 0.42,
+      "max_mandate_shares": 51784411,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-08-05T09:45:48+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/7PHMEAYEUTWDDLLG/e2933ad3d024a7c93990cf6a211aa0a0d69807a7b7d9ee23f018e07350743a93"
+    },
+    {
+      "date": "2025-08-14T09:27:41+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/RTK45UBWXHIGV2P8/0acca57a9995e6de00e3cc50af78b4cd713ecbdb8c3ef9ae882cfc0f3d9836c3"
+    }
+  ]
+}

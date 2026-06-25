@@ -9,7 +9,7 @@
   "pct_issued": 0.0,
   "cumulative_notional": 0,
   "vwap_hkd": null,
-  "current_price_hkd": 6.55,
+  "current_price_hkd": 7.27,
   "buyback_yield_pct": 0.0,
   "free_float_pct": 35.0,
   "consistency_score": 0,
@@ -25,6 +25,15 @@
       "month_volume": null,
       "issued_shares": null,
       "filing_date": "2024-06-03"
+    },
+    {
+      "period": "2024-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 5.2499,
+      "month_volume": 769719755,
+      "issued_shares": 4700383440,
+      "filing_date": "2024-07-03"
     },
     {
       "period": "2024-07",
@@ -153,6 +162,15 @@
       "filing_date": "2025-09-01"
     },
     {
+      "period": "2025-09",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 5.42,
+      "month_volume": 729560755,
+      "issued_shares": 4700383440,
+      "filing_date": "2025-10-03"
+    },
+    {
       "period": "2025-10",
       "shares": 0,
       "notional": 0,
@@ -171,6 +189,15 @@
       "filing_date": "2025-12-01"
     },
     {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 5.73,
+      "month_volume": 464777872,
+      "issued_shares": 4700383440,
+      "filing_date": "2026-01-02"
+    },
+    {
       "period": "2026-01",
       "shares": 0,
       "notional": 0,
@@ -180,6 +207,15 @@
       "filing_date": "2026-02-02"
     },
     {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 6.03,
+      "month_volume": 487624507,
+      "issued_shares": 4700383440,
+      "filing_date": "2026-03-02"
+    },
+    {
       "period": "2026-03",
       "shares": 0,
       "notional": 0,
@@ -187,9 +223,18 @@
       "month_volume": 991714634,
       "issued_shares": 4700383440,
       "filing_date": "2026-04-01"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 6.25,
+      "month_volume": 755261164,
+      "issued_shares": 4700383440,
+      "filing_date": "2026-05-06"
     }
   ],
   "events": [],
   "last_session": null,
-  "scraped_at": "2026-05-23T05:54:40.455875Z"
+  "scraped_at": "2026-05-30T03:09:35.473894Z"
 }

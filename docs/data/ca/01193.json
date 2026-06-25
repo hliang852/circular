@@ -3,20 +3,29 @@
   "name": "CHINA RESOURCES GAS GROUP LIMITED",
   "programme_active": true,
   "mandate_pct": 10.0,
-  "mandate_consumed_pct": 0.68,
+  "mandate_consumed_pct": 4.96,
   "shares_issued": 2314012871,
-  "shares_bought": 1573700,
-  "pct_issued": 0.068,
-  "cumulative_notional": 412734169,
-  "vwap_hkd": 19.3733,
-  "current_price_hkd": 18.61,
-  "buyback_yield_pct": 0.068,
+  "shares_bought": 11466500,
+  "pct_issued": 0.4955,
+  "cumulative_notional": 594121711,
+  "vwap_hkd": 19.0441,
+  "current_price_hkd": 18.39,
+  "buyback_yield_pct": 0.4955,
   "free_float_pct": 35.0,
   "consistency_score": 0,
-  "last_filing_date": "2026-05-22",
+  "last_filing_date": "2026-05-29",
   "agm_date": "2026-05-01",
-  "renew_probability": 0,
+  "renew_probability": 3,
   "monthly": [
+    {
+      "period": "2024-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": null,
+      "filing_date": "2024-06-03"
+    },
     {
       "period": "2024-06",
       "shares": 0,
@@ -117,6 +126,15 @@
       "filing_date": "2025-05-02"
     },
     {
+      "period": "2025-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 19.9404,
+      "month_volume": 95256325,
+      "issued_shares": 2314012871,
+      "filing_date": "2025-06-02"
+    },
+    {
       "period": "2025-06",
       "shares": 0,
       "notional": 0,
@@ -124,6 +142,15 @@
       "month_volume": 115939218,
       "issued_shares": 2314012871,
       "filing_date": "2025-07-02"
+    },
+    {
+      "period": "2025-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 19.5271,
+      "month_volume": 177505813,
+      "issued_shares": 2314012871,
+      "filing_date": "2025-08-01"
     },
     {
       "period": "2025-08",
@@ -153,6 +180,24 @@
       "filing_date": "2025-11-03"
     },
     {
+      "period": "2025-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 22.82,
+      "month_volume": 101290999,
+      "issued_shares": 2314012871,
+      "filing_date": "2025-12-01"
+    },
+    {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 22.7,
+      "month_volume": 136169919,
+      "issued_shares": 2314012871,
+      "filing_date": "2026-01-02"
+    },
+    {
       "period": "2026-01",
       "shares": 0,
       "notional": 0,
@@ -160,6 +205,15 @@
       "month_volume": 80582729,
       "issued_shares": 2314012871,
       "filing_date": "2026-02-02"
+    },
+    {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 20.98,
+      "month_volume": 43572186,
+      "issued_shares": 2314012871,
+      "filing_date": "2026-03-02"
     },
     {
       "period": "2026-03",
@@ -171,10 +225,19 @@
       "filing_date": "2026-04-01"
     },
     {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 18.79,
+      "month_volume": 60533842,
+      "issued_shares": 2314012871,
+      "filing_date": "2026-05-04"
+    },
+    {
       "period": "2026-05",
-      "shares": 1573700,
-      "notional": 29445568,
-      "month_close": 18.61,
+      "shares": 11466500,
+      "notional": 210833110,
+      "month_close": 18.39,
       "month_volume": null,
       "issued_shares": 2314012871,
       "filing_date": null,
@@ -296,12 +359,37 @@
       "date": "2026-05-21",
       "shares": 539200,
       "avg_price_hkd": 18.6338
+    },
+    {
+      "date": "2026-05-22",
+      "shares": 1341400,
+      "avg_price_hkd": 18.614
+    },
+    {
+      "date": "2026-05-26",
+      "shares": 1388400,
+      "avg_price_hkd": 18.5626
+    },
+    {
+      "date": "2026-05-27",
+      "shares": 1962700,
+      "avg_price_hkd": 18.2928
+    },
+    {
+      "date": "2026-05-28",
+      "shares": 3000000,
+      "avg_price_hkd": 18.11
+    },
+    {
+      "date": "2026-05-29",
+      "shares": 2200300,
+      "avg_price_hkd": 18.3671
     }
   ],
   "last_session": {
-    "date": "2026-05-21",
-    "shares": 539200,
-    "avg_price_hkd": 18.6338
+    "date": "2026-05-29",
+    "shares": 2200300,
+    "avg_price_hkd": 18.3671
   },
-  "scraped_at": "2026-05-24T19:15:28.175839Z"
+  "scraped_at": "2026-05-30T05:32:21.990298Z"
 }

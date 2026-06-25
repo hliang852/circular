@@ -1,0 +1,46 @@
+{
+  "code": "AIY",
+  "name": "IFAST CORPORATION LTD.",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:23:14.639896+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-09-11T10:26:14+00:00",
+      "filing_date": "2025-09-11T10:26:14+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/DBV2HU7KN1AXSQQ5/c32bc6b23fdaaf7087e3c34ffd4e6fafde21209c0ede3e8cee30300f3f0db4ad",
+      "shares_repurchased": 58700,
+      "on_market_shares": 58700,
+      "off_market_shares": 0,
+      "price_high": 8.65,
+      "price_low": 8.57,
+      "consideration_sgd": 506117.32,
+      "cum_ytd_pct": 0.098,
+      "max_mandate_shares": 30261783,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-07-01T10:03:29+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/74VP3MY3YLZOBD0H/45be9d90a1e7384da504ffdbd1fbf82167d7c317c9f45e8aefe65af3e4ec2d82"
+    },
+    {
+      "date": "2025-10-01T09:19:50+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/O8HI3UMLONKR0M0P/82209f2a03274dbe1d78264564205c51afe96951d9131e11f5c228f4e92c2cf1"
+    },
+    {
+      "date": "2025-10-24T12:09:47+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/B4QDOPJUXGKUR2SX/bd237cc7007235648b6c30dbdd2ccfbdf08bc27573410b79ba480e163bbed0fe"
+    }
+  ]
+}

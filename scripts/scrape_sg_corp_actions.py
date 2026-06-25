@@ -26,7 +26,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-import pdfplumber
 import requests
 
 from scripts.sgxnet_fetcher import Announcement, SGXNetFetcher, default_window
@@ -58,36 +57,64 @@ def classify_ca(headline: str) -> Optional[str]:
     return None
 
 
-# --- PDF parsers (one per filing type) ---------------------------------------
+# --- HTML announcement parsers -----------------------------------------------
+# SGX Appendix 8D buyback notices and most other filings are served as HTML
+# viewer pages at links.sgx.com, not as machine-readable PDFs.
+# Verified 2026-06-25: all numerical fields are present as plain text in the
+# HTML body — no PDF download needed for buyback notices.
 
 NUM = r"([\d,]+(?:\.\d+)?)"
 
-# Appendix 8D extraction. Form is standardised by SGX rule.
-BUYBACK_PATTERNS = {
-    "shares_repurchased": re.compile(rf"number\s+of\s+shares\s+purchased[^\d]{{0,40}}{NUM}", re.I),
-    "on_market_shares":   re.compile(rf"on.?market[^\d]{{0,40}}{NUM}", re.I),
-    "off_market_shares":  re.compile(rf"off.?market[^\d]{{0,40}}{NUM}", re.I),
-    "price_high":         re.compile(rf"highest\s+price[^\d]{{0,40}}{NUM}", re.I),
-    "price_low":          re.compile(rf"lowest\s+price[^\d]{{0,40}}{NUM}", re.I),
-    "consideration_sgd":  re.compile(rf"total\s+consideration[^\d]{{0,40}}{NUM}", re.I),
-    "cum_ytd_pct":        re.compile(rf"cumulative.{{0,80}}?{NUM}\s*%", re.I),
+# SGX Appendix 8D HTML text structure (verified 2026-06-25 against live UOB filing):
+#   Section A: "Total Number of shares purchased 100,000"
+#              "Highest Price per share SGD 36.15"  (not "highest price paid")
+#              "Lowest Price per share SGD 35.91"
+#              "Total Consideration ... SGD 3,602,892.36"
+#   Section B: "Purchase made by way of off-market acquisition ... Yes/No"
+#   Section C: "Total 7,996,400 0.4786 #Percentage"  (no % symbol on the number)
+#              "Number of treasury shares" ...
+#
+# on_market / off_market are not shown as daily counts in the form — Section B
+# only carries a Yes/No flag.  We derive them: if off-market flag = "No",
+# all shares are on-market; otherwise we cannot determine the daily split.
+_BB_PATTERNS = {
+    "shares_repurchased":  re.compile(rf"Total Number of shares purchased\s+{NUM}", re.I),
+    "off_market_flag":     re.compile(r"off-market acquisition on equal access scheme\s+(Yes|No)", re.I),
+    "price_high":          re.compile(rf"Highest Price per share\s+\w+\s+{NUM}", re.I),
+    "price_low":           re.compile(rf"Lowest Price per share\s+\w+\s+{NUM}", re.I),
+    # Single-price format used by some companies: "Price Paid per share SGD 0.077"
+    "price_paid":          re.compile(rf"Price Paid per share\s+\w+\s+{NUM}", re.I),
+    "consideration_sgd":   re.compile(rf"Total Consideration.*?SGD\s+{NUM}", re.I),
+    # Section C "Total" row: "Total 7,996,400 0.4786 #Percentage"
+    "cum_ytd_pct":         re.compile(rf"Total\s+{NUM}\s+([\d.]+)\s+#Percentage", re.I),
+    "max_mandate_shares":  re.compile(rf"Maximum number of shares authorised for purchase\s+{NUM}", re.I),
 }
 
-MANDATE_PCT_PATTERN = re.compile(rf"({NUM})\s*%\s*of\s+(?:the\s+)?(?:total\s+)?issued", re.I)
-ISSUANCE_PATTERNS = {
+_MANDATE_PCT = re.compile(
+    rf"({NUM})\s*%\s*of\s+(?:the\s+)?(?:total\s+)?issued", re.I
+)
+_ISSUANCE_PATTERNS = {
     "shares":             re.compile(rf"number\s+of\s+new\s+shares[^\d]{{0,40}}{NUM}", re.I),
     "price_per_share":    re.compile(rf"issue\s+price[^\d]{{0,40}}{NUM}", re.I),
     "consideration_sgd":  re.compile(rf"gross\s+proceeds[^\d]{{0,40}}{NUM}", re.I),
 }
 
 
-def _read_pdf_text(pdf_path: Path, max_pages: int = 5) -> str:
+def _fetch_announcement_text(url: str) -> str:
+    """Fetch and clean the text content of an SGX announcement viewer page."""
     try:
-        with pdfplumber.open(pdf_path) as pdf:
-            return "\n".join((p.extract_text() or "") for p in pdf.pages[:max_pages])
+        resp = requests.get(url, timeout=30,
+                            headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                     "AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36"})
+        resp.raise_for_status()
     except Exception as exc:
-        log.warning("pdfplumber failed on %s: %s", pdf_path, exc)
+        log.warning("Announcement fetch failed (%s): %s", url, exc)
         return ""
+    # Strip HTML tags and decode common entities.
+    text = re.sub(r"<[^>]+>", " ", resp.text)
+    text = re.sub(r"&#(\d+);", lambda m: chr(int(m.group(1))), text)
+    text = re.sub(r"&amp;", "&", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def _extract(text: str, patterns: dict[str, re.Pattern]) -> dict:
@@ -106,13 +133,40 @@ def _extract(text: str, patterns: dict[str, re.Pattern]) -> dict:
 
 
 def parse_buyback(text: str) -> dict:
-    fields = _extract(text, BUYBACK_PATTERNS)
+    fields = _extract(text, _BB_PATTERNS)
+
+    # cum_ytd_pct uses group(2) (the percentage decimal), not group(1) (share count).
+    m_cum = _BB_PATTERNS["cum_ytd_pct"].search(text)
+    if m_cum:
+        try:
+            fields["cum_ytd_pct"] = float(m_cum.group(2))
+        except (IndexError, ValueError):
+            fields["cum_ytd_pct"] = None
+
+    # Single-price format fallback: if high/low both null, use price_paid for both.
+    price_paid = fields.pop("price_paid", None)
+    if fields["price_high"] is None and fields["price_low"] is None and price_paid is not None:
+        fields["price_high"] = price_paid
+        fields["price_low"]  = price_paid
+    else:
+        fields.pop("price_paid", None)
+
+    # Derive on/off market split from Section B Yes/No flag.
+    flag = fields.pop("off_market_flag", None)
+    n = fields.get("shares_repurchased") or 0
+    if isinstance(flag, str) and flag.strip().lower() == "no":
+        fields["on_market_shares"]  = n
+        fields["off_market_shares"] = 0
+    else:
+        fields["on_market_shares"]  = None
+        fields["off_market_shares"] = None if (flag is None) else n
+
     fields["parse_failed"] = fields["shares_repurchased"] is None
     return fields
 
 
 def parse_mandate(text: str) -> dict:
-    m = MANDATE_PCT_PATTERN.search(text)
+    m = _MANDATE_PCT.search(text)
     return {
         "pct": float(m.group(1)) if m else None,
         "parse_failed": m is None,
@@ -120,7 +174,7 @@ def parse_mandate(text: str) -> dict:
 
 
 def parse_issuance(text: str) -> dict:
-    fields = _extract(text, ISSUANCE_PATTERNS)
+    fields = _extract(text, _ISSUANCE_PATTERNS)
     fields["parse_failed"] = fields["shares"] is None
     return fields
 
@@ -171,8 +225,7 @@ def handle_ca_filing(ann: Announcement) -> None:
         log.debug("Unclassified CA headline: %s", ann.headline)
         return
 
-    pdf_path = _download_pdf(ann.pdf_url, ann.announcement_id) if ann.pdf_url else None
-    text = _read_pdf_text(pdf_path) if pdf_path else ""
+    text = _fetch_announcement_text(ann.pdf_url) if ann.pdf_url else ""
 
     stock = load_stock(ann.stock_code)
     stock["name"] = stock["name"] or ann.issuer_name
@@ -221,21 +274,56 @@ def handle_ca_filing(ann: Announcement) -> None:
 
 
 def _download_pdf(url: Optional[str], ann_id: str) -> Optional[Path]:
+    """Download PDF for a CA announcement, following the SGX HTML viewer redirect.
+
+    links.sgx.com URLs return an HTML viewer page, not the PDF directly.
+    We follow one level of indirection (same pattern as scrape_sg_di._download_pdf).
+    """
     if not url:
         return None
     cache_dir = Path("docs/data/sg/_pdf_cache")
     cache_dir.mkdir(parents=True, exist_ok=True)
     target = cache_dir / f"{ann_id}.pdf"
-    if target.exists():
+    if target.exists() and target.stat().st_size > 5000:
         return target
     try:
-        resp = requests.get(url, timeout=30)
+        resp = requests.get(url, timeout=30,
+                            headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                     "AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36"})
         resp.raise_for_status()
+
+        content_type = resp.headers.get("content-type", "")
+        if "html" in content_type or resp.content[:5] in (b"<html", b"<!DOC", b"\r\n\r\n<", b"\r\n<!"):
+            pdf_url = _extract_pdf_link(resp.text)
+            if pdf_url is None:
+                log.debug("No PDF attachment in viewer page (%s)", url)
+                return None
+            resp = requests.get(pdf_url, timeout=30,
+                                headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+
+        if resp.content[:4] != b"%PDF":
+            log.debug("Response is not a PDF for %s", ann_id)
+            return None
+
         target.write_bytes(resp.content)
         return target
     except Exception as exc:
         log.warning("PDF download failed (%s): %s", url, exc)
         return None
+
+
+def _extract_pdf_link(html: str) -> Optional[str]:
+    """Extract the first .pdf attachment href from an SGX viewer page."""
+    import re
+    for pat in [
+        re.compile(r'<a\s+href="(/[^"]+\.pdf)"[^>]*class="announcement-attachment"', re.I),
+        re.compile(r'href="(/1\.0\.0/corporate-announcements/[^"]+\.pdf)"', re.I),
+    ]:
+        m = pat.search(html)
+        if m:
+            return "https://links.sgx.com" + m.group(1)
+    return None
 
 
 # --- CLI ---------------------------------------------------------------------

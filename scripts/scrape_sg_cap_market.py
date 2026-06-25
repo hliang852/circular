@@ -26,6 +26,10 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
+import io
+import re
+
+import pdfplumber
 import requests
 import yfinance as yf
 
@@ -45,27 +49,30 @@ def fetch_short_sell_report(date: datetime) -> dict[str, dict]:
 
     Returns a dict keyed by stock code. Empty dict on failure (e.g. weekend).
 
-    NOTE: the actual download URL pattern needs verification -- the SGX
-    research-education page links to a daily file but the URL format varies.
-    Placeholder logic below; replace with the verified URL once confirmed.
+    TODO_VERIFY: The filename inside the date folder on links.sgx.com requires
+    one DevTools session on https://www.sgx.com/research-education/securities
+    (Angular SPA, download triggered via authenticated XHR).  Base path is:
+        https://links.sgx.com/1.0.0/securities-research/short-sell/YYYYMMDD/<filename>
+    Update CM_SOURCES["daily_short_sell_url"] in config/sgx_categories.py
+    with the confirmed URL template once verified, then remove this note.
     """
-    base = CM_SOURCES["daily_short_sell_url"]
-    # TODO_VERIFY: real URL pattern. Likely something like:
-    #   https://links.sgx.com/.../ShortSale_YYYYMMDD.csv
-    # Inspect the SGX short selling page in DevTools to confirm.
-    url = f"{base}?date={date.strftime('%Y%m%d')}"
+    url = CM_SOURCES.get("daily_short_sell_url")
+    if not url:
+        log.debug("Short-sell URL not yet configured; skipping for %s", date.date())
+        return {}
 
+    dated_url = url.format(date=date.strftime("%Y%m%d"))
     try:
-        resp = requests.get(url, timeout=30)
+        resp = requests.get(dated_url, timeout=30)
         resp.raise_for_status()
     except Exception as exc:
         log.warning("Short sell fetch failed for %s: %s", date.date(), exc)
         return {}
 
-    # Parser assumes CSV with columns: Security, Code, ShortVolume, ShortValue,
-    # TotalVolume. Adjust once real file structure is confirmed.
+    # Expected CSV columns (update once real file confirmed):
+    #   Security Name, Security Code, Short Volume, Short Value, Total Volume
     out: dict[str, dict] = {}
-    for line in resp.text.splitlines()[1:]:  # skip header
+    for line in resp.text.splitlines()[1:]:
         cols = [c.strip() for c in line.split(",")]
         if len(cols) < 5:
             continue
@@ -115,23 +122,96 @@ def fetch_yfinance_volume(code: str, start: datetime, end: datetime) -> list[dic
 
 # --- SBL eligibility (weekly) ------------------------------------------------
 
-def fetch_sbl_eligible() -> set[str]:
-    """Return the set of stock codes eligible for SBL.
+# Verified 2026-06-25: each row in the PDF text looks like:
+#   "1 17LIVE GROUP LIMITED 6W4T 32,250 2.80 4.00"
+# CDP security codes (like 6W4T) differ from SGX trading codes (like LVR).
+# We return {cdp_code: full_name} and resolve to trading codes via name matching.
+_SBL_ROW = re.compile(
+    r"^(\d+)\s+(.+?)\s+([A-Z0-9]{3,6})\s+([\d,]+)\s+([\d.]+)\s+([\d.]+)\s*$"
+)
 
-    Placeholder -- requires real URL.
+# Tokens to strip when normalising company names for matching.
+_STRIP_TOKENS = re.compile(
+    r"\b(LIMITED|LTD\.?|HOLDINGS?|GROUP|CORPORATION|CORP\.?|PTE\.?|PLC|"
+    r"SINGAPORE|INCORPORATED|INC\.?|BERHAD|BHD)\b", re.I
+)
+
+
+def _normalise_name(name: str) -> str:
+    name = _STRIP_TOKENS.sub("", name.upper())
+    return re.sub(r"[^A-Z0-9]+", " ", name).strip()
+
+
+def fetch_sbl_eligible() -> dict[str, str]:
+    """Fetch the CDP SBL Pool and return {cdp_code: full_name}.
+
+    Source: CDP SBL Pool PDF (no auth, always current, 15 pages ~450 stocks).
+    URL verified 2026-06-25: https://www1.cdp.sgx.com/sgx-cdp-web/lendingpool/downloadPDF
+
+    Note: the PDF uses CDP security codes (e.g. '1L01'), not SGX trading codes
+    (e.g. 'D05').  Callers should resolve to trading codes via name matching;
+    see _resolve_sbl_codes().
     """
     url = CM_SOURCES.get("sbl_eligibility_url")
     if not url:
-        log.warning("SBL eligibility URL not configured; returning empty set")
-        return set()
+        log.warning("SBL eligibility URL not configured; returning empty dict")
+        return {}
     try:
         resp = requests.get(url, timeout=30)
         resp.raise_for_status()
-        # Parse CSV/PDF as needed once format confirmed.
-        return set()
     except Exception as exc:
         log.warning("SBL fetch failed: %s", exc)
-        return set()
+        return {}
+
+    result: dict[str, str] = {}
+    try:
+        with pdfplumber.open(io.BytesIO(resp.content)) as pdf:
+            for page in pdf.pages:
+                text = page.extract_text() or ""
+                for line in text.splitlines():
+                    m = _SBL_ROW.match(line.strip())
+                    if m:
+                        result[m.group(3)] = m.group(2).strip()
+    except Exception as exc:
+        log.warning("SBL PDF parse failed: %s", exc)
+
+    log.info("SBL parsed: %d entries", len(result))
+    return result
+
+
+def _resolve_sbl_codes(sbl: dict[str, str], universe_stocks: list[dict]) -> set[str]:
+    """Map CDP codes from the SBL PDF to SGX trading codes via normalised name match.
+
+    Returns the set of trading codes that appear in the SBL pool.
+    Unmatched SBL entries are skipped (safe false negative, not false positive).
+    """
+    # Build lookup: normalised_name -> trading_code from the universe.
+    norm_to_code: dict[str, str] = {}
+    for s in universe_stocks:
+        norm = _normalise_name(s.get("name", ""))
+        if norm:
+            norm_to_code[norm] = s["code"]
+
+    trading_codes: set[str] = set()
+    unmatched = 0
+    for _cdp_code, full_name in sbl.items():
+        norm = _normalise_name(full_name)
+        if norm in norm_to_code:
+            trading_codes.add(norm_to_code[norm])
+            continue
+        # Fallback: check if any universe name is a prefix of the SBL name.
+        matched = False
+        for uname, ucode in norm_to_code.items():
+            if norm.startswith(uname) or uname.startswith(norm[:max(4, len(norm)-4)]):
+                trading_codes.add(ucode)
+                matched = True
+                break
+        if not matched:
+            unmatched += 1
+
+    log.info("SBL resolved %d/%d to trading codes (%d unmatched)",
+             len(trading_codes), len(sbl), unmatched)
+    return trading_codes
 
 
 # --- per-stock JSON I/O ------------------------------------------------------
@@ -168,12 +248,15 @@ def run(mode: str, single_code: Optional[str] = None) -> dict:
     """Iterate codes in universe, fetch short + turnover, write per-stock JSON."""
     stats = {"stocks_touched": 0, "errors": 0, "short_days_fetched": 0}
 
-    # Load universe (or use single code).
+    # Load universe for SBL name resolution; also drives the default code list.
+    universe_stocks: list[dict] = []
+    if UNIVERSE_PATH.exists():
+        universe_stocks = json.loads(UNIVERSE_PATH.read_text()).get("stocks", [])
+
     if single_code:
         codes = [single_code]
-    elif UNIVERSE_PATH.exists():
-        universe = json.loads(UNIVERSE_PATH.read_text())
-        codes = [u["code"] for u in universe.get("stocks", [])]
+    elif universe_stocks:
+        codes = [u["code"] for u in universe_stocks]
     else:
         log.error("No universe file at %s and no --code given", UNIVERSE_PATH)
         return stats
@@ -191,7 +274,8 @@ def run(mode: str, single_code: Optional[str] = None) -> dict:
             stats["short_days_fetched"] += 1
         d += timedelta(days=1)
 
-    sbl_eligible = fetch_sbl_eligible()
+    sbl_raw = fetch_sbl_eligible()
+    sbl_eligible = _resolve_sbl_codes(sbl_raw, universe_stocks)
 
     for code in codes:
         try:

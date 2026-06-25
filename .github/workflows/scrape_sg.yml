@@ -84,6 +84,14 @@ jobs:
         if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'cap_market'
         run: python -m scripts.scrape_sg_cap_market --market sg --mode ${{ steps.params.outputs.mode }}
 
+      - name: Build DI index
+        if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'di'
+        run: python -m scripts.build_sg_di_index
+
+      - name: Build CA index
+        if: steps.params.outputs.section == 'all' || steps.params.outputs.section == 'corp_actions'
+        run: python -m scripts.build_sg_ca_index
+
       - name: Commit data
         run: |
           git config user.name  "circular-bot"

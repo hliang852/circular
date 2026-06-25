@@ -29,8 +29,21 @@ log = logging.getLogger(__name__)
 
 OUT_PATH = Path("docs/data/sg/universe.json")
 
-# SGX securities reference endpoint -- public, no auth.
-SGX_SECURITIES_URL = "https://api.sgx.com/securities/v1.1/securities-data?type=stocks"
+# Verified 2026-06-24 against live api.sgx.com responses:
+#   /stocks  → data.prices[] (568 equities, no auth required)
+#   /reits   → data.prices[] (36 REITs/trusts, no auth required)
+SGX_STOCKS_URL = "https://api.sgx.com/securities/v1.1/stocks"
+SGX_REITS_URL  = "https://api.sgx.com/securities/v1.1/reits"
+
+_SGX_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept":  "application/json",
+    "Referer": "https://www.sgx.com/",
+}
 
 # USD/SGD assumption -- refresh from a fx source in a fuller implementation.
 USD_SGD = 1.35
@@ -38,36 +51,61 @@ USD_SGD = 1.35
 
 # --- ticker list -------------------------------------------------------------
 
-def fetch_sgx_tickers() -> list[dict]:
-    """Pull the full SGX ticker list.
-
-    Returns list of {code, name, isin, board, asset_type} dicts.
-    Falls back to an empty list on failure (caller handles).
-    """
+def _fetch_prices(url: str) -> list[dict]:
+    """Fetch data.prices[] from an SGX securities endpoint."""
     try:
-        resp = requests.get(SGX_SECURITIES_URL, timeout=30)
+        resp = requests.get(url, headers=_SGX_HEADERS, timeout=30)
         resp.raise_for_status()
-        payload = resp.json()
+        return resp.json().get("data", {}).get("prices", [])
     except Exception as exc:
-        log.error("SGX securities fetch failed: %s", exc)
+        log.error("SGX fetch failed (%s): %s", url, exc)
         return []
 
-    # Response shape varies; common pattern is {"data": [...]}.
-    items = payload.get("data") or payload.get("securities") or []
+
+def fetch_sgx_tickers() -> list[dict]:
+    """Pull the full SGX ticker list (equities + REITs).
+
+    Returns list of {code, name, board, security_type} dicts.
+    Falls back to an empty list on failure (caller handles).
+
+    Field map (verified 2026-06-24):
+        item["nc"]          → code
+        item["n"]           → name
+        item["m"]           → board  ("MAINBOARD" | "CATALIST" | "GLOBAL_QUOTE")
+    REIT codes come from the /reits endpoint; all others default to "share".
+    """
+    stocks = _fetch_prices(SGX_STOCKS_URL)
+    reits  = _fetch_prices(SGX_REITS_URL)
+    reit_codes = {r.get("nc", "").strip() for r in reits if r.get("nc")}
+
     out = []
-    for item in items:
+    for item in stocks:
+        code = (item.get("nc") or "").strip()
+        if not code:
+            continue
         out.append({
-            "code":       (item.get("nc") or item.get("code") or item.get("symbol", "")).strip(),
-            "name":       (item.get("n") or item.get("name", "")).strip(),
-            "isin":       item.get("isin"),
-            "board":      item.get("listingBoard") or item.get("board"),
-            "asset_type": (item.get("assetType") or item.get("type", "")).lower(),
+            "code":          code,
+            "name":          (item.get("n") or "").strip(),
+            "board":         (item.get("m") or "").strip(),
+            "security_type": "unit" if code in reit_codes else "share",
         })
-    return [r for r in out if r["code"]]
+    # Also add any REITs not already in the stocks list.
+    existing = {r["code"] for r in out}
+    for item in reits:
+        code = (item.get("nc") or "").strip()
+        if not code or code in existing:
+            continue
+        out.append({
+            "code":          code,
+            "name":          (item.get("n") or "").strip(),
+            "board":         (item.get("m") or "").strip(),
+            "security_type": "unit",
+        })
+    return out
 
 
 def classify_security_type(asset_type: str, name: str) -> str:
-    """Map SGX asset_type into our two-value security_type field."""
+    """Legacy shim — security_type is now set in fetch_sgx_tickers()."""
     if "reit" in asset_type or "trust" in asset_type or "reit" in name.lower():
         return "unit"
     return "share"
@@ -116,7 +154,6 @@ def build(min_mcap_usd: float, limit: Optional[int]) -> dict:
             continue
         kept.append({
             **t,
-            "security_type": classify_security_type(t["asset_type"], t["name"]),
             "market_cap_sgd": mc,
             "market_cap_usd": round(mc / USD_SGD, 0),
         })

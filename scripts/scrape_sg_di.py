@@ -32,6 +32,41 @@ DATA_DIR = Path("docs/data/sg/di")
 LOOKBACK_WEEKS = 52
 
 
+# --- Headline name extraction ------------------------------------------------
+
+# SGX announcement titles follow: "[Category]::[Specific Title]"
+# The specific title often ends with " - [Declarant Name]".
+# Verified patterns (2026-06-25):
+#   "Changes of Interest of Director - Ng Yan Meng"
+#   "DISCLOSURE OF CHANGES IN INTEREST OF SUBSTANTIAL SHAREHOLDER - ONG SIEW HWA"
+#   "Disclosure of Director's Interest - Low Yik Jin"
+_HEADLINE_NAME = re.compile(
+    r"\s+-\s+((?:[A-Z][a-zA-Z'.-]*\s*){1,7}(?:[A-Z][a-zA-Z'-]+))$"
+)
+_SKIP_NAMES = re.compile(
+    r"^(Director|CEO|Substantial Shareholder|Unitholder|Interest|Change|Cessation|Disclosure)$",
+    re.I,
+)
+
+
+def extract_name_from_headline(headline: str) -> str | None:
+    """Extract the declarant name from an SGX DI announcement headline.
+
+    Returns None when the headline does not contain a name in the expected
+    " - [Name]" suffix format.
+    """
+    # Use the specific part (after ::) if present, else full headline.
+    specific = headline.split("::", 1)[-1].strip()
+    m = _HEADLINE_NAME.search(specific)
+    if not m:
+        return None
+    name = m.group(1).strip()
+    # Reject single generic words.
+    if _SKIP_NAMES.match(name) or len(name.split()) < 1 or len(name) < 4:
+        return None
+    return name
+
+
 # --- MAS form parsing --------------------------------------------------------
 
 # Form 1 = initial, Form 3 = change, Form 4 = cessation.
@@ -141,8 +176,10 @@ def handle_di_filing(ann: Announcement) -> None:
         if pdf_path:
             pdf_data = parse_pdf(pdf_path)
 
+    declarant_name = extract_name_from_headline(ann.headline)
+
     record = {
-        "name": None,  # filled from form free-text in a fuller implementation
+        "name": declarant_name,
         "type": "Corporate",  # default; refine via NRIC/UEN inspection
         "long_position_shares": pdf_data.get("long_position_shares"),
         "long_position_pct": pdf_data.get("long_position_pct"),

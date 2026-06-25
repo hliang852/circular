@@ -1,0 +1,50 @@
+{
+  "code": "S85",
+  "name": "STRACO CORPORATION LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T18:38:22.009441+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-08-21T09:48:00+00:00",
+      "filing_date": "2025-08-21T09:48:00+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/EBPITZTAYKN96C8X/f45695e4824e5495a05a38a2358c83e45ffe7a27938a6ea6ecaca7880cac8305",
+      "shares_repurchased": 151100,
+      "on_market_shares": 151100,
+      "off_market_shares": 0,
+      "price_high": 0.4,
+      "price_low": 0.395,
+      "consideration_sgd": 60110.12,
+      "cum_ytd_pct": 0.018,
+      "max_mandate_shares": 85546568,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-08-26T09:39:38+00:00",
+      "filing_date": "2025-08-26T09:39:38+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/40PBJZG9CU3028VV/34315c643dbeac512ab4e0cc4a0a48c2917a017b77beb94bbc99447fd4a4fb58",
+      "shares_repurchased": 100000,
+      "on_market_shares": 100000,
+      "off_market_shares": 0,
+      "price_high": 0.39,
+      "price_low": 0.39,
+      "consideration_sgd": 39110.9,
+      "cum_ytd_pct": 0.029,
+      "max_mandate_shares": 85546568,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-07-30T04:16:44+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/KZWZH40984G3IAC0/f03d55e32c6f3ab4f4f81edbb666036031a8a751564893fdf62329bb3c1e52d4"
+    }
+  ]
+}

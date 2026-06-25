@@ -3,20 +3,29 @@
   "name": "MINTH GROUP LIMITED",
   "programme_active": false,
   "mandate_pct": 10.0,
-  "mandate_consumed_pct": 6.69,
+  "mandate_consumed_pct": 9.41,
   "shares_issued": 1182971499,
-  "shares_bought": 7916000,
-  "pct_issued": 0.6692,
-  "cumulative_notional": 111123530,
+  "shares_bought": 11130000,
+  "pct_issued": 0.9409,
+  "cumulative_notional": 156226093,
   "vwap_hkd": null,
-  "current_price_hkd": 38.62,
-  "buyback_yield_pct": 0.6692,
+  "current_price_hkd": 37.8,
+  "buyback_yield_pct": 0.9409,
   "free_float_pct": 35.0,
   "consistency_score": 0,
   "last_filing_date": "2026-05-06",
   "agm_date": "2026-05-01",
-  "renew_probability": 5,
+  "renew_probability": 7,
   "monthly": [
+    {
+      "period": "2024-05",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": null,
+      "filing_date": "2024-06-06"
+    },
     {
       "period": "2024-06",
       "shares": 0,
@@ -25,6 +34,15 @@
       "month_volume": 62159189,
       "issued_shares": 1161993599,
       "filing_date": "2024-07-04"
+    },
+    {
+      "period": "2024-07",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 10.7324,
+      "month_volume": 76898854,
+      "issued_shares": 1161993599,
+      "filing_date": "2024-08-02"
     },
     {
       "period": "2024-08",
@@ -45,6 +63,15 @@
       "filing_date": "2024-10-07"
     },
     {
+      "period": "2024-10",
+      "shares": 2714000,
+      "notional": 37738713,
+      "month_close": 13.9052,
+      "month_volume": 94624798,
+      "issued_shares": 1161993599,
+      "filing_date": "2024-11-05"
+    },
+    {
       "period": "2024-11",
       "shares": 4894000,
       "notional": 63738477,
@@ -52,6 +79,15 @@
       "month_volume": 81111550,
       "issued_shares": 1161993599,
       "filing_date": "2024-12-05"
+    },
+    {
+      "period": "2024-12",
+      "shares": 500000,
+      "notional": 7363850,
+      "month_close": 14.7277,
+      "month_volume": 66814813,
+      "issued_shares": 1161993599,
+      "filing_date": "2025-01-06"
     },
     {
       "period": "2025-01",
@@ -153,6 +189,15 @@
       "filing_date": "2025-12-04"
     },
     {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 31.72,
+      "month_volume": 107549673,
+      "issued_shares": 1181876799,
+      "filing_date": "2026-01-07"
+    },
+    {
       "period": "2026-01",
       "shares": 0,
       "notional": 0,
@@ -171,6 +216,15 @@
       "filing_date": "2026-03-04"
     },
     {
+      "period": "2026-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 32.44,
+      "month_volume": 145976514,
+      "issued_shares": 1182933799,
+      "filing_date": "2026-04-08"
+    },
+    {
       "period": "2026-04",
       "shares": 0,
       "notional": 0,
@@ -182,5 +236,5 @@
   ],
   "events": [],
   "last_session": null,
-  "scraped_at": "2026-05-24T15:38:34.113135Z"
+  "scraped_at": "2026-05-30T05:29:15.778733Z"
 }

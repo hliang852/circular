@@ -3,17 +3,17 @@
   "name": "TENCENT HOLDINGS LIMITED",
   "programme_active": true,
   "mandate_pct": 10.0,
-  "mandate_consumed_pct": 51.05,
+  "mandate_consumed_pct": 51.56,
   "shares_issued": 9117991636,
-  "shares_bought": 465463745,
-  "pct_issued": 5.1049,
-  "cumulative_notional": 204981511559,
-  "vwap_hkd": 479.2323,
-  "current_price_hkd": 441.4,
-  "buyback_yield_pct": 5.1049,
+  "shares_bought": 470102745,
+  "pct_issued": 5.1558,
+  "cumulative_notional": 206984712488,
+  "vwap_hkd": 466.8697,
+  "current_price_hkd": 427.2,
+  "buyback_yield_pct": 5.1558,
   "free_float_pct": 35.0,
   "consistency_score": 3,
-  "last_filing_date": "2026-05-22",
+  "last_filing_date": "2026-05-29",
   "agm_date": "2026-05-01",
   "renew_probability": 61,
   "monthly": [
@@ -38,8 +38,8 @@
     {
       "period": "2024-07",
       "shares": 34310000,
-      "notional": 12177662024,
-      "month_close": 354.9304,
+      "notional": 12177658593,
+      "month_close": 354.9303,
       "month_volume": 383307246,
       "issued_shares": 9320972998,
       "filing_date": "2024-08-06"
@@ -235,9 +235,9 @@
     },
     {
       "period": "2026-05",
-      "shares": 5547000,
-      "notional": 2503681478,
-      "month_close": 441.4,
+      "shares": 10186000,
+      "notional": 4506885838,
+      "month_close": 427.2,
       "month_volume": null,
       "issued_shares": 9117991636,
       "filing_date": null,
@@ -309,12 +309,32 @@
       "date": "2026-05-22",
       "shares": 1132000,
       "avg_price_hkd": 442.1926
+    },
+    {
+      "date": "2026-05-26",
+      "shares": 1144000,
+      "avg_price_hkd": 437.8062
+    },
+    {
+      "date": "2026-05-27",
+      "shares": 1149000,
+      "avg_price_hkd": 435.7584
+    },
+    {
+      "date": "2026-05-28",
+      "shares": 1179000,
+      "avg_price_hkd": 424.783
+    },
+    {
+      "date": "2026-05-29",
+      "shares": 1167000,
+      "avg_price_hkd": 429.1761
     }
   ],
   "last_session": {
-    "date": "2026-05-22",
-    "shares": 1132000,
-    "avg_price_hkd": 442.1926
+    "date": "2026-05-29",
+    "shares": 1167000,
+    "avg_price_hkd": 429.1761
   },
-  "scraped_at": "2026-05-22T15:08:43.947155Z"
+  "scraped_at": "2026-05-30T02:03:33.580896Z"
 }

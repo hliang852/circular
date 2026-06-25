@@ -102,9 +102,20 @@ CA_CATEGORIES = {
 # Section 3 — Capital Market (static downloads, not from announcements API)
 # ---------------------------------------------------------------------------
 CM_SOURCES = {
-    "daily_short_sell_url":  "https://www.sgx.com/research-education/securities",
-    # SBL eligibility list URL — inspect sgx.com/securities/securities-borrowing-lending
-    "sbl_eligibility_url":   None,  # TODO_VERIFY (not blocking for v1 launch)
+    # SGX short-sell CSV: base path confirmed 2026-06-25 as
+    #   https://links.sgx.com/1.0.0/securities-research/short-sell/YYYYMMDD/<filename>
+    # The filename inside the date folder requires one DevTools session on
+    # https://www.sgx.com/research-education/securities to confirm — the page
+    # is an Angular SPA that calls the download via an authenticated XHR.
+    # TODO_VERIFY: filename inside the date folder (likely MktShortSell_YYYYMMDD.xlsx)
+    "daily_short_sell_base": "https://links.sgx.com/1.0.0/securities-research/short-sell",
+    "daily_short_sell_url":  None,  # TODO_VERIFY: set to confirmed URL once filename known
+
+    # SBL eligibility PDF — verified live 2026-06-25 (no auth required).
+    # Returns a PDF with columns: No. | Security Name | Security Code |
+    #   Lending Pool | Lending Rate (%) | Borrowing Rate (%)
+    # Always current — no date in URL.
+    "sbl_eligibility_url":   "https://www1.cdp.sgx.com/sgx-cdp-web/lendingpool/downloadPDF",
 }
 
 # ---------------------------------------------------------------------------

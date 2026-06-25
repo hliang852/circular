@@ -1,0 +1,58 @@
+{
+  "code": "AWX",
+  "name": "AEM HOLDINGS LTD.",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:50:53.379203+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-09-10T13:13:27+00:00",
+      "filing_date": "2025-09-10T13:13:27+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/L4QUGUFU9NLXO5MO/7ec7eec46fed1c0e2c5fb8715019dc329f10e86f15e853cd68dfe3f7d781fb0c",
+      "shares_repurchased": 200000,
+      "on_market_shares": 200000,
+      "off_market_shares": 0,
+      "price_high": 1.52,
+      "price_low": 1.52,
+      "consideration_sgd": 304153.97,
+      "cum_ytd_pct": 0.064,
+      "max_mandate_shares": 31317977,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-12-02T09:19:03+00:00",
+      "filing_date": "2025-12-02T09:19:03+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/B76YUG5PCJJGUR7S/366ea194cc6ea7accebda7f41c0bbbc1742aec8d249e24663b613d25c4789a18",
+      "shares_repurchased": 250000,
+      "on_market_shares": 250000,
+      "off_market_shares": 0,
+      "price_high": 1.67,
+      "price_low": 1.67,
+      "consideration_sgd": 418592.57,
+      "cum_ytd_pct": 0.144,
+      "max_mandate_shares": 31317977,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-12-09T09:53:20+00:00",
+      "filing_date": "2025-12-09T09:53:20+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/ER533CNJ8DHU3LUF/591e3420fcb7f80506b1225654b40109e74ebcd245179cc234e7359caa578cdf",
+      "shares_repurchased": 250000,
+      "on_market_shares": 250000,
+      "off_market_shares": 0,
+      "price_high": 1.67,
+      "price_low": 1.67,
+      "consideration_sgd": 418592.57,
+      "cum_ytd_pct": 0.224,
+      "max_mandate_shares": 31317977,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

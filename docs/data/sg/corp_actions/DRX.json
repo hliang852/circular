@@ -1,0 +1,55 @@
+{
+  "code": "DRX",
+  "name": "ST GROUP FOOD INDUSTRIES HOLDINGS LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:14:58.277290+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-07-09T09:31:33+00:00",
+      "filing_date": "2025-07-09T09:31:33+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/6V8WD8YE3XG0E499/512a32a8dc745082fbc8f1578385c595f1363793fbc06fa8c51906198ba1a823",
+      "shares_repurchased": 204900,
+      "on_market_shares": 204900,
+      "off_market_shares": 0,
+      "price_high": 0.145,
+      "price_low": 0.144,
+      "consideration_sgd": 29808.77,
+      "cum_ytd_pct": 0.2796,
+      "max_mandate_shares": 25397174,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-09-12T11:05:50+00:00",
+      "filing_date": "2025-09-12T11:05:50+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/W5J8EWK23S42V02A/8660ac540711581c5680ababf1d0d57ac689e0a712879570bdce788f7a235017",
+      "shares_repurchased": 461000,
+      "on_market_shares": 461000,
+      "off_market_shares": 0,
+      "price_high": 0.152,
+      "price_low": 0.152,
+      "consideration_sgd": 70270.96,
+      "cum_ytd_pct": 0.4611,
+      "max_mandate_shares": 25397174,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-08-29T14:38:28+00:00",
+      "type": "annual",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/9OFM70JT2YLD8JU9/1b31cb34b5f9f5ffb0f2ca4f1c33e591098143e8e30090bae8a2dd541ff70c48"
+    },
+    {
+      "date": "2025-10-10T10:02:52+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/FOQ51J0KE5PM4MTW/2155f8c187d9361bc5a6cbed3e3a3dfe0c45cb3519fbe920caeb2cd8ad0bc811"
+    }
+  ]
+}

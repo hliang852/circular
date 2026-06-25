@@ -1,0 +1,41 @@
+{
+  "code": "V03",
+  "name": "VENTURE CORPORATION LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:36:44.990354+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-11-17T11:25:40+00:00",
+      "filing_date": "2025-11-17T11:25:40+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/9ILIZM7Z7PHV3ZDN/caa4cf44b50c8b02f52b6b1a7b78df59a7d343b57bdcec46bc04a4fca199375d",
+      "shares_repurchased": 5000,
+      "on_market_shares": 5000,
+      "off_market_shares": 0,
+      "price_high": 14.44,
+      "price_low": 14.44,
+      "consideration_sgd": 72294.45,
+      "cum_ytd_pct": 0.0209,
+      "max_mandate_shares": 14384008,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-07-04T09:16:43+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/W7XYN1HZFSAE5LAG/1cc5106850b14b572029f37ac8f586a045eca1e65429712ae469f29425ebc4fa"
+    },
+    {
+      "date": "2025-08-06T09:16:05+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/YHJ1H705L04PP1IU/cb5acad65daa6676d0b2290188bde77a1375b6d50a1fb00cd296958de85c66bb"
+    }
+  ]
+}

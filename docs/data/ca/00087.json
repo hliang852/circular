@@ -3,19 +3,19 @@
   "name": "SWIRE PACIFIC LIMITED",
   "programme_active": false,
   "mandate_pct": 10.0,
-  "mandate_consumed_pct": 60.2,
+  "mandate_consumed_pct": 74.12,
   "shares_issued": 778988000,
-  "shares_bought": 46893500,
-  "pct_issued": 6.0198,
-  "cumulative_notional": 452072037,
+  "shares_bought": 57740500,
+  "pct_issued": 7.4122,
+  "cumulative_notional": 552916228,
   "vwap_hkd": null,
-  "current_price_hkd": 13.34,
-  "buyback_yield_pct": 6.0198,
+  "current_price_hkd": 13.04,
+  "buyback_yield_pct": 7.4122,
   "free_float_pct": 35.0,
   "consistency_score": 1,
   "last_filing_date": "2026-05-04",
   "agm_date": "2026-05-01",
-  "renew_probability": 72,
+  "renew_probability": 88,
   "monthly": [
     {
       "period": "2024-05",
@@ -54,6 +54,15 @@
       "filing_date": "2024-09-02"
     },
     {
+      "period": "2024-09",
+      "shares": 4562500,
+      "notional": 42205406,
+      "month_close": 9.2505,
+      "month_volume": 18682599,
+      "issued_shares": 822945000,
+      "filing_date": "2024-10-02"
+    },
+    {
       "period": "2024-10",
       "shares": 6047000,
       "notional": 57187084,
@@ -61,6 +70,15 @@
       "month_volume": 32727757,
       "issued_shares": 816898000,
       "filing_date": "2024-11-01"
+    },
+    {
+      "period": "2024-11",
+      "shares": 6284500,
+      "notional": 58638784,
+      "month_close": 9.3307,
+      "month_volume": 13546499,
+      "issued_shares": 810613500,
+      "filing_date": "2024-12-02"
     },
     {
       "period": "2024-12",
@@ -72,6 +90,15 @@
       "filing_date": "2025-01-02"
     },
     {
+      "period": "2025-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 9.9263,
+      "month_volume": 7825387,
+      "issued_shares": 805569500,
+      "filing_date": "2025-02-03"
+    },
+    {
       "period": "2025-02",
       "shares": 4476500,
       "notional": 43465472,
@@ -79,6 +106,15 @@
       "month_volume": 14232034,
       "issued_shares": 801093000,
       "filing_date": "2025-03-03"
+    },
+    {
+      "period": "2025-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 9.7639,
+      "month_volume": 28670923,
+      "issued_shares": 801093000,
+      "filing_date": "2025-04-01"
     },
     {
       "period": "2025-04",
@@ -99,6 +135,15 @@
       "filing_date": "2025-06-02"
     },
     {
+      "period": "2025-06",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 10.4638,
+      "month_volume": 14997535,
+      "issued_shares": 778988000,
+      "filing_date": "2025-07-02"
+    },
+    {
       "period": "2025-07",
       "shares": 0,
       "notional": 0,
@@ -108,6 +153,15 @@
       "filing_date": "2025-08-01"
     },
     {
+      "period": "2025-08",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 10.9625,
+      "month_volume": 17238275,
+      "issued_shares": 778988000,
+      "filing_date": "2025-09-01"
+    },
+    {
       "period": "2025-09",
       "shares": 0,
       "notional": 0,
@@ -115,6 +169,15 @@
       "month_volume": 12828726,
       "issued_shares": 778988000,
       "filing_date": "2025-10-02"
+    },
+    {
+      "period": "2025-10",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 11.0806,
+      "month_volume": 18250063,
+      "issued_shares": 778988000,
+      "filing_date": "2025-11-03"
     },
     {
       "period": "2025-11",
@@ -144,6 +207,15 @@
       "filing_date": "2026-02-02"
     },
     {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 13.3025,
+      "month_volume": 16875664,
+      "issued_shares": 778988000,
+      "filing_date": "2026-03-02"
+    },
+    {
       "period": "2026-03",
       "shares": 0,
       "notional": 0,
@@ -151,9 +223,18 @@
       "month_volume": 25556022,
       "issued_shares": 778988000,
       "filing_date": "2026-04-01"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 12.7639,
+      "month_volume": 20195560,
+      "issued_shares": 778988000,
+      "filing_date": "2026-05-04"
     }
   ],
   "events": [],
   "last_session": null,
-  "scraped_at": "2026-05-24T10:33:29.440867Z"
+  "scraped_at": "2026-05-30T05:24:33.787258Z"
 }

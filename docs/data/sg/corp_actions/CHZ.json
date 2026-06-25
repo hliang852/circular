@@ -1,0 +1,30 @@
+{
+  "code": "CHZ",
+  "name": "HRNETGROUP LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T18:43:34.919441+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-09-04T10:05:27+00:00",
+      "filing_date": "2025-09-04T10:05:27+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/3AD1ZHCO85QL01EY/337e68ca6034eed878b4402375229a23129e93424dca723872e35f963ed9ed1a",
+      "shares_repurchased": 18400,
+      "on_market_shares": 18400,
+      "off_market_shares": 0,
+      "price_high": 0.69,
+      "price_low": 0.69,
+      "consideration_sgd": 12745.52,
+      "cum_ytd_pct": 0.002,
+      "max_mandate_shares": 97898235,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

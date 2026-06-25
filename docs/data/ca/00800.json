@@ -1,0 +1,78 @@
+{
+  "code": "00800",
+  "name": "WERIDE INC.",
+  "programme_active": false,
+  "mandate_pct": 10.0,
+  "mandate_consumed_pct": 0.0,
+  "shares_issued": 972508041,
+  "shares_bought": 0,
+  "pct_issued": 0.0,
+  "cumulative_notional": 0,
+  "vwap_hkd": null,
+  "current_price_hkd": 20.66,
+  "buyback_yield_pct": 0.0,
+  "free_float_pct": 35.0,
+  "consistency_score": 0,
+  "last_filing_date": "2026-05-29",
+  "agm_date": "2026-05-01",
+  "renew_probability": 0,
+  "monthly": [
+    {
+      "period": "2025-11",
+      "shares": 0,
+      "notional": 0,
+      "month_close": null,
+      "month_volume": null,
+      "issued_shares": 971801907,
+      "filing_date": "2025-12-04"
+    },
+    {
+      "period": "2025-12",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 23.0,
+      "month_volume": 18565219,
+      "issued_shares": 972508041,
+      "filing_date": "2026-01-07"
+    },
+    {
+      "period": "2026-01",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 21.62,
+      "month_volume": 21454219,
+      "issued_shares": 972508041,
+      "filing_date": "2026-02-05"
+    },
+    {
+      "period": "2026-02",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 17.87,
+      "month_volume": 24197167,
+      "issued_shares": 972508041,
+      "filing_date": "2026-03-05"
+    },
+    {
+      "period": "2026-03",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 20.22,
+      "month_volume": 54155336,
+      "issued_shares": 972508041,
+      "filing_date": "2026-04-09"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 19.48,
+      "month_volume": 88945401,
+      "issued_shares": 972508041,
+      "filing_date": "2026-05-07"
+    }
+  ],
+  "events": [],
+  "last_session": null,
+  "scraped_at": "2026-05-30T06:36:57.653860Z"
+}

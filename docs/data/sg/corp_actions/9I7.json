@@ -1,0 +1,36 @@
+{
+  "code": "9I7",
+  "name": "BROMAT HOLDINGS LTD",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:48:49.246489+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [],
+  "issuances": [
+    {
+      "date": "2025-10-21T12:04:14+00:00",
+      "type": "convertible",
+      "label": "Equity Listing - Ordinary Shares::Conversion of the Convertible Redeemable Preference Shares",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/5QEZMJSVFTERZT1K/ab33858a0d97848250e91902ba75df16534b7ebf63510b50f4211223f6d8360a"
+    }
+  ],
+  "results_dates": [
+    {
+      "date": "2025-08-14T13:55:09+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/1QF7FRF9LJ7U8ZQS/1f2ec0797920578cc1483dbb49bdd79df6705482d10a37626ba1608843315dc7"
+    },
+    {
+      "date": "2025-11-28T16:07:25+00:00",
+      "type": "annual",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/CCS973K09GHX99PL/613e1bcd4ae79bdcb6e8bf932e8ec6d1b955d5eb36c5969f48f29ba65d27bbe9"
+    }
+  ]
+}

@@ -1,6 +1,1879 @@
 {
   "market": "sg",
-  "generated_at": null,
+  "generated_at": "2026-06-25T01:26:32.813388+00:00",
   "min_mcap_usd": 100000000,
-  "stocks": []
+  "stocks": [
+    {
+      "code": "D05",
+      "name": "DBS",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 188078424064.0,
+      "market_cap_usd": 139317351159.0
+    },
+    {
+      "code": "O39",
+      "name": "OCBC Bank",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 112377135104.0,
+      "market_cap_usd": 83242322299.0
+    },
+    {
+      "code": "SO7",
+      "name": "YZJ Shipbldg CNY",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 74832117760.0,
+      "market_cap_usd": 55431198341.0
+    },
+    {
+      "code": "Z77",
+      "name": "Singtel 10",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 73647202304.0,
+      "market_cap_usd": 54553483188.0
+    },
+    {
+      "code": "Z74",
+      "name": "Singtel",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 73169092608.0,
+      "market_cap_usd": 54199327858.0
+    },
+    {
+      "code": "U11",
+      "name": "UOB",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 66049445888.0,
+      "market_cap_usd": 48925515473.0
+    },
+    {
+      "code": "K6S",
+      "name": "Prudential USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 34699927552.0,
+      "market_cap_usd": 25703650039.0
+    },
+    {
+      "code": "S63",
+      "name": "ST Engineering",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 33069932544.0,
+      "market_cap_usd": 24496246329.0
+    },
+    {
+      "code": "S68",
+      "name": "SGX",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 25653514240.0,
+      "market_cap_usd": 19002603141.0
+    },
+    {
+      "code": "Q0F",
+      "name": "IHH",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 24620175360.0,
+      "market_cap_usd": 18237166933.0
+    },
+    {
+      "code": "C6L",
+      "name": "SIA",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 23946721280.0,
+      "market_cap_usd": 17738312059.0
+    },
+    {
+      "code": "F34",
+      "name": "Wilmar Intl",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 23161155584.0,
+      "market_cap_usd": 17156411544.0
+    },
+    {
+      "code": "BN4",
+      "name": "Keppel",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 20202258432.0,
+      "market_cap_usd": 14964635876.0
+    },
+    {
+      "code": "C38U",
+      "name": "CapLand IntCom T",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 18596204544.0,
+      "market_cap_usd": 13774966329.0
+    },
+    {
+      "code": "J36",
+      "name": "JMH USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 18391171072.0,
+      "market_cap_usd": 13623089683.0
+    },
+    {
+      "code": "H78",
+      "name": "HongkongLand USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 15656952832.0,
+      "market_cap_usd": 11597742839.0
+    },
+    {
+      "code": "G07",
+      "name": "Great Eastern",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 15307139072.0,
+      "market_cap_usd": 11338621535.0
+    },
+    {
+      "code": "S07",
+      "name": "Shangri-La HKD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 14311373824.0,
+      "market_cap_usd": 10601017647.0
+    },
+    {
+      "code": "BS6",
+      "name": "YZJ Shipbldg SGD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 13892629504.0,
+      "market_cap_usd": 10290836670.0
+    },
+    {
+      "code": "A17U",
+      "name": "CapLand Ascendas REIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 12637892608.0,
+      "market_cap_usd": 9361401932.0
+    },
+    {
+      "code": "NIO",
+      "name": "NIO Inc. USD OV",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 12624540672.0,
+      "market_cap_usd": 9351511609.0
+    },
+    {
+      "code": "9CI",
+      "name": "CapitaLandInvest",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 12583699456.0,
+      "market_cap_usd": 9321258856.0
+    },
+    {
+      "code": "U96",
+      "name": "Sembcorp Ind",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 11535632384.0,
+      "market_cap_usd": 8544912877.0
+    },
+    {
+      "code": "Y92",
+      "name": "ThaiBev",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 10806625280.0,
+      "market_cap_usd": 8004907615.0
+    },
+    {
+      "code": "C07",
+      "name": "Jardine C&C",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 10560713728.0,
+      "market_cap_usd": 7822750910.0
+    },
+    {
+      "code": "U14",
+      "name": "UOL",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 8203507200.0,
+      "market_cap_usd": 6076672000.0
+    },
+    {
+      "code": "G13",
+      "name": "Genting Sing",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 7373724160.0,
+      "market_cap_usd": 5462017896.0
+    },
+    {
+      "code": "C09",
+      "name": "CityDev",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 7120411648.0,
+      "market_cap_usd": 5274378999.0
+    },
+    {
+      "code": "N2IU",
+      "name": "Mapletree PanAsia Com Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 6816837120.0,
+      "market_cap_usd": 5049508978.0
+    },
+    {
+      "code": "5E2",
+      "name": "Seatrium Ltd",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 6675816960.0,
+      "market_cap_usd": 4945049600.0
+    },
+    {
+      "code": "S58",
+      "name": "SATS",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 6587869184.0,
+      "market_cap_usd": 4879903099.0
+    },
+    {
+      "code": "M44U",
+      "name": "Mapletree Log Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 6348672000.0,
+      "market_cap_usd": 4702720000.0
+    },
+    {
+      "code": "AJBU",
+      "name": "Keppel DC Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 5552814592.0,
+      "market_cap_usd": 4113195994.0
+    },
+    {
+      "code": "ME8U",
+      "name": "Mapletree Ind Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 5538706944.0,
+      "market_cap_usd": 4102745884.0
+    },
+    {
+      "code": "EMI",
+      "name": "Emperador Inc.",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 5410977280.0,
+      "market_cap_usd": 4008131319.0
+    },
+    {
+      "code": "D01",
+      "name": "DFIRG USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 5145473536.0,
+      "market_cap_usd": 3811461879.0
+    },
+    {
+      "code": "V03",
+      "name": "Venture",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4985768448.0,
+      "market_cap_usd": 3693161813.0
+    },
+    {
+      "code": "EB5",
+      "name": "First Resources",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4922769920.0,
+      "market_cap_usd": 3646496237.0
+    },
+    {
+      "code": "OV8",
+      "name": "Sheng Siong",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4871459840.0,
+      "market_cap_usd": 3608488770.0
+    },
+    {
+      "code": "VC2",
+      "name": "Olam Group",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4754062336.0,
+      "market_cap_usd": 3521527656.0
+    },
+    {
+      "code": "U06",
+      "name": "SingaporeLandGrp",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4642477056.0,
+      "market_cap_usd": 3438871893.0
+    },
+    {
+      "code": "J69U",
+      "name": "Frasers Cpt Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 4605482496.0,
+      "market_cap_usd": 3411468516.0
+    },
+    {
+      "code": "K71U",
+      "name": "Keppel Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 4321588736.0,
+      "market_cap_usd": 3201176841.0
+    },
+    {
+      "code": "T82U",
+      "name": "Suntec Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 4255977984.0,
+      "market_cap_usd": 3152576284.0
+    },
+    {
+      "code": "TQ5",
+      "name": "Frasers Property",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4240125184.0,
+      "market_cap_usd": 3140833470.0
+    },
+    {
+      "code": "8A8",
+      "name": "CMS",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 4039828224.0,
+      "market_cap_usd": 2992465351.0
+    },
+    {
+      "code": "T14",
+      "name": "TJ DaRenTang USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3908912128.0,
+      "market_cap_usd": 2895490465.0
+    },
+    {
+      "code": "S59",
+      "name": "SIA Engineering",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3827110400.0,
+      "market_cap_usd": 2834896593.0
+    },
+    {
+      "code": "BUOU",
+      "name": "Frasers L&C Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 3706230016.0,
+      "market_cap_usd": 2745355567.0
+    },
+    {
+      "code": "U10",
+      "name": "UOB Kay Hian",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3661180160.0,
+      "market_cap_usd": 2711985304.0
+    },
+    {
+      "code": "H02",
+      "name": "Haw Par",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3555172864.0,
+      "market_cap_usd": 2633461381.0
+    },
+    {
+      "code": "T15",
+      "name": "TCIL HK$",
+      "board": "GLOBAL_QUOTE",
+      "security_type": "share",
+      "market_cap_sgd": 3517568768.0,
+      "market_cap_usd": 2605606495.0
+    },
+    {
+      "code": "E5H",
+      "name": "Golden Agri-Res",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3424051712.0,
+      "market_cap_usd": 2536334601.0
+    },
+    {
+      "code": "AWX",
+      "name": "AEM SGD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 3239301120.0,
+      "market_cap_usd": 2399482311.0
+    },
+    {
+      "code": "AVP",
+      "name": "AvePoint",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2883433984.0,
+      "market_cap_usd": 2135877025.0
+    },
+    {
+      "code": "P8Z",
+      "name": "Bumitama Agri",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2843996160.0,
+      "market_cap_usd": 2106663822.0
+    },
+    {
+      "code": "C52",
+      "name": "ComfortDelGro",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2839344384.0,
+      "market_cap_usd": 2103218062.0
+    },
+    {
+      "code": "AIY",
+      "name": "IFAST",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2748254464.0,
+      "market_cap_usd": 2035744047.0
+    },
+    {
+      "code": "C2PU",
+      "name": "ParkwayLife Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 2656298240.0,
+      "market_cap_usd": 1967628326.0
+    },
+    {
+      "code": "F17",
+      "name": "GuocoLand",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2524770560.0,
+      "market_cap_usd": 1870200415.0
+    },
+    {
+      "code": "H15",
+      "name": "HPL",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2441564672.0,
+      "market_cap_usd": 1808566424.0
+    },
+    {
+      "code": "558",
+      "name": "UMS",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2343008000.0,
+      "market_cap_usd": 1735561481.0
+    },
+    {
+      "code": "H22",
+      "name": "Hong Leong Asia",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2322591232.0,
+      "market_cap_usd": 1720437950.0
+    },
+    {
+      "code": "8YZ",
+      "name": "YZJ Maritime",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2076007808.0,
+      "market_cap_usd": 1537783561.0
+    },
+    {
+      "code": "F99",
+      "name": "F & N",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 2066512128.0,
+      "market_cap_usd": 1530749724.0
+    },
+    {
+      "code": "HKB",
+      "name": "AMTD IDEA OV",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1987415552.0,
+      "market_cap_usd": 1472159668.0
+    },
+    {
+      "code": "TS0U",
+      "name": "OUEREIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1963148672.0,
+      "market_cap_usd": 1454184201.0
+    },
+    {
+      "code": "9A4U",
+      "name": "ESR REIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1924033920.0,
+      "market_cap_usd": 1425210311.0
+    },
+    {
+      "code": "JYEU",
+      "name": "Lendlease Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1913041792.0,
+      "market_cap_usd": 1417067994.0
+    },
+    {
+      "code": "CC3",
+      "name": "StarHub",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1812289664.0,
+      "market_cap_usd": 1342436788.0
+    },
+    {
+      "code": "8C8U",
+      "name": "Cent Accom REIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1793963520.0,
+      "market_cap_usd": 1328861867.0
+    },
+    {
+      "code": "BVA",
+      "name": "Top Glove",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1763983360.0,
+      "market_cap_usd": 1306654341.0
+    },
+    {
+      "code": "BSL",
+      "name": "Raffles Medical",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1711377536.0,
+      "market_cap_usd": 1267687064.0
+    },
+    {
+      "code": "AGS",
+      "name": "TheHourGlass",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1688123648.0,
+      "market_cap_usd": 1250461961.0
+    },
+    {
+      "code": "F03",
+      "name": "Food Empire",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1592510464.0,
+      "market_cap_usd": 1179637381.0
+    },
+    {
+      "code": "G92",
+      "name": "China Aviation",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1582737920.0,
+      "market_cap_usd": 1172398459.0
+    },
+    {
+      "code": "ULG",
+      "name": "ULTRAGREEN AI USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1488313600.0,
+      "market_cap_usd": 1102454519.0
+    },
+    {
+      "code": "A50",
+      "name": "Thomson Medical",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1401511680.0,
+      "market_cap_usd": 1038156800.0
+    },
+    {
+      "code": "OYY",
+      "name": "PropNex",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1398599936.0,
+      "market_cap_usd": 1035999953.0
+    },
+    {
+      "code": "H13",
+      "name": "Ho Bee Land",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1361233536.0,
+      "market_cap_usd": 1008321138.0
+    },
+    {
+      "code": "E28",
+      "name": "Frencken",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1325234176.0,
+      "market_cap_usd": 981654945.0
+    },
+    {
+      "code": "O5RU",
+      "name": "AIMS APAC Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1293458304.0,
+      "market_cap_usd": 958117262.0
+    },
+    {
+      "code": "XWA",
+      "name": "AEM USD",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1288117504.0,
+      "market_cap_usd": 954161114.0
+    },
+    {
+      "code": "OU8",
+      "name": "Centurion",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1261167872.0,
+      "market_cap_usd": 934198424.0
+    },
+    {
+      "code": "P40U",
+      "name": "StarhillGbl Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1253346560.0,
+      "market_cap_usd": 928404859.0
+    },
+    {
+      "code": "AP4",
+      "name": "Riverstone",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1245021184.0,
+      "market_cap_usd": 922237914.0
+    },
+    {
+      "code": "P15",
+      "name": "Pacific Century",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1230644992.0,
+      "market_cap_usd": 911588883.0
+    },
+    {
+      "code": "B61",
+      "name": "Bukit Sembawang",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1229828864.0,
+      "market_cap_usd": 910984344.0
+    },
+    {
+      "code": "Z25",
+      "name": "Yanlord Land",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1207209600.0,
+      "market_cap_usd": 894229333.0
+    },
+    {
+      "code": "W05",
+      "name": "Wing Tai",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1199308160.0,
+      "market_cap_usd": 888376415.0
+    },
+    {
+      "code": "BEC",
+      "name": "BRC Asia",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1193422848.0,
+      "market_cap_usd": 884016924.0
+    },
+    {
+      "code": "PCT",
+      "name": "PC Partner",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1179166336.0,
+      "market_cap_usd": 873456545.0
+    },
+    {
+      "code": "S61",
+      "name": "SBS Transit",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1171123200.0,
+      "market_cap_usd": 867498667.0
+    },
+    {
+      "code": "STG",
+      "name": "Sri Trang Gloves",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1162706560.0,
+      "market_cap_usd": 861264119.0
+    },
+    {
+      "code": "ADN",
+      "name": "First Sponsor",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1140559616.0,
+      "market_cap_usd": 844858975.0
+    },
+    {
+      "code": "AU8U",
+      "name": "CapLand China T",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1133361792.0,
+      "market_cap_usd": 839527253.0
+    },
+    {
+      "code": "S41",
+      "name": "Hong Leong Fin",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1120246784.0,
+      "market_cap_usd": 829812433.0
+    },
+    {
+      "code": "UIBU",
+      "name": "UIBREIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 1099527552.0,
+      "market_cap_usd": 814464853.0
+    },
+    {
+      "code": "EH5",
+      "name": "UOA",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1077934208.0,
+      "market_cap_usd": 798469784.0
+    },
+    {
+      "code": "544",
+      "name": "CSE Global",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1035295232.0,
+      "market_cap_usd": 766885357.0
+    },
+    {
+      "code": "NC2",
+      "name": "Sri Trang Agro",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1025439296.0,
+      "market_cap_usd": 759584664.0
+    },
+    {
+      "code": "F9D",
+      "name": "Boustead",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 1014494848.0,
+      "market_cap_usd": 751477665.0
+    },
+    {
+      "code": "NTDU",
+      "name": "NTT DC REIT USD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 982253184.0,
+      "market_cap_usd": 727594951.0
+    },
+    {
+      "code": "P52",
+      "name": "PanUnited",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 959518016.0,
+      "market_cap_usd": 710754086.0
+    },
+    {
+      "code": "P9D",
+      "name": "Civmec",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 881651264.0,
+      "market_cap_usd": 653075010.0
+    },
+    {
+      "code": "T6I",
+      "name": "ValueMax",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 880662464.0,
+      "market_cap_usd": 652342566.0
+    },
+    {
+      "code": "CRPU",
+      "name": "Sasseur Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 853677312.0,
+      "market_cap_usd": 632353564.0
+    },
+    {
+      "code": "BWM",
+      "name": "Zheneng Jinjiang",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 810278080.0,
+      "market_cap_usd": 600205985.0
+    },
+    {
+      "code": "MZH",
+      "name": "Nanofilm",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 802423232.0,
+      "market_cap_usd": 594387579.0
+    },
+    {
+      "code": "RE4",
+      "name": "Geo Energy Res",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 783835200.0,
+      "market_cap_usd": 580618667.0
+    },
+    {
+      "code": "H30",
+      "name": "Hong Fok",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 767958912.0,
+      "market_cap_usd": 568858453.0
+    },
+    {
+      "code": "YF8",
+      "name": "YZJ Fin Hldg",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 767599488.0,
+      "market_cap_usd": 568592213.0
+    },
+    {
+      "code": "S20",
+      "name": "Straits Trading",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 754898944.0,
+      "market_cap_usd": 559184403.0
+    },
+    {
+      "code": "LJ3",
+      "name": "OUE",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 751088896.0,
+      "market_cap_usd": 556362145.0
+    },
+    {
+      "code": "5WJ",
+      "name": "MoneyMax Fin",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 745312512.0,
+      "market_cap_usd": 552083342.0
+    },
+    {
+      "code": "S08",
+      "name": "SingPost",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 743299648.0,
+      "market_cap_usd": 550592332.0
+    },
+    {
+      "code": "CHZ",
+      "name": "HRnetGroup",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 738663232.0,
+      "market_cap_usd": 547157950.0
+    },
+    {
+      "code": "5UF",
+      "name": "Aspial Lifestyle",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 720029696.0,
+      "market_cap_usd": 533355330.0
+    },
+    {
+      "code": "H07",
+      "name": "Stamford Land",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 719550848.0,
+      "market_cap_usd": 533000628.0
+    },
+    {
+      "code": "STC",
+      "name": "Comba",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 684150848.0,
+      "market_cap_usd": 506778406.0
+    },
+    {
+      "code": "HQU",
+      "name": "Oiltek",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 669240000.0,
+      "market_cap_usd": 495733333.0
+    },
+    {
+      "code": "8AZ",
+      "name": "Aztech Gbl",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 667601408.0,
+      "market_cap_usd": 494519561.0
+    },
+    {
+      "code": "DCRU",
+      "name": "DigiCore Reit USD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 658524992.0,
+      "market_cap_usd": 487796290.0
+    },
+    {
+      "code": "5VJ",
+      "name": "Halcyon Agri",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 653954880.0,
+      "market_cap_usd": 484411022.0
+    },
+    {
+      "code": "QES",
+      "name": "ChinaSunsine",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 638766464.0,
+      "market_cap_usd": 473160344.0
+    },
+    {
+      "code": "WJP",
+      "name": "VICOM Ltd",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 631131008.0,
+      "market_cap_usd": 467504450.0
+    },
+    {
+      "code": "U9E",
+      "name": "China Everbright",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 615088512.0,
+      "market_cap_usd": 455621120.0
+    },
+    {
+      "code": "C41",
+      "name": "Cortina",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 596082304.0,
+      "market_cap_usd": 441542447.0
+    },
+    {
+      "code": "E3B",
+      "name": "Wee Hur",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 592913024.0,
+      "market_cap_usd": 439194833.0
+    },
+    {
+      "code": "Q01",
+      "name": "QAF",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 560886720.0,
+      "market_cap_usd": 415471644.0
+    },
+    {
+      "code": "P34",
+      "name": "Delfi",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 556152896.0,
+      "market_cap_usd": 411965108.0
+    },
+    {
+      "code": "M1GU",
+      "name": "Alpha Integrated REIT",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 545651776.0,
+      "market_cap_usd": 404186501.0
+    },
+    {
+      "code": "O10",
+      "name": "Far East Orchard",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 544942656.0,
+      "market_cap_usd": 403661227.0
+    },
+    {
+      "code": "QC7",
+      "name": "Q&M Dental",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 540188480.0,
+      "market_cap_usd": 400139615.0
+    },
+    {
+      "code": "5LY",
+      "name": "MarcoPolo Marine",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 536238272.0,
+      "market_cap_usd": 397213535.0
+    },
+    {
+      "code": "SEG",
+      "name": "CONCORD NE",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 530753600.0,
+      "market_cap_usd": 393150815.0
+    },
+    {
+      "code": "H18",
+      "name": "Hotel Grand",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 528689696.0,
+      "market_cap_usd": 391621997.0
+    },
+    {
+      "code": "S56",
+      "name": "SamuderaShipping",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 521897088.0,
+      "market_cap_usd": 386590436.0
+    },
+    {
+      "code": "NPW",
+      "name": "MSC",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 520800000.0,
+      "market_cap_usd": 385777778.0
+    },
+    {
+      "code": "A31",
+      "name": "Addvalue Tech",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 511989120.0,
+      "market_cap_usd": 379251200.0
+    },
+    {
+      "code": "U13",
+      "name": "UOI",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 508809568.0,
+      "market_cap_usd": 376895976.0
+    },
+    {
+      "code": "F83",
+      "name": "COSCO SHP SG",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 506069376.0,
+      "market_cap_usd": 374866204.0
+    },
+    {
+      "code": "1D0",
+      "name": "Kimly",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 503910112.0,
+      "market_cap_usd": 373266750.0
+    },
+    {
+      "code": "5JS",
+      "name": "Indofood Agri",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 495546080.0,
+      "market_cap_usd": 367071170.0
+    },
+    {
+      "code": "ZQM",
+      "name": "SoilbuildConstr",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 486470176.0,
+      "market_cap_usd": 360348279.0
+    },
+    {
+      "code": "B58",
+      "name": "Banyan Tree",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 485881312.0,
+      "market_cap_usd": 359912083.0
+    },
+    {
+      "code": "AW9U",
+      "name": "First Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 476827712.0,
+      "market_cap_usd": 353205713.0
+    },
+    {
+      "code": "TSH",
+      "name": "TSH Resources",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 465905472.0,
+      "market_cap_usd": 345115164.0
+    },
+    {
+      "code": "1MZ",
+      "name": "NamCheong",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 453254496.0,
+      "market_cap_usd": 335744071.0
+    },
+    {
+      "code": "BN2",
+      "name": "Valuetronics",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 450809760.0,
+      "market_cap_usd": 333933156.0
+    },
+    {
+      "code": "MV4",
+      "name": "Mewah Intl",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 442696864.0,
+      "market_cap_usd": 327923603.0
+    },
+    {
+      "code": "5TP",
+      "name": "CNMC Goldmine",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 441765120.0,
+      "market_cap_usd": 327233422.0
+    },
+    {
+      "code": "BHK",
+      "name": "SIIC Environment",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 424984864.0,
+      "market_cap_usd": 314803603.0
+    },
+    {
+      "code": "5CF",
+      "name": "OKP",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 416316448.0,
+      "market_cap_usd": 308382554.0
+    },
+    {
+      "code": "BDX",
+      "name": "GSH",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 413924512.0,
+      "market_cap_usd": 306610750.0
+    },
+    {
+      "code": "S3N",
+      "name": "GRC",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 409688416.0,
+      "market_cap_usd": 303472901.0
+    },
+    {
+      "code": "5DD",
+      "name": "Micro-Mechanics",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 405973120.0,
+      "market_cap_usd": 300720830.0
+    },
+    {
+      "code": "5GD",
+      "name": "Sunpower",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 402492480.0,
+      "market_cap_usd": 298142578.0
+    },
+    {
+      "code": "ZKX",
+      "name": "Ever Glory",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 396647072.0,
+      "market_cap_usd": 293812646.0
+    },
+    {
+      "code": "T24",
+      "name": "Tuan Sing",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 393562752.0,
+      "market_cap_usd": 291527964.0
+    },
+    {
+      "code": "B28",
+      "name": "Bonvests",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 393486624.0,
+      "market_cap_usd": 291471573.0
+    },
+    {
+      "code": "42C",
+      "name": "IX Biopharma",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 392717184.0,
+      "market_cap_usd": 290901618.0
+    },
+    {
+      "code": "M01",
+      "name": "Metro",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 380896512.0,
+      "market_cap_usd": 282145564.0
+    },
+    {
+      "code": "5HV",
+      "name": "Koh Eco",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 377641600.0,
+      "market_cap_usd": 279734519.0
+    },
+    {
+      "code": "Y03",
+      "name": "Yeo Hiap Seng",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 366901856.0,
+      "market_cap_usd": 271779153.0
+    },
+    {
+      "code": "S35",
+      "name": "Sing Inv & Fin",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 366479840.0,
+      "market_cap_usd": 271466548.0
+    },
+    {
+      "code": "KUO",
+      "name": "Intl Cement",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 349818720.0,
+      "market_cap_usd": 259124978.0
+    },
+    {
+      "code": "DHLU",
+      "name": "Daiwa Hse Log Tr",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 336557120.0,
+      "market_cap_usd": 249301570.0
+    },
+    {
+      "code": "BTM",
+      "name": "Penguin Intl",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 332456352.0,
+      "market_cap_usd": 246263964.0
+    },
+    {
+      "code": "AWZ",
+      "name": "Multi-Chem",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 330649632.0,
+      "market_cap_usd": 244925653.0
+    },
+    {
+      "code": "N02",
+      "name": "NSL",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 324995680.0,
+      "market_cap_usd": 240737541.0
+    },
+    {
+      "code": "5UX",
+      "name": "Oxley",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 324264512.0,
+      "market_cap_usd": 240195935.0
+    },
+    {
+      "code": "I07",
+      "name": "ISDN",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 324182464.0,
+      "market_cap_usd": 240135159.0
+    },
+    {
+      "code": "ODBU",
+      "name": "UtdHampshReitUSD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 316253824.0,
+      "market_cap_usd": 234262092.0
+    },
+    {
+      "code": "BBW",
+      "name": "Azeus",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 311999904.0,
+      "market_cap_usd": 231111040.0
+    },
+    {
+      "code": "5IG",
+      "name": "Gallant Venture",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 311399840.0,
+      "market_cap_usd": 230666548.0
+    },
+    {
+      "code": "A30",
+      "name": "Aspial Corp",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 306120032.0,
+      "market_cap_usd": 226755579.0
+    },
+    {
+      "code": "5JK",
+      "name": "Hiap Hoe",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 305862400.0,
+      "market_cap_usd": 226564741.0
+    },
+    {
+      "code": "S85",
+      "name": "Straco",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 303690304.0,
+      "market_cap_usd": 224955781.0
+    },
+    {
+      "code": "A04",
+      "name": "ASL Marine",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 303564704.0,
+      "market_cap_usd": 224862744.0
+    },
+    {
+      "code": "BTE",
+      "name": "Bund Center",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 295919840.0,
+      "market_cap_usd": 219199881.0
+    },
+    {
+      "code": "UD1U",
+      "name": "IREIT Global SGD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 282415904.0,
+      "market_cap_usd": 209196966.0
+    },
+    {
+      "code": "1D4",
+      "name": "Aoxin Q & M",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 277690592.0,
+      "market_cap_usd": 205696735.0
+    },
+    {
+      "code": "X5N",
+      "name": "Avarga Ltd",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 277042816.0,
+      "market_cap_usd": 205216901.0
+    },
+    {
+      "code": "AWI",
+      "name": "Thakral",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 275278240.0,
+      "market_cap_usd": 203909807.0
+    },
+    {
+      "code": "G20",
+      "name": "GP Industries",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 273884864.0,
+      "market_cap_usd": 202877677.0
+    },
+    {
+      "code": "QNS",
+      "name": "SouthernAlliance",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 273798624.0,
+      "market_cap_usd": 202813796.0
+    },
+    {
+      "code": "TCU",
+      "name": "CreditBureauAsia",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 263861728.0,
+      "market_cap_usd": 195453132.0
+    },
+    {
+      "code": "H12",
+      "name": "Hotel Royal",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 263692816.0,
+      "market_cap_usd": 195328012.0
+    },
+    {
+      "code": "1J4",
+      "name": "JEP",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 258140016.0,
+      "market_cap_usd": 191214827.0
+    },
+    {
+      "code": "BQF",
+      "name": "XMH",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 256566768.0,
+      "market_cap_usd": 190049458.0
+    },
+    {
+      "code": "LCC",
+      "name": "Lum Chang Creat",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 255150000.0,
+      "market_cap_usd": 189000000.0
+    },
+    {
+      "code": "41O",
+      "name": "LHN",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 252652320.0,
+      "market_cap_usd": 187149867.0
+    },
+    {
+      "code": "500",
+      "name": "Tai Sin Electric",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 248541408.0,
+      "market_cap_usd": 184104747.0
+    },
+    {
+      "code": "5IC",
+      "name": "SingHoldings",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 248115456.0,
+      "market_cap_usd": 183789227.0
+    },
+    {
+      "code": "DM0",
+      "name": "PSC Corporation",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 245383632.0,
+      "market_cap_usd": 181765653.0
+    },
+    {
+      "code": "BEW",
+      "name": "JB Foods",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 244292528.0,
+      "market_cap_usd": 180957428.0
+    },
+    {
+      "code": "BMGU",
+      "name": "BHG Retail Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 239017200.0,
+      "market_cap_usd": 177049778.0
+    },
+    {
+      "code": "BQM",
+      "name": "Tiong Woon",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 238790304.0,
+      "market_cap_usd": 176881707.0
+    },
+    {
+      "code": "CLN",
+      "name": "APAC Realty",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 237070480.0,
+      "market_cap_usd": 175607763.0
+    },
+    {
+      "code": "OXMU",
+      "name": "Prime US ReitUSD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 232868224.0,
+      "market_cap_usd": 172494981.0
+    },
+    {
+      "code": "ITS",
+      "name": "Info-Tech",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 232200000.0,
+      "market_cap_usd": 172000000.0
+    },
+    {
+      "code": "W8W",
+      "name": "Coliwoo Hldgs",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 230784000.0,
+      "market_cap_usd": 170951111.0
+    },
+    {
+      "code": "8U7U",
+      "name": "IREIT Global EUR",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 227544160.0,
+      "market_cap_usd": 168551230.0
+    },
+    {
+      "code": "BWCU",
+      "name": "EC World Reit",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 226754720.0,
+      "market_cap_usd": 167966459.0
+    },
+    {
+      "code": "NR7",
+      "name": "Raffles Edu",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 219916128.0,
+      "market_cap_usd": 162900836.0
+    },
+    {
+      "code": "MR7",
+      "name": "Nordic",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 218915168.0,
+      "market_cap_usd": 162159384.0
+    },
+    {
+      "code": "HLS",
+      "name": "Helens",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 215050432.0,
+      "market_cap_usd": 159296616.0
+    },
+    {
+      "code": "5VS",
+      "name": "Hafary",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 213122256.0,
+      "market_cap_usd": 157868338.0
+    },
+    {
+      "code": "B73",
+      "name": "Global Inv",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 208539008.0,
+      "market_cap_usd": 154473339.0
+    },
+    {
+      "code": "C33",
+      "name": "Chuan Hup",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 202780592.0,
+      "market_cap_usd": 150207846.0
+    },
+    {
+      "code": "MXNU",
+      "name": "EliteUKREIT GBP",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 195676416.0,
+      "market_cap_usd": 144945493.0
+    },
+    {
+      "code": "SHE",
+      "name": "Soon Hock",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 192635248.0,
+      "market_cap_usd": 142692776.0
+    },
+    {
+      "code": "CMOU",
+      "name": "KOREReitUSD",
+      "board": "MAINBOARD",
+      "security_type": "unit",
+      "market_cap_sgd": 192178848.0,
+      "market_cap_usd": 142354702.0
+    },
+    {
+      "code": "Z59",
+      "name": "Yoma Strategic",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 191080336.0,
+      "market_cap_usd": 141540990.0
+    },
+    {
+      "code": "L19",
+      "name": "Lum Chang",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 187312400.0,
+      "market_cap_usd": 138749926.0
+    },
+    {
+      "code": "DU4",
+      "name": "Mermaid Maritime",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 187183568.0,
+      "market_cap_usd": 138654495.0
+    },
+    {
+      "code": "J2T",
+      "name": "Hock Lian Seng",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 184174192.0,
+      "market_cap_usd": 136425327.0
+    },
+    {
+      "code": "ER0",
+      "name": "KSH",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 182315392.0,
+      "market_cap_usd": 135048439.0
+    },
+    {
+      "code": "40T",
+      "name": "ISEC",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 181345664.0,
+      "market_cap_usd": 134330121.0
+    },
+    {
+      "code": "9MT",
+      "name": "METAOPTICS LTD",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 180772944.0,
+      "market_cap_usd": 133905884.0
+    },
+    {
+      "code": "M14",
+      "name": "InnoTek",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 177937200.0,
+      "market_cap_usd": 131805333.0
+    },
+    {
+      "code": "5WA",
+      "name": "OUE Healthcare",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 168838912.0,
+      "market_cap_usd": 125065861.0
+    },
+    {
+      "code": "42R",
+      "name": "Jumbo",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 165415776.0,
+      "market_cap_usd": 122530204.0
+    },
+    {
+      "code": "G0I",
+      "name": "Nam Lee Metal",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 163388064.0,
+      "market_cap_usd": 121028196.0
+    },
+    {
+      "code": "T12",
+      "name": "Tat Seng Pkg",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 161916000.0,
+      "market_cap_usd": 119937778.0
+    },
+    {
+      "code": "D03",
+      "name": "Del Monte Pac",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 161348672.0,
+      "market_cap_usd": 119517535.0
+    },
+    {
+      "code": "BLS",
+      "name": "Hotung Inv",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 154992432.0,
+      "market_cap_usd": 114809209.0
+    },
+    {
+      "code": "LVR",
+      "name": "17LIVE GROUP",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 148931328.0,
+      "market_cap_usd": 110319502.0
+    },
+    {
+      "code": "K75",
+      "name": "Koh Bros",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 148485280.0,
+      "market_cap_usd": 109989096.0
+    },
+    {
+      "code": "5ML",
+      "name": "Old Chang Kee",
+      "board": "CATALIST",
+      "security_type": "share",
+      "market_cap_sgd": 144435904.0,
+      "market_cap_usd": 106989559.0
+    },
+    {
+      "code": "BEZ",
+      "name": "Beng Kuang",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 142446592.0,
+      "market_cap_usd": 105515994.0
+    },
+    {
+      "code": "S44",
+      "name": "EnGro",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 137694896.0,
+      "market_cap_usd": 101996219.0
+    },
+    {
+      "code": "Q0X",
+      "name": "Ley Choon",
+      "board": "MAINBOARD",
+      "security_type": "share",
+      "market_cap_sgd": 137024848.0,
+      "market_cap_usd": 101499887.0
+    }
+  ]
 }

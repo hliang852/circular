@@ -1,0 +1,58 @@
+{
+  "code": "EB5",
+  "name": "FIRST RESOURCES LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:02:54.308082+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-09-18T09:52:48+00:00",
+      "filing_date": "2025-09-18T09:52:48+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/XIUAMHDMXTF8LGNK/cedb760326dfab8a46c425cce37d6d99c0fb7c611e5cf4ea0c25b9899eb8544f",
+      "shares_repurchased": 102600,
+      "on_market_shares": 102600,
+      "off_market_shares": 0,
+      "price_high": 1.65,
+      "price_low": 1.64,
+      "consideration_sgd": 169559.92,
+      "cum_ytd_pct": 0.0131,
+      "max_mandate_shares": 154935096,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-09-16T10:09:17+00:00",
+      "filing_date": "2025-09-16T10:09:17+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/74R4KHV2IA40WJOP/d0bb063e8e96428c0e2cfcf295ce303e3105856c645bbba41b10898a96ac543d",
+      "shares_repurchased": 100000,
+      "on_market_shares": 100000,
+      "off_market_shares": 0,
+      "price_high": 1.65,
+      "price_low": 1.65,
+      "consideration_sgd": 165288.15,
+      "cum_ytd_pct": 0.0065,
+      "max_mandate_shares": 154935096,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-09-26T10:02:28+00:00",
+      "filing_date": "2025-09-26T10:02:28+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/O7CMMG1H9LJQ3M2J/e58f0be0034dd1e30a2ca30da23f3662095813d9845e0c7d9b618c1938dbf111",
+      "shares_repurchased": 90000,
+      "on_market_shares": 90000,
+      "off_market_shares": 0,
+      "price_high": 1.64,
+      "price_low": 1.64,
+      "consideration_sgd": 147857.8,
+      "cum_ytd_pct": 0.0189,
+      "max_mandate_shares": 154935096,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

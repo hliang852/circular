@@ -9,7 +9,7 @@
   "pct_issued": 0.0,
   "cumulative_notional": 0,
   "vwap_hkd": null,
-  "current_price_hkd": 37.6,
+  "current_price_hkd": 31.54,
   "buyback_yield_pct": 0.0,
   "free_float_pct": 35.0,
   "consistency_score": 0,
@@ -232,9 +232,18 @@
       "month_volume": 106822378,
       "issued_shares": 284330000,
       "filing_date": "2026-04-01"
+    },
+    {
+      "period": "2026-04",
+      "shares": 0,
+      "notional": 0,
+      "month_close": 38.86,
+      "month_volume": 103429034,
+      "issued_shares": 284330000,
+      "filing_date": "2026-05-04"
     }
   ],
   "events": [],
   "last_session": null,
-  "scraped_at": "2026-05-23T23:20:48.303180Z"
+  "scraped_at": "2026-05-30T03:40:12.744451Z"
 }

@@ -7,9 +7,9 @@
   "shares_issued": 17183560530,
   "shares_bought": 1592963671,
   "pct_issued": 9.2703,
-  "cumulative_notional": 121826174329,
+  "cumulative_notional": 121826168096,
   "vwap_hkd": null,
-  "current_price_hkd": 143.9,
+  "current_price_hkd": 145.1,
   "buyback_yield_pct": 9.2703,
   "free_float_pct": 35.0,
   "consistency_score": 3,
@@ -83,8 +83,8 @@
     {
       "period": "2024-12",
       "shares": 62335868,
-      "notional": 4351916289,
-      "month_close": 69.814,
+      "notional": 4351910055,
+      "month_close": 69.8139,
       "month_volume": 235679010,
       "issued_shares": 17946950582,
       "filing_date": "2025-01-07"
@@ -236,5 +236,5 @@
   ],
   "events": [],
   "last_session": null,
-  "scraped_at": "2026-05-22T15:10:53.054328Z"
+  "scraped_at": "2026-05-30T02:04:48.165533Z"
 }

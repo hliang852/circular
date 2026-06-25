@@ -1,0 +1,109 @@
+{
+  "code": "CLN",
+  "name": "APAC REALTY LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T18:59:26.822227+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-07-01T23:12:53+00:00",
+      "filing_date": "2025-07-01T23:12:53+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/QFSZ8A3LSS01KZOX/6374813045dc05d1d85ea467126e625ab1318214d314deb650da847be68601ea",
+      "shares_repurchased": 157200,
+      "on_market_shares": 157200,
+      "off_market_shares": 0,
+      "price_high": 0.4777,
+      "price_low": 0.4777,
+      "consideration_sgd": 75272.46,
+      "cum_ytd_pct": 1.11,
+      "max_mandate_shares": 35919770,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-07-01T09:45:01+00:00",
+      "filing_date": "2025-07-01T09:45:01+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLJFVHYQCDK2BULM/438f1231a18b14cd2891cd561ebcf5fd3cc84b6bc78dc7551c9c8422b968b745",
+      "shares_repurchased": 157200,
+      "on_market_shares": 157200,
+      "off_market_shares": 0,
+      "price_high": 0.4777,
+      "price_low": 0.4777,
+      "consideration_sgd": 75272.46,
+      "cum_ytd_pct": 0.11,
+      "max_mandate_shares": 35919770,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-06-30T09:33:47+00:00",
+      "filing_date": "2025-06-30T09:33:47+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/KM8RMGKFW6IVPK03/1e9a3299edeaead8952180ab131878e391c2d26d2142f015ff0485378e682fcf",
+      "shares_repurchased": 128600,
+      "on_market_shares": 128600,
+      "off_market_shares": 0,
+      "price_high": 0.47,
+      "price_low": 0.47,
+      "consideration_sgd": 60582,
+      "cum_ytd_pct": 1.07,
+      "max_mandate_shares": 35919770,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-06-27T09:26:44+00:00",
+      "filing_date": "2025-06-27T09:26:44+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/C43BWBS3XLUMXF4C/e5d37ca099b47c607ce0a0b049eba1cb9247a0ef4a0f1021e32d60ca7c64d2c0",
+      "shares_repurchased": 131600,
+      "on_market_shares": 131600,
+      "off_market_shares": 0,
+      "price_high": 0.47,
+      "price_low": 0.47,
+      "consideration_sgd": 61995.27,
+      "cum_ytd_pct": 1.03,
+      "max_mandate_shares": 35919770,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [
+    {
+      "date": "2025-09-10T23:01:33+00:00",
+      "type": "bonus_issue",
+      "label": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/HU299S0YZFOMTN82/c4d2a5be4ebd39f556879e78f16d0185be5c1b296b7ba37cf5f7959e5fc56fa2"
+    },
+    {
+      "date": "2025-09-10T22:53:26+00:00",
+      "type": "bonus_issue",
+      "label": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/6WKJ3CRD9KI9J8W2/c15f32fb6b867a5fa8c4a282863a0a3f276e801f804bfe296368ad19897b95cf"
+    },
+    {
+      "date": "2025-09-08T09:20:45+00:00",
+      "type": "bonus_issue",
+      "label": "Bonus Issue/ Capitalisation Issue::Mandatory",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/Q8Z1JU2LCPLY8U74/0a61f74c248bc51f496b5d38104b6159ba5a7abcff92ae4b87e9ab5c056a24b9"
+    },
+    {
+      "date": "2025-09-23T09:20:06+00:00",
+      "type": "bonus_issue",
+      "label": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/C1KQKT8U6F1FNW4U/a71530247d3a75e053607ae1a21795318e24235f2b32336876801ad8e61a85dc"
+    }
+  ],
+  "results_dates": []
+}

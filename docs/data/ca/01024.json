@@ -3,17 +3,17 @@
   "name": "KUAISHOU TECHNOLOGY",
   "programme_active": true,
   "mandate_pct": 10.0,
-  "mandate_consumed_pct": 0.0,
+  "mandate_consumed_pct": 0.91,
   "shares_issued": 3661415531,
-  "shares_bought": 0,
-  "pct_issued": 0.0,
-  "cumulative_notional": 754455563,
-  "vwap_hkd": 45.2664,
-  "current_price_hkd": 45.64,
-  "buyback_yield_pct": 0.0,
+  "shares_bought": 3314000,
+  "pct_issued": 0.0905,
+  "cumulative_notional": 904354823,
+  "vwap_hkd": 45.2607,
+  "current_price_hkd": 45.54,
+  "buyback_yield_pct": 0.0905,
   "free_float_pct": 35.0,
   "consistency_score": 0,
-  "last_filing_date": "2026-04-24",
+  "last_filing_date": "2026-05-29",
   "agm_date": "2026-05-01",
   "renew_probability": 0,
   "monthly": [
@@ -232,6 +232,16 @@
       "month_volume": 787936138,
       "issued_shares": 3661415531,
       "filing_date": "2026-05-07"
+    },
+    {
+      "period": "2026-05",
+      "shares": 3314000,
+      "notional": 149899260,
+      "month_close": 45.54,
+      "month_volume": null,
+      "issued_shares": 3661415531,
+      "filing_date": null,
+      "partial": true
     }
   ],
   "events": [
@@ -294,12 +304,22 @@
       "date": "2026-04-24",
       "shares": 1145000,
       "avg_price_hkd": 43.669
+    },
+    {
+      "date": "2026-05-28",
+      "shares": 2222000,
+      "avg_price_hkd": 44.9957
+    },
+    {
+      "date": "2026-05-29",
+      "shares": 1092000,
+      "avg_price_hkd": 45.7132
     }
   ],
   "last_session": {
-    "date": "2026-04-24",
-    "shares": 1145000,
-    "avg_price_hkd": 43.669
+    "date": "2026-05-29",
+    "shares": 1092000,
+    "avg_price_hkd": 45.7132
   },
-  "scraped_at": "2026-05-22T19:55:58.954767Z"
+  "scraped_at": "2026-05-30T02:45:39.138603Z"
 }

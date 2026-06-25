@@ -1,0 +1,44 @@
+{
+  "code": "VC2",
+  "name": "OLAM GROUP LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T17:58:15.047389+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-07-10T10:10:18+00:00",
+      "filing_date": "2025-07-10T10:10:18+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/33VO3MP2MCD3GDDL/458cad91c12d10b846f99d1f3db6589b9bb3abf1f5f58e8e08018ab887311887",
+      "shares_repurchased": 350000,
+      "on_market_shares": 350000,
+      "off_market_shares": 0,
+      "price_high": 0.9914,
+      "price_low": 0.9914,
+      "consideration_sgd": 347302.04,
+      "cum_ytd_pct": 0.5398,
+      "max_mandate_shares": 189551574,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-07-04T09:32:57+00:00",
+      "filing_date": "2025-07-04T09:32:57+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/YO4QING6KCQR6BS1/cd1e5abb41c598417291cebfdda8e32701e79655030b5797be1e33accac4487f",
+      "shares_repurchased": 250000,
+      "on_market_shares": 250000,
+      "off_market_shares": 0,
+      "price_high": 0.9969,
+      "price_low": 0.9969,
+      "consideration_sgd": 249449.11,
+      "cum_ytd_pct": 0.5041,
+      "max_mandate_shares": 189551574,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

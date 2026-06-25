@@ -1,0 +1,51 @@
+{
+  "code": "D05",
+  "name": "DBS GROUP HOLDINGS LTD",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:26:06.861217+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-07-11T12:28:45+00:00",
+      "filing_date": "2025-07-11T12:28:45+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/MTRKPQQ72U4933TO/6ff57c7f975101deffa42ea0cecd26208bfa38472ebb54d55da913bae4a92549",
+      "shares_repurchased": 350000,
+      "on_market_shares": 350000,
+      "off_market_shares": 0,
+      "price_high": 46.33,
+      "price_low": 45.79,
+      "consideration_sgd": 16164465.08,
+      "cum_ytd_pct": 0.2436,
+      "max_mandate_shares": 85328308,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-07-24T09:18:37+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/KH38VYNLESIK20RZ/7e60bcb4ca3eeeca093a82e3e3505c7778d191610990454eeff70d9af4bd7783"
+    },
+    {
+      "date": "2025-08-06T22:30:31+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/XOSJ5Y7QI8GMQDUG/3dfa43b0f180bc4daf1bf499ea71b82d32513a6a15c736a01b1fe3dafb006d04"
+    },
+    {
+      "date": "2025-10-23T09:33:40+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/QMFCBYBCBX23ULNA/67bd875d97562d47904d76fd5201deabb7940653c333c1af15aac1294c70c694"
+    },
+    {
+      "date": "2025-11-05T22:35:19+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/9RSSMORB7NPSITZ6/3537c4bbbef348abb03a88d244bf396a76f3ecc35feb35429467601b685a81e1"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "code": "T41",
+  "name": "TELECHOICE INTERNATIONAL LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T18:31:13.022024+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2026-06-24T00:40:55+00:00",
+      "filing_date": "2026-06-24T00:40:55+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/SQ6LBNU7FV7KYC13/0c7fd1f6cdf0ca7548ee44fe5fa6f8dad3cc52038d660b0f4cc9b563df61ee47",
+      "shares_repurchased": 121100,
+      "on_market_shares": 121100,
+      "off_market_shares": 0,
+      "price_high": 0.25,
+      "price_low": 0.25,
+      "consideration_sgd": 30453.58,
+      "cum_ytd_pct": 0.2618,
+      "max_mandate_shares": 45298580,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-08-07T09:21:08+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/Q1NAJ13J61RZDPZE/11afec9d218be433a435d3610b29c4f428b7c1cc56f73238b88760df97625ef8"
+    },
+    {
+      "date": "2025-08-14T09:20:05+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/M4CJROSQ980LUGLH/eb2f804137de5516972178ca5b4605711f2aefc85428ef7fa694f8ef0e376bca"
+    }
+  ]
+}

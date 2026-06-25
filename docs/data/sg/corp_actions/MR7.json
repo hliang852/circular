@@ -1,0 +1,64 @@
+{
+  "code": "MR7",
+  "name": "NORDIC GROUP LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T18:35:23.841360+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-08-14T12:00:55+00:00",
+      "filing_date": "2025-08-14T12:00:55+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/3DNRQJWJDOCOYANK/7a74c8e4aea694be625264bccaf61c83f89d7d111812b1dbfd833292f967fe13",
+      "shares_repurchased": 150000,
+      "on_market_shares": 150000,
+      "off_market_shares": 0,
+      "price_high": 0.38,
+      "price_low": 0.375,
+      "consideration_sgd": 56973.82,
+      "cum_ytd_pct": 0.0567,
+      "max_mandate_shares": 39858840,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-08-19T11:42:38+00:00",
+      "filing_date": "2025-08-19T11:42:38+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/G5MMOKD06MJ8Q65Y/8778425f7c6d0691d4a5be7df546b4bd0b09b34758764dcaa4593e2af64d49e1",
+      "shares_repurchased": 53000,
+      "on_market_shares": 53000,
+      "off_market_shares": 0,
+      "price_high": 0.385,
+      "price_low": 0.385,
+      "consideration_sgd": 20525.49,
+      "cum_ytd_pct": 0.0807,
+      "max_mandate_shares": 39858840,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-08-18T11:44:26+00:00",
+      "filing_date": "2025-08-18T11:44:26+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/8VQYGB0DQG5GO5CU/5294f23ea7ae03546626d9fb6ac4ece2ee895aa3740c0febd691f51a528760f7",
+      "shares_repurchased": 42000,
+      "on_market_shares": 42000,
+      "off_market_shares": 0,
+      "price_high": 0.385,
+      "price_low": 0.38,
+      "consideration_sgd": 16096.99,
+      "cum_ytd_pct": 0.0672,
+      "max_mandate_shares": 39858840,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": [
+    {
+      "date": "2025-08-21T12:35:52+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/EW9EZ841KVDTG56J/2510b1a4379d4948bb60c563afdaaa21babad0878482a029639fc6582adfaa4b"
+    }
+  ]
+}

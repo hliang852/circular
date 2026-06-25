@@ -1,0 +1,44 @@
+{
+  "code": "1B6",
+  "name": "OCEAN SKY INTERNATIONAL LIMITED",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-25T19:35:54.429544+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2025-10-14T10:48:44+00:00",
+      "filing_date": "2025-10-14T10:48:44+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/JFXR3L7BVONR8WTR/896108416be9e199bb89baa174a75b66d004efb591359e2b3ac2061b3c1be343",
+      "shares_repurchased": 99200,
+      "on_market_shares": 99200,
+      "off_market_shares": 0,
+      "price_high": 0.033,
+      "price_low": 0.033,
+      "consideration_sgd": 3319.01,
+      "cum_ytd_pct": 0.02,
+      "max_mandate_shares": 43061028,
+      "parse_failed": false
+    },
+    {
+      "date": "2025-11-19T11:35:47+00:00",
+      "filing_date": "2025-11-19T11:35:47+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/Q5LAJI5RTG6592SK/b952cc076eaef0637703fc6f5c2ec36e024e53a61520cd93bcc8f6889a2b4480",
+      "shares_repurchased": 145200,
+      "on_market_shares": 145200,
+      "off_market_shares": 0,
+      "price_high": 0.039,
+      "price_low": 0.039,
+      "consideration_sgd": 5709.26,
+      "cum_ytd_pct": 0.06,
+      "max_mandate_shares": 43061028,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}
