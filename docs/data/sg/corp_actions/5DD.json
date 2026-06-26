@@ -3,13 +3,28 @@
   "name": "MICRO-MECHANICS (HOLDINGS) LTD.",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:21:49.944770+00:00",
+  "last_updated": "2026-06-26T22:59:38.538517+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-26T09:59:12+00:00",
+      "filing_date": "2026-06-26T09:59:12+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/594YNL5G9FM87UI1/8cb5c373a4b1dd624e481a090be3a4336bff788e9af117f39cdd26f2b6e0d47b",
+      "shares_repurchased": 15000,
+      "price_high": 2.96,
+      "price_low": 2.79,
+      "consideration_sgd": 42926,
+      "cum_ytd_pct": 0.1546,
+      "max_mandate_shares": 13903188,
+      "on_market_shares": 15000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

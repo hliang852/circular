@@ -3,7 +3,7 @@
   "name": "KEPPEL LTD.",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:52:02.271177+00:00",
+  "last_updated": "2026-06-26T23:00:28.516285+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -792,6 +792,34 @@
       "consideration_sgd": 510946.33,
       "cum_ytd_pct": 0.6816,
       "max_mandate_shares": 90741740,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T09:51:21+00:00",
+      "filing_date": "2026-06-26T09:51:21+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI3UVZUJQR9LJQAV/536db9afe812ff21ffb3561b1af5db7095e743483108495448d7edf789f20879",
+      "shares_repurchased": 300000,
+      "price_high": 11.18,
+      "price_low": 10.92,
+      "consideration_sgd": 3318688.44,
+      "cum_ytd_pct": 0.68,
+      "max_mandate_shares": 90646698,
+      "on_market_shares": 300000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T09:53:55+00:00",
+      "filing_date": "2026-06-25T09:53:55+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/V91DXE1UCUPJ0TFR/878dd361f784da9bac207893cca080b34d36e18f0827aaf609ff51b53fbad2dc",
+      "shares_repurchased": 200000,
+      "price_high": 11.27,
+      "price_low": 11.19,
+      "consideration_sgd": 2251515.49,
+      "cum_ytd_pct": 0.66345,
+      "max_mandate_shares": 90646698,
+      "on_market_shares": 200000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

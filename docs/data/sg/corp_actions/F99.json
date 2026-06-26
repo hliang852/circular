@@ -3,7 +3,7 @@
   "name": "FRASER AND NEAVE LIMITED.",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:51:50.871230+00:00",
+  "last_updated": "2026-06-26T23:00:26.475030+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -21,20 +21,6 @@
       "price_low": 1.28,
       "consideration_sgd": 113684.89,
       "cum_ytd_pct": 0.01525,
-      "max_mandate_shares": 101970158,
-      "parse_failed": false
-    },
-    {
-      "date": "2025-06-27T13:17:01+00:00",
-      "filing_date": "2025-06-27T13:17:01+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/L2MW57H2SO2ZVTMY/9bdc9bbab4a529d21462a4f0aede1196073ef571e25776661b5ed212c16f4255",
-      "shares_repurchased": 40000,
-      "on_market_shares": 40000,
-      "off_market_shares": 0,
-      "price_high": 1.26,
-      "price_low": 1.26,
-      "consideration_sgd": 50466.3,
-      "cum_ytd_pct": 0.00916,
       "max_mandate_shares": 101970158,
       "parse_failed": false
     },
@@ -428,6 +414,20 @@
       "consideration_sgd": 17783.61,
       "cum_ytd_pct": 0.10088,
       "max_mandate_shares": 101970158,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T09:57:00+00:00",
+      "filing_date": "2026-06-25T09:57:00+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/C8HZIISYSXZZ2M67/1d7cee82999268f6d8c12310987a93d07861feb0c025911ff83f7aed5fda408c",
+      "shares_repurchased": 59200,
+      "price_high": 1.43,
+      "price_low": 1.43,
+      "consideration_sgd": 84767.11,
+      "cum_ytd_pct": 0.11424,
+      "max_mandate_shares": 101967963,
+      "on_market_shares": 59200,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

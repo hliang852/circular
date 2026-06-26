@@ -1,0 +1,21 @@
+{
+  "code": "AVP",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:01:59.485140+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 127830,
+      "value_sgd": 1723148.34
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 106160,
+      "value_sgd": 1398127.21
+    }
+  ],
+  "short_selling_eligible": true
+}

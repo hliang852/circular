@@ -3,7 +3,7 @@
   "name": "GLOBAL INVESTMENTS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:49:58.242363+00:00",
+  "last_updated": "2026-06-26T23:00:35.016600+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -442,6 +442,20 @@
       "consideration_sgd": 25619.91,
       "cum_ytd_pct": 1.1741,
       "max_mandate_shares": 162257621,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T09:31:40+00:00",
+      "filing_date": "2026-06-25T09:31:40+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/38FM0LWH54ROL5WQ/441ae5fb49517cf097ab6522c449cfb63f775e98d7f2b975214b34453e34b1c4",
+      "shares_repurchased": 300000,
+      "price_high": 0.125,
+      "price_low": 0.125,
+      "consideration_sgd": 37529,
+      "cum_ytd_pct": 0.0725,
+      "max_mandate_shares": 166861520,
+      "on_market_shares": 300000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

@@ -1,0 +1,21 @@
+{
+  "code": "BEC",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:02:05.077644+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 37600,
+      "value_sgd": 165815.99
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 63400,
+      "value_sgd": 277057.99
+    }
+  ],
+  "short_selling_eligible": true
+}

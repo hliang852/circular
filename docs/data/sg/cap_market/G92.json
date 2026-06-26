@@ -1,0 +1,21 @@
+{
+  "code": "G92",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:02:02.785378+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 579200,
+      "value_sgd": 1065728.02
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 650200,
+      "value_sgd": 1176861.96
+    }
+  ],
+  "short_selling_eligible": true
+}

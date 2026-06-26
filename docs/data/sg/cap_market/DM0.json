@@ -1,0 +1,21 @@
+{
+  "code": "DM0",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:02:20.735145+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 100,
+      "value_sgd": 45.0
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 161800,
+      "value_sgd": 68765.0
+    }
+  ],
+  "short_selling_eligible": true
+}

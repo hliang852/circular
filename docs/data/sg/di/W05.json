@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-25T16:00:47.492942+00:00",
+  "last_updated": "2026-06-26T22:57:29.410779+00:00",
   "shareholders": [],
   "history": [
     {
@@ -992,6 +992,23 @@
       "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/EHF160SEDIGBC01E/110e80ed5eaba4e7f613e06bba7646a210349221ebf29dfd049db9a63868af41",
       "parse_failed": false
+    },
+    {
+      "name": null,
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-26T10:34:26+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/3A341NHP8SZPW203/373ca7ec425bfa959f3d70555a350ee7b6f399453e7eeed488c252f792aa52c8",
+      "parse_failed": true
     }
   ]
 }

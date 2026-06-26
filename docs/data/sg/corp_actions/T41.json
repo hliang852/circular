@@ -3,7 +3,7 @@
   "name": "TELECHOICE INTERNATIONAL LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T18:31:13.022024+00:00",
+  "last_updated": "2026-06-26T23:00:37.767270+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -22,6 +22,20 @@
       "consideration_sgd": 30453.58,
       "cum_ytd_pct": 0.2618,
       "max_mandate_shares": 45298580,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T00:52:26+00:00",
+      "filing_date": "2026-06-25T00:52:26+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/IJ7RSZ5EGB2473CZ/8779481287a3b3a43e258fbacd70d8b10fe55a2f1ed054e70190f831c2c07fe1",
+      "shares_repurchased": 10000,
+      "price_high": 0.25,
+      "price_low": 0.25,
+      "consideration_sgd": 2545.07,
+      "cum_ytd_pct": 0.264,
+      "max_mandate_shares": 45298580,
+      "on_market_shares": 10000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

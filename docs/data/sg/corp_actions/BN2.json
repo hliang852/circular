@@ -3,13 +3,28 @@
   "name": "VALUETRONICS HOLDINGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:33:40.112037+00:00",
+  "last_updated": "2026-06-26T22:59:40.562649+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-26T09:58:46+00:00",
+      "filing_date": "2026-06-26T09:58:46+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/S703SRII61AGTOX0/c35eb679c4c70ea5808a8eef9837b75de22a809fdc82089a9c0374dd10518900",
+      "shares_repurchased": 241800,
+      "price_high": 1.0782,
+      "price_low": 1.0782,
+      "consideration_sgd": 261073.75,
+      "cum_ytd_pct": 0.28947,
+      "max_mandate_shares": 40566773,
+      "on_market_shares": 241800,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

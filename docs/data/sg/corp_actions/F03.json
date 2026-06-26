@@ -3,7 +3,7 @@
   "name": "FOOD EMPIRE HOLDINGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:51:26.396358+00:00",
+  "last_updated": "2026-06-26T23:00:23.937579+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -148,6 +148,34 @@
       "consideration_sgd": 366558.9,
       "cum_ytd_pct": 0.2153,
       "max_mandate_shares": 52692479,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T09:56:31+00:00",
+      "filing_date": "2026-06-26T09:56:31+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/NU2YTTGJE9LO77VO/a14eabaf1ec26b4a14b378a044a1db65dc48a346a9dbe29b93d8af79019b9226",
+      "shares_repurchased": 150000,
+      "price_high": 2.33433,
+      "price_low": 2.33433,
+      "consideration_sgd": 350684.21,
+      "cum_ytd_pct": 0.3046,
+      "max_mandate_shares": 54985242,
+      "on_market_shares": 150000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T10:01:17+00:00",
+      "filing_date": "2026-06-25T10:01:17+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/06UBHO4RAQLW639L/b3b06172fc374fcacc474028d8041ef66089e21ae92bcc3ca4fe2e28969e14e6",
+      "shares_repurchased": 150000,
+      "price_high": 2.373,
+      "price_low": 2.373,
+      "consideration_sgd": 356493.56,
+      "cum_ytd_pct": 0.2773,
+      "max_mandate_shares": 54985242,
+      "on_market_shares": 150000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

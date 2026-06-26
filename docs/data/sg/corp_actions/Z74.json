@@ -3,7 +3,7 @@
   "name": "SINGAPORE TELECOMMUNICATIONS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:47:12.350977+00:00",
+  "last_updated": "2026-06-26T22:59:26.181153+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -204,6 +204,20 @@
       "consideration_sgd": 8978428.05,
       "cum_ytd_pct": 0.113,
       "max_mandate_shares": 825629225,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T10:35:33+00:00",
+      "filing_date": "2026-06-26T10:35:33+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/IOFNLR05UCL1983U/7baf7bc427df1f56d025f19f93b501b84b9d9563c5b36279047b4477f5446556",
+      "shares_repurchased": 500000,
+      "price_high": 4.4,
+      "price_low": 4.38,
+      "consideration_sgd": 2197135.98,
+      "cum_ytd_pct": 1.197,
+      "max_mandate_shares": 825629225,
+      "on_market_shares": 500000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

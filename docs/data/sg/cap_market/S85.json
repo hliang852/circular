@@ -1,0 +1,21 @@
+{
+  "code": "S85",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:02:18.235864+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 45700,
+      "value_sgd": 15995.0
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 300,
+      "value_sgd": 105.0
+    }
+  ],
+  "short_selling_eligible": true
+}

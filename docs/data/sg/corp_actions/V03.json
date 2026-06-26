@@ -3,7 +3,7 @@
   "name": "VENTURE CORPORATION LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:36:44.990354+00:00",
+  "last_updated": "2026-06-26T22:59:10.682525+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -22,6 +22,20 @@
       "consideration_sgd": 72294.45,
       "cum_ytd_pct": 0.0209,
       "max_mandate_shares": 14384008,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T12:45:51+00:00",
+      "filing_date": "2026-06-26T12:45:51+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/82NMT4Y5T57YL964/41483a33e94e6bcd63eefc7dc2406cbdd6873221c44e73461ed12a9284728ced",
+      "shares_repurchased": 24000,
+      "price_high": 17.09,
+      "price_low": 17.09,
+      "consideration_sgd": 410737.35,
+      "cum_ytd_pct": 0.0384,
+      "max_mandate_shares": 14375948,
+      "on_market_shares": 24000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

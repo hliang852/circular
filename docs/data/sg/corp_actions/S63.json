@@ -3,27 +3,13 @@
   "name": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:46:06.402874+00:00",
+  "last_updated": "2026-06-26T22:59:24.178731+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
   "daily_returns": [
-    {
-      "date": "2025-06-27T10:31:37+00:00",
-      "filing_date": "2025-06-27T10:31:37+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/YT7C0W9G9HG6YV2U/2c5992dd957de47ca415f80e73382f1b2f8e240461a3d8c1ab3ade633d78e830",
-      "shares_repurchased": 500000,
-      "on_market_shares": 500000,
-      "off_market_shares": 0,
-      "price_high": 7.83,
-      "price_low": 7.82,
-      "consideration_sgd": 3917116.9,
-      "cum_ytd_pct": 0.016,
-      "max_mandate_shares": 62436520,
-      "parse_failed": false
-    },
     {
       "date": "2025-08-14T10:41:05+00:00",
       "filing_date": "2025-08-14T10:41:05+00:00",
@@ -148,6 +134,20 @@
       "consideration_sgd": 4129043.73,
       "cum_ytd_pct": 0.1762,
       "max_mandate_shares": 62436520,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T10:37:41+00:00",
+      "filing_date": "2026-06-26T10:37:41+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/2DG5L57IBUDTUX8V/08381600a8a27401d51aaff37a280b79e42bcf6b8dfd83636297990c1e53dccf",
+      "shares_repurchased": 500000,
+      "price_high": 10.46,
+      "price_low": 10.34,
+      "consideration_sgd": 5211407.62,
+      "cum_ytd_pct": 0.0801,
+      "max_mandate_shares": 62434714,
+      "on_market_shares": 500000,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

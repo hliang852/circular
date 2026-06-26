@@ -3,13 +3,28 @@
   "name": "NANOFILM TECHNOLOGIES INTERNATIONAL LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T18:24:25.679873+00:00",
+  "last_updated": "2026-06-26T22:59:46.099071+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-26T09:54:30+00:00",
+      "filing_date": "2026-06-26T09:54:30+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/0LBYP7ALLZB2N0Y4/a82587a6c2c5d86a94cbe15f531872666c231b73b9e22de802c57d5f83ca2d84",
+      "shares_repurchased": 340900,
+      "price_high": 1.16,
+      "price_low": 1.16,
+      "consideration_sgd": 396047.45,
+      "cum_ytd_pct": 0.1748,
+      "max_mandate_shares": 65257658,
+      "on_market_shares": 340900,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

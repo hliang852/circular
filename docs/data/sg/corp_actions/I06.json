@@ -3,7 +3,7 @@
   "name": "INTRACO LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:51:20.290368+00:00",
+  "last_updated": "2026-06-26T22:59:54.667079+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -484,6 +484,20 @@
       "consideration_sgd": 4131.3,
       "cum_ytd_pct": 0.679,
       "max_mandate_shares": 10809221,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-26T09:41:15+00:00",
+      "filing_date": "2026-06-26T09:41:15+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/10ECBBC7ILRKUWLG/df16a4cc4c0d71a70679bf1ef91c5ef541770ec7a74af0d6b6e63a3ba97272f6",
+      "shares_repurchased": 41200,
+      "price_high": 0.38,
+      "price_low": 0.38,
+      "consideration_sgd": 15679.9,
+      "cum_ytd_pct": 0.338,
+      "max_mandate_shares": 10676314,
+      "on_market_shares": 41200,
+      "off_market_shares": 0,
       "parse_failed": false
     }
   ],

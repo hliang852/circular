@@ -3,13 +3,42 @@
   "name": "KARIN TECHNOLOGY HLDGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T18:47:15.578913+00:00",
+  "last_updated": "2026-06-26T23:00:30.475822+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-26T09:59:53+00:00",
+      "filing_date": "2026-06-26T09:59:53+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/9ZM67VXLTS7P1NIW/07279bb97a2797ecd905684c1c89e97bf53ca1b0f69fefa0a5346a4c24bda71e",
+      "shares_repurchased": 124200,
+      "price_high": 0.26,
+      "price_low": 0.255,
+      "consideration_sgd": 31820.95,
+      "cum_ytd_pct": 1.551,
+      "max_mandate_shares": 21632340,
+      "on_market_shares": 124200,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T09:46:30+00:00",
+      "filing_date": "2026-06-25T09:46:30+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/TCTK3WPS01Y74RFU/8f1d242b9eeb9a7945274b07a8935c29882ae8c186f0442bdd907adde680aa95",
+      "shares_repurchased": 85000,
+      "price_high": 0.26,
+      "price_low": 0.255,
+      "consideration_sgd": 21768.35,
+      "cum_ytd_pct": 1.494,
+      "max_mandate_shares": 21632340,
+      "on_market_shares": 85000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

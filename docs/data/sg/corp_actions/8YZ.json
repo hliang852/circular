@@ -1,0 +1,44 @@
+{
+  "code": "8YZ",
+  "name": "YANGZIJIANG MARITIME DEVELOPMENT LTD.",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:00:17.981281+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2026-06-26T10:09:07+00:00",
+      "filing_date": "2026-06-26T10:09:07+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/NE9ATYXI416BDE64/53abe098093f612ad827970cdd8e52899789a5473becb243ceefcc8fa52ffc72",
+      "shares_repurchased": 426300,
+      "price_high": 0.585,
+      "price_low": 0.585,
+      "consideration_sgd": 249630.13,
+      "cum_ytd_pct": 0.0409,
+      "max_mandate_shares": 348908852,
+      "on_market_shares": 426300,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-25T10:10:30+00:00",
+      "filing_date": "2026-06-25T10:10:30+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZWR68PO5VPOWL01J/aea91d3eedea70bac8b083073861d529a740c4307a224046efc848aef08d170e",
+      "shares_repurchased": 1000000,
+      "price_high": 0.5925,
+      "price_low": 0.5925,
+      "consideration_sgd": 593081.24,
+      "cum_ytd_pct": 0.0287,
+      "max_mandate_shares": 348908852,
+      "on_market_shares": 1000000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

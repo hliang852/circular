@@ -3,13 +3,28 @@
   "name": "MDR LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T18:27:37.769954+00:00",
+  "last_updated": "2026-06-26T22:59:20.912127+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-26T10:37:54+00:00",
+      "filing_date": "2026-06-26T10:37:54+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/HIGN13R1JMNX9J8Y/934ac4a7f7a35f26ef58875d600418aa05be64722568de68717cc54f98d372b4",
+      "shares_repurchased": 3070600,
+      "price_high": 0.03867,
+      "price_low": 0.03867,
+      "consideration_sgd": 118921.68,
+      "cum_ytd_pct": 9.1955,
+      "max_mandate_shares": 87011027,
+      "on_market_shares": 3070600,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

@@ -1,0 +1,21 @@
+{
+  "code": "G20",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:02:19.358704+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 48600,
+      "value_sgd": 28674.0
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 10500,
+      "value_sgd": 6090.0
+    }
+  ],
+  "short_selling_eligible": true
+}

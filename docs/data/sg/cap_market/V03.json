@@ -1,0 +1,21 @@
+{
+  "code": "V03",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-26T23:01:56.365087+00:00",
+  "short_history": [],
+  "connect_flows": null,
+  "daily_turnover": [
+    {
+      "date": "2026-06-25",
+      "volume": 942200,
+      "value_sgd": 16347170.36
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 904400,
+      "value_sgd": 15465240.35
+    }
+  ],
+  "short_selling_eligible": true
+}
