@@ -2,7 +2,8 @@ name: Nightly DI Scrape
 
 on:
   schedule:
-    - cron: '0 22 * * 1-5'   # 22:00 UTC = 06:00 HKT next day (after market-close filings)
+    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri — incremental nightly run
+    - cron: '0 22 6 * *'    # 22:00 UTC on the 6th — full CA rescrape after month-end filing deadline
   workflow_dispatch:
     inputs:
       mode:
@@ -39,6 +40,18 @@ jobs:
 
       - name: Build shareholder index
         run: python scripts/build_index.py
+
+      - name: Resolve CA mode
+        id: ca_mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 22 6 * *" ]; then
+            echo "mode=full" >> $GITHUB_OUTPUT
+          else
+            echo "mode=${{ github.event.inputs.mode || 'incremental' }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Scrape HK Corporate Actions
+        run: python scripts/scrape_ca.py --mode "${{ steps.ca_mode.outputs.mode }}"
 
       - name: Commit updated data
         run: |

@@ -68,6 +68,58 @@ def load_universe():
     return []
 
 
+# ── Incremental mode helpers ──────────────────────────────────────────────────
+def load_last_ca_run_date() -> date:
+    """Return the date of the last successful CA scrape, or 2 days ago if unknown."""
+    last_run_path = DATA_DIR / "last_run.json"
+    if last_run_path.exists():
+        try:
+            lr = json.loads(last_run_path.read_text())
+            ts = lr.get("ca", {}).get("last_run")
+            if ts:
+                return datetime.fromisoformat(ts.rstrip("Z")).date()
+        except Exception:
+            pass
+    return date.today() - timedelta(days=2)
+
+
+def get_recently_filed_ca_codes(since_date: date) -> list[str]:
+    """
+    Query HKEX for all stocks that filed a Monthly Return since since_date.
+    Issues a single search request without a stockId filter and extracts codes
+    from the results table. Returns a sorted list of 5-digit codes, or an empty
+    list on error (caller should treat that as "no new filings").
+    """
+    today = date.today()
+    url = (
+        f"{SEARCH_URL}?lang=en&category=0&market=SEHK&searchType=1"
+        f"&t1code={T1_MONTHLY}&t2Gcode=-2&t2code=-2"
+        f"&from={since_date.strftime('%Y%m%d')}&to={today.strftime('%Y%m%d')}"
+    )
+    codes: set[str] = set()
+    try:
+        resp = SESSION.get(url, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        table = soup.find("table")
+        if not table:
+            print("  No results table in HKEX broad search — no new Monthly Returns in window")
+            return []
+        for row in table.find_all("tr")[1:]:
+            cols = row.find_all(["td", "th"])
+            if len(cols) < 2:
+                continue
+            # Column 1 holds the stock code in multi-stock search results
+            text = cols[1].get_text(strip=True)
+            if re.match(r"^\d{4,5}$", text):
+                codes.add(text.zfill(5))
+    except Exception as e:
+        print(f"  HKEX broad search failed ({e}); falling back to full run")
+        return []
+    print(f"  Found {len(codes)} stocks with new Monthly Return filings since {since_date}")
+    return sorted(codes)
+
+
 # ── HKEXnews filing list ─────────────────────────────────────────────────────
 def get_filing_list(internal_id, t1code, t2code, from_date, to_date):
     """Return list of {date, href, title} dicts for a stock's filings."""
@@ -503,8 +555,12 @@ def scrape_stock(code, name, internal_id):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="CA scraper")
-    parser.add_argument("--codes", nargs="*", help="Specific stock codes to scrape (default: all in universe)")
+    parser.add_argument("--codes", nargs="*", help="Specific stock codes to scrape")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of stocks")
+    parser.add_argument(
+        "--mode", choices=["incremental", "full"], default="incremental",
+        help="incremental=only stocks with new filings since last run; full=all stocks in universe",
+    )
     args = parser.parse_args()
 
     print("Loading stock index...")
@@ -515,24 +571,44 @@ def main():
         print("ERROR: universe.json not found. Run build_universe.py first.")
         sys.exit(1)
 
-    # Filter to requested codes or use full universe
+    universe_by_code = {s["code"]: s for s in universe}
+
+    existing_index_path = DATA_DIR / "ca_index.json"
+    existing_ca_idx: dict[str, dict] = {}
+    if existing_index_path.exists():
+        try:
+            existing_ca_idx = {r["code"]: r for r in json.loads(existing_index_path.read_text())}
+        except Exception:
+            pass
+
+    # Determine which stocks to scrape
     if args.codes:
-        stocks = [s for s in universe if s["code"] in args.codes]
-        # Also include codes from ca_index.json that aren't in universe
-        existing_index_path = DATA_DIR / "ca_index.json"
-        if existing_index_path.exists():
-            ca_idx = {r["code"]: r for r in json.loads(existing_index_path.read_text())}
-            universe_codes = {s["code"] for s in universe}
-            for c in args.codes:
-                if c not in universe_codes and c in ca_idx:
-                    stocks.append({"code": c, "name": ca_idx[c].get("name", c)})
+        stocks = [universe_by_code[c] for c in args.codes if c in universe_by_code]
+        for c in args.codes:
+            if c not in universe_by_code and c in existing_ca_idx:
+                stocks.append({"code": c, "name": existing_ca_idx[c].get("name", c)})
+        mode_label = "partial"
+    elif args.mode == "incremental":
+        since_date = load_last_ca_run_date()
+        print(f"Incremental mode: checking for new Monthly Return filings since {since_date}...")
+        recent_codes = get_recently_filed_ca_codes(since_date)
+        if not recent_codes:
+            print("No new filings found. Exiting.")
+            _update_last_run(scraped=0, errors=0, mode="incremental")
+            return
+        stocks = [universe_by_code[c] for c in recent_codes if c in universe_by_code]
+        for c in recent_codes:
+            if c not in universe_by_code and c in existing_ca_idx:
+                stocks.append({"code": c, "name": existing_ca_idx[c].get("name", c)})
+        mode_label = "incremental"
     else:
         stocks = universe
+        mode_label = "full"
 
     if args.limit:
         stocks = stocks[:args.limit]
 
-    print(f"Scraping {len(stocks)} stocks...")
+    print(f"Scraping {len(stocks)} stocks ({mode_label} mode)...")
 
     index_rows = []
     errors = []
@@ -581,9 +657,12 @@ def main():
     existing_index_path.write_text(json.dumps(final_index, indent=2, default=str))
     print(f"\nca_index.json: {len(final_index)} entries")
 
-    # Update last_run.json
+    _update_last_run(scraped=len(index_rows), errors=len(errors), mode=mode_label)
+
+
+def _update_last_run(scraped: int, errors: int, mode: str) -> None:
     last_run_path = DATA_DIR / "last_run.json"
-    last_run = {}
+    last_run: dict = {}
     if last_run_path.exists():
         try:
             last_run = json.loads(last_run_path.read_text())
@@ -591,9 +670,9 @@ def main():
             pass
     last_run["ca"] = {
         "last_run": datetime.utcnow().isoformat() + "Z",
-        "stocks_scraped": len(index_rows),
-        "errors": len(errors),
-        "mode": "full" if not args.codes else "partial",
+        "stocks_scraped": scraped,
+        "errors": errors,
+        "mode": mode,
     }
     last_run_path.write_text(json.dumps(last_run, indent=2))
     print("last_run.json updated")
