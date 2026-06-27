@@ -1,7 +1,7 @@
 {
   "code": "00981",
   "name": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION",
-  "last_scraped": "2026-05-28T23:11:47Z",
+  "last_scraped": "2026-06-27T21:43:18Z",
   "shareholders": [
     {
       "name": "中国信息通信科技集团有限公司",
@@ -72,17 +72,25 @@
       "name": "国家集成电路产业投资基金股份有限公司",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 640311906,
-      "long_position_pct": 7.99,
+      "long_position_shares": 582332707,
+      "long_position_pct": 6.8,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-26",
-      "filing_date": "2026-05-26",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "国家集成电路产业投资基金股份有限公司",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "国家集成电路产业投资基金股份有限公司",
       "long_position_pct": 7.99,

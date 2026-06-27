@@ -1,7 +1,7 @@
 {
   "code": "02250",
   "name": "B.DUCK SEMK HOLDINGS INTERNATIONAL LTD.",
-  "last_scraped": "2026-06-25T23:26:50Z",
+  "last_scraped": "2026-06-27T21:52:33Z",
   "shareholders": [
     {
       "name": "Hui Ha Lam",
@@ -76,8 +76,8 @@
       "long_position_pct": 64.78,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-08",
-      "filing_date": "2026-06-08",
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -213,6 +213,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Semk Products (Holdings) Limited",
+      "long_position_pct": 64.78,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "UBS Group AG",
       "long_position_pct": 9.6,

@@ -1,0 +1,782 @@
+{
+  "code": "00574",
+  "name": "PA SHUN INTERNATIONAL HOLDINGS LTD.",
+  "last_scraped": "2026-06-27T21:40:50Z",
+  "shareholders": [
+    {
+      "name": "Arab Osman Mohammed",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1129560000,
+      "long_position_pct": 56.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1129560000,
+      "long_position_pct": 56.75,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Yenfei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 766600000,
+      "long_position_pct": 51.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-05-22",
+      "filing_date": "2019-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Arab Osman Mohammed",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 753040000,
+      "long_position_pct": 51.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 753040000,
+      "long_position_pct": 51.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 753040000,
+      "long_position_pct": 51.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WIN WIN STABLE NO.3 FUND SP",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 753040000,
+      "long_position_pct": 51.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhongtai International Asset Management (Singapore) Pte. Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 753040000,
+      "long_position_pct": 51.05,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chen Yenfei",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 484040000,
+      "long_position_pct": 45.47,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-20",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Arab Osman Mohammed",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "long_position_pct": 56.75,
+      "relevant_event_date": "2026-06-18",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Innovation Capital Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management (Singapore) Pte. Ltd.",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2023-10-19",
+      "filing_date": "2023-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arab Osman Mohammed",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2022-07-27",
+      "filing_date": "2022-07-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arab Osman Mohammed",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2022-01-10",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WIN WIN STABLE NO.3 FUND SP",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winwin International Strategic Investment Funds SPC (acting for and on behalf of Win Win Stable No.1 Fund SP)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2020-10-05",
+      "filing_date": "2020-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Arab Osman Mohammed",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lai Wing Lun",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Winwin International Strategic Investment Funds SPC (acting for and on behalf of Win Win Stable No.1 Fund SP)",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Innovation Capital Management Limited",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-28",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-06-26",
+      "filing_date": "2019-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-05-22",
+      "filing_date": "2019-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.89,
+      "relevant_event_date": "2019-05-21",
+      "filing_date": "2019-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.7,
+      "relevant_event_date": "2019-05-20",
+      "filing_date": "2019-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.55,
+      "relevant_event_date": "2019-05-02",
+      "filing_date": "2019-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.54,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.45,
+      "relevant_event_date": "2019-04-29",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.39,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.37,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.33,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.31,
+      "relevant_event_date": "2019-04-23",
+      "filing_date": "2019-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.29,
+      "relevant_event_date": "2019-04-18",
+      "filing_date": "2019-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.27,
+      "relevant_event_date": "2019-04-17",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.21,
+      "relevant_event_date": "2019-04-16",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.18,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 51.15,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 52.38,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 51.05,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 52.34,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 52.32,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-21",
+      "filing_date": "2019-03-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-19",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 52.28,
+      "relevant_event_date": "2019-03-19",
+      "filing_date": "2019-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2018-11-16",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 55.46,
+      "relevant_event_date": "2018-11-16",
+      "filing_date": "2018-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qilu International Funds SPC (acting for and on behalf of Zhongtai Dingfeng Classified Fund SP)",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-11-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai International Asset Management Limited",
+      "long_position_pct": 5.65,
+      "relevant_event_date": "2018-10-30",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 56.47,
+      "relevant_event_date": "2018-10-26",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 70.34,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial International Limited 中泰金融國際有限公司",
+      "long_position_pct": 45.47,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Financial Investment Limited 中泰金融投資有限公司",
+      "long_position_pct": 45.47,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhongtai Securities Company Limited",
+      "long_position_pct": 45.47,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 70.74,
+      "relevant_event_date": "2018-06-27",
+      "filing_date": "2018-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yansong",
+      "long_position_pct": 4.63,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 63.88,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yenfei",
+      "long_position_pct": 45.47,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 63.88,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Praise Treasure Limited",
+      "long_position_pct": 45.47,
+      "relevant_event_date": "2017-11-20",
+      "filing_date": "2017-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yansong",
+      "long_position_pct": 6.13,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yansong",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2017-10-09",
+      "filing_date": "2017-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

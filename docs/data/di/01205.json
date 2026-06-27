@@ -1,0 +1,101 @@
+{
+  "code": "01205",
+  "name": "CITIC RESOURCES HOLDINGS LTD.",
+  "last_scraped": "2026-06-27T21:45:09Z",
+  "shareholders": [
+    {
+      "name": "ASMH (Cayman) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 786558488,
+      "long_position_pct": 10.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TFI Asset Management (Cayman) Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 786558488,
+      "long_position_pct": 10.01,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sea Cove Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 670155121,
+      "long_position_pct": 8.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TIHT Investment Holdings III Pte Ltd",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 670155121,
+      "long_position_pct": 8.53,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "TFI Asset Management (Cayman) Ltd.",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ASMH (Cayman) Limited",
+      "long_position_pct": 10.01,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sea Cove Limited",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TIHT Investment Holdings III Pte Ltd",
+      "long_position_pct": 8.53,
+      "relevant_event_date": "2025-12-03",
+      "filing_date": "2025-12-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KWOK PETER VIEM",
+      "long_position_pct": 0.15,
+      "relevant_event_date": "2018-11-06",
+      "filing_date": "2018-11-06",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    }
+  ]
+}

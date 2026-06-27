@@ -1,18 +1,18 @@
 {
   "code": "01299",
   "name": "AIA GROUP LTD.",
-  "last_scraped": "2026-06-22T23:33:15Z",
+  "last_scraped": "2026-06-27T21:46:01Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 933385246,
-      "long_position_pct": 8.92,
-      "short_position_shares": 41056725,
-      "short_position_pct": 0.39,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "long_position_shares": 937753248,
+      "long_position_pct": 9.06,
+      "short_position_shares": 43449274,
+      "short_position_pct": 0.41,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -44,6 +44,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 9.06,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 8.92,

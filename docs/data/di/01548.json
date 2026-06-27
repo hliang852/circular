@@ -1,0 +1,4608 @@
+{
+  "code": "01548",
+  "name": "GENSCRIPT BIOTECH CORPORATION",
+  "last_scraped": "2026-06-27T21:48:17Z",
+  "shareholders": [
+    {
+      "name": "Genscript Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 799999123,
+      "long_position_pct": 37.68,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 801563753,
+      "long_position_pct": 36.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Lili",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 801563753,
+      "long_position_pct": 36.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Luquan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 801563753,
+      "long_position_pct": 36.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 801789835,
+      "long_position_pct": 36.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Ye",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 801789835,
+      "long_position_pct": 36.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 801789835,
+      "long_position_pct": 36.64,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hillhouse Fund V, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 173348965,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hillhouse Investment Management V, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 173348965,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 173348965,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GNS Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 164770965,
+      "long_position_pct": 7.97,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-10",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 36.64,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 36.64,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 36.64,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 36.64,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 36.64,
+      "relevant_event_date": "2026-06-04",
+      "filing_date": "2026-06-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 36.78,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 36.78,
+      "relevant_event_date": "2025-06-16",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-05-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.07,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.07,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 36.82,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.07,
+      "relevant_event_date": "2025-05-21",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.17,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.26,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.17,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.26,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.17,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.26,
+      "relevant_event_date": "2025-05-20",
+      "filing_date": "2025-05-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.32,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.32,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.31,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.32,
+      "relevant_event_date": "2025-04-24",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund V, L.P.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management V, Ltd.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.33,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.33,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.33,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.5,
+      "relevant_event_date": "2025-04-23",
+      "filing_date": "2025-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.56,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.8,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.56,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.8,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.56,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.8,
+      "relevant_event_date": "2025-04-14",
+      "filing_date": "2025-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.2,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.2,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 37.89,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.2,
+      "relevant_event_date": "2025-03-18",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.51,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.51,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.45,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.51,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.57,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.79,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.57,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.79,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.57,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.79,
+      "relevant_event_date": "2024-12-10",
+      "filing_date": "2024-12-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.9,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 38.9,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.9,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 38.97,
+      "relevant_event_date": "2024-11-21",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.09,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.0,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.09,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.0,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.09,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.0,
+      "relevant_event_date": "2024-11-20",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.16,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.13,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.16,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.13,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.16,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.13,
+      "relevant_event_date": "2024-11-19",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.36,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.17,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.36,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.17,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.36,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.17,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 39.47,
+      "relevant_event_date": "2024-06-14",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 39.47,
+      "relevant_event_date": "2024-06-14",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.47,
+      "relevant_event_date": "2024-06-14",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.47,
+      "relevant_event_date": "2024-06-14",
+      "filing_date": "2024-06-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.55,
+      "relevant_event_date": "2024-03-09",
+      "filing_date": "2024-03-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.55,
+      "relevant_event_date": "2024-03-09",
+      "filing_date": "2024-03-28",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.55,
+      "relevant_event_date": "2024-03-09",
+      "filing_date": "2024-03-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 37.68,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.56,
+      "relevant_event_date": "2023-12-19",
+      "filing_date": "2023-12-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 38.09,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund V, L.P.",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management V, Ltd.",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Investment Management, Ltd.",
+      "long_position_pct": 8.17,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 39.96,
+      "relevant_event_date": "2023-12-12",
+      "filing_date": "2023-12-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 40.05,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 40.05,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.05,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-08-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.05,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.05,
+      "relevant_event_date": "2023-05-31",
+      "filing_date": "2023-06-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.08,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.08,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.08,
+      "relevant_event_date": "2023-03-30",
+      "filing_date": "2023-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 38.29,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.17,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.17,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.17,
+      "relevant_event_date": "2022-06-29",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 38.3,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.18,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.18,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.18,
+      "relevant_event_date": "2022-06-28",
+      "filing_date": "2022-07-04",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2022-06-27",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2022-06-27",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.22,
+      "relevant_event_date": "2022-06-27",
+      "filing_date": "2022-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.23,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.53,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.23,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.53,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.23,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.53,
+      "relevant_event_date": "2022-06-24",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.66,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.66,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.66,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.66,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-06-02",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-06-02",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-06-02",
+      "filing_date": "2022-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.68,
+      "relevant_event_date": "2022-05-12",
+      "filing_date": "2022-05-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.69,
+      "relevant_event_date": "2022-05-02",
+      "filing_date": "2022-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.73,
+      "relevant_event_date": "2021-12-21",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.73,
+      "relevant_event_date": "2021-12-21",
+      "filing_date": "2021-12-24",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.76,
+      "relevant_event_date": "2021-08-24",
+      "filing_date": "2021-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.88,
+      "relevant_event_date": "2021-08-24",
+      "filing_date": "2021-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.76,
+      "relevant_event_date": "2021-08-24",
+      "filing_date": "2021-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.88,
+      "relevant_event_date": "2021-08-24",
+      "filing_date": "2021-08-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.14,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.35,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.14,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.35,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 40.94,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 41.08,
+      "relevant_event_date": "2021-07-14",
+      "filing_date": "2021-07-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.45,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.56,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.45,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.56,
+      "relevant_event_date": "2021-07-02",
+      "filing_date": "2021-07-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.61,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.69,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.61,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.69,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-28",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 41.73,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 41.99,
+      "relevant_event_date": "2021-06-23",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 42.11,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 42.22,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 42.11,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 42.22,
+      "relevant_event_date": "2021-06-21",
+      "filing_date": "2021-06-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 42.29,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 42.38,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 42.29,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 42.38,
+      "relevant_event_date": "2021-06-15",
+      "filing_date": "2021-06-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 39.17,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 42.54,
+      "relevant_event_date": "2021-06-11",
+      "filing_date": "2021-06-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GNS Holdings Limited",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Management V, Ltd.",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Management, Ltd.",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund V, L.P.",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2021-06-10",
+      "filing_date": "2021-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 47.96,
+      "relevant_event_date": "2021-05-31",
+      "filing_date": "2021-06-03",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 44.49,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GNS Holdings Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Management V, Ltd.",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Capital Management, Ltd.",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hillhouse Fund V, L.P.",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 48.03,
+      "relevant_event_date": "2021-05-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.11,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.11,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.11,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.11,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.14,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.14,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.14,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.14,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.22,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.22,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.22,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.22,
+      "relevant_event_date": "2021-04-13",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 44.72,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 44.72,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-05-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.26,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 48.54,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 48.54,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 48.54,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 48.54,
+      "relevant_event_date": "2020-12-15",
+      "filing_date": "2020-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 48.85,
+      "relevant_event_date": "2020-11-22",
+      "filing_date": "2020-11-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 49.15,
+      "relevant_event_date": "2020-09-24",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 49.13,
+      "relevant_event_date": "2020-09-23",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Huang Lili",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 49.1,
+      "relevant_event_date": "2020-09-22",
+      "filing_date": "2020-09-25",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 49.2,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 49.2,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 49.2,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 49.2,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 49.2,
+      "relevant_event_date": "2020-06-19",
+      "filing_date": "2020-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 49.98,
+      "relevant_event_date": "2020-06-16",
+      "filing_date": "2020-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 46.03,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 50.4,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 50.4,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 50.4,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 50.4,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 50.4,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 50.83,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 50.95,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.25,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.25,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.25,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.25,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.08,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.25,
+      "relevant_event_date": "2020-05-06",
+      "filing_date": "2020-05-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.36,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.36,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.36,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.36,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.36,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.48,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.75,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.66,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.75,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.66,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.75,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.66,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.75,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.66,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.75,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.66,
+      "relevant_event_date": "2020-01-06",
+      "filing_date": "2020-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 51.87,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 51.87,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 51.87,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 51.87,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.97,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 51.87,
+      "relevant_event_date": "2019-12-18",
+      "filing_date": "2019-12-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.04,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.03,
+      "relevant_event_date": "2019-12-16",
+      "filing_date": "2019-12-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.16,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.16,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.16,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.16,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.16,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.05,
+      "relevant_event_date": "2019-12-13",
+      "filing_date": "2019-12-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.21,
+      "relevant_event_date": "2019-12-11",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.21,
+      "relevant_event_date": "2019-12-11",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.21,
+      "relevant_event_date": "2019-12-11",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.21,
+      "relevant_event_date": "2019-12-11",
+      "filing_date": "2019-12-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.33,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.25,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.33,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.25,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.33,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.25,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.33,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.25,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.33,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.25,
+      "relevant_event_date": "2019-12-09",
+      "filing_date": "2019-12-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 47.52,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.82,
+      "relevant_event_date": "2019-04-15",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 47.59,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 52.89,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 52.89,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 52.89,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 52.89,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 52.89,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 47.82,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.16,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.16,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.16,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.16,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.22,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.16,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.12,
+      "relevant_event_date": "2019-04-11",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 47.89,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.25,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.25,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.25,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.25,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.48,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.31,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.25,
+      "relevant_event_date": "2019-04-10",
+      "filing_date": "2019-04-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.98,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 53.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 54.3,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 54.3,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 54.3,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 54.3,
+      "relevant_event_date": "2018-12-05",
+      "filing_date": "2018-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 48.42,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 54.34,
+      "relevant_event_date": "2018-10-25",
+      "filing_date": "2018-10-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 48.4,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-09-20",
+      "filing_date": "2018-09-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.04,
+      "relevant_event_date": "2018-08-03",
+      "filing_date": "2018-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2018-08-02",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 48.4,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 54.32,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Initial"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 50.47,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 46.2,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 56.64,
+      "relevant_event_date": "2018-06-07",
+      "filing_date": "2018-06-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 50.48,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIYONG",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JIN WEIHONG",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 57.5,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 50.97,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.06,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.06,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.06,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.06,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.06,
+      "relevant_event_date": "2018-04-19",
+      "filing_date": "2018-04-24",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KPCB China Associates Ltd",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KPCB China Fund LP",
+      "long_position_pct": 4.63,
+      "relevant_event_date": "2018-01-30",
+      "filing_date": "2018-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.15,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.15,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.15,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.15,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.15,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.19,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.2,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.2,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.19,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.19,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.2,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.19,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.2,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.19,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.2,
+      "relevant_event_date": "2018-01-10",
+      "filing_date": "2018-01-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.25,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.25,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.25,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.25,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.23,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.25,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 51.11,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.27,
+      "relevant_event_date": "2018-01-05",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KPCB China Associates Ltd",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2018-01-04",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KPCB China Fund LP",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2018-01-04",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.47,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.51,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.47,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.51,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.47,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.51,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.47,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.51,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.51,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.47,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.69,
+      "relevant_event_date": "2017-12-01",
+      "filing_date": "2017-12-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KPCB China Associates Ltd",
+      "long_position_pct": 9.0,
+      "relevant_event_date": "2017-10-19",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "KPCB CHINA FUND LP",
+      "long_position_pct": 8.37,
+      "relevant_event_date": "2017-10-19",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Hu Zhiyong",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Jin Weihong",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2018-01-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.76,
+      "relevant_event_date": "2017-10-17",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Genscript Corporation",
+      "long_position_pct": 51.55,
+      "relevant_event_date": "2017-09-28",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 58.78,
+      "relevant_event_date": "2017-09-28",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 58.78,
+      "relevant_event_date": "2017-09-28",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 58.78,
+      "relevant_event_date": "2017-09-28",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 59.3,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 59.3,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 59.42,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 59.3,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 59.42,
+      "relevant_event_date": "2017-09-27",
+      "filing_date": "2017-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 59.82,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Luquan",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 59.82,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Ye",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 59.82,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Fangliang",
+      "long_position_pct": 59.7,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "KPCB China Associates Ltd",
+      "long_position_pct": 11.13,
+      "relevant_event_date": "2017-05-17",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    }
+  ]
+}

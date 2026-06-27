@@ -1,18 +1,18 @@
 {
   "code": "01866",
   "name": "CHINA XLX FERTILISER LTD.",
-  "last_scraped": "2026-06-25T23:24:54Z",
+  "last_scraped": "2026-06-27T21:50:48Z",
   "shareholders": [
     {
       "name": "Liu Xingxu",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 455469999,
-      "long_position_pct": 35.49,
+      "long_position_shares": 456744999,
+      "long_position_pct": 35.59,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-24",
-      "filing_date": "2026-06-24",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Pioneer Top Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 421262999,
-      "long_position_pct": 32.83,
+      "long_position_shares": 422537999,
+      "long_position_pct": 32.93,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-24",
-      "filing_date": "2026-06-24",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -70,6 +70,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Liu Xingxu",
+      "long_position_pct": 35.59,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pioneer Top Holdings Limited",
+      "long_position_pct": 32.93,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Liu Xingxu",
       "long_position_pct": 35.49,

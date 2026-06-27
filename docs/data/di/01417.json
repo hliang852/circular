@@ -1,7 +1,7 @@
 {
   "code": "01417",
   "name": "RIVERINE CHINA HOLDINGS LTD.",
-  "last_scraped": "2026-06-24T23:15:03Z",
+  "last_scraped": "2026-06-27T21:47:31Z",
   "shareholders": [
     {
       "name": "Partner Summit Holdings Limited",
@@ -145,35 +145,25 @@
       "filing_date": "2017-12-11",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Shanghai Industrial Holdings Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 22498000,
-      "long_position_pct": 5.56,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 22498000,
-      "long_position_pct": 5.56,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Shanghai Industrial Holdings Limited",
+      "long_position_pct": 4.28,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shanghai Industrial Investment (Holdings) Company Limited",
+      "long_position_pct": 4.28,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Shanghai Industrial Holdings Limited",
       "long_position_pct": 5.56,

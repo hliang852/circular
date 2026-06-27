@@ -1,0 +1,1645 @@
+{
+  "code": "01310",
+  "name": "HKBN LTD.",
+  "last_scraped": "2026-06-27T21:46:23Z",
+  "shareholders": [
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1106786075,
+      "long_position_pct": 74.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Mobile Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1106786075,
+      "long_position_pct": 74.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TPG Asia Advisors VI, Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 228627451,
+      "long_position_pct": 17.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Feng Global Fund SPC - Feng Global SP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 89500000,
+      "long_position_pct": 6.06,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Feng Global Fund SPC - Feng Global SP",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Feng Global Fund SPC - Feng Global SP",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 74.84,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 74.84,
+      "relevant_event_date": "2025-09-24",
+      "filing_date": "2025-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 78.08,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 78.08,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-12",
+      "filing_date": "2025-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 72.05,
+      "relevant_event_date": "2025-09-11",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 72.05,
+      "relevant_event_date": "2025-09-11",
+      "filing_date": "2025-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Canada Pension Plan Investment Board",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 70.7,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 70.7,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.28,
+      "relevant_event_date": "2025-09-03",
+      "filing_date": "2025-09-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.92,
+      "relevant_event_date": "2025-08-14",
+      "filing_date": "2025-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 1.01,
+      "relevant_event_date": "2025-08-08",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2025-08-07",
+      "filing_date": "2025-08-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.78,
+      "relevant_event_date": "2025-08-06",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 29.9,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2025-08-04",
+      "filing_date": "2025-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2025-08-01",
+      "filing_date": "2025-08-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2025-05-30",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.74,
+      "relevant_event_date": "2025-05-29",
+      "filing_date": "2025-06-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia GenPar VI, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG GP A, LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Group Holdings (SBS), L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Inc.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group I, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group II, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Wireman, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-05-07",
+      "filing_date": "2025-05-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Canada Pension Plan Investment Board",
+      "long_position_pct": 12.33,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia GenPar VI, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG GP A, LLC",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Group Holdings (SBS), L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Inc.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group I, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group II, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Wireman, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 15.45,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.48,
+      "relevant_event_date": "2025-04-10",
+      "filing_date": "2025-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Communications Group Co., Ltd.",
+      "long_position_pct": 16.39,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Mobile Limited",
+      "long_position_pct": 16.39,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia GenPar VI, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG GP A, LLC",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Group Holdings (SBS), L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Inc.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group I, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group II, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Wireman, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia GenPar VI, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG GP A, LLC",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Group Holdings (SBS), L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Inc.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group I, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group II, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Wireman, L.P.",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 16.38,
+      "relevant_event_date": "2025-03-14",
+      "filing_date": "2025-08-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2025-02-26",
+      "filing_date": "2025-03-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2025-02-17",
+      "filing_date": "2025-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2025-02-14",
+      "filing_date": "2025-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.2,
+      "relevant_event_date": "2025-02-13",
+      "filing_date": "2025-02-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.07,
+      "relevant_event_date": "2025-02-05",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia GenPar VI, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG GP A, LLC",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Group Holdings (SBS), L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Inc.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group I, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Operating Group II, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2024-10-25",
+      "filing_date": "2024-10-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bonderman David",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-08-29",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coulter James George",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2024-08-29",
+      "filing_date": "2024-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2024-07-02",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.9,
+      "relevant_event_date": "2024-03-12",
+      "filing_date": "2024-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 7.97,
+      "relevant_event_date": "2024-02-16",
+      "filing_date": "2024-02-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 8.02,
+      "relevant_event_date": "2022-10-25",
+      "filing_date": "2022-10-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2022-04-07",
+      "filing_date": "2022-04-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 4.94,
+      "relevant_event_date": "2022-04-06",
+      "filing_date": "2022-04-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.01,
+      "relevant_event_date": "2022-01-14",
+      "filing_date": "2022-01-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 5.77,
+      "relevant_event_date": "2021-12-17",
+      "filing_date": "2021-12-21",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kong Teck Chien",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2021-12-07",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Min Bryan Byungsuk",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2021-12-07",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.02,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2021-10-15",
+      "filing_date": "2021-10-19",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 7.45,
+      "relevant_event_date": "2021-07-20",
+      "filing_date": "2021-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 6.43,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-08",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 7.58,
+      "relevant_event_date": "2021-06-24",
+      "filing_date": "2021-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 10.93,
+      "relevant_event_date": "2021-05-26",
+      "filing_date": "2021-05-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 11.92,
+      "relevant_event_date": "2021-05-20",
+      "filing_date": "2021-05-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 1.52,
+      "relevant_event_date": "2021-05-11",
+      "filing_date": "2021-05-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.77,
+      "relevant_event_date": "2021-05-05",
+      "filing_date": "2021-05-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 12.81,
+      "relevant_event_date": "2021-05-05",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.02,
+      "relevant_event_date": "2021-05-04",
+      "filing_date": "2021-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2021-04-12",
+      "filing_date": "2021-04-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2021-04-07",
+      "filing_date": "2021-04-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2021-04-01",
+      "filing_date": "2021-04-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2021-03-31",
+      "filing_date": "2021-04-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2021-03-29",
+      "filing_date": "2021-04-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2021-03-10",
+      "filing_date": "2021-03-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2021-03-09",
+      "filing_date": "2021-03-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2021-03-05",
+      "filing_date": "2021-03-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.97,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2021-02-22",
+      "filing_date": "2021-02-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2021-02-18",
+      "filing_date": "2021-02-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 13.04,
+      "relevant_event_date": "2021-02-10",
+      "filing_date": "2021-02-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 13.04,
+      "relevant_event_date": "2021-02-10",
+      "filing_date": "2021-02-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2020-10-20",
+      "filing_date": "2020-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 11.11,
+      "relevant_event_date": "2020-10-14",
+      "filing_date": "2020-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2020-08-26",
+      "filing_date": "2020-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 10.04,
+      "relevant_event_date": "2020-07-15",
+      "filing_date": "2020-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-06-24",
+      "filing_date": "2020-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 1.86,
+      "relevant_event_date": "2020-04-17",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2020-03-20",
+      "filing_date": "2020-03-25",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Matthews International Capital Management, LLC",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2020-02-28",
+      "filing_date": "2020-02-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Bonderman David",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Coulter James George",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kong Teck Chien",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TPG Asia Advisors VI, Inc.",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 17.43,
+      "relevant_event_date": "2020-02-25",
+      "filing_date": "2020-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.39,
+      "relevant_event_date": "2020-01-15",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 9.01,
+      "relevant_event_date": "2019-10-04",
+      "filing_date": "2019-10-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 8.21,
+      "relevant_event_date": "2019-09-16",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 7.06,
+      "relevant_event_date": "2019-09-09",
+      "filing_date": "2019-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 6.52,
+      "relevant_event_date": "2019-09-04",
+      "filing_date": "2019-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bonderman David",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Canada Pension Plan Investment Board",
+      "long_position_pct": 13.91,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coulter James George",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 6.65,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kong Teck Chien",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kong Teck Chien",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matthews International Capital Management, LLC",
+      "long_position_pct": 5.42,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia Advisors VI, Inc.",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 18.04,
+      "relevant_event_date": "2019-04-30",
+      "filing_date": "2019-05-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 7.48,
+      "relevant_event_date": "2019-04-12",
+      "filing_date": "2019-04-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 8.94,
+      "relevant_event_date": "2019-03-12",
+      "filing_date": "2019-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 9.92,
+      "relevant_event_date": "2019-02-26",
+      "filing_date": "2019-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 10.99,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 11.17,
+      "relevant_event_date": "2019-01-03",
+      "filing_date": "2019-01-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 10.04,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Matthews International Capital Management, LLC",
+      "long_position_pct": 7.05,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bonderman David",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Coulter James George",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kim Michael ByungJu",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kong Teck Chien",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK GP III, Inc.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners Fund III, L.P.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners GP III, L.P.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, Inc.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC GP, L.P.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MBK Partners JC, L.P.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TPG Asia Advisors VI, Inc.",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Twin Holding Ltd",
+      "long_position_pct": 23.53,
+      "relevant_event_date": "2018-08-07",
+      "filing_date": "2018-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 9.22,
+      "relevant_event_date": "2018-07-23",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mondrian Investment Partners Limited",
+      "long_position_pct": 4.86,
+      "relevant_event_date": "2018-02-12",
+      "filing_date": "2018-02-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GIC Private Limited",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "The Capital Group Companies, Inc.",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2017-12-13",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

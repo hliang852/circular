@@ -1,7 +1,7 @@
 {
   "code": "00522",
   "name": "ASMPT LTD.",
-  "last_scraped": "2026-06-25T23:16:12Z",
+  "last_scraped": "2026-06-27T21:40:15Z",
   "shareholders": [
     {
       "name": "ASM International N.V.",
@@ -111,17 +111,25 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 25262706,
-      "long_position_pct": 6.02,
+      "long_position_shares": 23862134,
+      "long_position_pct": 5.69,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-19",
-      "filing_date": "2026-06-19",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 6.02,

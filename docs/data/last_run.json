@@ -6,17 +6,17 @@
     "errors": []
   },
   "ca": {
-    "last_run": "2026-05-17T21:15:00Z",
-    "stocks_scraped": 15,
+    "last_run": "2026-06-27T22:06:08.086460Z",
+    "stocks_scraped": 0,
     "errors": 0,
-    "mode": "full"
+    "mode": "incremental"
   },
   "universe": {
     "last_run": "2026-05-16T00:00:00Z",
     "build_errors": []
   },
   "scrape_di_errors": [],
-  "scrape_di_last_run": "2026-06-25T23:37:26Z",
+  "scrape_di_last_run": "2026-06-27T22:06:01Z",
   "scrape_di_mode": "incremental",
-  "scrape_di_codes_scraped": 82
+  "scrape_di_codes_scraped": 94
 }

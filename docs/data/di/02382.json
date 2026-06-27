@@ -1,31 +1,18 @@
 {
   "code": "02382",
   "name": "SUNNY OPTICAL TECHNOLOGY (GROUP) CO. LTD.",
-  "last_scraped": "2026-06-22T23:42:50Z",
+  "last_scraped": "2026-06-27T21:55:19Z",
   "shareholders": [
     {
       "name": "WANG Wenjian",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 423235546,
-      "long_position_pct": 38.66,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "WANG Wenjie",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 391570069,
-      "long_position_pct": 35.77,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-12-31",
-      "filing_date": "2025-12-31",
+      "long_position_shares": 418283451,
+      "long_position_pct": 38.21,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -43,71 +30,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Gu Jianying",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 390060525,
-      "long_position_pct": 35.63,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "NI WENJUN",
-      "capacity": "Associated Entity",
-      "entity_type": "corporate",
-      "long_position_shares": 390060525,
-      "long_position_pct": 35.63,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 3A",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Sun Ji Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 389811927,
-      "long_position_pct": 35.61,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Sun Xu Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 389811927,
-      "long_position_pct": 35.61,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "TMF Trust (HK) Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 389811927,
-      "long_position_pct": 35.61,
-      "short_position_shares": 44568861,
-      "short_position_pct": 4.07,
-      "relevant_event_date": "2025-11-03",
-      "filing_date": "2025-11-03",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "SUN Yang",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
@@ -118,6 +40,84 @@
       "relevant_event_date": "2024-11-26",
       "filing_date": "2024-11-26",
       "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WANG Wenjie",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 386617974,
+      "long_position_pct": 35.31,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GU Jianying",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 385108430,
+      "long_position_pct": 35.18,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NI Wenjun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 385108430,
+      "long_position_pct": 35.18,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sun Ji Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 384859832,
+      "long_position_pct": 35.15,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sun Xu Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 384859832,
+      "long_position_pct": 35.15,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 384859832,
+      "long_position_pct": 35.15,
+      "short_position_shares": 39616766,
+      "short_position_pct": 3.62,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
@@ -148,6 +148,62 @@
     }
   ],
   "history": [
+    {
+      "name": "GU Jianying",
+      "long_position_pct": 35.18,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NI Wenjun",
+      "long_position_pct": 35.18,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Ji Limited",
+      "long_position_pct": 35.15,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sun Xu Limited",
+      "long_position_pct": 35.15,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TMF Trust (HK) Limited",
+      "long_position_pct": 35.15,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Wenjian",
+      "long_position_pct": 38.21,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Wenjie",
+      "long_position_pct": 35.31,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.81,

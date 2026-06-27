@@ -1,0 +1,537 @@
+{
+  "code": "00999",
+  "name": "XIAOCAIYUAN INTERNATIONAL HOLDING LTD.",
+  "last_scraped": "2026-06-27T21:43:38Z",
+  "shareholders": [
+    {
+      "name": "WANG Shugao",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 1000000000,
+      "long_position_pct": 85.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "CHEN Haiyan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FANG Zhiguo",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LI Daoqing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Lighthouse Light Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TAO Xu'an",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TIAN Chunyong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "TIAN Jiawen",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WANG Enpeng",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "WANG Weifang",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XCY Yongqing Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "YE Hongli",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ZHOU Bin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 435358800,
+      "long_position_pct": 37.0,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XCY Xuyuan Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 275429000,
+      "long_position_pct": 23.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XCY Future Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 121715000,
+      "long_position_pct": 10.35,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "XCY Zhiyuan Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 69714000,
+      "long_position_pct": 5.93,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2024-12-20",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "CHEN Haiyan",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FANG Zhiguo",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Daoqing",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lighthouse Light Investments Limited",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TAO Xu'an",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIAN Chunyong",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIAN Jiawen",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Enpeng",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Weifang",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XCY Yongqing Limited",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Hongli",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Bin",
+      "long_position_pct": 37.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Lighthouse Light Investments Limited",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2026-03-13",
+      "filing_date": "2026-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Haiyan",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FANG Zhiguo",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Daoqing",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TAO Xu'an",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIAN Chunyong",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIAN Jiawen",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Enpeng",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Shugao",
+      "long_position_pct": 85.0,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Weifang",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Hongli",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Bin",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2025-11-19",
+      "filing_date": "2025-11-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Harvest Delicacy Infinite Corporation",
+      "long_position_pct": 4.96,
+      "relevant_event_date": "2025-08-15",
+      "filing_date": "2025-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Harvest Delicacy Infinite Corporation",
+      "long_position_pct": 5.97,
+      "relevant_event_date": "2025-06-27",
+      "filing_date": "2025-07-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Haiyan",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FANG Zhiguo",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Harvest Delicacy Infinite Corporation",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Daoqing",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TAO Xu'an",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TIAN Chunyong",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Shugao",
+      "long_position_pct": 85.0,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WANG Weifang",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XCY Future Limited",
+      "long_position_pct": 10.35,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XCY Xuyuan Limited",
+      "long_position_pct": 23.41,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XCY Yongqing Limited",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XCY Zhiyuan Limited",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "YE Hongli",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Bin",
+      "long_position_pct": 36.52,
+      "relevant_event_date": "2024-12-20",
+      "filing_date": "2025-01-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

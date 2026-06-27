@@ -1,7 +1,7 @@
 {
   "code": "06808",
   "name": "SUN ART RETAIL GROUP LTD.",
-  "last_scraped": "2026-06-25T23:34:00Z",
+  "last_scraped": "2026-06-27T22:01:28Z",
   "shareholders": [
     {
       "name": "Chen Vivian",
@@ -137,12 +137,12 @@
       "name": "M&G Plc",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 494836000,
-      "long_position_pct": 5.19,
+      "long_position_shares": 497794500,
+      "long_position_pct": 5.22,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -200,6 +200,14 @@
     }
   ],
   "history": [
+    {
+      "name": "M&G Plc",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "M&G Plc",
       "long_position_pct": 5.19,

@@ -1,7 +1,7 @@
 {
   "code": "02525",
   "name": "HESAI GROUP - W",
-  "last_scraped": "2026-06-22T23:44:07Z",
+  "last_scraped": "2026-06-27T21:55:46Z",
   "shareholders": [
     {
       "name": "Deutsche Bank Aktiengesellschaft (Incorporated in the Federal Republic of Germany & members’ liability is limited)",
@@ -98,12 +98,12 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 7956317,
-      "long_position_pct": 6.11,
-      "short_position_shares": 3584907,
-      "short_position_pct": 2.75,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
+      "long_position_shares": 8341281,
+      "long_position_pct": 6.4,
+      "short_position_shares": 3948796,
+      "short_position_pct": 3.03,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -122,6 +122,14 @@
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 6.11,

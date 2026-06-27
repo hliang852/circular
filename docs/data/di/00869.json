@@ -1,18 +1,18 @@
 {
   "code": "00869",
   "name": "PLAYMATES TOYS LTD.",
-  "last_scraped": "2026-05-28T23:11:21Z",
+  "last_scraped": "2026-06-27T21:42:19Z",
   "shareholders": [
     {
       "name": "CHAN CHUN HOO, THOMAS",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
       "long_position_shares": 660000000,
-      "long_position_pct": 57.0,
+      "long_position_pct": 58.02,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -21,11 +21,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 660000000,
-      "long_position_pct": 57.0,
+      "long_position_pct": 58.02,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-21",
-      "filing_date": "2026-05-21",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,22 @@
     }
   ],
   "history": [
+    {
+      "name": "CHAN CHUN HOO, THOMAS",
+      "long_position_pct": 58.02,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TGC Assets Limited",
+      "long_position_pct": 58.02,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Playmates Holdings Ltd.",
       "long_position_pct": 52.11,

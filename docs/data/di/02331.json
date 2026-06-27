@@ -1,7 +1,7 @@
 {
   "code": "02331",
   "name": "LI NING CO. LTD.",
-  "last_scraped": "2026-06-25T23:28:34Z",
+  "last_scraped": "2026-06-27T21:54:16Z",
   "shareholders": [
     {
       "name": "Li Ning",
@@ -56,33 +56,49 @@
       "notice_type": "Current"
     },
     {
-      "name": "BlackRock, Inc.",
+      "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 237262346,
-      "long_position_pct": 9.18,
-      "short_position_shares": 68500,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-19",
-      "filing_date": "2026-06-19",
+      "long_position_shares": 208971039,
+      "long_position_pct": 8.08,
+      "short_position_shares": 44484645,
+      "short_position_pct": 1.72,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
     {
-      "name": "JPMorgan Chase & Co.",
+      "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 181539327,
-      "long_position_pct": 7.02,
-      "short_position_shares": 42541584,
-      "short_position_pct": 1.64,
-      "relevant_event_date": "2026-06-09",
-      "filing_date": "2026-06-09",
+      "long_position_shares": 204190051,
+      "long_position_pct": 7.9,
+      "short_position_shares": 68500,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 7.9,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.08,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 9.18,

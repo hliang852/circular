@@ -1,7 +1,7 @@
 {
   "code": "06090",
   "name": "BUTONG GROUP",
-  "last_scraped": "2026-05-20T23:17:02Z",
+  "last_scraped": "2026-06-27T21:59:52Z",
   "shareholders": [
     {
       "name": "WANG Wei",
@@ -212,84 +212,6 @@
       "notice_type": "Current"
     },
     {
-      "name": "Tembusu B Limited",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Wang Huadong",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "Xiao Ping",
-      "capacity": "Beneficial Owner",
-      "entity_type": "individual",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 1",
-      "notice_type": "Current"
-    },
-    {
-      "name": "北京經緯億創投資管理合夥企業(有限合夥)",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "北京經緯創榮投資中心(有限合夥)",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
-      "name": "北京經緯旌創投資有限公司",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 5236340,
-      "long_position_pct": 5.77,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-14",
-      "filing_date": "2026-04-14",
-      "form_type": "Form 2",
-      "notice_type": "Current"
-    },
-    {
       "name": "BUTONG ESOP LIMITED",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -317,6 +239,54 @@
     }
   ],
   "history": [
+    {
+      "name": "Tembusu B Limited",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Huadong",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xiao Ping",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯億創投資管理合夥企業(有限合夥)",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯創榮投資中心(有限合夥)",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "北京經緯旌創投資有限公司",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Boyan Holdings Limited",
       "long_position_pct": 49.7,

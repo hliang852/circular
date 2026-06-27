@@ -1,7 +1,7 @@
 {
   "code": "00001",
   "name": "CK HUTCHISON HOLDINGS LTD.",
-  "last_scraped": "2026-06-22T23:15:27Z",
+  "last_scraped": "2026-06-27T21:38:00Z",
   "shareholders": [
     {
       "name": "Li Tzar Kuoi, Victor",
@@ -67,22 +67,17 @@
       "filing_date": "2023-05-16",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "BlackRock, Inc.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 192488837,
-      "long_position_pct": 5.03,
-      "short_position_shares": 2429000,
-      "short_position_pct": 0.06,
-      "relevant_event_date": "2026-06-16",
-      "filing_date": "2026-06-16",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 4.91,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.03,

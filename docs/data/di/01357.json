@@ -1,7 +1,7 @@
 {
   "code": "01357",
   "name": "MEITU, INC.",
-  "last_scraped": "2026-06-23T23:18:43Z",
+  "last_scraped": "2026-06-27T21:47:04Z",
   "shareholders": [
     {
       "name": "Wu Zeyuan",
@@ -108,6 +108,19 @@
       "notice_type": "Current"
     },
     {
+      "name": "JPMorgan Chase & Co.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 276649787,
+      "long_position_pct": 6.03,
+      "short_position_shares": 97915704,
+      "short_position_pct": 2.13,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
       "name": "Longlink Capital Ltd",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
@@ -132,22 +145,17 @@
       "filing_date": "2025-07-11",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "JPMorgan Chase & Co.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 267324136,
-      "long_position_pct": 5.82,
-      "short_position_shares": 93669604,
-      "short_position_pct": 2.04,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.03,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.82,
