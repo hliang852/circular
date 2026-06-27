@@ -83,12 +83,16 @@ def load_last_ca_run_date() -> date:
     return date.today() - timedelta(days=2)
 
 
-def get_recently_filed_ca_codes(since_date: date) -> list[str]:
+def get_recently_filed_ca_codes(since_date: date) -> list[str] | None:
     """
     Query HKEX for all stocks that filed a Monthly Return since since_date.
     Issues a single search request without a stockId filter and extracts codes
-    from the results table. Returns a sorted list of 5-digit codes, or an empty
-    list on error (caller should treat that as "no new filings").
+    from the results table.
+
+    Returns:
+      list[str]  — codes found (may be empty if genuinely no new filings)
+      None       — search failed or no table in response (HKEX may be JS-rendered);
+                   caller should fall back to the stale-data heuristic
     """
     today = date.today()
     url = (
@@ -103,19 +107,20 @@ def get_recently_filed_ca_codes(since_date: date) -> list[str]:
         soup = BeautifulSoup(resp.text, "html.parser")
         table = soup.find("table")
         if not table:
-            print("  No results table in HKEX broad search — no new Monthly Returns in window")
-            return []
+            # No table means the page is JS-rendered or search returned nothing —
+            # we can't tell which, so return None to trigger the fallback.
+            print("  No results table in HKEX broad search — falling back to stale-data check")
+            return None
         for row in table.find_all("tr")[1:]:
             cols = row.find_all(["td", "th"])
             if len(cols) < 2:
                 continue
-            # Column 1 holds the stock code in multi-stock search results
             text = cols[1].get_text(strip=True)
             if re.match(r"^\d{4,5}$", text):
                 codes.add(text.zfill(5))
     except Exception as e:
-        print(f"  HKEX broad search failed ({e}); falling back to full run")
-        return []
+        print(f"  HKEX broad search failed ({e}) — falling back to stale-data check")
+        return None
     print(f"  Found {len(codes)} stocks with new Monthly Return filings since {since_date}")
     return sorted(codes)
 
@@ -592,15 +597,28 @@ def main():
         since_date = load_last_ca_run_date()
         print(f"Incremental mode: checking for new Monthly Return filings since {since_date}...")
         recent_codes = get_recently_filed_ca_codes(since_date)
-        if not recent_codes:
+        if recent_codes is None:
+            # Broad search unavailable (JS-rendered page or network error).
+            # Fall back: scrape stocks whose last_filing_date is older than 35 days,
+            # meaning they are due for a new Monthly Return that we haven't captured yet.
+            cutoff = (date.today() - timedelta(days=35)).isoformat()
+            stocks = [
+                s for s in universe
+                if s["code"] not in existing_ca_idx
+                or (existing_ca_idx[s["code"]].get("last_filing_date") or "1970-01-01") < cutoff
+            ]
+            print(f"  Stale-data fallback: {len(stocks)} stocks with last_filing_date older than 35 days")
+            mode_label = "incremental"
+        elif not recent_codes:
             print("No new filings found. Exiting.")
             _update_last_run(scraped=0, errors=0, mode="incremental")
             return
-        stocks = [universe_by_code[c] for c in recent_codes if c in universe_by_code]
-        for c in recent_codes:
-            if c not in universe_by_code and c in existing_ca_idx:
-                stocks.append({"code": c, "name": existing_ca_idx[c].get("name", c)})
-        mode_label = "incremental"
+        else:
+            stocks = [universe_by_code[c] for c in recent_codes if c in universe_by_code]
+            for c in recent_codes:
+                if c not in universe_by_code and c in existing_ca_idx:
+                    stocks.append({"code": c, "name": existing_ca_idx[c].get("name", c)})
+            mode_label = "incremental"
     else:
         stocks = universe
         mode_label = "full"
