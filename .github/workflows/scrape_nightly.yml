@@ -25,6 +25,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - uses: actions/setup-python@v5
         with:
@@ -55,8 +58,36 @@ jobs:
 
       - name: Commit updated data
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add docs/data/
-          git diff --staged --quiet || git commit -m "data: nightly DI scrape $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+          git commit -m "data: nightly DI scrape $(date -u +%Y-%m-%d)"
+
+          MAX_RETRIES=3
+          RETRY=0
+          while [ $RETRY -lt $MAX_RETRIES ]; do
+            if git push; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            RETRY=$((RETRY + 1))
+            echo "Push failed (attempt $RETRY/$MAX_RETRIES); rebasing onto remote and retrying..."
+            git fetch origin "$BRANCH"
+            if ! git rebase --autostash "origin/$BRANCH"; then
+              git rebase --abort || true
+              echo "Rebase failed — aborting to avoid overwriting remote changes"
+              exit 1
+            fi
+            sleep $((RETRY * 2))
+          done
+
+          echo "All retries exhausted"
+          exit 1
