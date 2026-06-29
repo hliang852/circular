@@ -1,18 +1,18 @@
 {
   "code": "00510",
   "name": "CASH FINANCIAL SERVICES GROUP LTD.",
-  "last_scraped": "2026-06-27T21:39:42Z",
+  "last_scraped": "2026-06-29T22:52:51Z",
   "shareholders": [
     {
       "name": "Kwan Pak Hoo Bankee",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 312937563,
-      "long_position_pct": 72.57,
+      "long_position_shares": 312949563,
+      "long_position_pct": 72.58,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-25",
-      "filing_date": "2026-06-25",
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,17 +20,33 @@
       "name": "Celestial Asia Securities Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 280713563,
+      "long_position_shares": 280725563,
       "long_position_pct": 65.1,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-25",
-      "filing_date": "2026-06-25",
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Celestial Asia Securities Holdings Limited",
+      "long_position_pct": 65.1,
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kwan Pak Hoo Bankee",
+      "long_position_pct": 72.58,
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Celestial Asia Securities Holdings Limited",
       "long_position_pct": 65.1,

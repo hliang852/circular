@@ -1,7 +1,7 @@
 {
   "code": "09868",
   "name": "XPENG INC. - W",
-  "last_scraped": "2026-06-27T22:05:05Z",
+  "last_scraped": "2026-06-29T23:21:50Z",
   "shareholders": [
     {
       "name": "Trident Trust Company (HK) Limited",
@@ -202,12 +202,12 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 82508822,
-      "long_position_pct": 5.27,
-      "short_position_shares": 2876000,
-      "short_position_pct": 0.18,
-      "relevant_event_date": "2026-06-22",
-      "filing_date": "2026-06-22",
+      "long_position_shares": 81794837,
+      "long_position_pct": 5.22,
+      "short_position_shares": 3233190,
+      "short_position_pct": 0.21,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -226,6 +226,22 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.22,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.23,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "BlackRock, Inc.",
       "long_position_pct": 5.27,

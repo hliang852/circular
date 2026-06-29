@@ -1,18 +1,18 @@
 {
   "code": "09688",
   "name": "ZAI LAB LTD.",
-  "last_scraped": "2026-06-27T22:04:10Z",
+  "last_scraped": "2026-06-29T23:20:46Z",
   "shareholders": [
     {
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 98474465,
-      "long_position_pct": 8.68,
-      "short_position_shares": 73004304,
-      "short_position_pct": 6.43,
-      "relevant_event_date": "2026-06-18",
-      "filing_date": "2026-06-18",
+      "long_position_shares": 92923106,
+      "long_position_pct": 8.16,
+      "short_position_shares": 61910454,
+      "short_position_pct": 5.44,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -98,12 +98,12 @@
       "name": "FMR LLC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 57780611,
-      "long_position_pct": 5.08,
+      "long_position_shares": 57550781,
+      "long_position_pct": 5.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-22",
-      "filing_date": "2026-06-22",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -174,6 +174,30 @@
     }
   ],
   "history": [
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.06,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FMR LLC",
+      "long_position_pct": 5.08,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 8.16,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "FMR LLC",
       "long_position_pct": 5.08,

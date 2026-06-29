@@ -1,18 +1,18 @@
 {
   "code": "06090",
   "name": "BUTONG GROUP",
-  "last_scraped": "2026-06-27T21:59:52Z",
+  "last_scraped": "2026-06-29T23:14:40Z",
   "shareholders": [
     {
       "name": "WANG Wei",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 46356102,
-      "long_position_pct": 51.08,
+      "long_position_shares": 44356379,
+      "long_position_pct": 48.88,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Boyan Holdings Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 45106820,
-      "long_position_pct": 49.7,
+      "long_position_shares": 43107097,
+      "long_position_pct": 47.5,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -33,12 +33,12 @@
       "name": "WANGBOYAN HOLDING INC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 45106820,
-      "long_position_pct": 49.7,
+      "long_position_shares": 43107097,
+      "long_position_pct": 47.5,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -46,12 +46,12 @@
       "name": "WWANG HOLDING INC",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 45106820,
-      "long_position_pct": 49.7,
+      "long_position_shares": 43107097,
+      "long_position_pct": 47.5,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -59,12 +59,12 @@
       "name": "Vistra Trust (Singapore) Pte. Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 44640920,
-      "long_position_pct": 49.19,
+      "long_position_shares": 42295397,
+      "long_position_pct": 46.61,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-15",
-      "filing_date": "2026-05-15",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -239,6 +239,46 @@
     }
   ],
   "history": [
+    {
+      "name": "Boyan Holdings Limited",
+      "long_position_pct": 47.5,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Vistra Trust (Singapore) Pte. Limited",
+      "long_position_pct": 46.61,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANG Wei",
+      "long_position_pct": 48.88,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WANGBOYAN HOLDING INC",
+      "long_position_pct": 47.5,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WWANG HOLDING INC",
+      "long_position_pct": 47.5,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Tembusu B Limited",
       "long_position_pct": 4.93,

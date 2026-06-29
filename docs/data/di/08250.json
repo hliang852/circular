@@ -1,0 +1,743 @@
+{
+  "code": "08250",
+  "name": "DU DU HOLDINGS LTD.",
+  "last_scraped": "2026-06-29T23:18:14Z",
+  "shareholders": [
+    {
+      "name": "XU Gongming",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 97319000,
+      "long_position_pct": 28.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Dali Capital Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 96719000,
+      "long_position_pct": 28.1,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Hulu Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 66854000,
+      "long_position_pct": 19.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Yan Weiwei",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 66854000,
+      "long_position_pct": 19.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "陈英",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 645380000,
+      "long_position_pct": 9.42,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LIAO XIAOFANG",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 541860000,
+      "long_position_pct": 7.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-15",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Dali Capital Group Limited",
+      "long_position_pct": 28.1,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 28.27,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Hulu Group Limited",
+      "long_position_pct": 19.42,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 19.42,
+      "relevant_event_date": "2026-04-21",
+      "filing_date": "2026-04-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mangrove Capital Holdings Limited",
+      "long_position_pct": 28.1,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 19.46,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 28.27,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 19.46,
+      "relevant_event_date": "2025-10-08",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Mangrove Capital Holdings Limited",
+      "long_position_pct": 26.53,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 26.69,
+      "relevant_event_date": "2025-09-17",
+      "filing_date": "2025-09-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Mangrove Capital Holdings Limited",
+      "long_position_pct": 28.17,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 28.34,
+      "relevant_event_date": "2025-04-09",
+      "filing_date": "2025-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 28.17,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 18.37,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 28.34,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 18.37,
+      "relevant_event_date": "2024-07-29",
+      "filing_date": "2024-08-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 27.42,
+      "relevant_event_date": "2024-04-26",
+      "filing_date": "2024-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 27.58,
+      "relevant_event_date": "2024-04-26",
+      "filing_date": "2024-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 29.38,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 29.54,
+      "relevant_event_date": "2023-12-20",
+      "filing_date": "2023-12-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 19.88,
+      "relevant_event_date": "2023-08-02",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 19.88,
+      "relevant_event_date": "2023-08-02",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 16.54,
+      "relevant_event_date": "2023-07-04",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 19.88,
+      "relevant_event_date": "2023-07-04",
+      "filing_date": "2023-07-07",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 11.81,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yan Weiwei",
+      "long_position_pct": 15.15,
+      "relevant_event_date": "2023-04-27",
+      "filing_date": "2023-04-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 27.42,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 27.58,
+      "relevant_event_date": "2022-07-25",
+      "filing_date": "2022-07-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 11.81,
+      "relevant_event_date": "2022-05-13",
+      "filing_date": "2022-05-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 21.05,
+      "relevant_event_date": "2022-02-28",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 21.21,
+      "relevant_event_date": "2022-02-28",
+      "filing_date": "2022-03-01",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 11.81,
+      "relevant_event_date": "2021-12-22",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 14.92,
+      "relevant_event_date": "2021-12-22",
+      "filing_date": "2021-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 16.35,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 9.72,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 16.51,
+      "relevant_event_date": "2021-12-13",
+      "filing_date": "2021-12-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Star Link Technology Limited 星联科技有限公司",
+      "long_position_pct": 5.67,
+      "relevant_event_date": "2021-08-30",
+      "filing_date": "2021-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 8.78,
+      "relevant_event_date": "2021-08-30",
+      "filing_date": "2021-08-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FULL YING HOLDINGS LIMITED",
+      "long_position_pct": 4.4,
+      "relevant_event_date": "2021-08-02",
+      "filing_date": "2021-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Zhaohui",
+      "long_position_pct": 3.18,
+      "relevant_event_date": "2021-07-09",
+      "filing_date": "2021-07-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2021-07-09",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Redwood Bay Investment Group International Co., Ltd. 紅樹灣投資集團國際有限公司",
+      "long_position_pct": 13.85,
+      "relevant_event_date": "2021-03-26",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 14.01,
+      "relevant_event_date": "2021-03-26",
+      "filing_date": "2021-03-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 14.01,
+      "relevant_event_date": "2020-12-21",
+      "filing_date": "2020-12-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zheng He Industrial Group Limited 正和實業集團有限公司",
+      "long_position_pct": 13.85,
+      "relevant_event_date": "2020-12-21",
+      "filing_date": "2020-12-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "159 Anti-Aging Health Group Ltd.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "ZHOU Jiao",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2020-12-01",
+      "filing_date": "2020-12-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 10.24,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zheng He Industrial Group Limited 正和實業集團有限公司",
+      "long_position_pct": 10.08,
+      "relevant_event_date": "2020-11-20",
+      "filing_date": "2020-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 9.83,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zheng He Industrial Group Limited 正和實業集團有限公司",
+      "long_position_pct": 9.67,
+      "relevant_event_date": "2020-11-19",
+      "filing_date": "2020-11-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 4.98,
+      "relevant_event_date": "2020-08-20",
+      "filing_date": "2020-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Zhaohui",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2020-08-18",
+      "filing_date": "2020-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WEI Kai",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2020-06-09",
+      "filing_date": "2020-06-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Zhaohui",
+      "long_position_pct": 6.84,
+      "relevant_event_date": "2020-05-20",
+      "filing_date": "2020-05-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FULL YING HOLDINGS LIMITED",
+      "long_position_pct": 5.92,
+      "relevant_event_date": "2020-04-24",
+      "filing_date": "2020-05-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Zhaohui",
+      "long_position_pct": 8.91,
+      "relevant_event_date": "2020-04-20",
+      "filing_date": "2020-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN Zhaohui",
+      "long_position_pct": 9.66,
+      "relevant_event_date": "2020-04-03",
+      "filing_date": "2020-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2019-12-17",
+      "filing_date": "2019-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zheng He Industrial Group Limited 正和實業集團有限公司",
+      "long_position_pct": 8.81,
+      "relevant_event_date": "2019-12-17",
+      "filing_date": "2019-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "XU Gongming",
+      "long_position_pct": 8.97,
+      "relevant_event_date": "2019-09-18",
+      "filing_date": "2019-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "陳朝暉",
+      "long_position_pct": 10.77,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "魏凯",
+      "long_position_pct": 6.56,
+      "relevant_event_date": "2019-08-02",
+      "filing_date": "2019-08-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN YING",
+      "long_position_pct": 4.78,
+      "relevant_event_date": "2019-06-25",
+      "filing_date": "2019-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "CHEN YING",
+      "long_position_pct": 5.45,
+      "relevant_event_date": "2019-06-24",
+      "filing_date": "2019-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "159 Anti-Aging Health Group Ltd.",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHOU Jiao",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "黄新松",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-06-17",
+      "filing_date": "2019-06-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廖小芳",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "许功明",
+      "long_position_pct": 8.33,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "陈英",
+      "long_position_pct": 9.42,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "廖小芳",
+      "long_position_pct": 5.82,
+      "relevant_event_date": "2018-04-24",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "许功明",
+      "long_position_pct": 7.34,
+      "relevant_event_date": "2018-04-24",
+      "filing_date": "2018-04-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "许功明",
+      "long_position_pct": 6.8,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "许功明",
+      "long_position_pct": 5.81,
+      "relevant_event_date": "2018-01-24",
+      "filing_date": "2018-01-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "黄新松",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HU ZHIXIONG",
+      "long_position_pct": 0.56,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-18",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LIAO XIAOFANG",
+      "long_position_pct": 7.91,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Tai Pu Mining International Co. Ltd.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2017-12-15",
+      "filing_date": "2017-12-18",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    }
+  ]
+}

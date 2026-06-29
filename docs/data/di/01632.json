@@ -1,0 +1,2579 @@
+{
+  "code": "01632",
+  "name": "MINSHANG CREATIVE TECHNOLOGY HOLDINGS LTD.",
+  "last_scraped": "2026-06-29T23:00:37Z",
+  "shareholders": [
+    {
+      "name": "MSEC Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 557444182,
+      "long_position_pct": 58.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-03-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 557444182,
+      "long_position_pct": 58.48,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 58.48,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "MSEC Holdings Limited",
+      "long_position_pct": 58.48,
+      "relevant_event_date": "2026-03-17",
+      "filing_date": "2026-04-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 58.0,
+      "relevant_event_date": "2024-11-25",
+      "filing_date": "2024-11-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 61.0,
+      "relevant_event_date": "2024-11-18",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Jiliang",
+      "long_position_pct": 2.83,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIKZ Holdings Limited",
+      "long_position_pct": 2.83,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHONG Kaixin",
+      "long_position_pct": 2.83,
+      "relevant_event_date": "2024-07-15",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Jiliang",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIKZ Holdings Limited",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHONG Kaixin",
+      "long_position_pct": 9.91,
+      "relevant_event_date": "2023-08-31",
+      "filing_date": "2024-08-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Jiliang",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIKZ Holdings Limited",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHONG Kaixin",
+      "long_position_pct": 14.16,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 62.28,
+      "relevant_event_date": "2022-06-22",
+      "filing_date": "2022-06-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CHEN Jiliang",
+      "long_position_pct": 14.73,
+      "relevant_event_date": "2021-12-24",
+      "filing_date": "2021-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "CIKZ Holdings Limited",
+      "long_position_pct": 14.73,
+      "relevant_event_date": "2021-12-24",
+      "filing_date": "2021-12-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ZHONG Kaixin",
+      "long_position_pct": 14.73,
+      "relevant_event_date": "2021-12-24",
+      "filing_date": "2021-12-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 62.28,
+      "relevant_event_date": "2021-09-09",
+      "filing_date": "2023-07-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 64.75,
+      "relevant_event_date": "2021-03-03",
+      "filing_date": "2021-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 64.75,
+      "relevant_event_date": "2021-01-11",
+      "filing_date": "2021-01-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2020-04-27",
+      "filing_date": "2020-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 64.07,
+      "relevant_event_date": "2020-04-16",
+      "filing_date": "2020-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 63.83,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 61.83,
+      "relevant_event_date": "2020-04-09",
+      "filing_date": "2020-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 57.17,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2019-11-05",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2019-11-05",
+      "filing_date": "2019-11-07",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2019-09-30",
+      "filing_date": "2019-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.46,
+      "relevant_event_date": "2019-09-27",
+      "filing_date": "2019-09-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-09-23",
+      "filing_date": "2019-09-25",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-09-23",
+      "filing_date": "2019-09-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-08-29",
+      "filing_date": "2019-08-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-08-26",
+      "filing_date": "2019-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-08-26",
+      "filing_date": "2019-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.55,
+      "relevant_event_date": "2019-08-19",
+      "filing_date": "2019-08-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.55,
+      "relevant_event_date": "2019-08-19",
+      "filing_date": "2019-08-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.53,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.53,
+      "relevant_event_date": "2019-08-16",
+      "filing_date": "2019-08-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-08-07",
+      "filing_date": "2019-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.5,
+      "relevant_event_date": "2019-08-07",
+      "filing_date": "2019-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 3.16,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 2.86,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 2.86,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 3.16,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.44,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 3.16,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 3.16,
+      "relevant_event_date": "2019-05-15",
+      "filing_date": "2019-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 10.61,
+      "relevant_event_date": "2019-05-08",
+      "filing_date": "2019-05-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 10.61,
+      "relevant_event_date": "2019-05-08",
+      "filing_date": "2019-05-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 10.79,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 10.79,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2019-04-26",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 6.3,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 11.05,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 11.05,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 6.59,
+      "relevant_event_date": "2019-04-25",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 6.68,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 7.17,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 12.27,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 11.43,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 12.27,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 6.98,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 7.49,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 56.69,
+      "relevant_event_date": "2019-04-24",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.33,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.33,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 13.44,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 13.44,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 8.65,
+      "relevant_event_date": "2019-04-08",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 13.52,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 13.52,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 8.73,
+      "relevant_event_date": "2019-04-04",
+      "filing_date": "2019-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 13.98,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 13.98,
+      "relevant_event_date": "2019-04-03",
+      "filing_date": "2019-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2019-04-02",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.42,
+      "relevant_event_date": "2019-04-02",
+      "filing_date": "2019-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.87,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.87,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.06,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.06,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.19,
+      "relevant_event_date": "2019-03-08",
+      "filing_date": "2019-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 9.33,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 9.33,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.52,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.52,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.65,
+      "relevant_event_date": "2019-02-27",
+      "filing_date": "2019-03-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 10.97,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 10.97,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 16.16,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 16.16,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 11.28,
+      "relevant_event_date": "2019-02-22",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-02-21",
+      "filing_date": "2019-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2019-01-11",
+      "filing_date": "2019-01-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 60.86,
+      "relevant_event_date": "2018-12-31",
+      "filing_date": "2019-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 0.32,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 0.32,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 0.32,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 0.32,
+      "relevant_event_date": "2018-12-28",
+      "filing_date": "2019-01-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Tonghai Asset Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Funds SPC Limited - Kilmorey Global Opportunity Fund SP",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Funds SPC Limited - Oceanwide Kilmorey Guaranteed Return Segregated Portfolio",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 5.19,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2019-01-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 9.17,
+      "relevant_event_date": "2018-12-27",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Tonghai Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Funds SPC Limited - Oceanwide Kilmorey Guaranteed Return Segregated Portfolio",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-12-24",
+      "filing_date": "2018-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.19,
+      "relevant_event_date": "2018-11-20",
+      "filing_date": "2018-11-23",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chou Shih Chung",
+      "long_position_pct": 4.09,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 15.51,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 15.51,
+      "relevant_event_date": "2018-11-13",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 4.9,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Funds SPC Limited - Oceanwide Kilmorey Guaranteed Return Segregated Portfolio",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 53.5,
+      "relevant_event_date": "2018-11-12",
+      "filing_date": "2018-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 13.76,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.32,
+      "relevant_event_date": "2018-09-14",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chou Shih Chung",
+      "long_position_pct": 5.84,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.4,
+      "relevant_event_date": "2018-09-11",
+      "filing_date": "2018-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Funds SPC Limited - Oceanwide Kilmorey Guaranteed Return Segregated Portfolio",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 16.51,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 16.51,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2018-09-10",
+      "filing_date": "2018-09-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.47,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 7.66,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.93,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 10.0,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 11.4,
+      "relevant_event_date": "2018-08-30",
+      "filing_date": "2018-09-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 17.05,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 19.4,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-09-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 19.4,
+      "relevant_event_date": "2018-08-29",
+      "filing_date": "2018-08-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.4,
+      "relevant_event_date": "2018-08-27",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.13,
+      "relevant_event_date": "2018-08-24",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 24.3,
+      "relevant_event_date": "2018-08-23",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2018-08-23",
+      "filing_date": "2018-08-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-22",
+      "filing_date": "2018-08-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-22",
+      "filing_date": "2018-08-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-22",
+      "filing_date": "2018-08-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2018-08-21",
+      "filing_date": "2018-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-08-21",
+      "filing_date": "2018-08-24",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2018-08-21",
+      "filing_date": "2018-08-24",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.41,
+      "relevant_event_date": "2018-08-14",
+      "filing_date": "2018-08-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.5,
+      "relevant_event_date": "2018-08-06",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2018-08-02",
+      "filing_date": "2018-08-07",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.29,
+      "relevant_event_date": "2018-07-31",
+      "filing_date": "2018-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.34,
+      "relevant_event_date": "2018-07-30",
+      "filing_date": "2018-07-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2018-07-19",
+      "filing_date": "2018-07-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 0.35,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 0.35,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 0.03,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 0.03,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 0.35,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 0.35,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 75.03,
+      "relevant_event_date": "2018-07-06",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2018-06-22",
+      "filing_date": "2018-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2018-06-14",
+      "filing_date": "2018-06-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.04,
+      "relevant_event_date": "2018-06-13",
+      "filing_date": "2018-06-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2018-06-06",
+      "filing_date": "2018-06-08",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2018-06-05",
+      "filing_date": "2018-06-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.88,
+      "relevant_event_date": "2018-06-04",
+      "filing_date": "2018-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2018-05-29",
+      "filing_date": "2018-06-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.87,
+      "relevant_event_date": "2018-05-29",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2018-05-28",
+      "filing_date": "2018-05-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.48,
+      "relevant_event_date": "2018-05-17",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.19,
+      "relevant_event_date": "2018-05-16",
+      "filing_date": "2018-05-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blaze Forum Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Pioneer Vantage Global Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG CHE KIN",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "WONG CHUI HA IRIS",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-05-15",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.29,
+      "relevant_event_date": "2018-05-14",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.32,
+      "relevant_event_date": "2018-05-14",
+      "filing_date": "2018-05-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2018-05-11",
+      "filing_date": "2018-05-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Blaze Forum Limited",
+      "long_position_pct": 11.25,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 25.32,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kaiser Financial Group International Limited",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kilmorey Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI LI HONG",
+      "long_position_pct": 12.15,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Asset Management Limited",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Oceanwide Funds SPC Limited - Oceanwide Kilmorey Guaranteed Return Segregated Portfolio",
+      "long_position_pct": 8.85,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pioneer Vantage Global Limited",
+      "long_position_pct": 63.75,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 25.32,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Plenty Champion Limited",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "R. G Investment Limited",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHE KIN",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "WONG CHUI HA IRIS",
+      "long_position_pct": 75.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 25.32,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhang Keqiang",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 25.32,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Lina",
+      "long_position_pct": 25.0,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-05-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "民生电商控股（深圳）有限公司",
+      "long_position_pct": 74.99,
+      "relevant_event_date": "2018-04-25",
+      "filing_date": "2018-04-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.87,
+      "relevant_event_date": "2018-04-20",
+      "filing_date": "2018-04-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2018-04-18",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.02,
+      "relevant_event_date": "2018-04-17",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2018-04-16",
+      "filing_date": "2018-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.44,
+      "relevant_event_date": "2018-04-13",
+      "filing_date": "2018-04-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.2,
+      "relevant_event_date": "2018-04-11",
+      "filing_date": "2018-04-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2018-04-10",
+      "filing_date": "2018-04-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.73,
+      "relevant_event_date": "2018-04-09",
+      "filing_date": "2018-04-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.66,
+      "relevant_event_date": "2018-04-06",
+      "filing_date": "2018-04-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.61,
+      "relevant_event_date": "2018-04-04",
+      "filing_date": "2018-04-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.38,
+      "relevant_event_date": "2018-04-03",
+      "filing_date": "2018-04-03",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.33,
+      "relevant_event_date": "2018-03-29",
+      "filing_date": "2018-03-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.73,
+      "relevant_event_date": "2018-03-27",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2018-03-26",
+      "filing_date": "2018-03-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.43,
+      "relevant_event_date": "2018-03-22",
+      "filing_date": "2018-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2018-03-21",
+      "filing_date": "2018-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2018-03-20",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.95,
+      "relevant_event_date": "2018-03-19",
+      "filing_date": "2018-03-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.94,
+      "relevant_event_date": "2018-03-02",
+      "filing_date": "2018-03-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.89,
+      "relevant_event_date": "2018-02-23",
+      "filing_date": "2018-02-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.74,
+      "relevant_event_date": "2018-02-09",
+      "filing_date": "2018-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2018-02-05",
+      "filing_date": "2018-02-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Lingyan",
+      "long_position_pct": 14.04,
+      "relevant_event_date": "2018-01-31",
+      "filing_date": "2019-02-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.31,
+      "relevant_event_date": "2018-01-11",
+      "filing_date": "2018-01-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.07,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 4.57,
+      "relevant_event_date": "2017-11-10",
+      "filing_date": "2017-11-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2017-10-31",
+      "filing_date": "2017-11-01",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2017-10-19",
+      "filing_date": "2017-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.04,
+      "relevant_event_date": "2017-10-18",
+      "filing_date": "2017-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 5.58,
+      "relevant_event_date": "2017-09-18",
+      "filing_date": "2017-09-20",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.62,
+      "relevant_event_date": "2017-09-11",
+      "filing_date": "2017-09-12",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.15,
+      "relevant_event_date": "2017-09-05",
+      "filing_date": "2017-09-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.86,
+      "relevant_event_date": "2017-08-17",
+      "filing_date": "2017-08-21",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.03,
+      "relevant_event_date": "2017-07-31",
+      "filing_date": "2017-08-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.93,
+      "relevant_event_date": "2017-07-28",
+      "filing_date": "2017-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.01,
+      "relevant_event_date": "2017-07-26",
+      "filing_date": "2017-07-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.73,
+      "relevant_event_date": "2017-07-13",
+      "filing_date": "2017-07-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 7.07,
+      "relevant_event_date": "2017-07-10",
+      "filing_date": "2017-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LAM KWAN HANG JONATHAN",
+      "long_position_pct": 6.92,
+      "relevant_event_date": "2017-07-06",
+      "filing_date": "2017-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    }
+  ]
+}

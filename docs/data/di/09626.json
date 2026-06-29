@@ -1,7 +1,7 @@
 {
   "code": "09626",
   "name": "BILIBILI INC. - W",
-  "last_scraped": "2026-06-27T22:03:09Z",
+  "last_scraped": "2026-06-29T23:19:45Z",
   "shareholders": [
     {
       "name": "Vanship Limited",
@@ -124,12 +124,12 @@
       "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18815546,
-      "long_position_pct": 5.58,
-      "short_position_shares": 19690227,
-      "short_position_pct": 5.84,
-      "relevant_event_date": "2026-06-22",
-      "filing_date": "2026-06-22",
+      "long_position_shares": 18904347,
+      "long_position_pct": 5.6,
+      "short_position_shares": 20399989,
+      "short_position_pct": 6.05,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -137,17 +137,41 @@
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 18594629,
-      "long_position_pct": 5.38,
+      "long_position_shares": 18115791,
+      "long_position_pct": 5.25,
       "short_position_shares": 13217,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-22",
-      "filing_date": "2026-06-22",
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 5.25,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.6,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.54,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.58,

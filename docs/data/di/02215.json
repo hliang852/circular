@@ -1,7 +1,7 @@
 {
   "code": "02215",
   "name": "DEXIN SERVICES GROUP LTD.",
-  "last_scraped": "2026-05-21T23:04:58Z",
+  "last_scraped": "2026-06-29T23:05:51Z",
   "shareholders": [
     {
       "name": "Shengfu International Limited",
@@ -46,12 +46,12 @@
       "name": "Kaibang International Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 105066111,
-      "long_position_pct": 11.45,
+      "long_position_shares": 76320741,
+      "long_position_pct": 8.31,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-01-08",
-      "filing_date": "2026-01-08",
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-16",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -96,6 +96,14 @@
     }
   ],
   "history": [
+    {
+      "name": "Kaibang International Limited",
+      "long_position_pct": 8.31,
+      "relevant_event_date": "2026-06-16",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "HU Yiping",
       "long_position_pct": 0.0,

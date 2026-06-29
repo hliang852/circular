@@ -1,7 +1,7 @@
 {
   "code": "03337",
   "name": "ANTON OILFIELD SERVICES GROUP",
-  "last_scraped": "2026-06-11T23:45:35Z",
+  "last_scraped": "2026-06-29T23:11:51Z",
   "shareholders": [
     {
       "name": "LUO Lin",
@@ -98,17 +98,25 @@
       "name": "BOCI Trustee (Hong Kong) Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 161187963,
-      "long_position_pct": 5.37,
+      "long_position_shares": 181804631,
+      "long_position_pct": 6.06,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-28",
-      "filing_date": "2026-04-28",
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "BOCI Trustee (Hong Kong) Limited",
+      "long_position_pct": 6.06,
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "LUO Lin",
       "long_position_pct": 25.97,

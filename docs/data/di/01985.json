@@ -1,0 +1,938 @@
+{
+  "code": "01985",
+  "name": "MICROWARE GROUP LTD.",
+  "last_scraped": "2026-06-29T23:04:33Z",
+  "shareholders": [
+    {
+      "name": "Yang Peter Shun Tsing",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 204880000,
+      "long_position_pct": 68.29,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-19",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Guangbo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 168587400,
+      "long_position_pct": 56.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168587400,
+      "long_position_pct": 56.19,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2025-12-24",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "HAN SHAOYE",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 19754000,
+      "long_position_pct": 6.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-13",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "chen jianyong",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 17392000,
+      "long_position_pct": 5.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "chen jianyong",
+      "long_position_pct": 5.8,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 56.19,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 56.19,
+      "relevant_event_date": "2025-12-24",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 56.0,
+      "relevant_event_date": "2025-12-23",
+      "filing_date": "2025-12-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2025-12-01",
+      "filing_date": "2025-12-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 55.73,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 40.06,
+      "relevant_event_date": "2025-07-15",
+      "filing_date": "2025-07-17",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 54.76,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 39.1,
+      "relevant_event_date": "2025-06-02",
+      "filing_date": "2025-06-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU YUN",
+      "long_position_pct": 1.0,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-22",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 54.7,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 39.04,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 29.83,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-01-07",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Well Mount Holdings Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-01-03",
+      "filing_date": "2025-03-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Clap Wind International Limited",
+      "long_position_pct": 2.07,
+      "relevant_event_date": "2024-09-19",
+      "filing_date": "2024-09-20",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Clap Wind International Limited",
+      "long_position_pct": 5.26,
+      "relevant_event_date": "2024-09-02",
+      "filing_date": "2024-09-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "chen jianyong",
+      "long_position_pct": 6.05,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-08-06",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "TANG Huangju",
+      "long_position_pct": 4.68,
+      "relevant_event_date": "2024-07-26",
+      "filing_date": "2024-07-29",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG Huangju",
+      "long_position_pct": 5.78,
+      "relevant_event_date": "2024-07-09",
+      "filing_date": "2024-07-11",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG Huangju",
+      "long_position_pct": 6.57,
+      "relevant_event_date": "2024-07-08",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 4.46,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-03",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG Huangju",
+      "long_position_pct": 7.88,
+      "relevant_event_date": "2024-05-10",
+      "filing_date": "2024-05-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 4.47,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-22",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 28.3,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 7.83,
+      "relevant_event_date": "2024-04-15",
+      "filing_date": "2024-04-17",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 6.94,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 14.17,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-04-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 20.0,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 10.3,
+      "relevant_event_date": "2024-02-08",
+      "filing_date": "2024-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Well Mount Holdings Limited",
+      "long_position_pct": 9.09,
+      "relevant_event_date": "2024-02-05",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 14.17,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Well Mount Holdings Limited",
+      "long_position_pct": 7.6,
+      "relevant_event_date": "2024-02-02",
+      "filing_date": "2024-02-06",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Well Mount Holdings Limited",
+      "long_position_pct": 6.81,
+      "relevant_event_date": "2024-02-01",
+      "filing_date": "2024-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 16.13,
+      "relevant_event_date": "2023-12-05",
+      "filing_date": "2024-02-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 12.77,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-12-01",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 16.13,
+      "relevant_event_date": "2023-11-28",
+      "filing_date": "2023-11-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HAN SHAOYE",
+      "long_position_pct": 6.58,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU YUN",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LIU YUN",
+      "long_position_pct": 6.91,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 12.77,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "TANG Huangju",
+      "long_position_pct": 12.56,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Shun Tsing Peter",
+      "long_position_pct": 16.13,
+      "relevant_event_date": "2023-09-13",
+      "filing_date": "2023-09-15",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 40.77,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wang Guangbo",
+      "long_position_pct": 14.17,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Weiye Holdings Group Limited",
+      "long_position_pct": 14.17,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Shun Tsing Peter",
+      "long_position_pct": 54.13,
+      "relevant_event_date": "2023-06-28",
+      "filing_date": "2023-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Microware International Holdings Limited",
+      "long_position_pct": 54.93,
+      "relevant_event_date": "2023-06-26",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Shun Tsing Peter",
+      "long_position_pct": 68.29,
+      "relevant_event_date": "2023-06-26",
+      "filing_date": "2023-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.29,
+      "relevant_event_date": "2020-03-19",
+      "filing_date": "2020-03-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.22,
+      "relevant_event_date": "2020-03-16",
+      "filing_date": "2020-03-17",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.15,
+      "relevant_event_date": "2020-03-13",
+      "filing_date": "2020-03-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.14,
+      "relevant_event_date": "2020-02-06",
+      "filing_date": "2020-02-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.1,
+      "relevant_event_date": "2020-01-30",
+      "filing_date": "2020-02-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 68.06,
+      "relevant_event_date": "2020-01-24",
+      "filing_date": "2020-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.9,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.89,
+      "relevant_event_date": "2020-01-16",
+      "filing_date": "2020-01-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.89,
+      "relevant_event_date": "2020-01-09",
+      "filing_date": "2020-01-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.87,
+      "relevant_event_date": "2019-07-26",
+      "filing_date": "2019-07-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.8,
+      "relevant_event_date": "2019-07-25",
+      "filing_date": "2019-07-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.79,
+      "relevant_event_date": "2019-07-12",
+      "filing_date": "2019-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.79,
+      "relevant_event_date": "2019-03-29",
+      "filing_date": "2019-04-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.72,
+      "relevant_event_date": "2018-10-24",
+      "filing_date": "2018-10-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.62,
+      "relevant_event_date": "2018-10-19",
+      "filing_date": "2018-10-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.59,
+      "relevant_event_date": "2018-10-12",
+      "filing_date": "2018-10-15",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.58,
+      "relevant_event_date": "2018-10-11",
+      "filing_date": "2018-10-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.55,
+      "relevant_event_date": "2018-10-10",
+      "filing_date": "2018-10-11",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.51,
+      "relevant_event_date": "2018-10-08",
+      "filing_date": "2018-10-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.44,
+      "relevant_event_date": "2018-10-04",
+      "filing_date": "2018-10-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.34,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.33,
+      "relevant_event_date": "2018-10-02",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.28,
+      "relevant_event_date": "2018-09-28",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.22,
+      "relevant_event_date": "2018-09-27",
+      "filing_date": "2018-10-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.1,
+      "relevant_event_date": "2018-09-24",
+      "filing_date": "2018-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.06,
+      "relevant_event_date": "2018-09-21",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 67.02,
+      "relevant_event_date": "2018-09-19",
+      "filing_date": "2018-09-24",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.82,
+      "relevant_event_date": "2018-09-18",
+      "filing_date": "2018-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.62,
+      "relevant_event_date": "2018-09-17",
+      "filing_date": "2018-09-19",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.5,
+      "relevant_event_date": "2018-09-07",
+      "filing_date": "2018-09-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.45,
+      "relevant_event_date": "2018-09-05",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.34,
+      "relevant_event_date": "2018-09-04",
+      "filing_date": "2018-09-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.28,
+      "relevant_event_date": "2018-07-23",
+      "filing_date": "2018-07-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.26,
+      "relevant_event_date": "2018-07-20",
+      "filing_date": "2018-07-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.15,
+      "relevant_event_date": "2018-07-12",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.11,
+      "relevant_event_date": "2018-07-11",
+      "filing_date": "2018-07-16",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 66.03,
+      "relevant_event_date": "2018-07-05",
+      "filing_date": "2018-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.94,
+      "relevant_event_date": "2018-07-04",
+      "filing_date": "2018-07-06",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.85,
+      "relevant_event_date": "2018-07-03",
+      "filing_date": "2018-07-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.78,
+      "relevant_event_date": "2018-03-28",
+      "filing_date": "2018-04-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.62,
+      "relevant_event_date": "2018-03-27",
+      "filing_date": "2018-03-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.55,
+      "relevant_event_date": "2018-03-23",
+      "filing_date": "2018-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.51,
+      "relevant_event_date": "2018-03-09",
+      "filing_date": "2018-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.26,
+      "relevant_event_date": "2018-03-08",
+      "filing_date": "2018-03-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.16,
+      "relevant_event_date": "2018-03-07",
+      "filing_date": "2018-03-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.0,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-27",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.1,
+      "relevant_event_date": "2018-02-21",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 3A",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.17,
+      "relevant_event_date": "2018-02-15",
+      "filing_date": "2018-02-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.13,
+      "relevant_event_date": "2018-02-13",
+      "filing_date": "2018-02-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.07,
+      "relevant_event_date": "2018-01-08",
+      "filing_date": "2018-01-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Peter Shun Tsing",
+      "long_position_pct": 65.02,
+      "relevant_event_date": "2018-01-03",
+      "filing_date": "2018-01-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    }
+  ]
+}

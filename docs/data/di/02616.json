@@ -1,7 +1,7 @@
 {
   "code": "02616",
   "name": "CSTONE PHARMACEUTICALS - B",
-  "last_scraped": "2026-06-24T23:22:21Z",
+  "last_scraped": "2026-06-29T23:09:40Z",
   "shareholders": [
     {
       "name": "WuXi Healthcare Management, LLC",
@@ -82,20 +82,57 @@
       "notice_type": "Current"
     },
     {
+      "name": "Yang Jianxin",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 83953142,
+      "long_position_pct": 5.24,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
       "name": "Morgan Stanley",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 83506765,
-      "long_position_pct": 5.21,
-      "short_position_shares": 16229538,
-      "short_position_pct": 1.01,
-      "relevant_event_date": "2026-06-19",
-      "filing_date": "2026-06-19",
+      "long_position_shares": 81986540,
+      "long_position_pct": 5.12,
+      "short_position_shares": 16920505,
+      "short_position_pct": 1.05,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.12,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 5.2,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Yang Jianxin",
+      "long_position_pct": 5.24,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-25",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.21,

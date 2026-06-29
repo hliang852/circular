@@ -1,18 +1,18 @@
 {
   "code": "00823",
   "name": "LINK REAL ESTATE INVESTMENT TRUST",
-  "last_scraped": "2026-06-22T23:25:44Z",
+  "last_scraped": "2026-06-29T22:55:26Z",
   "shareholders": [
     {
       "name": "BlackRock, Inc.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 244634770,
-      "long_position_pct": 9.35,
-      "short_position_shares": 4514276,
-      "short_position_pct": 0.17,
-      "relevant_event_date": "2026-06-10",
-      "filing_date": "2026-06-10",
+      "long_position_shares": 235302370,
+      "long_position_pct": 8.99,
+      "short_position_shares": 9641676,
+      "short_position_pct": 0.37,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -31,6 +31,14 @@
     }
   ],
   "history": [
+    {
+      "name": "BlackRock, Inc.",
+      "long_position_pct": 8.99,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
     {
       "name": "Citigroup Inc.",
       "long_position_pct": 4.12,

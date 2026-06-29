@@ -1,7 +1,7 @@
 {
   "code": "00232",
   "name": "CONTINENTAL AEROSPACE TECHNOLOGIES HOLDING LTD.",
-  "last_scraped": "2026-06-27T21:38:59Z",
+  "last_scraped": "2026-06-29T22:50:48Z",
   "shareholders": [
     {
       "name": "Aviation Industry Corporation of China, Ltd",
@@ -59,17 +59,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 528012064,
-      "long_position_pct": 5.67,
-      "short_position_shares": 193768000,
-      "short_position_pct": 2.08,
-      "relevant_event_date": "2026-06-22",
-      "filing_date": "2026-06-22",
+      "long_position_shares": 634722064,
+      "long_position_pct": 6.82,
+      "short_position_shares": 197218000,
+      "short_position_pct": 2.11,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-23",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 6.82,
+      "relevant_event_date": "2026-06-23",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.67,
