@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-25T13:57:03.354716+00:00",
+  "last_updated": "2026-06-29T22:45:52.494705+00:00",
   "shareholders": [],
   "history": [
     {
@@ -294,6 +294,23 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Disclosure of Interest / Changes in Interest - Substantial Shareholder",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/Q18S9GPU6DPJ838B/a6b994899aa6049077750905fa29f8357ad2b7fe27ee4ba64625795400a36349",
+      "parse_failed": true
+    },
+    {
+      "name": "Lim Wee Kian",
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-29T10:32:16+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest / Changes in Interest - Lim Wee Kian",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/64I1WILABY71QHUZ/21504513d110e4108045fd7a8a8a2e3155d1df3ed647bc5cc9034a5e85862fdc",
       "parse_failed": true
     }
   ]

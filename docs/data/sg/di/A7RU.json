@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-25T13:11:30.419564+00:00",
+  "last_updated": "2026-06-29T22:45:04.825583+00:00",
   "shareholders": [],
   "history": [
     {
@@ -39,6 +39,23 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interests of Substantial Unitholder(s)",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/WH72TIH95X8YXHYH/72f0955f98d57f4222f729908faba0628c26379e29173682fd4be7e13d8982ae",
+      "parse_failed": true
+    },
+    {
+      "name": null,
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-29T12:02:45+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interests of Substantial Unitholder(s)",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/DQ85MUXAQ3L782OQ/e446318f7799e7b8611a2c4291efbd7b89d9f95b405df523e839918cfa38d3d2",
       "parse_failed": true
     }
   ]

@@ -3,7 +3,7 @@
   "name": "KARIN TECHNOLOGY HLDGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:00:30.475822+00:00",
+  "last_updated": "2026-06-29T22:47:02.529610+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -35,6 +35,20 @@
       "cum_ytd_pct": 1.494,
       "max_mandate_shares": 21632340,
       "on_market_shares": 85000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-29T09:52:14+00:00",
+      "filing_date": "2026-06-29T09:52:14+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/6V29YT5JJCX2BK2R/5f3fc70105018f4e32eb04f6431a11991626f45691ca57ca8121fc39bfde8afd",
+      "shares_repurchased": 60000,
+      "price_high": 0.26,
+      "price_low": 0.255,
+      "consideration_sgd": 15398.5,
+      "cum_ytd_pct": 1.579,
+      "max_mandate_shares": 21632340,
+      "on_market_shares": 60000,
       "off_market_shares": 0,
       "parse_failed": false
     }

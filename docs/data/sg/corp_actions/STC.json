@@ -3,13 +3,28 @@
   "name": "COMBA TELECOM SYSTEMS HOLDINGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T18:36:03.617573+00:00",
+  "last_updated": "2026-06-29T22:46:50.056469+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
-  "daily_returns": [],
+  "daily_returns": [
+    {
+      "date": "2026-06-29T10:16:56+00:00",
+      "filing_date": "2026-06-29T10:16:56+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/59W9IXOKKY1JKZJG/8b3bbae67f2951b2525300f2e9e18537fe7768eaee18e54a4fd9f539ed2b920c",
+      "shares_repurchased": 600000,
+      "price_high": 0.99,
+      "price_low": 0.98,
+      "consideration_sgd": null,
+      "cum_ytd_pct": 0.18,
+      "max_mandate_shares": 313138172,
+      "on_market_shares": 600000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
   "issuances": [],
   "results_dates": [
     {

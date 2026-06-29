@@ -3,7 +3,7 @@
   "name": "THE HOUR GLASS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T22:59:15.261035+00:00",
+  "last_updated": "2026-06-29T22:46:58.362194+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -49,20 +49,6 @@
       "price_low": 1.90978,
       "consideration_sgd": 270116.52,
       "cum_ytd_pct": 0.1533,
-      "max_mandate_shares": 64827278,
-      "parse_failed": false
-    },
-    {
-      "date": "2025-06-30T09:30:32+00:00",
-      "filing_date": "2025-06-30T09:30:32+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/BGN0B7VEJO1OTASJ/f5930554622183e2e6790e59162a32ca1a62f3e47c50cd09b6fb2eb6d36fc10d",
-      "shares_repurchased": 38000,
-      "on_market_shares": 38000,
-      "off_market_shares": 0,
-      "price_high": 1.91,
-      "price_low": 1.91,
-      "consideration_sgd": 72754.42,
-      "cum_ytd_pct": 0.1315,
       "max_mandate_shares": 64827278,
       "parse_failed": false
     },
@@ -553,6 +539,20 @@
       "cum_ytd_pct": 1.1952,
       "max_mandate_shares": 64685158,
       "on_market_shares": 122000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-29T09:56:08+00:00",
+      "filing_date": "2026-06-29T09:56:08+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/N0L0D35KEL20BUP7/01821e43b07f9d16c9269db77b078635a6ed278c3c16036d137a6ba8bfb8361d",
+      "shares_repurchased": 13400,
+      "price_high": 2.6,
+      "price_low": 2.6,
+      "consideration_sgd": 34923.93,
+      "cum_ytd_pct": 1.1973,
+      "max_mandate_shares": 64685158,
+      "on_market_shares": 13400,
       "off_market_shares": 0,
       "parse_failed": false
     }

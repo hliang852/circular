@@ -2,7 +2,7 @@
   "code": "QNS",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:02:19.508917+00:00",
+  "last_updated": "2026-06-29T22:48:49.855504+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -15,6 +15,11 @@
       "date": "2026-06-26",
       "volume": 98900,
       "value_sgd": 42527.0
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 30000,
+      "value_sgd": 12900.0
     }
   ],
   "short_selling_eligible": false

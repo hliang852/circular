@@ -2,7 +2,7 @@
   "code": "QES",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:02:09.975573+00:00",
+  "last_updated": "2026-06-29T22:48:39.719015+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -15,6 +15,11 @@
       "date": "2026-06-26",
       "volume": 32500,
       "value_sgd": 21937.5
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 162800,
+      "value_sgd": 110704.0
     }
   ],
   "short_selling_eligible": false

@@ -2,7 +2,7 @@
   "code": "BQM",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:02:21.186140+00:00",
+  "last_updated": "2026-06-29T22:48:51.542738+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -15,6 +15,11 @@
       "date": "2026-06-26",
       "volume": 6200,
       "value_sgd": 6324.0
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 50200,
+      "value_sgd": 51706.0
     }
   ],
   "short_selling_eligible": true

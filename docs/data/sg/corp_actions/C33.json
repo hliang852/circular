@@ -3,27 +3,13 @@
   "name": "CHUAN HUP HOLDINGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:00:32.885262+00:00",
+  "last_updated": "2026-06-29T22:46:42.720696+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
   "mandate": {},
   "summary": {},
   "daily_returns": [
-    {
-      "date": "2025-06-30T09:53:10+00:00",
-      "filing_date": "2025-06-30T09:53:10+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/OBFW30LGWZVL64TK/c494072715ce1551c0e765aff29ad98b0d34e8be1fec0be9296f38b2964c89e3",
-      "shares_repurchased": 259900,
-      "on_market_shares": 259900,
-      "off_market_shares": 0,
-      "price_high": 0.16463,
-      "price_low": 0.16463,
-      "consideration_sgd": 42862.34,
-      "cum_ytd_pct": 0.2986,
-      "max_mandate_shares": 91478715,
-      "parse_failed": false
-    },
     {
       "date": "2025-07-04T09:49:15+00:00",
       "filing_date": "2025-07-04T09:49:15+00:00",
@@ -497,6 +483,20 @@
       "cum_ytd_pct": 4.1616,
       "max_mandate_shares": 89883935,
       "on_market_shares": 1115500,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-29T10:25:57+00:00",
+      "filing_date": "2026-06-29T10:25:57+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/MU0NR0FXJ466WHAE/d4fdc40911beee8e9ed89e92682e1997c80e3e7319ebab17e4cb61f8fd7ed47e",
+      "shares_repurchased": 190900,
+      "price_high": 0.245,
+      "price_low": 0.245,
+      "consideration_sgd": 46852.45,
+      "cum_ytd_pct": 4.1825,
+      "max_mandate_shares": 89883935,
+      "on_market_shares": 190900,
       "off_market_shares": 0,
       "parse_failed": false
     }

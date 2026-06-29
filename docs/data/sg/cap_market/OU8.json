@@ -2,7 +2,7 @@
   "code": "OU8",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:02:03.973169+00:00",
+  "last_updated": "2026-06-29T22:48:33.605006+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -15,6 +15,11 @@
       "date": "2026-06-26",
       "volume": 539300,
       "value_sgd": 781985.03
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 300600,
+      "value_sgd": 444888.01
     }
   ],
   "short_selling_eligible": true

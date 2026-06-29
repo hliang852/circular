@@ -3,13 +3,13 @@
     "code": "C33",
     "name": "CHUAN HUP HOLDINGS LIMITED",
     "security_type": "share",
-    "shares_bought": 27625900,
-    "ytd_consideration_sgd": 6107031.63,
-    "pct_issued": 4.1616,
-    "mandate_consumed_pct": 41.62,
+    "shares_bought": 27556900,
+    "ytd_consideration_sgd": 6111021.74,
+    "pct_issued": 4.1825,
+    "mandate_consumed_pct": 41.83,
     "programme_active": true,
-    "last_filing_date": "2026-06-25",
-    "consistency_score": 0.083
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "Z74",
@@ -63,13 +63,13 @@
     "code": "U11",
     "name": "UNITED OVERSEAS BANK LIMITED",
     "security_type": "share",
-    "shares_bought": 11268600,
-    "ytd_consideration_sgd": 397821974.76,
-    "pct_issued": 0.1493,
-    "mandate_consumed_pct": 1.49,
+    "shares_bought": 11137400,
+    "ytd_consideration_sgd": 393355242.43,
+    "pct_issued": 0.1576,
+    "mandate_consumed_pct": 1.58,
     "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "1D1",
@@ -100,12 +100,12 @@
     "name": "GLOBAL INVESTMENTS LIMITED",
     "security_type": "share",
     "shares_bought": 7950400,
-    "ytd_consideration_sgd": 1031934.9,
-    "pct_issued": 0.0725,
-    "mandate_consumed_pct": 0.72,
+    "ytd_consideration_sgd": 1030791.04,
+    "pct_issued": 0.0905,
+    "mandate_consumed_pct": 0.9,
     "programme_active": true,
-    "last_filing_date": "2026-06-25",
-    "consistency_score": 0.083
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "S58",
@@ -267,37 +267,13 @@
     "code": "AGS",
     "name": "THE HOUR GLASS LIMITED",
     "security_type": "share",
-    "shares_bought": 2797100,
-    "ytd_consideration_sgd": 5795327.16,
-    "pct_issued": 1.1952,
-    "mandate_consumed_pct": 11.95,
+    "shares_bought": 2772500,
+    "ytd_consideration_sgd": 5757496.67,
+    "pct_issued": 1.1973,
+    "mandate_consumed_pct": 11.97,
     "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
-  },
-  {
-    "code": "5AB",
-    "name": "TREK 2000 INTERNATIONAL LTD",
-    "security_type": "share",
-    "shares_bought": 2313400,
-    "ytd_consideration_sgd": 243180.48,
-    "pct_issued": 0.88,
-    "mandate_consumed_pct": 8.8,
-    "programme_active": false,
-    "last_filing_date": "2025-12-11",
-    "consistency_score": 0.0
-  },
-  {
-    "code": "VT0B",
-    "name": "OLAM GROUP LIMITED",
-    "security_type": "share",
-    "shares_bought": 2275000,
-    "ytd_consideration_sgd": 2236381.77,
-    "pct_issued": 0.5463,
-    "mandate_consumed_pct": 5.46,
-    "programme_active": false,
-    "last_filing_date": "2025-07-11",
-    "consistency_score": 0.0
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "CTO",
@@ -309,6 +285,30 @@
     "mandate_consumed_pct": 4.2,
     "programme_active": false,
     "last_filing_date": "2025-12-02",
+    "consistency_score": 0.0
+  },
+  {
+    "code": "VT0B",
+    "name": "OLAM GROUP LIMITED",
+    "security_type": "share",
+    "shares_bought": 2025000,
+    "ytd_consideration_sgd": 2000044.43,
+    "pct_issued": 0.5463,
+    "mandate_consumed_pct": 5.46,
+    "programme_active": false,
+    "last_filing_date": "2025-07-11",
+    "consistency_score": 0.0
+  },
+  {
+    "code": "5AB",
+    "name": "TREK 2000 INTERNATIONAL LTD",
+    "security_type": "share",
+    "shares_bought": 1957600,
+    "ytd_consideration_sgd": 205397.45,
+    "pct_issued": 0.88,
+    "mandate_consumed_pct": 8.8,
+    "programme_active": false,
+    "last_filing_date": "2025-12-11",
     "consistency_score": 0.0
   },
   {
@@ -327,8 +327,8 @@
     "code": "BWM",
     "name": "ZHENENG JINJIANG ENVIRONMENT HOLDING COMPANY LIMITED",
     "security_type": "share",
-    "shares_bought": 1907400,
-    "ytd_consideration_sgd": 861765.97,
+    "shares_bought": 1856800,
+    "ytd_consideration_sgd": 838936.02,
     "pct_issued": 0.245,
     "mandate_consumed_pct": 2.45,
     "programme_active": false,
@@ -348,6 +348,18 @@
     "consistency_score": 0.0
   },
   {
+    "code": "F99",
+    "name": "FRASER AND NEAVE LIMITED.",
+    "security_type": "share",
+    "shares_bought": 1456100,
+    "ytd_consideration_sgd": 2137031.65,
+    "pct_issued": 0.117,
+    "mandate_consumed_pct": 1.17,
+    "programme_active": true,
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
+  },
+  {
     "code": "8YZ",
     "name": "YANGZIJIANG MARITIME DEVELOPMENT LTD.",
     "security_type": "share",
@@ -357,18 +369,6 @@
     "mandate_consumed_pct": 0.29,
     "programme_active": true,
     "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
-  },
-  {
-    "code": "F99",
-    "name": "FRASER AND NEAVE LIMITED.",
-    "security_type": "share",
-    "shares_bought": 1415600,
-    "ytd_consideration_sgd": 2079145.55,
-    "pct_issued": 0.1142,
-    "mandate_consumed_pct": 1.14,
-    "programme_active": true,
-    "last_filing_date": "2026-06-25",
     "consistency_score": 0.083
   },
   {
@@ -411,12 +411,12 @@
     "code": "U77",
     "name": "SARINE TECHNOLOGIES LTD.",
     "security_type": "share",
-    "shares_bought": 736700,
-    "ytd_consideration_sgd": 195925.58,
+    "shares_bought": 729700,
+    "ytd_consideration_sgd": 194456.14,
     "pct_issued": 0.0,
     "mandate_consumed_pct": 0.0,
     "programme_active": true,
-    "last_filing_date": "2026-06-25",
+    "last_filing_date": "2026-06-28",
     "consistency_score": 0.083
   },
   {
@@ -447,13 +447,37 @@
     "code": "TCU",
     "name": "CREDIT BUREAU ASIA LIMITED",
     "security_type": "share",
-    "shares_bought": 658500,
-    "ytd_consideration_sgd": 885132.11,
+    "shares_bought": 655000,
+    "ytd_consideration_sgd": 880373.42,
     "pct_issued": 0.258,
     "mandate_consumed_pct": 2.58,
     "programme_active": false,
     "last_filing_date": "2025-10-31",
     "consistency_score": 0.0
+  },
+  {
+    "code": "5UX",
+    "name": "OXLEY HOLDINGS LIMITED",
+    "security_type": "share",
+    "shares_bought": 600000,
+    "ytd_consideration_sgd": 45527.73,
+    "pct_issued": 0.2513,
+    "mandate_consumed_pct": 2.51,
+    "programme_active": true,
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
+  },
+  {
+    "code": "STC",
+    "name": "COMBA TELECOM SYSTEMS HOLDINGS LIMITED",
+    "security_type": "share",
+    "shares_bought": 600000,
+    "ytd_consideration_sgd": 0.0,
+    "pct_issued": 0.18,
+    "mandate_consumed_pct": 1.8,
+    "programme_active": true,
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.083
   },
   {
     "code": "VC2",
@@ -465,18 +489,6 @@
     "mandate_consumed_pct": 5.04,
     "programme_active": false,
     "last_filing_date": "2025-07-10",
-    "consistency_score": 0.0
-  },
-  {
-    "code": "CLN",
-    "name": "APAC REALTY LIMITED",
-    "security_type": "share",
-    "shares_bought": 574600,
-    "ytd_consideration_sgd": 273122.19,
-    "pct_issued": 1.03,
-    "mandate_consumed_pct": 10.3,
-    "programme_active": false,
-    "last_filing_date": "2025-07-01",
     "consistency_score": 0.0
   },
   {
@@ -516,16 +528,16 @@
     "consistency_score": 0.0
   },
   {
-    "code": "5UX",
-    "name": "OXLEY HOLDINGS LIMITED",
+    "code": "CLN",
+    "name": "APAC REALTY LIMITED",
     "security_type": "share",
-    "shares_bought": 450000,
-    "ytd_consideration_sgd": 34102.79,
-    "pct_issued": 0.2418,
-    "mandate_consumed_pct": 2.42,
-    "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
+    "shares_bought": 443000,
+    "ytd_consideration_sgd": 211126.92,
+    "pct_issued": 1.07,
+    "mandate_consumed_pct": 10.7,
+    "programme_active": false,
+    "last_filing_date": "2025-07-01",
+    "consistency_score": 0.0
   },
   {
     "code": "XJB",
@@ -574,6 +586,18 @@
     "programme_active": false,
     "last_filing_date": "2025-09-26",
     "consistency_score": 0.0
+  },
+  {
+    "code": "K29",
+    "name": "KARIN TECHNOLOGY HLDGS LIMITED",
+    "security_type": "share",
+    "shares_bought": 269200,
+    "ytd_consideration_sgd": 68987.8,
+    "pct_issued": 1.579,
+    "mandate_consumed_pct": 15.79,
+    "programme_active": true,
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "S85",
@@ -648,28 +672,16 @@
     "consistency_score": 0.0
   },
   {
-    "code": "K29",
-    "name": "KARIN TECHNOLOGY HLDGS LIMITED",
-    "security_type": "share",
-    "shares_bought": 209200,
-    "ytd_consideration_sgd": 53589.3,
-    "pct_issued": 1.494,
-    "mandate_consumed_pct": 14.94,
-    "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
-  },
-  {
     "code": "S68",
     "name": "SINGAPORE EXCHANGE LIMITED",
     "security_type": "share",
-    "shares_bought": 169000,
-    "ytd_consideration_sgd": 4043693.0,
-    "pct_issued": 0.16,
-    "mandate_consumed_pct": 1.6,
+    "shares_bought": 206700,
+    "ytd_consideration_sgd": 4949369.0,
+    "pct_issued": 0.18,
+    "mandate_consumed_pct": 1.8,
     "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "T41",
@@ -681,6 +693,18 @@
     "mandate_consumed_pct": 2.64,
     "programme_active": true,
     "last_filing_date": "2026-06-25",
+    "consistency_score": 0.083
+  },
+  {
+    "code": "P52",
+    "name": "PAN-UNITED CORPORATION LTD.",
+    "security_type": "share",
+    "shares_bought": 100000,
+    "ytd_consideration_sgd": 136626.97,
+    "pct_issued": 0.14,
+    "mandate_consumed_pct": 1.4,
+    "programme_active": true,
+    "last_filing_date": "2026-06-29",
     "consistency_score": 0.083
   },
   {
@@ -723,13 +747,13 @@
     "code": "V03",
     "name": "VENTURE CORPORATION LIMITED",
     "security_type": "share",
-    "shares_bought": 29000,
-    "ytd_consideration_sgd": 483031.8,
-    "pct_issued": 0.0384,
-    "mandate_consumed_pct": 0.38,
+    "shares_bought": 37000,
+    "ytd_consideration_sgd": 619630.24,
+    "pct_issued": 0.0411,
+    "mandate_consumed_pct": 0.41,
     "programme_active": true,
-    "last_filing_date": "2026-06-26",
-    "consistency_score": 0.083
+    "last_filing_date": "2026-06-29",
+    "consistency_score": 0.167
   },
   {
     "code": "CHZ",

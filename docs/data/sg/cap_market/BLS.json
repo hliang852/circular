@@ -2,7 +2,7 @@
   "code": "BLS",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:02:25.485719+00:00",
+  "last_updated": "2026-06-29T22:48:55.989070+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -15,6 +15,11 @@
       "date": "2026-06-26",
       "volume": 7500,
       "value_sgd": 12300.0
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 25500,
+      "value_sgd": 41565.0
     }
   ],
   "short_selling_eligible": true

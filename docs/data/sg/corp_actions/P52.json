@@ -1,0 +1,30 @@
+{
+  "code": "P52",
+  "name": "PAN-UNITED CORPORATION LTD.",
+  "security_type": "share",
+  "currency": "SGD",
+  "last_updated": "2026-06-29T22:46:55.893347+00:00",
+  "free_float_pct": null,
+  "consistency_score": null,
+  "signal": null,
+  "mandate": {},
+  "summary": {},
+  "daily_returns": [
+    {
+      "date": "2026-06-29T10:08:20+00:00",
+      "filing_date": "2026-06-29T10:08:20+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/LOZ3HW3U5ZL4VMLL/b850301de82a27e3c9baa47c794495f75a90e062a296f6305a2ee60d3d1d5d4a",
+      "shares_repurchased": 100000,
+      "price_high": 1.362,
+      "price_low": 1.362,
+      "consideration_sgd": 136626.97,
+      "cum_ytd_pct": 0.14,
+      "max_mandate_shares": 70037812,
+      "on_market_shares": 100000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    }
+  ],
+  "issuances": [],
+  "results_dates": []
+}

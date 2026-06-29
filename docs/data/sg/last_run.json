@@ -1,29 +1,29 @@
 {
   "cap_market": {
-    "last_scrape": "2026-06-26T23:02:26.490514+00:00",
+    "last_scrape": "2026-06-29T22:48:56.841170+00:00",
     "mode": "incremental",
     "stats": {
       "stocks_touched": 234,
       "errors": 0,
-      "short_days_fetched": 3
+      "short_days_fetched": 1
     }
   },
   "di": {
-    "last_scrape": "2026-06-26T22:59:07.060722+00:00",
+    "last_scrape": "2026-06-29T22:46:37.515558+00:00",
     "mode": "incremental",
     "stats": {
-      "fetched": 32,
-      "dispatched": 32,
+      "fetched": 38,
+      "dispatched": 38,
       "errors": 0,
       "skipped": 0
     }
   },
   "corp_actions": {
-    "last_scrape": "2026-06-26T23:01:34.973731+00:00",
+    "last_scrape": "2026-06-29T22:48:02.879035+00:00",
     "mode": "incremental",
     "stats": {
-      "fetched": 57,
-      "dispatched": 57,
+      "fetched": 34,
+      "dispatched": 34,
       "errors": 0,
       "skipped": 0
     }
