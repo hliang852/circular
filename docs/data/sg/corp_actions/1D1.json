@@ -3,7 +3,7 @@
   "name": "UNUSUAL LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-25T19:34:20.242684+00:00",
+  "last_updated": "2026-06-30T23:06:07.997664+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -35,34 +35,6 @@
       "price_low": 0.075,
       "consideration_sgd": 75180.24,
       "cum_ytd_pct": 0.3123,
-      "max_mandate_shares": 102917929,
-      "parse_failed": false
-    },
-    {
-      "date": "2025-07-01T11:59:52+00:00",
-      "filing_date": "2025-07-01T11:59:52+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/VR9J6ICAODSG8E2H/6d70b1ab078a77e90265a48867ec28e2a3a781945406aef855d9f821c25443cf",
-      "shares_repurchased": 1500000,
-      "on_market_shares": 1500000,
-      "off_market_shares": 0,
-      "price_high": 0.075,
-      "price_low": 0.075,
-      "consideration_sgd": 112770.16,
-      "cum_ytd_pct": 0.2151,
-      "max_mandate_shares": 102917929,
-      "parse_failed": false
-    },
-    {
-      "date": "2025-07-01T04:20:18+00:00",
-      "filing_date": "2025-07-01T04:20:18+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/BH505Y92PWVG24BO/5b2ccc30b7efba194d9e2ccb4ead0bd84ecf4380ef4cd2dec87be1fddc436c1a",
-      "shares_repurchased": 714100,
-      "on_market_shares": 714100,
-      "off_market_shares": 0,
-      "price_high": 0.075,
-      "price_low": 0.075,
-      "consideration_sgd": 53686.32,
-      "cum_ytd_pct": 0.0694,
       "max_mandate_shares": 102917929,
       "parse_failed": false
     },
@@ -428,6 +400,11 @@
       "date": "2025-11-10T11:41:51+00:00",
       "type": "other",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/8YD68SB32LPWY4XD/215c60903fe9e824fa310d90f886c6bd975d8ad94234d767ce885cc3557cb5b4"
+    },
+    {
+      "date": "2026-06-30T11:00:32+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/B3V928Y8G27ZIJDE/912574cfa189b3dee984960408c87e625b5e04b9db8ac9c397ab126f3b40726c"
     }
   ]
 }

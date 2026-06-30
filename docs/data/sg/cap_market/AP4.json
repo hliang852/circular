@@ -2,7 +2,7 @@
   "code": "AP4",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:33.989171+00:00",
+  "last_updated": "2026-06-30T23:07:10.672661+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 2115600,
       "value_sgd": 1798260.05
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 1187100,
+      "value_sgd": 1014970.52
     }
   ],
   "short_selling_eligible": true

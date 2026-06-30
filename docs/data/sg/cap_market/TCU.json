@@ -2,7 +2,7 @@
   "code": "TCU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:49.957982+00:00",
+  "last_updated": "2026-06-30T23:07:25.008258+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 38100,
       "value_sgd": 43434.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 10600,
+      "value_sgd": 12084.0
     }
   ],
   "short_selling_eligible": false

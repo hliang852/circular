@@ -2,7 +2,7 @@
   "code": "EH5",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:35.993973+00:00",
+  "last_updated": "2026-06-30T23:07:12.525175+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 0,
       "value_sgd": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 2300,
+      "value_sgd": 1357.0
     }
   ],
   "short_selling_eligible": false

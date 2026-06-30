@@ -2,7 +2,7 @@
   "code": "G07",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:22.496670+00:00",
+  "last_updated": "2026-06-30T23:07:00.580554+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 9000,
       "value_sgd": 145350.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 24000,
+      "value_sgd": 388320.01
     }
   ],
   "short_selling_eligible": true

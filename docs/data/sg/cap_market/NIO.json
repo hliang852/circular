@@ -2,7 +2,7 @@
   "code": "NIO",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:23.214586+00:00",
+  "last_updated": "2026-06-30T23:07:01.281942+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 249120,
       "value_sgd": 1215705.63
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 167030,
+      "value_sgd": 823457.87
     }
   ],
   "short_selling_eligible": true

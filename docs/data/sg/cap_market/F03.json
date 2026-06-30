@@ -2,7 +2,7 @@
   "code": "F03",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:32.447399+00:00",
+  "last_updated": "2026-06-30T23:07:09.240187+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 365900,
       "value_sgd": 859864.97
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 731300,
+      "value_sgd": 1733180.92
     }
   ],
   "short_selling_eligible": true

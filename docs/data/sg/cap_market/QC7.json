@@ -2,7 +2,7 @@
   "code": "QC7",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:41.107024+00:00",
+  "last_updated": "2026-06-30T23:07:17.423393+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 603600,
       "value_sgd": 334998.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 511400,
+      "value_sgd": 281270.01
     }
   ],
   "short_selling_eligible": true

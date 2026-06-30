@@ -2,7 +2,7 @@
   "code": "ZQM",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:42.826561+00:00",
+  "last_updated": "2026-06-30T23:07:18.925812+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 84000,
       "value_sgd": 56700.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 401900,
+      "value_sgd": 269273.01
     }
   ],
   "short_selling_eligible": false

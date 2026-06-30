@@ -2,7 +2,7 @@
   "code": "M1GU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:40.803249+00:00",
+  "last_updated": "2026-06-30T23:07:17.042831+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,7 +20,12 @@
       "date": "2026-06-29",
       "volume": 529800,
       "value_sgd": 251655.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 386300,
+      "value_sgd": 185424.0
     }
   ],
-  "short_selling_eligible": false
+  "short_selling_eligible": true
 }

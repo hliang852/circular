@@ -3,7 +3,7 @@
   "name": "WINKING STUDIOS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-26T23:00:01.214768+00:00",
+  "last_updated": "2026-06-30T23:04:58.326264+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -35,6 +35,34 @@
       "cum_ytd_pct": 0.08,
       "max_mandate_shares": 44193811,
       "on_market_shares": 50500,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-30T15:40:14+00:00",
+      "filing_date": "2026-06-30T15:40:14+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/GNOO311L5VU3VPKP/7248fd3011e176b5403b9523cb3c97ca6a7e9be5e73fdabb47d3c02db6ddbcde",
+      "shares_repurchased": 275600,
+      "price_high": 0.22095,
+      "price_low": 0.22095,
+      "consideration_sgd": 61052.15,
+      "cum_ytd_pct": 0.15,
+      "max_mandate_shares": 44193811,
+      "on_market_shares": 275600,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-29T23:30:11+00:00",
+      "filing_date": "2026-06-29T23:30:11+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/QPQIJ3JKPKKOBO43/17a1f0d647d62dfb46604f75570c3474726efddf8ebd53356534cd5813453584",
+      "shares_repurchased": 20000,
+      "price_high": 0.22,
+      "price_low": 0.22,
+      "consideration_sgd": 4426.76,
+      "cum_ytd_pct": 0.088,
+      "max_mandate_shares": 44193811,
+      "on_market_shares": 20000,
       "off_market_shares": 0,
       "parse_failed": false
     }

@@ -2,7 +2,7 @@
   "code": "TSH",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:43.286570+00:00",
+  "last_updated": "2026-06-30T23:07:19.302260+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 12800,
       "value_sgd": 4672.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 400,
+      "value_sgd": 146.0
     }
   ],
   "short_selling_eligible": false

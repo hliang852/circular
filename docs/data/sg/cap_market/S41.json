@@ -2,7 +2,7 @@
   "code": "S41",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:35.747669+00:00",
+  "last_updated": "2026-06-30T23:07:12.259957+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 131100,
       "value_sgd": 326439.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 71800,
+      "value_sgd": 178782.0
     }
   ],
   "short_selling_eligible": true

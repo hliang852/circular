@@ -3,7 +3,7 @@
   "name": "LUM CHANG CREATIONS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:47:20.015562+00:00",
+  "last_updated": "2026-06-30T23:05:52.359321+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -11,6 +11,15 @@
   "summary": {},
   "daily_returns": [],
   "issuances": [
+    {
+      "date": "2026-06-29T13:19:32+00:00",
+      "type": "bonus_issue",
+      "label": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
+      "shares": null,
+      "consideration_sgd": null,
+      "price_per_share": null,
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/SMBWKY9AD6IQUT1D/1892cdb45a95ebaa5663b2c7bc639b47c37f38115885ee28f43af0fd7c63b221"
+    },
     {
       "date": "2026-06-29T13:19:32+00:00",
       "type": "bonus_issue",

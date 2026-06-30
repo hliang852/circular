@@ -2,7 +2,7 @@
   "code": "N02",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:46.825014+00:00",
+  "last_updated": "2026-06-30T23:07:22.507541+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 0,
       "value_sgd": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 1000,
+      "value_sgd": 885.0
     }
   ],
   "short_selling_eligible": true

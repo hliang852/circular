@@ -2,7 +2,7 @@
   "code": "AGS",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:32.296673+00:00",
+  "last_updated": "2026-06-30T23:07:09.032250+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 130300,
       "value_sgd": 345295.01
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 30800,
+      "value_sgd": 80696.0
     }
   ],
   "short_selling_eligible": false

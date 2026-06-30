@@ -2,7 +2,7 @@
   "code": "1D0",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:42.558445+00:00",
+  "last_updated": "2026-06-30T23:07:18.682563+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 170300,
       "value_sgd": 67268.5
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 77900,
+      "value_sgd": 30770.5
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "H18",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:48:41.573472+00:00",
+  "last_updated": "2026-06-30T23:07:17.832205+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -20,6 +20,11 @@
       "date": "2026-06-29",
       "volume": 21700,
       "value_sgd": 15841.0
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 3000,
+      "value_sgd": 2205.0
     }
   ],
   "short_selling_eligible": true

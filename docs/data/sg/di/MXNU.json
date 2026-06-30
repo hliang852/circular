@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-29T22:45:38.852507+00:00",
+  "last_updated": "2026-06-30T23:03:36.303228+00:00",
   "shareholders": [],
   "history": [
     {
@@ -209,6 +209,23 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest by Director - Tan Hai Peng Micheal",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/YHGRNMBRAHLEIA8N/0f2086afea0eb6fda278fb386d575e1264986878e76c1703f7484dd9dbc41935",
+      "parse_failed": true
+    },
+    {
+      "name": "Liaw Liang Huat Joshua",
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-29T10:42:53+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest by CEO - Liaw Liang Huat Joshua",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/UXGNDBUZXAAK4O5W/0562540e44614b5c91ca0a635550676812f863703fe4dfb3cca6023d02262f77",
       "parse_failed": true
     },
     {

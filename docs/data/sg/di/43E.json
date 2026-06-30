@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-25T13:23:29.051545+00:00",
+  "last_updated": "2026-06-30T23:01:59.230101+00:00",
   "shareholders": [],
   "history": [
     {
@@ -73,6 +73,23 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Ceasing to be a Substantial Shareholder - Tan Soo Kia",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/22JEAWFOXRCNP4KU/72d83ad08990f3dfef6a02169c8a0096d7ff559d6449a32db0183fe8615ef3db",
+      "parse_failed": true
+    },
+    {
+      "name": null,
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-30T12:15:18+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Ms Tang Zhengming's Interest",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/OWAMYQFW9SYJSSQM/894b887e15dd9940abd4c3be7277f174fb055b0168c830765f25e17d02413235",
       "parse_failed": true
     }
   ]
