@@ -1,7 +1,7 @@
 {
   "code": "01519",
   "name": "J&T GLOBAL EXPRESS LTD. - W",
-  "last_scraped": "2026-06-17T23:36:12Z",
+  "last_scraped": "2026-06-30T23:15:40Z",
   "shareholders": [
     {
       "name": "Exceeding Summit Holding Limited",
@@ -210,19 +210,6 @@
       "filing_date": "2024-05-17",
       "form_type": "Form 2",
       "notice_type": "Current"
-    },
-    {
-      "name": "Boyu Capital Fund IV, L.P.",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 468009297,
-      "long_position_pct": 5.79,
-      "short_position_shares": 0,
-      "short_position_pct": 0.0,
-      "relevant_event_date": "2024-05-17",
-      "filing_date": "2024-05-17",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
@@ -327,6 +314,14 @@
       "long_position_pct": 5.02,
       "relevant_event_date": "2026-05-18",
       "filing_date": "2026-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Boyu Capital Fund IV, L.P.",
+      "long_position_pct": 4.99,
+      "relevant_event_date": "2026-04-30",
+      "filing_date": "2026-06-30",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

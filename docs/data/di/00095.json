@@ -1,0 +1,2204 @@
+{
+  "code": "00095",
+  "name": "LVGEM (CHINA) REAL ESTATE INVESTMENT CO. LTD.",
+  "last_scraped": "2026-06-30T23:06:24Z",
+  "shareholders": [
+    {
+      "name": "Wong Hong King",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 4749952572,
+      "long_position_pct": 93.18,
+      "short_position_shares": 598000000,
+      "short_position_pct": 11.73,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Jingshu",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 4726062492,
+      "long_position_pct": 74.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 4726062492,
+      "long_position_pct": 74.27,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-27",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Evergreen Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2400000000,
+      "long_position_pct": 48.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Kinson Group Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2400000000,
+      "long_position_pct": 48.63,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2400000000,
+      "long_position_pct": 48.58,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Go Great International Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 2065952572,
+      "long_position_pct": 40.53,
+      "short_position_shares": 598000000,
+      "short_position_pct": 11.73,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Huang Hao Yuan",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 2400000000,
+      "long_position_pct": 37.71,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-27",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1166789698,
+      "long_position_pct": 20.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1166789698,
+      "long_position_pct": 20.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1166789698,
+      "long_position_pct": 20.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1166789698,
+      "long_position_pct": 20.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-07",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1060000000,
+      "long_position_pct": 20.79,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-03",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1266062492,
+      "long_position_pct": 19.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 1266062492,
+      "long_position_pct": 19.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1266062492,
+      "long_position_pct": 19.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1144536000,
+      "long_position_pct": 17.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1144536000,
+      "long_position_pct": 17.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 1144536000,
+      "long_position_pct": 17.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 538288886,
+      "long_position_pct": 8.89,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 459788886,
+      "long_position_pct": 7.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 459788886,
+      "long_position_pct": 7.59,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Proud Pine Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 284000000,
+      "long_position_pct": 5.57,
+      "short_position_shares": 284000000,
+      "short_position_pct": 5.57,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "Huang Hao Yuan",
+      "long_position_pct": 37.71,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 74.27,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 74.27,
+      "relevant_event_date": "2026-06-27",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 17.99,
+      "relevant_event_date": "2025-11-12",
+      "filing_date": "2025-11-17",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 19.89,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 18.2,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 18.2,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 74.34,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 18.2,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 74.34,
+      "relevant_event_date": "2025-10-17",
+      "filing_date": "2025-10-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "long_position_pct": 20.9,
+      "relevant_event_date": "2025-09-18",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "long_position_pct": 20.9,
+      "relevant_event_date": "2025-09-18",
+      "filing_date": "2025-09-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 7.59,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 7.59,
+      "relevant_event_date": "2025-05-19",
+      "filing_date": "2025-05-21",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 19.97,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 19.97,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 19.97,
+      "relevant_event_date": "2025-03-31",
+      "filing_date": "2025-04-03",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "long_position_pct": 20.9,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "long_position_pct": 20.9,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 20.9,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 20.28,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 20.28,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 78.09,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 20.28,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 78.09,
+      "relevant_event_date": "2025-03-11",
+      "filing_date": "2025-03-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 23.52,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 23.52,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 22.86,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 23.52,
+      "relevant_event_date": "2025-03-06",
+      "filing_date": "2025-03-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 9.62,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 9.62,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-02-07",
+      "filing_date": "2025-02-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 9.62,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 20.84,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 9.62,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity of the Receiver)",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity of the Receiver)",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2025-01-10",
+      "filing_date": "2025-01-15",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 22.62,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 84.51,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 84.51,
+      "relevant_event_date": "2024-12-04",
+      "filing_date": "2024-12-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 20.44,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 20.44,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 20.44,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 20.44,
+      "relevant_event_date": "2024-07-17",
+      "filing_date": "2024-07-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 40.53,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Proud Pine Limited",
+      "long_position_pct": 5.57,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 93.18,
+      "relevant_event_date": "2023-08-04",
+      "filing_date": "2023-08-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 20.79,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 92.8,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 92.8,
+      "relevant_event_date": "2023-08-03",
+      "filing_date": "2023-08-08",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Asia Opportunity Fund L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pacific Alliance Group Asset Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pacific Alliance Group Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Pacific Alliance Investment Management Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "PAG",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Shan Weijian",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-06-01",
+      "filing_date": "2023-06-02",
+      "form_type": "Form 1",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Shan Weijian",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2023-04-26",
+      "filing_date": "2023-05-25",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital Credit Member, LLC",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital DSS Loan Aggregator, L.P.",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-03-31",
+      "filing_date": "2023-11-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 29.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 29.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 29.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital Credit Member, LLC",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Bain Capital DSS Loan Aggregator, L.P.",
+      "long_position_pct": 5.27,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 29.05,
+      "relevant_event_date": "2023-03-17",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity as the Receiver)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FUNG Kenneth (in the capacity as the Receiver)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GARDNER Aaron Luke (in the capacity as the Receiver)",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2023-03-16",
+      "filing_date": "2023-03-22",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FOK Hei Yu (in the capacity as the Receiver)",
+      "long_position_pct": 37.18,
+      "relevant_event_date": "2023-02-02",
+      "filing_date": "2023-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "FUNG Kenneth (in the capacity as the Receiver)",
+      "long_position_pct": 37.18,
+      "relevant_event_date": "2023-02-02",
+      "filing_date": "2023-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Gardner Aaron Luke (in the capacity as the Receiver)",
+      "long_position_pct": 37.18,
+      "relevant_event_date": "2023-02-02",
+      "filing_date": "2023-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Shan Weijian",
+      "long_position_pct": 5.13,
+      "relevant_event_date": "2022-12-16",
+      "filing_date": "2023-02-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 4.56,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 4.56,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 40.52,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 93.17,
+      "relevant_event_date": "2022-05-17",
+      "filing_date": "2022-05-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chang Dawei",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-24",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chase Profit Investment Holdings Limited",
+      "long_position_pct": 4.85,
+      "relevant_event_date": "2022-03-21",
+      "filing_date": "2022-03-24",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Chang Dawei",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chase Profit Investment Holdings Limited",
+      "long_position_pct": 5.83,
+      "relevant_event_date": "2022-01-07",
+      "filing_date": "2022-01-11",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Toplist Investments Limited",
+      "long_position_pct": 4.29,
+      "relevant_event_date": "2021-12-31",
+      "filing_date": "2022-01-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 91.03,
+      "relevant_event_date": "2021-12-07",
+      "filing_date": "2021-12-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital Credit Member, LLC",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital DSS Loan Aggregator, L.P.",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 15.46,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 38.23,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 24.84,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 92.8,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-02",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 90.88,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 92.8,
+      "relevant_event_date": "2021-11-30",
+      "filing_date": "2021-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 92.03,
+      "relevant_event_date": "2021-11-25",
+      "filing_date": "2021-11-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 20.79,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 88.98,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 25.83,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-10",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 88.98,
+      "relevant_event_date": "2021-11-05",
+      "filing_date": "2021-11-09",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 20.79,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 39.07,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-04",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 88.98,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 91.72,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 88.98,
+      "relevant_event_date": "2021-11-02",
+      "filing_date": "2021-11-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital Credit Member, LLC",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital DSS Loan Aggregator, L.P.",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 13.55,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-10-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 43.53,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 21.01,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 84.07,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 96.18,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 84.07,
+      "relevant_event_date": "2021-09-21",
+      "filing_date": "2021-09-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 17.4,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 80.46,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 80.46,
+      "relevant_event_date": "2021-07-08",
+      "filing_date": "2021-07-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 17.34,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 80.4,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 80.4,
+      "relevant_event_date": "2021-07-07",
+      "filing_date": "2021-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 46.65,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 17.34,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 80.4,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 99.31,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 80.4,
+      "relevant_event_date": "2021-06-28",
+      "filing_date": "2021-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital Credit Member, LLC",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Bain Capital DSS Loan Aggregator, L.P.",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 11.76,
+      "relevant_event_date": "2021-06-16",
+      "filing_date": "2021-06-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-20",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-04-15",
+      "filing_date": "2021-04-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Capital I GP Limited",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Holdings Limited",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "ARTE Special Situation Fund, L.P.",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chan Tak Ho",
+      "long_position_pct": 10.72,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 55.72,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 108.37,
+      "relevant_event_date": "2021-04-14",
+      "filing_date": "2021-04-19",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 55.72,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Grand Beyond Limited",
+      "long_position_pct": 8.18,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 108.37,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 71.24,
+      "relevant_event_date": "2021-04-09",
+      "filing_date": "2021-04-14",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 7.6,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 6.39,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Decrease"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 7.6,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-23",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 60.71,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-20",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 69.05,
+      "relevant_event_date": "2020-11-18",
+      "filing_date": "2020-11-20",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Asia Opportunity Fund L.P.",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Group Asset Management Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Group Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Pacific Alliance Investment Management Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "PAG Holdings Limited",
+      "long_position_pct": 5.16,
+      "relevant_event_date": "2020-06-29",
+      "filing_date": "2020-07-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 23.62,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 59.91,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 21.14,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 21.14,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 23.62,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 21.14,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 68.19,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 23.62,
+      "relevant_event_date": "2020-03-24",
+      "filing_date": "2020-03-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 17.98,
+      "relevant_event_date": "2020-01-23",
+      "filing_date": "2020-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 70.65,
+      "relevant_event_date": "2019-11-27",
+      "filing_date": "2019-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 72.57,
+      "relevant_event_date": "2019-11-27",
+      "filing_date": "2019-12-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Au Yun Yiu",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2020-05-05",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Xu Jun Jia",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-11-11",
+      "filing_date": "2019-11-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Au Yun Yiu",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-23",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 18.23,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 18.23,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 18.23,
+      "relevant_event_date": "2019-10-18",
+      "filing_date": "2019-10-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "All Group Wise International (Holdings) Limited",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Au Yun Yiu",
+      "long_position_pct": 18.59,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 63.33,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 71.45,
+      "relevant_event_date": "2019-10-11",
+      "filing_date": "2019-10-16",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 81.92,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Proud Pine Limited",
+      "long_position_pct": 8.12,
+      "relevant_event_date": "2019-10-10",
+      "filing_date": "2019-10-15",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Development Fund (GP) Limited",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Greater Bay Area Homeland Investments Limited",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Poly Platinum Enterprises Limited",
+      "long_position_pct": 5.69,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-16",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 90.05,
+      "relevant_event_date": "2019-09-13",
+      "filing_date": "2019-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 23.45,
+      "relevant_event_date": "2019-01-15",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 72.01,
+      "relevant_event_date": "2019-01-15",
+      "filing_date": "2019-01-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Cantrust (Far East) Limited",
+      "long_position_pct": 48.58,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Hao Yuan",
+      "long_position_pct": 48.67,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Huang Jingshu",
+      "long_position_pct": 48.67,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Trustees (B.V.I.) Limited",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2018-10-03",
+      "filing_date": "2018-10-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 22.71,
+      "relevant_event_date": "2018-09-13",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 71.29,
+      "relevant_event_date": "2018-09-13",
+      "filing_date": "2018-09-18",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Evergreen Holdings Limited",
+      "long_position_pct": 48.63,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 22.7,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kinson Group Limited",
+      "long_position_pct": 48.63,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Trustees (B.V.I.) Limited",
+      "long_position_pct": 48.63,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-28",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 71.32,
+      "relevant_event_date": "2018-02-26",
+      "filing_date": "2018-02-28",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 90.68,
+      "relevant_event_date": "2018-02-21",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 90.68,
+      "relevant_event_date": "2018-02-21",
+      "filing_date": "2018-02-26",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Evergreen Holdings Limited",
+      "long_position_pct": 49.97,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 23.32,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Kinson Group Limited",
+      "long_position_pct": 49.97,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-03-01",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "UBS Trustees (B.V.I.) Limited",
+      "long_position_pct": 49.97,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-19",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 73.29,
+      "relevant_event_date": "2018-02-14",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Go Great International Limited",
+      "long_position_pct": 22.02,
+      "relevant_event_date": "2018-02-13",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Wong Hong King",
+      "long_position_pct": 72.84,
+      "relevant_event_date": "2018-02-13",
+      "filing_date": "2018-02-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2018-01-31",
+      "filing_date": "2018-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 8.98,
+      "relevant_event_date": "2018-01-31",
+      "filing_date": "2018-01-31",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "UBS Trustees (B.V.I.) Limited",
+      "long_position_pct": 50.82,
+      "relevant_event_date": "2018-01-18",
+      "filing_date": "2018-01-22",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Central Huijin Investment Ltd.",
+      "long_position_pct": 9.28,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Construction Bank Corporation",
+      "long_position_pct": 9.28,
+      "relevant_event_date": "2018-01-16",
+      "filing_date": "2018-01-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

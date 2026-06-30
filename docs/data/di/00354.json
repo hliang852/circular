@@ -1,18 +1,18 @@
 {
   "code": "00354",
   "name": "CHINASOFT INTERNATIONAL LTD.",
-  "last_scraped": "2026-06-02T23:33:00Z",
+  "last_scraped": "2026-06-30T23:07:34Z",
   "shareholders": [
     {
       "name": "Chen Yuhong",
       "capacity": "Associated Entity",
       "entity_type": "corporate",
-      "long_position_shares": 324988861,
-      "long_position_pct": 11.9,
+      "long_position_shares": 327988861,
+      "long_position_pct": 12.01,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-02",
-      "filing_date": "2026-04-02",
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
       "form_type": "Form 3A",
       "notice_type": "Current"
     },
@@ -20,12 +20,12 @@
       "name": "Bank of Communications Trustee Limited",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 248016878,
-      "long_position_pct": 9.07,
+      "long_position_shares": 274062438,
+      "long_position_pct": 10.03,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-05-29",
-      "filing_date": "2026-05-29",
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-25",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -44,6 +44,22 @@
     }
   ],
   "history": [
+    {
+      "name": "Bank of Communications Trustee Limited",
+      "long_position_pct": 10.03,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Chen Yuhong",
+      "long_position_pct": 12.01,
+      "relevant_event_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
     {
       "name": "Bank of Communications Trustee Limited",
       "long_position_pct": 9.07,

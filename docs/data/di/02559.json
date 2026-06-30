@@ -1,0 +1,995 @@
+{
+  "code": "02559",
+  "name": "DIDA INC.",
+  "last_scraped": "2026-06-30T23:21:06Z",
+  "shareholders": [
+    {
+      "name": "Duan Jianbo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 664063866,
+      "long_position_pct": 65.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhu Min",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 659873289,
+      "long_position_pct": 64.8,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-07",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Duan Jianbo",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 639958776,
+      "long_position_pct": 62.84,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Song Zhongjie",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 639768199,
+      "long_position_pct": 62.82,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Jinlong",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 636966629,
+      "long_position_pct": 62.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Li Yuejun",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 636966629,
+      "long_position_pct": 62.55,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "5brothers Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Amber Cultural Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "GDP Holding Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Golden Bay Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "More & More Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Sweet Creation Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhu Min",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 635768199,
+      "long_position_pct": 62.43,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEAP PROFIT INVESTMENT LIMITED",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "NIO Inc.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "上海蔚郁企业管理咨询合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "宁波保税区蔚旭企业管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "湖北长江蔚来新能源产业发展基金合伙企业（有限合伙）",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "湖北长江蔚来新能源投资管理有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-06-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "蔚然（南京）动力科技有限公司",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 168888700,
+      "long_position_pct": 16.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-13",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 99637504,
+      "long_position_pct": 9.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "IDG China Venture Capital Fund GP IV Associates Ltd.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 99637504,
+      "long_position_pct": 9.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-01-17",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Zhou Quan",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 99637504,
+      "long_position_pct": 9.78,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-01-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV Associates L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81405083,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV L.P.",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 81405083,
+      "long_position_pct": 7.99,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-01-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wang Yizhi",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 61713431,
+      "long_position_pct": 6.21,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-06-28",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "China Harvest Fund III, L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III GP",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III, L.P.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eastnor Castle Limited",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SILVERCOMB WORLDWIDE LTD.",
+      "long_position_pct": 4.97,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV Associates L.P.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV L.P.",
+      "long_position_pct": 7.99,
+      "relevant_event_date": "2026-01-28",
+      "filing_date": "2026-02-02",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Harvest Fund III, L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Renaissance Capital Investment III GP",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "China Renaissance Capital Investment III, L.P.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Eastnor Castle Limited",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 1",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "SILVERCOMB WORLDWIDE LTD.",
+      "long_position_pct": 5.87,
+      "relevant_event_date": "2026-01-13",
+      "filing_date": "2026-01-14",
+      "form_type": "Form 2",
+      "notice_type": "Increase"
+    },
+    {
+      "name": "5brothers Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Amber Cultural Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 62.84,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 65.21,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2025-12-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GDP Holding Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Bay Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jinlong",
+      "long_position_pct": 62.55,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yuejun",
+      "long_position_pct": 62.55,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "More & More Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Song Zhongjie",
+      "long_position_pct": 62.82,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sweet Creation Limited",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 62.43,
+      "relevant_event_date": "2025-12-31",
+      "filing_date": "2026-04-27",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 0.0,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 22.64,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-13",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 64.8,
+      "relevant_event_date": "2025-11-07",
+      "filing_date": "2025-11-12",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 65.21,
+      "relevant_event_date": "2025-09-30",
+      "filing_date": "2025-09-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Bin",
+      "long_position_pct": 22.64,
+      "relevant_event_date": "2025-07-30",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 65.21,
+      "relevant_event_date": "2025-06-30",
+      "filing_date": "2025-09-09",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 65.21,
+      "relevant_event_date": "2025-04-22",
+      "filing_date": "2025-04-23",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG China Venture Capital Fund GP IV Associates Ltd.",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 9.78,
+      "relevant_event_date": "2025-01-17",
+      "filing_date": "2025-10-02",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Harvest Fund III, L.P.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Harvest Fund III, L.P.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III GP",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III GP",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III, L.P.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III, L.P.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eastnor Castle Limited",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eastnor Castle Limited",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SILVERCOMB WORLDWIDE LTD.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-08-04",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SILVERCOMB WORLDWIDE LTD.",
+      "long_position_pct": 6.99,
+      "relevant_event_date": "2025-01-02",
+      "filing_date": "2025-07-31",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 23.2,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "NIO Inc.",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "宁波保税区蔚旭企业管理有限公司",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "蔚然（南京）动力科技有限公司",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-11-13",
+      "filing_date": "2024-11-18",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "5brothers Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Amber Cultural Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Harvest Fund III, L.P.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III GP",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "China Renaissance Capital Investment III, L.P.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Duan Jianbo",
+      "long_position_pct": 66.71,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Eastnor Castle Limited",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "GDP Holding Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Golden Bay Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Ho Chi Sing",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG China Venture Capital Fund GP IV Associates Ltd.",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV Associates L.P.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "IDG China Venture Capital Fund IV L.P.",
+      "long_position_pct": 8.89,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEAP PROFIT INVESTMENT LIMITED",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI BIN",
+      "long_position_pct": 6.21,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Jinlong",
+      "long_position_pct": 66.51,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Li Yuejun",
+      "long_position_pct": 66.51,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "More&More Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-10",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Qiu Mark",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "SILVERCOMB WORLDWIDE LTD.",
+      "long_position_pct": 7.0,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-09",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Song Zhongjie",
+      "long_position_pct": 66.79,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Sweet Creation Limited",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wang Yizhi",
+      "long_position_pct": 6.21,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhou Quan",
+      "long_position_pct": 10.02,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-12",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Zhu Min",
+      "long_position_pct": 66.39,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-14",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "上海蔚郁企业管理咨询合伙企业（有限合伙）",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "湖北长江蔚来新能源产业发展基金合伙企业（有限合伙）",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "湖北长江蔚来新能源投资管理有限公司",
+      "long_position_pct": 16.99,
+      "relevant_event_date": "2024-06-28",
+      "filing_date": "2024-07-05",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    }
+  ]
+}

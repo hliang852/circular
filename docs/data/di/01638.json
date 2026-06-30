@@ -1,7 +1,7 @@
 {
   "code": "01638",
   "name": "KAISA GROUP HOLDINGS LTD.",
-  "last_scraped": "2026-06-04T23:18:47Z",
+  "last_scraped": "2026-06-30T23:15:58Z",
   "shareholders": [
     {
       "name": "Chan Nog",
@@ -340,9 +340,30 @@
       "filing_date": "2025-10-16",
       "form_type": "Form 2",
       "notice_type": "Current"
+    },
+    {
+      "name": "Marshall Wace LLP",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 513227557,
+      "long_position_pct": 5.03,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "form_type": "Form 2",
+      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Marshall Wace LLP",
+      "long_position_pct": 5.03,
+      "relevant_event_date": "2026-06-26",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 3.01,

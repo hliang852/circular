@@ -1,0 +1,130 @@
+{
+  "code": "00050",
+  "name": "HONG KONG FERRY (HOLDINGS) CO. LTD.",
+  "last_scraped": "2026-06-30T23:05:42Z",
+  "shareholders": [
+    {
+      "name": "LI Ning",
+      "capacity": "Associated Entity",
+      "entity_type": "corporate",
+      "long_position_shares": 121600870,
+      "long_position_pct": 34.13,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 3A",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEE Ka Kit",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 120801590,
+      "long_position_pct": 33.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 120801590,
+      "long_position_pct": 33.91,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "capacity": "Beneficial Owner",
+      "entity_type": "individual",
+      "long_position_shares": 119017090,
+      "long_position_pct": 33.41,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-17",
+      "form_type": "Form 1",
+      "notice_type": "Current"
+    },
+    {
+      "name": "Wiselin Investment Limited",
+      "capacity": "Beneficial Owner",
+      "entity_type": "corporate",
+      "long_position_shares": 50601590,
+      "long_position_pct": 14.2,
+      "short_position_shares": 0,
+      "short_position_pct": 0.0,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "form_type": "Form 2",
+      "notice_type": "Current"
+    }
+  ],
+  "history": [
+    {
+      "name": "LEE Ka Kit",
+      "long_position_pct": 33.91,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Ka Shing",
+      "long_position_pct": 33.91,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Ning",
+      "long_position_pct": 34.13,
+      "relevant_event_date": "2026-06-29",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LI Ning",
+      "long_position_pct": 33.91,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 3A",
+      "notice_type": "Change"
+    },
+    {
+      "name": "Wiselin Investment Limited",
+      "long_position_pct": 14.2,
+      "relevant_event_date": "2026-04-28",
+      "filing_date": "2026-04-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 33.41,
+      "relevant_event_date": "2025-03-17",
+      "filing_date": "2025-03-21",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
+    {
+      "name": "LEE Shau Kee",
+      "long_position_pct": 33.63,
+      "relevant_event_date": "2020-05-29",
+      "filing_date": "2020-07-17",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "code": "01372",
   "name": "CHINA CARBON NEUTRAL DEVELOPMENT GROUP LTD.",
-  "last_scraped": "2026-06-22T23:33:45Z",
+  "last_scraped": "2026-06-30T23:15:11Z",
   "shareholders": [
     {
       "name": "TSE SIU LING",
@@ -215,12 +215,12 @@
       "name": "SHA Tao",
       "capacity": "Beneficial Owner",
       "entity_type": "individual",
-      "long_position_shares": 162330000,
+      "long_position_shares": 162410000,
       "long_position_pct": 16.56,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-06-17",
-      "filing_date": "2026-06-17",
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-22",
       "form_type": "Form 1",
       "notice_type": "Current"
     },
@@ -408,6 +408,14 @@
     }
   ],
   "history": [
+    {
+      "name": "SHA Tao",
+      "long_position_pct": 16.56,
+      "relevant_event_date": "2026-06-22",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 1",
+      "notice_type": "Change"
+    },
     {
       "name": "Chai Ming",
       "long_position_pct": 4.08,

@@ -1,7 +1,7 @@
 {
   "code": "00293",
   "name": "CATHAY PACIFIC AIRWAYS LTD.",
-  "last_scraped": "2026-06-29T22:52:18Z",
+  "last_scraped": "2026-06-30T23:06:50Z",
   "shareholders": [
     {
       "name": "Air China Limited",
@@ -137,17 +137,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 310975277,
-      "long_position_pct": 5.11,
-      "short_position_shares": 178923596,
-      "short_position_pct": 2.94,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
+      "long_position_shares": 314873466,
+      "long_position_pct": 5.17,
+      "short_position_shares": 189991446,
+      "short_position_pct": 3.12,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.17,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "JPMorgan Chase & Co.",
       "long_position_pct": 5.11,

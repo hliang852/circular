@@ -1,7 +1,7 @@
 {
   "code": "02616",
   "name": "CSTONE PHARMACEUTICALS - B",
-  "last_scraped": "2026-06-29T23:09:40Z",
+  "last_scraped": "2026-06-30T23:21:48Z",
   "shareholders": [
     {
       "name": "WuXi Healthcare Management, LLC",
@@ -73,11 +73,11 @@
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
       "long_position_shares": 88664500,
-      "long_position_pct": 6.01,
+      "long_position_pct": 5.56,
       "short_position_shares": 0,
       "short_position_pct": 0.0,
-      "relevant_event_date": "2026-04-15",
-      "filing_date": "2026-04-15",
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-04-22",
       "form_type": "Form 2",
       "notice_type": "Current"
     },
@@ -93,22 +93,17 @@
       "filing_date": "2026-06-23",
       "form_type": "Form 3A",
       "notice_type": "Current"
-    },
-    {
-      "name": "Morgan Stanley",
-      "capacity": "Beneficial Owner",
-      "entity_type": "corporate",
-      "long_position_shares": 81986540,
-      "long_position_pct": 5.12,
-      "short_position_shares": 16920505,
-      "short_position_pct": 1.05,
-      "relevant_event_date": "2026-06-24",
-      "filing_date": "2026-06-24",
-      "form_type": "Form 2",
-      "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "Morgan Stanley",
+      "long_position_pct": 4.93,
+      "relevant_event_date": "2026-06-25",
+      "filing_date": "2026-06-30",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "Morgan Stanley",
       "long_position_pct": 5.12,
@@ -418,6 +413,14 @@
       "long_position_pct": 5.01,
       "relevant_event_date": "2026-04-22",
       "filing_date": "2026-04-27",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
+    {
+      "name": "HHLR Advisors, Ltd.",
+      "long_position_pct": 5.56,
+      "relevant_event_date": "2026-04-22",
+      "filing_date": "2026-06-29",
       "form_type": "Form 2",
       "notice_type": "Change"
     },

@@ -1,7 +1,7 @@
 {
   "code": "01208",
   "name": "MMG LTD.",
-  "last_scraped": "2026-06-29T22:58:57Z",
+  "last_scraped": "2026-06-30T23:14:26Z",
   "shareholders": [
     {
       "name": "China Minmetals H.K. (Holdings) Limited（中國五礦香港控股有限公司）",
@@ -98,17 +98,25 @@
       "name": "JPMorgan Chase & Co.",
       "capacity": "Beneficial Owner",
       "entity_type": "corporate",
-      "long_position_shares": 771956406,
-      "long_position_pct": 6.0,
-      "short_position_shares": 378434238,
-      "short_position_pct": 2.94,
-      "relevant_event_date": "2026-06-23",
-      "filing_date": "2026-06-23",
+      "long_position_shares": 769351770,
+      "long_position_pct": 5.98,
+      "short_position_shares": 367006298,
+      "short_position_pct": 2.85,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-24",
       "form_type": "Form 2",
       "notice_type": "Current"
     }
   ],
   "history": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "long_position_pct": 5.98,
+      "relevant_event_date": "2026-06-24",
+      "filing_date": "2026-06-29",
+      "form_type": "Form 2",
+      "notice_type": "Change"
+    },
     {
       "name": "中國五礦香港控股有限公司",
       "long_position_pct": 63.72,
