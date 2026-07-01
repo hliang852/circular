@@ -3,7 +3,7 @@
   "name": "SINGAPORE EXCHANGE LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:05:12.725225+00:00",
+  "last_updated": "2026-07-01T23:02:10.480033+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -77,6 +77,20 @@
       "cum_ytd_pct": 0.18,
       "max_mandate_shares": 107164240,
       "on_market_shares": 37700,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-30T09:57:05+00:00",
+      "filing_date": "2026-06-30T09:57:05+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/1D07FL2IMPI0ZFGX/91dd4e267a86e6be1263f0b87d257bba4e2835c08c0156c763a12060cd383992",
+      "shares_repurchased": 121200,
+      "price_high": 24.24,
+      "price_low": 24.08,
+      "consideration_sgd": 2930713,
+      "cum_ytd_pct": 0.19,
+      "max_mandate_shares": 107164240,
+      "on_market_shares": 121200,
       "off_market_shares": 0,
       "parse_failed": false
     }

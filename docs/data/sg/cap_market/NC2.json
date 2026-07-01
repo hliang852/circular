@@ -2,7 +2,7 @@
   "code": "NC2",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:12.796428+00:00",
+  "last_updated": "2026-07-01T23:03:43.191807+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 4200,
       "value_sgd": 2688.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 100,
+      "value_sgd": 64.5
     }
   ],
   "short_selling_eligible": false

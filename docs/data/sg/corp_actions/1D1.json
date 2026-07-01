@@ -3,7 +3,7 @@
   "name": "UNUSUAL LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:06:07.997664+00:00",
+  "last_updated": "2026-07-01T23:03:02.594049+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -21,20 +21,6 @@
       "price_low": 0.07699,
       "consideration_sgd": 68107,
       "cum_ytd_pct": 0.398,
-      "max_mandate_shares": 102917929,
-      "parse_failed": false
-    },
-    {
-      "date": "2025-07-02T11:30:10+00:00",
-      "filing_date": "2025-07-02T11:30:10+00:00",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/CWDBJQCU7RR9CNGO/29fd2105b0467239ccf97dbf23b632635a707177c4fd7eaf293ffd262748f374",
-      "shares_repurchased": 1000000,
-      "on_market_shares": 1000000,
-      "off_market_shares": 0,
-      "price_high": 0.075,
-      "price_low": 0.075,
-      "consideration_sgd": 75180.24,
-      "cum_ytd_pct": 0.3123,
       "max_mandate_shares": 102917929,
       "parse_failed": false
     },
@@ -400,6 +386,11 @@
       "date": "2025-11-10T11:41:51+00:00",
       "type": "other",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/8YD68SB32LPWY4XD/215c60903fe9e824fa310d90f886c6bd975d8ad94234d767ce885cc3557cb5b4"
+    },
+    {
+      "date": "2026-06-30T11:00:32+00:00",
+      "type": "other",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/B3V928Y8G27ZIJDE/912574cfa189b3dee984960408c87e625b5e04b9db8ac9c397ab126f3b40726c"
     },
     {
       "date": "2026-06-30T11:00:32+00:00",

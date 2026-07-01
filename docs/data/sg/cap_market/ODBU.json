@@ -2,7 +2,7 @@
   "code": "ODBU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:22.909522+00:00",
+  "last_updated": "2026-07-01T23:03:55.332801+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 218300,
       "value_sgd": 112424.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 46100,
+      "value_sgd": 23741.5
     }
   ],
   "short_selling_eligible": false

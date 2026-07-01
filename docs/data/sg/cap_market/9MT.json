@@ -2,7 +2,7 @@
   "code": "9MT",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:29.251825+00:00",
+  "last_updated": "2026-07-01T23:04:02.768205+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,7 +25,12 @@
       "date": "2026-06-30",
       "volume": 59700,
       "value_sgd": 43282.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 131800,
+      "value_sgd": 92919.0
     }
   ],
-  "short_selling_eligible": true
+  "short_selling_eligible": false
 }

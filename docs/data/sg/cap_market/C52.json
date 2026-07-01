@@ -2,7 +2,7 @@
   "code": "C52",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:06.575732+00:00",
+  "last_updated": "2026-07-01T23:03:34.600988+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 15888900,
       "value_sgd": 21291126.53
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 10933100,
+      "value_sgd": 14541023.47
     }
   ],
   "short_selling_eligible": true

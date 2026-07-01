@@ -2,7 +2,7 @@
   "code": "HQU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:15.488810+00:00",
+  "last_updated": "2026-07-01T23:03:46.530192+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 241000,
       "value_sgd": 359090.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 567800,
+      "value_sgd": 823310.03
     }
   ],
   "short_selling_eligible": true

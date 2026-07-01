@@ -2,7 +2,7 @@
   "code": "O10",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:17.241804+00:00",
+  "last_updated": "2026-07-01T23:03:48.363142+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 15500,
       "value_sgd": 17205.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 76500,
+      "value_sgd": 83385.0
     }
   ],
   "short_selling_eligible": true

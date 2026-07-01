@@ -3,7 +3,7 @@
   "name": "SARINE TECHNOLOGIES LTD.",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-29T22:47:06.091468+00:00",
+  "last_updated": "2026-07-01T23:01:40.141881+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -749,6 +749,20 @@
       "cum_ytd_pct": 0.0,
       "max_mandate_shares": 34044804,
       "on_market_shares": 5000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-07-01T14:56:32+00:00",
+      "filing_date": "2026-07-01T14:56:32+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZWSA7HTM66TJ5F7N/eb38af11a58be2b305160d2bd046b25d2a665bb768f542d436598fa5dff4f1f7",
+      "shares_repurchased": 10000,
+      "price_high": 0.189,
+      "price_low": 0.186,
+      "consideration_sgd": 998.64,
+      "cum_ytd_pct": 0.0,
+      "max_mandate_shares": 34044804,
+      "on_market_shares": 10000,
       "off_market_shares": 0,
       "parse_failed": false
     }

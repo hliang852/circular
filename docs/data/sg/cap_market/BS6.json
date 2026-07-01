@@ -2,7 +2,7 @@
   "code": "BS6",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:00.884164+00:00",
+  "last_updated": "2026-07-01T23:03:28.023462+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 21572154,
       "value_sgd": 73776768.33
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 9975800,
+      "value_sgd": 34216994.67
     }
   ],
   "short_selling_eligible": false

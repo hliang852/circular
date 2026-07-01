@@ -2,7 +2,7 @@
   "code": "H30",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:14.165433+00:00",
+  "last_updated": "2026-07-01T23:03:44.727344+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 233200,
       "value_sgd": 218042.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 165100,
+      "value_sgd": 154368.5
     }
   ],
   "short_selling_eligible": true

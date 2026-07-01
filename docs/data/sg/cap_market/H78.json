@@ -2,7 +2,7 @@
   "code": "H78",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:00.418500+00:00",
+  "last_updated": "2026-07-01T23:03:27.619926+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 3503600,
       "value_sgd": 24945631.6
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1272900,
+      "value_sgd": 9012131.9
     }
   ],
   "short_selling_eligible": false

@@ -2,7 +2,7 @@
   "code": "42C",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:21.196436+00:00",
+  "last_updated": "2026-07-01T23:03:52.964920+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 3598400,
       "value_sgd": 1313416.03
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 4107200,
+      "value_sgd": 1478592.06
     }
   ],
   "short_selling_eligible": false

@@ -2,7 +2,7 @@
   "code": "U06",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:04.302208+00:00",
+  "last_updated": "2026-07-01T23:03:32.148263+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 79200,
       "value_sgd": 253440.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 105200,
+      "value_sgd": 333484.01
     }
   ],
   "short_selling_eligible": false

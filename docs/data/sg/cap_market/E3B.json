@@ -2,7 +2,7 @@
   "code": "E3B",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:16.508544+00:00",
+  "last_updated": "2026-07-01T23:03:47.633916+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,7 +25,12 @@
       "date": "2026-06-30",
       "volume": 1176900,
       "value_sgd": 753215.98
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1535300,
+      "value_sgd": 990268.47
     }
   ],
-  "short_selling_eligible": false
+  "short_selling_eligible": true
 }

@@ -2,7 +2,7 @@
   "code": "L19",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:28.609612+00:00",
+  "last_updated": "2026-07-01T23:04:01.946018+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 27200,
       "value_sgd": 14144.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 22200,
+      "value_sgd": 11100.0
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "DCRU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:15.704508+00:00",
+  "last_updated": "2026-07-01T23:03:46.790741+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 3201300,
       "value_sgd": 1616656.48
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1584800,
+      "value_sgd": 800323.99
     }
   ],
   "short_selling_eligible": false

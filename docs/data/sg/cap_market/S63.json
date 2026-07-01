@@ -2,7 +2,7 @@
   "code": "S63",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:06:59.173608+00:00",
+  "last_updated": "2026-07-01T23:03:25.854545+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 5520600,
       "value_sgd": 57359035.9
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 5656300,
+      "value_sgd": 59730530.37
     }
   ],
   "short_selling_eligible": false

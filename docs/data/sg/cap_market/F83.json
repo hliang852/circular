@@ -2,7 +2,7 @@
   "code": "F83",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:18.565620+00:00",
+  "last_updated": "2026-07-01T23:03:49.744463+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 1080500,
       "value_sgd": 119935.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 466000,
+      "value_sgd": 51726.0
     }
   ],
   "short_selling_eligible": false

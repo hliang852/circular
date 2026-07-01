@@ -4,26 +4,9 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-25T12:56:49.602837+00:00",
+  "last_updated": "2026-07-01T23:00:09.388514+00:00",
   "shareholders": [],
   "history": [
-    {
-      "name": "Mr Kerry Mok",
-      "type": "Corporate",
-      "long_position_shares": null,
-      "long_position_pct": null,
-      "short_position_shares": null,
-      "short_position_pct": null,
-      "deemed_interest": false,
-      "filing_date": "2025-07-01T11:42:50+00:00",
-      "filing_form_type": "Unknown",
-      "event_type": "Unknown",
-      "threshold_crossed": null,
-      "role": "unknown",
-      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/Changes in Interest of Director/Chief Executive Officer - Mr Kerry Mok",
-      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/GLSHO9DGT7CON6UP/f6bcb214b251707c8976b561901fc5073b6d495618f64a2f4b2a02fa5c977392",
-      "parse_failed": true
-    },
     {
       "name": "Ms Chan Lai Fung",
       "type": "Corporate",
@@ -107,6 +90,23 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Substantial Shareholder(s)/ Unitholder(s)::Changes in Interest of Substantial Shareholder - Temasek Holdings (Private) Limited",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/80HT7TWH6DZBZSZK/e674e9eca12a7bd14327b4aa85c51e753adec9dd694d881a769a93ec544004c4",
+      "parse_failed": true
+    },
+    {
+      "name": "Mr Kerry Mok",
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-07-01T09:48:06+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/Changes in Interest of Director/Chief Executive Officer - Mr Kerry Mok",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/XBW5OBG9CHE1A4YK/932ba35af7f29167798ceab88c61b8063751665fbf9aa5a2bfc5bfc3e4ffb53e",
       "parse_failed": true
     }
   ]

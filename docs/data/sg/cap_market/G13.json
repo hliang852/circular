@@ -2,7 +2,7 @@
   "code": "G13",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:02.183561+00:00",
+  "last_updated": "2026-07-01T23:03:29.727526+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 23982800,
       "value_sgd": 14629508.34
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 18414100,
+      "value_sgd": 11232601.26
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "P15",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:10.837528+00:00",
+  "last_updated": "2026-07-01T23:03:40.962797+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 142700,
       "value_sgd": 66355.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 19000,
+      "value_sgd": 8835.0
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "H15",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:07.189323+00:00",
+  "last_updated": "2026-07-01T23:03:35.511853+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 0,
       "value_sgd": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1000,
+      "value_sgd": 4530.0
     }
   ],
   "short_selling_eligible": false

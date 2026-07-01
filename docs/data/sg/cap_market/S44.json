@@ -2,7 +2,7 @@
   "code": "S44",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:30.971548+00:00",
+  "last_updated": "2026-07-01T23:04:04.846228+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 7000,
       "value_sgd": 7840.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1000,
+      "value_sgd": 1110.0
     }
   ],
   "short_selling_eligible": true

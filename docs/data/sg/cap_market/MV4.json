@@ -2,7 +2,7 @@
   "code": "MV4",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:19.738226+00:00",
+  "last_updated": "2026-07-01T23:03:51.199390+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 51300,
       "value_sgd": 15133.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 155200,
+      "value_sgd": 45784.0
     }
   ],
   "short_selling_eligible": false

@@ -2,7 +2,7 @@
   "code": "O39",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:06:58.173738+00:00",
+  "last_updated": "2026-07-01T23:03:24.700154+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 5032852,
       "value_sgd": 124764405.69
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 5006200,
+      "value_sgd": 123452891.24
     }
   ],
   "short_selling_eligible": false

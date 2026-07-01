@@ -3,7 +3,7 @@
   "name": "OXLEY HOLDINGS LIMITED",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:05:08.256209+00:00",
+  "last_updated": "2026-07-01T23:02:06.003258+00:00",
   "free_float_pct": null,
   "consistency_score": null,
   "signal": null,
@@ -77,6 +77,34 @@
       "cum_ytd_pct": 0.2513,
       "max_mandate_shares": 210983495,
       "on_market_shares": 150000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-07-01T13:37:45+00:00",
+      "filing_date": "2026-07-01T13:37:45+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/6VN9W7FSD61HJRUP/0ff6f2d21e2fa366bac52106e79457dfcf609b5cd0f80a101f91dbb7e45c1d39",
+      "shares_repurchased": 200000,
+      "price_high": 0.077,
+      "price_low": 0.076,
+      "consideration_sgd": 15280.61,
+      "cum_ytd_pct": 0.2565,
+      "max_mandate_shares": 210983495,
+      "on_market_shares": 200000,
+      "off_market_shares": 0,
+      "parse_failed": false
+    },
+    {
+      "date": "2026-06-30T11:42:51+00:00",
+      "filing_date": "2026-06-30T11:42:51+00:00",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/49BVK8JDOQ5D2Q8H/a35e62c9f356638507f68aa89f5892c43196da0a81598c6f02ba7d0a9a0dd1ba",
+      "shares_repurchased": 20000,
+      "price_high": 0.076,
+      "price_low": 0.076,
+      "consideration_sgd": 1564.64,
+      "cum_ytd_pct": 0.2517,
+      "max_mandate_shares": 210983495,
+      "on_market_shares": 20000,
       "off_market_shares": 0,
       "parse_failed": false
     }

@@ -2,7 +2,7 @@
   "code": "S58",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:02.827481+00:00",
+  "last_updated": "2026-07-01T23:03:30.476471+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 7794700,
       "value_sgd": 35309992.64
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 4511400,
+      "value_sgd": 20256184.97
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "VC2",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:04.104419+00:00",
+  "last_updated": "2026-07-01T23:03:31.975659+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 3164000,
       "value_sgd": 3828440.12
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 2859200,
+      "value_sgd": 3431040.14
     }
   ],
   "short_selling_eligible": true

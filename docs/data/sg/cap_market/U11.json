@@ -2,7 +2,7 @@
   "code": "U11",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:06:58.773656+00:00",
+  "last_updated": "2026-07-01T23:03:25.374910+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 2457717,
       "value_sgd": 97718823.79
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1804800,
+      "value_sgd": 71560322.75
     }
   ],
   "short_selling_eligible": true

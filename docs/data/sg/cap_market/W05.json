@@ -2,7 +2,7 @@
   "code": "W05",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:11.359270+00:00",
+  "last_updated": "2026-07-01T23:03:41.446958+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 137800,
       "value_sgd": 212211.99
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 130800,
+      "value_sgd": 204047.99
     }
   ],
   "short_selling_eligible": true

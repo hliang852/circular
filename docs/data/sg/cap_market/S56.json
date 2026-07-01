@@ -2,7 +2,7 @@
   "code": "S56",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:17.977807+00:00",
+  "last_updated": "2026-07-01T23:03:49.137208+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 101100,
       "value_sgd": 96550.5
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 102100,
+      "value_sgd": 97505.5
     }
   ],
   "short_selling_eligible": false

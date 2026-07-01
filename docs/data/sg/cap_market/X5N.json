@@ -2,7 +2,7 @@
   "code": "X5N",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:24.400882+00:00",
+  "last_updated": "2026-07-01T23:03:56.958550+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -23,6 +23,11 @@
     },
     {
       "date": "2026-06-30",
+      "volume": 5000,
+      "value_sgd": 13350.0
+    },
+    {
+      "date": "2026-07-01",
       "volume": 5000,
       "value_sgd": 13350.0
     }

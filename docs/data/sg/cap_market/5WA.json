@@ -2,7 +2,7 @@
   "code": "5WA",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:29.492800+00:00",
+  "last_updated": "2026-07-01T23:04:03.172354+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 1800000,
       "value_sgd": 68400.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 10618000,
+      "value_sgd": 414102.01
     }
   ],
   "short_selling_eligible": false

@@ -2,7 +2,7 @@
   "code": "BN2",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:19.612196+00:00",
+  "last_updated": "2026-07-01T23:03:50.999690+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 602300,
       "value_sgd": 656507.02
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 778700,
+      "value_sgd": 848783.03
     }
   ],
   "short_selling_eligible": true

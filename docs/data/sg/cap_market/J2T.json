@@ -2,7 +2,7 @@
   "code": "J2T",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:28.899927+00:00",
+  "last_updated": "2026-07-01T23:04:02.275319+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 206800,
       "value_sgd": 72380.0
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 12500,
+      "value_sgd": 4437.5
     }
   ],
   "short_selling_eligible": true

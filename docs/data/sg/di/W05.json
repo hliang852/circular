@@ -4,7 +4,7 @@
   "security_type": "share",
   "currency": "SGD",
   "name_translated": false,
-  "last_updated": "2026-06-30T23:04:06.369988+00:00",
+  "last_updated": "2026-07-01T23:00:56.683243+00:00",
   "shareholders": [],
   "history": [
     {
@@ -1059,6 +1059,40 @@
       "role": "unknown",
       "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
       "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/D3E388WDBPDOKSXA/2e0a61acee235a2629874285d5fbe0213fa4b3fcca04d5721bc359381afdadd9",
+      "parse_failed": true
+    },
+    {
+      "name": null,
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-07-01T09:23:01+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/6RZGTKT15KJ1WG0F/6466a4466655defb23361c78319b8d23fc3a450472a6bea150a94f99df364d74",
+      "parse_failed": true
+    },
+    {
+      "name": null,
+      "type": "Corporate",
+      "long_position_shares": null,
+      "long_position_pct": null,
+      "short_position_shares": null,
+      "short_position_pct": null,
+      "deemed_interest": false,
+      "filing_date": "2026-06-30T11:42:28+00:00",
+      "filing_form_type": "Unknown",
+      "event_type": "Unknown",
+      "threshold_crossed": null,
+      "role": "unknown",
+      "notes": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director",
+      "filing_url": "https://links.sgx.com/1.0.0/corporate-announcements/46LLBG631GY6ASNO/ac6ced409b1951d849d4f1e5e4b4ca6a449b964f923d7b4a94b71a14bebaa45b",
       "parse_failed": true
     }
   ]

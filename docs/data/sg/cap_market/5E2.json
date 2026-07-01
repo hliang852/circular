@@ -2,7 +2,7 @@
   "code": "5E2",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:02.634941+00:00",
+  "last_updated": "2026-07-01T23:03:30.321048+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 11764700,
       "value_sgd": 23176459.34
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 11330400,
+      "value_sgd": 22207584.43
     }
   ],
   "short_selling_eligible": true

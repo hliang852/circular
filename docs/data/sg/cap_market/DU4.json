@@ -2,7 +2,7 @@
   "code": "DU4",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:28.777366+00:00",
+  "last_updated": "2026-07-01T23:04:02.149300+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 434100,
       "value_sgd": 42107.7
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 478400,
+      "value_sgd": 44969.6
     }
   ],
   "short_selling_eligible": true

@@ -2,7 +2,7 @@
   "code": "BUOU",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:05.347936+00:00",
+  "last_updated": "2026-07-01T23:03:33.120654+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 8616700,
       "value_sgd": 8315115.27
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 8537400,
+      "value_sgd": 8153216.86
     }
   ],
   "short_selling_eligible": false

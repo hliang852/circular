@@ -2,7 +2,7 @@
   "code": "8YZ",
   "security_type": "share",
   "currency": "SGD",
-  "last_updated": "2026-06-30T23:07:07.666051+00:00",
+  "last_updated": "2026-07-01T23:03:36.035616+00:00",
   "short_history": [],
   "connect_flows": null,
   "daily_turnover": [
@@ -25,6 +25,11 @@
       "date": "2026-06-30",
       "volume": 1000900,
       "value_sgd": 590530.97
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 1245900,
+      "value_sgd": 735080.97
     }
   ],
   "short_selling_eligible": false
